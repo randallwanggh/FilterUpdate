@@ -20,11 +20,14 @@ BlackJack8
 AdguardFilters
 
 
-antiad_xinggsf: 
+antiad_xinggsf
+
 https://raw.githubusercontent.com/randallwanggh/FilterUpdate/master/rules/antiad_xinggsf.txt
 
 hosts
+
 https://raw.githubusercontent.com/randallwanggh/FilterUpdate/master/rules/hosts.txt
 
 adguard
+
 https://raw.githubusercontent.com/randallwanggh/FilterUpdate/master/rules/adguard.txt
