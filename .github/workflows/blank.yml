@@ -1,0 +1,29 @@
+  
+name: sync list to gitee
+
+on:
+  push:
+    branches: 
+      - 'master'
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: clone the gitee
+      run: git clone https://gitee.com/randallwang/FilterUpdate.git ~/gitee
+    - name: copy some list files
+      run: |
+        echo "https://${{ secrets.GITEE_USER }}:${{ secrets.GITEE_PASS }}@gitee.com">~/.git-credentials
+        cp ./rules/* ~/gitee/
+    - name: Commit files
+      run: |
+        cd ~/gitee
+        git config --global credential.helper store
+        git config --local user.email "${{ secrets.GITEE_EMAIL }}"
+        git config --local user.name "gently"
+        git add .
+        git commit -m "pull newest list." -a
+        git push -u origin master
