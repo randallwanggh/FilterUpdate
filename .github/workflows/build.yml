@@ -1,8 +1,8 @@
 name: Auto build new list
 
 on:
-  watch:
-    types: started
+  schedule:
+    - cron: "1 22 * * *"
     
 jobs:
   build:
