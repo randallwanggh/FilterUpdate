@@ -1,4 +1,8 @@
-#!/bin/sh
+#!/bin/bash
+
+source /etc/profile
+
+cd $(cd "$(dirname "$0")";pwd)
 
 antiad_xinggsf=(
    "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt"
