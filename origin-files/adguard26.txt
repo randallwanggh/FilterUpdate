@@ -1,0 +1,232 @@
+!
+! Extended CSS rules
+!
+! https://github.com/AdguardTeam/AdguardFilters/issues/58137
+dcard.tw#?#main > div > div[class] > div[class]:has(> div[style] > div[id^="div-gpt-ad-"])
+! https://github.com/AdguardTeam/AdguardFilters/issues/57238
+chinese.engadget.com#?#.rwd-inner-container ul[class*="List"] > li[class*="engadget"]:has(> article > div[class*="engadget"] > a[href^="https://b.gemini.yahoo.com"])
+! kotaku.com etc. ad text at bottom in article
+avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#?#.js_starterpost div[class]:not(.js_post-content):has(> div[class] > .js_ad-sticky-footer)
+! https://github.com/AdguardTeam/AdguardFilters/issues/56803
+yahoo.com#?##YDC-Stream > ul.Wow\(bw\) > .js-stream-content:has(> div[class^="Pos"] > div[class*="--"] > .cluster-ad-container)
+yahoo.com#?##YDC-Stream > ul.Wow\(bw\) > .js-stream-content:has(> [class*="smartphone_"] > h3 > a[href^="https://b.gemini.yahoo.com/"][rel*="noopener noreferrer"])
+! ad left-over in the top
+kartaslov.ru#?#div[class$="mob-top-block"]:has(> div[id^="yandex_rtb_R-A-"])
+! https://github.com/AdguardTeam/AdguardFilters/issues/56400#issuecomment-639489963
+game4v.com#?#body > div[class]:has(> div[id^="div-gpt-ad-"])
+! https://github.com/AdguardTeam/AdguardFilters/issues/56045
+nishinippon.co.jp#?##l-main > section.l-section:has(> div.c-heading-h2 > div > h2 > a[href="/sp/content/editorialad/"])
+! https://github.com/AdguardTeam/AdguardFilters/issues/56123
+jmty.jp#?#[class^="u-margin-l-"] > div[style*="width: 300px; height: 250px;"]:has(> div[id^="div-gpt-ad"])
+! https://github.com/AdguardTeam/AdguardFilters/issues/56192
+! https://github.com/AdguardTeam/AdguardFilters/issues/55493
+lifehacker.com,gizmodo.com#?#.js_post-content > div[class] > aside[class]:has(> div > div > div > a[data-amazonsin])
+! https://github.com/AdguardTeam/AdguardFilters/issues/55262#issuecomment-629596410
+news.pn#?##app-content > div[class]:has(> div > div[class][style*="//news.pn/"])
+! https://github.com/AdguardTeam/AdguardFilters/issues/54016
+m.tvmao.com#$?#.materialLst > li[class^="material clear"]:has(> script[src^="//md.tvzhe."]) { remove: true; }
+m.tvmao.com#$?#.materialLst > li[class="material clear "][style="display: list-item;"]:has(> a[rel="nofollow"][b_l]:not([href^="/"])) { remove: true; }
+! https://github.com/AdguardTeam/AdguardFilters/issues/55961
+! https://github.com/AdguardTeam/AdguardFilters/issues/54924
+! https://github.com/AdguardTeam/AdguardFilters/issues/54795
+! https://github.com/AdguardTeam/AdguardFilters/issues/52906
+lifehacker-com.cdn.ampproject.org#?#article > div[class]:has(> aside > div > div > div > a[data-amazontag])
+vitals-lifehacker-com.cdn.ampproject.org,io9-gizmodo-com.cdn.ampproject.org,gizmodo-com.cdn.ampproject.org,twocents-lifehacker-com.cdn.ampproject.org#?#article > aside:has(> div > div > a[data-amazonsin])
+twocents-lifehacker-com.cdn.ampproject.org,gizmodo-com.cdn.ampproject.org,io9-gizmodo-com.cdn.ampproject.org,vitals-lifehacker-com.cdn.ampproject.org,lifehacker-com.cdn.ampproject.org#?#article > div[class]:has(> div[class] > p[class]:contains(Advertisement))
+! https://github.com/AdguardTeam/AdguardFilters/issues/54576
+20min.ch#?#article > div[class]:has(> div[id^="inside-full-content-"])
+! https://github.com/AdguardTeam/AdguardFilters/issues/54387
+money.pl#?#div[style="visibility:visible"] > div[class*=" "] > div[class*=" "]:not([class^="sc-"]):matches-css(background-image: /^url\(https:\/\/v\.wpimg\.pl\//):has(> div[class]:only-child:empty)
+money.pl#?#div[style="visibility:visible"] > div[class*=" "] > div[class*=" "] > div[class]:not([class^="sc-"]):matches-css(background-image: /^url\(https:\/\/v\.wpimg\.pl\//):has(> div[class]:only-child:empty)
+money.pl#?#div[style="visibility:visible"] > div[class*=" "] > div[class*=" "] > div[class^="sc-"] > div[class*=" "]:matches-css(background-image: /^url\(https:\/\/v\.wpimg\.pl\//):has(> div[class]:only-child:empty)
+! https://github.com/AdguardTeam/AdguardFilters/issues/53617
+medicalnewstoday.com,healthline.com#?##__next > aside > div:has(> button.icon-hl-close-thick)
+! https://github.com/AdguardTeam/AdguardFilters/issues/51864
+dcard.tw#?#main > div[role="main"] > div[class*="-"] > div[class]:has(> div[class][style] a[target="_blank"] img)
+dcard.tw#?#div[class][style]:has(> div[id^="div-gpt-ad-"])
+! https://github.com/AdguardTeam/AdguardFilters/issues/52973
+investing.com#?##siteWrapper > div.wrapper > section.boxItem:has(> div.OUTBRAIN)
+investing.com#?##siteWrapper > div.wrapper > section.boxItem:has(> ins.adsbygoogle)
+! https://github.com/AdguardTeam/AdguardFilters/issues/55560
+! https://github.com/AdguardTeam/AdguardFilters/issues/51614
+m.tokopedia.com#?#div[data-testid="masonryContainer"] > div[class^="css-"] > div[data-testid="masonryProduct"]:has(> div[data-testid="master-product-card"] > .unf-card > .pcv3__container > div[class^="css-"] > div[class^="css-"] > span[data-testid="linkProductTopads"])
+m.tokopedia.com#?#div[data-testid="masonryContainer"] > div[class^="css-"] > div[data-testid="masonryProduct"]:has(> div[data-testid="master-product-card"] > .unf-card > .product-cardv2__container > div[class^="css-"] > a[data-cy="prodNameLink"] > div[class^="css-"] > div[data-testid="linkProductTopads"])
+! https://github.com/AdguardTeam/AdguardFilters/issues/50710
+m.sporx.com#?##manset > .row > .col-xs-12[style]:has(> div[id^="ENGAGEYA_WIDGET_"])
+! https://github.com/AdguardTeam/AdguardFilters/issues/49980
+unian.net#?#.article-column > div.read-also:contains(Новости партнеров)
+! https://github.com/AdguardTeam/AdguardFilters/issues/50294
+google.com#?#header[id="hdr"] ~ div#main > div[class="ZINbbc xpd O9g5cc uUPGi"]:has(> div > a[href*="/aclk?"][data-al])
+! https://github.com/AdguardTeam/AdguardFilters/issues/50272
+gadgetsnow.com#?##app > div[class^="_"]:has(> .adscode:only-child)
+! https://github.com/AdguardTeam/AdguardFilters/issues/50110
+dcard.tw#?#main > div[role="main"] > div > div[class^="sc-"]:has(> div[style="height:250px;width:300px"])
+! epoznan.pl - ads
+epoznan.pl#?#.mobileNewsList__section > .mobileNewsList__container:has(> .mobileNewsList__right >a.postItem__category:contains(/^REKLAMA$/))
+! https://github.com/AdguardTeam/AdguardFilters/issues/48523
+filmkovani.com#?#body > div:has(> a[href^="https://bit.ly/"]):not(:has(> div))
+! https://github.com/AdguardTeam/AdguardFilters/issues/48739
+m.glavnoe.ua#?#.ui-content > div.ui-listview > div[align]:has(> ins.adsbygoogle)
+! https://github.com/AdguardTeam/AdguardFilters/issues/48486
+vip.tiin.vn#?#.sub-top > div > div.netnews-item:has(> div.nn-item-top > p > a:contains(Tin tài trợ))
+! txxx.tube - remains of ads
+txxx.tube#?#.video-page div.text:has(> a[target="_blank"][-ext-contains="Advertisement"])
+! https://github.com/AdguardTeam/AdguardFilters/issues/47779
+dobreprogramy.pl#?#body[class^="amp-mode"] > article > small:contains(/^reklama$/)
+! https://github.com/AdguardTeam/AdguardFilters/issues/47217
+m.drtuber.com#$?##banner_overlay-postitial-video { remove: true; }
+! https://forum.adguard.com/index.php?threads/promoted-posts-on-reddit-mobile-pages.36796/
+reddit.com#?#.PostsList > div:not([class]):not([id]) > div:not([class]):not([id]) > article.Post:has(> .adLinkBar)
+reddit.com#?#.PostsList > span > article:has(> .adLinkBar)
+! https://github.com/AdguardTeam/AdguardFilters/issues/46433
+uludagsozluk.com#?#.mobil_bugun > li:has(> a[href^="http://bit.ly/"][rel="nofollow"] + b[style="color: #a09f9f;"]:contains(reklam))
+! m.news.de amp - left-over
+m-news-de.cdn.ampproject.org#?#.article > amp-fx-flying-carpet:has(> div > div > #aduptech-container)
+! buffed.de - ad on main page
+buffed.de#?#ul[data-role="listview"] > .ticker_item:has(> a[href^="/E-Commerce"])
+! amp.n-tv.de - left-over in article
+amp.n-tv.de#?#span[itemprop="articleBody"] > amp-fx-flying-carpet:has(> div > div > amp-ad)
+! https://github.com/AdguardTeam/AdguardFilters/issues/45694
+hurriyet.com.tr#?#.news-wrapper > div > amp-fx-flying-carpet:has(> div > div > amp-ad)
+! https://github.com/AdguardTeam/AdguardFilters/issues/45869
+m.nuvid.com#$?##banner_overlay-postitial-video { remove: true; }
+! https://github.com/AdguardTeam/AdguardFilters/issues/45480
+zmovs.com#?#.player-spot__title:contains(Advertisement)
+! m.quotenmeter.de - left-over at startpage
+m.quotenmeter.de#?##qm-home > .qm-item:has(> div[id^="div-gpt-ad-"])
+! mobil.stern.de - ads on startpage
+mobil.stern.de#?#.teaserlist__items > .mod-teaser:has(> a > .teaser > .sponsorship)
+mobil.stern.de#?#.teaserlist__items > .i-frame-element:has(> .guj-iframe-parent > iframe[src*="stern.de/vergleich/wp-content/themes/stern"][src*="/iframe-startseite"])
+! mobil.mopo.de - ads and left-over
+mobil.mopo.de#?#.article-list > section:has(> .OUTBRAIN )
+! https://github.com/AdguardTeam/AdguardFilters/issues/44243
+shopee.co.id#?#.search-items-container__tab-panel > .item-card-list > .item-card-list__item-card-wrapper:has(> a[href] > div[class] > div[class]:not([class^="_"]) > div[class]:last-child:contains(/^Iklan$/))
+! https://github.com/AdguardTeam/AdguardFilters/issues/44335
+app-liv.jp#?#.p-applist > div.c-app-card:has(> div > span.app-ranking_label--pr)
+! https://github.com/AdguardTeam/AdguardFilters/issues/44182
+muzmob.org#?#.items > div:has(> iframe[src*=".php?iframe_id=_"])
+! https://github.com/AdguardTeam/AdguardFilters/issues/43683
+tempo.co#$?#section#update.list > .block-box:has(> h2:contains(/^Baca Juga$/) + div:last-child > .adsbygoogle) { visibility: hidden!important; }
+! https://github.com/AdguardTeam/AdguardFilters/issues/43312
+game735.com#?#div[style^="text-align: center;"]:has(> em:contains(ADVERTISEMENT))
+! https://github.com/AdguardTeam/AdguardFilters/issues/42830
+m.haberler.com#?#ul.home-news-list > li:not([data-haber-id]):has(> div[id^="ENGAGEYA_WIDGET_"])
+! https://github.com/AdguardTeam/AdguardFilters/issues/42401
+eksisozluk.com#$?#.ad-mobilewebinterstitial { remove: true; }
+! https://github.com/AdguardTeam/AdguardFilters/issues/34257
+m.empflix.com#$?##flixPlayer > div[id="inttt"][style*="z-index:"] { remove: true; }
+! https://github.com/AdguardTeam/AdguardFilters/issues/39800
+healthline.com#?#div > div[class^="css-"]:has(> div[id^="ym_"])
+healthline.com#?#aside[class^="css-"]:has(> div[class] > div[class] > div#mlb1__slot)
+! https://github.com/AdguardTeam/AdguardFilters/issues/37428
+mobil.konhaber.com#?#div.jqm-fullwidth[role="main"] > .listele > li:has(> a.ui-link[href][title$="Reklam"])
+! https://github.com/AdguardTeam/AdguardFilters/issues/36670
+m.galya.ru#?#.themes-block-cont > tbody > tr[class="tr-kind4"] > td:has(> div[style="width:320px;height:250px;"])
+m.galya.ru#?#.themes-block-cont > tbody > tr[class="tr-kind4"] > td:has(> div[id^="yandex_rtb_R-A-"])
+! https://github.com/AdguardTeam/AdguardFilters/issues/36666
+m.iguides.ru#?#.news-list > article:has(> div.after-head:contains(Реклама))
+! bz-berlin.de - left-over at main page
+bz-berlin.de#?#.container > .row > div[class] > .teaser:has(> #mrec)
+! merkur.de - main page/article left-over
+merkur.de#?#.id-SiteMain > .id-g > div[data-id-module]:has(> .id-Container--hasNoHeadline > div > div[data-id-advertdfpconf])
+merkur.de#?#.id-Container-content > .id-Teaser > div[class]:has(> div[data-id-advertdfpconf])
+!
+momon-ga.com#?#.section-box:has(.list-box)
+! https://github.com/AdguardTeam/AdguardFilters/issues/36509
+winda10.com#?#.entry-content > div[style="height: 600px;"]:has(div[id^="yandex_rtb_R-A-"])
+! https://github.com/AdguardTeam/AdguardFilters/issues/34293
+m.timesofindia.com#?#.contentwrapper > div > div > div > div[class]:has(> div[id^="div-gpt-ad-"])
+! https://github.com/AdguardTeam/AdguardFilters/issues/28776
+dailynkjp.com#$?##im_interstitial_panel { remove: true; }
+! https://github.com/AdguardTeam/AdguardFilters/issues/28416
+mobile.donanimhaber.com#?#div[style^="width: 100%; float: left; position: relative;"] > div[style*="margin: 10px auto; text-align: center; width: 320px; height: 100px;"]:has(> div[id^="div-gpt-ad-"])
+! https://github.com/AdguardTeam/AdguardFilters/issues/30369
+m.hd21.com#$?##banner_overlay-postitial-video { remove: true; }
+! https://github.com/AdguardTeam/AdguardFilters/issues/31011
+ktuu.com#?#aside > .visible-xs-block > .row:has(> .col-xs-24 > a.ptr[onclick^="trackNativeLink('https://www.ktuu.com/content/sponsored/"])
+ktuu.com#?#aside > .visible-xs-block > .row:has(> .col-xs-24 > a.ptr[onclick^="trackNativeLink('https://www.ktuu.com/content/sponsored/"]) + hr
+! https://github.com/AdguardTeam/AdguardFilters/issues/31589
+m.economictimes.com#?#.newsList > div[class*=" "]:has(> div > div > a[onclick])
+! https://github.com/AdguardTeam/AdguardFilters/issues/30270
+nbcmontana.com,mynews4.com,nbc16.com,turnto10.com,news4sanantonio.com,nbc24.com,mycbs4.com,wtov9.com,mynbc15.com#?#div[class^="heroLayout_left__"] > ul[class^="heroLayout_heroSecondary__"] > li[class="teaserItem"]:has(> div > [class*="largeRectangleAd_container__"])
+! https://github.com/AdguardTeam/AdguardFilters/issues/29888
+obozrevatel.com#?#div[style^="position:"][style*="relative"]:has(> [src^="https://i.obozrevatel.com/banners/"])
+! https://github.com/AdguardTeam/AdguardFilters/issues/29451
+nytimes.com,nytimes3xbfgragh.onion#?##site-content > div[class^="css-"] > div[class^="css-"] > div[class^="css-"] > div[class^="css-"] > div[class^="css-"] > div[class^="css-"][-ext-has='> div[class^="css-"] > div[class^="css-"]:contains(Advertisement) + div[class*="dfp-ad-"]'] 
+! https://github.com/AdguardTeam/AdguardFilters/issues/56060
+! https://github.com/AdguardTeam/AdguardFilters/issues/24411
+bunshun.jp#?#aside[role="complementary"] > .block > .block-header > span.title:contains(/^SPECIAL$/)
+bunshun.jp#?#.sp-list-thumb > li[-ext-has='.pr']
+! https://github.com/AdguardTeam/AdguardFilters/issues/24412
+mdpr.jp#?#aside > .ad-f__link[-ext-has='.ad-f__sup--pr']
+mdpr.jp#?#.media__list > .media__item[-ext-has='.media__sup:contains(PR)']
+! https://github.com/AdguardTeam/AdguardFilters/issues/24417
+s.response.jp#?#.ranking-list > .item[-ext-has='a > .pr']
+! https://github.com/AdguardTeam/AdguardFilters/issues/17538
+yahoo.com#?##YDC-Stream > ul.Wow\(bw\) > .js-stream-content > .controller:has(> [class*="smartphone_"] > a[href^="https://beap.gemini.yahoo.com/"][rel="noopener noreferrer"])
+! https://github.com/AdguardTeam/AdguardFilters/issues/17034
+m.prohardver.hu#?#.defcnt > h2 + p[align="center"][-ext-has='a[href][target="_blank"]']
+! https://github.com/AdguardTeam/AdguardFilters/issues/17262
+gsmarena.com#?#.homepage-news-list > div > div[style^="display:"][-ext-has='ins.adsbygoogle']
+! https://github.com/AdguardTeam/AdguardFilters/issues/16642
+news.yahoo.co.jp#?#.listModBox > .listModBoxS[-ext-has='a[href^="https://app-adforce.jp"]']
+! https://github.com/AdguardTeam/AdguardFilters/issues/16535
+gematsu.com#?##sidebar > #section:contains(Advertisement)
+! https://github.com/AdguardTeam/AdguardFilters/issues/16143
+m.auto.ru#?#.content > div.index.i-bem > div.section:has(> div > a[href^="https://an.yandex.ru/"])
+m.auto.ru#?#.content > div.card > div[class*="_type_card"]:not([data-bem]):has(> div > div[class$="__badge"]:contains(/^Реклама/))
+! https://github.com/AdguardTeam/AdguardFilters/issues/15953
+www-chip-de.cdn.ampproject.org#?#.amp-article > div:not([class]):not([id]) > .amp-article-chapter[-ext-has='.cart']
+! https://github.com/AdguardTeam/AdguardFilters/issues/13649
+mobile.twitter.com#?#section[role="region"] > div > div[style^="padding-bottom"] > div[class] > div[class][-ext-has='div.rn-1uif7bo[dir="auto"]']
+! reddit.com hiding promoted posts on mobile device
+reddit.com#?#.PostsList > .Post[-ext-has='.PostHeader__promoted-flair']
+! https://github.com/AdguardTeam/AdguardFilters/issues/11988
+m.sabah.com.tr#?#.manset > ul > li:has(>a[href^="/haber/advertorial/"])
+! https://github.com/AdguardTeam/AdguardFilters/issues/9536
+m.imgur.com#?#.GalleryInfiniteScroll .GalleryHandler-postContainer[-ext-has='.Post-opContainer--promoted']
+! https://github.com/AdguardTeam/AdguardFilters/issues/8943
+chiemgau24.de#?#div[data-id-module="col-width-watcher"] > div.id-Container--hasNoHeadline:matches-css-before(content:*- Reklame)
+chiemgau24.de#?#div[data-id-module="col-width-watcher"] > div.id-Container--hasHeadline:has(> h3 > span:contains(Auch interessant))
+! https://github.com/AdguardTeam/AdguardFilters/issues/7983
+mobile.twitter.com#?#._29ahSMvH section.rn-1oszu61 div[class][style*="padding-"] > ._1_KafmK5[-ext-has='svg.YunaQoc2']
+! https://github.com/AdguardTeam/AdguardFilters/issues/7732
+wetter.de#?#.large-4 > .wrapper-teaser:has([data-adformat])
+! https://forum.adguard.com/index.php?threads/27134/
+money.cnn.com#?#.content-scroll > div#ng-view > section.headline_list:has(> div.section_header:contains(Partner Offers))
+! https://github.com/AdguardTeam/AdguardFilters/issues/7270
+lifehack.org#?#.visible-xs[style^="background-color: rgb"]:has(>[id^="div-gpt-ad"])
+lifehack.org#?#.visible-xs[style^="background-color: rgb"]:has([id^="lifehack_m_"][id*="TF"])
+! https://github.com/AdguardTeam/AdguardFilters/issues/7074
+womenshealth.de#?#body > .list__header:contains(Sponsored Section)
+! https://forum.adguard.com/index.php?threads/25726/
+drive2.ru#?#main > div.l-container > div[class]:not([id]):not([data-id]):not([data-type])[-ext-has=">div.o-group--top > h3:contains(Предложения компаний)"]
+drive2.ru#?#main > div.l-container > div.js-entity[-ext-has=">div[class] > div[class] > div.c-author > div.c-author__body > div.c-author__date > a.c-link.c-link--gray:contains(Продвигаемая запись)"]
+! https://github.com/AdguardTeam/AdguardFilters/issues/7048
+m.bild.de#?#.txt > .element[-ext-has=">.tsr-info > h3:contains(Auch Interessant)"]
+! https://github.com/AdguardTeam/AdguardFilters/issues/6804
+mobil.stern.de#?#.teaserlist__items > .teaser-medium-left.article-type-standard-article.mod-teaser[-ext-has=".teaser > .sponsorship--labels"]
+! https://forum.adguard.com/index.php?threads/m-sondakika-com.25075/
+m.sondakika.com#?##news-list-container > ul > li[-ext-has=".adsbygoogle"]
+! https://forum.adguard.com/index.php?threads/24017/
+fishki.net#?#.list-view-items div.content__preview[-ext-has='> div.picture-holder > a[href="/go/"][target="_blank"]']
+fishki.net#?#div[class^="list-view"] > div[class^="content__intro-text"][-ext-has='> p.content__intro-text__author > a[href="/profile/543769"]']
+! https://github.com/AdguardTeam/AdguardFilters/issues/5316
+giveawayoftheday.com#$?#.middle.cf > .col1.giveaway_day[-ext-matches-css="padding-right: 10px"] { padding-top: 0!important; }
+! https://github.com/AdguardTeam/AdguardFilters/issues/3218
+lenfilm.tv#?#body > div.rek[-ext-has="div"]
+! https://github.com/AdguardTeam/AdguardFilters/issues/2637
+nasimke.ru#?#.body > div[class] > div[-ext-has='img[src*="/rekl/"]']
+! https://forum.adguard.com/index.php?threads/12768/
+m.reddit.com#?#article[class="Post size-compact"][-ext-has=".PostHeader__sponsored-flair"]
+! START: Yandex
+!
+! Main page
+! Context ads(must be excluded in useful ads)
+!yandex.by,yandex.com,yandex.kz,yandex.ru,yandex.ua,~afisha.yandex.by,~afisha.yandex.kz,~afisha.yandex.ru,~afisha.yandex.ua,~avia.yandex.by,~avia.yandex.kz,~avia.yandex.ru,~avia.yandex.ua,~bilet.yandex.com.tr,~flights.yandex.com,~disk.yandex.by,~disk.yandex.com,~disk.yandex.com.tr,~disk.yandex.fr,~disk.yandex.kz,~disk.yandex.ru,~disk.yandex.ua,~mail.yandex.by,~mail.yandex.kz,~mail.yandex.ru,~mail.yandex.ua,~mail.yandex.com,~mail.yandex.com.tr,~money.yandex.ru,~music.yandex.ru,~music.yandex.ua,~music.yandex.by,~music.yandex.kz,~rabota.yandex.by,~rabota.yandex.kz,~rabota.yandex.ru,~rabota.yandex.ua,~radio.yandex.by,~radio.yandex.kz,~radio.yandex.ru,~radio.yandex.ua,~realty.yandex.by,~realty.yandex.kz,~realty.yandex.ru,~realty.yandex.ua,~tv.yandex.by,~tv.yandex.kz,~tv.yandex.ru,~tv.yandex.ua,~yadi.sk,~zen.yandex.by,~zen.yandex.com,~zen.yandex.kz,~zen.yandex.ru,~zen.yandex.ua##
+! Yandex.Search
+zen.yandex.by,zen.yandex.com,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua#?#.touch-feed > div.feed-item:has(> div > a[href^="https://an.yandex.ru/"])
+! Yandex.News
+yandex.ru#?#body[class*="news_phone"] div.news-container > span > div > div.unit:has(> div.turbo-advert__item)
+!
+! END: Yandex

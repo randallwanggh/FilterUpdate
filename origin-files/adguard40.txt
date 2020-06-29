@@ -1,0 +1,418 @@
+!
+! Extended CSS rules
+!
+vgorodekirove.ru#?#.c_mr_20.flexbox > span:contains(Поделиться)
+primagames.com#?#.article-grid > .row > .story.reservation:has(> .panel > .panel-body > .fb-page)
+it-actual.ru#?##content > div[class]:has(> div[title^="Поделиться"])
+roem.ru#?#footer > .entry-counters > span:contains(Поделиться)
+hi-chef.ru#?#.SocialMediaShareButton:upward(div:not([class]))
+hdrabbit.ru#?##myDivKino div[style]:has(> img[src$="/share.png"])
+fp.com.ua#?#.side-bar > div.widget:has(> div.pst-block-main > div.textwidget > div.socwidget)
+pryamoj-efir.ru#?##layout-post > div[class] > h3:contains(Поделиться)
+pro-zakupki.ru#?#.eBlock > tbody > tr > td[align="center"]:contains(Поделиться)
+finacademy.net##div#innerautor ~ div > p:contains(Поделиться)
+altyazi.net#?#.sidebar > div.widget_custom_html:has(> div.textwidget > div#sb_instagram)
+edinstvennaya.ua#?#aside > div.sb__column > div.sb__section:has(> h3.sb__title > span:contains(/Facebook|Instagram/))
+radiokolor.pl#?#.main-2 > .media-box[style*="margin-top:"]:has(> a[href^="http://www.facebook.com/share.php"])
+ladbible.com#?#.article__body > div[class] > button:has(> span > img[src^="/assets/twitter."])
+ladbible.com#?#.article__body > div[class] > button:has(> span > img[src^="/assets/facebook."])
+molbuk.ua#?#.main-table td[valign="top"] > noindex:has(> div[class] > div.fb-like-box)
+reshimvse.com#?#.right_place > div.block:has(> div[id^="vk_groups"])
+webteizle.vip#?#.filmsub > div.menu > div[class]:has(> i.share)
+bloha.ru#?#.sp-wrap div[class] > div.code-block ~ p:has(> b:contains(Поделиться))
+stalker-mods.su#?#.rt-article-content ~ div[align="center"]:contains(Поделиться)
+wykop.pl#?#.entry > .wblock .dropdown > div .social-list > li:has(> .social-share)
+gomel.today,mogilev.online#?#.mods-news-text:has(> noindex > span > div.ya-share2)
+beejournal.ru#?#.item-page > div[itemprop] > div.custom > div[style]:has(> div.ya-share2)
+gordonua.com#?#.span-4 > div.block:has(> div.fb-page)
+cleverst.com#?##sidebar > aside.widget:has(> div.textwidget > div.custom-widget-title > div.custom-widget-text:contains(Facebook))
+coronavirus-control.ru#?#.entry-content > div:has(> b:contains(Поделиться))
+dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,expressilustrowany.pl,gazetakrakowska.pl,gazetalubuska.pl,gazetawroclawska.pl,gk24.pl,gloswielkopolski.pl,gp24.pl,gs24.pl,kurierlubelski.pl,nowiny24.pl,nowosci.com.pl,nto.pl,pomorska.pl,poranny.pl,to.com.pl,wspolczesna.pl,polskatimes.pl,sportowy24.pl,strefaagro.pl,strefabiznesu.pl,stronakobiet.pl,gol24.pl,gra.pl,naszemiasto.pl,miastakobiet.pl,stronazdrowia.pl#?##glowna-kolumna > section > .galeria + #narzedzia:has(> .facebook:only-child)
+sima-land.ru#?#.widget-content > .rating-item ~ div > div:has(> div > span:contains(Поделиться))
+otvet.mail.ru#?#div[class*="controls_right_"] > a[class]:has(> div > a[title="Поделиться"])
+kinozal.me,kinozal.guru,kinozal.tv#?#.mn_wrap li.tp:contains(Опубликовать ссылку)
+notebook-center.ru#?#.text > #newstext ~ .block:has(> .body > .social)
+lifehacker.com#?#.js_starterpost > div[class] > div:not([class]):has(> .js_share-tools)
+wikireading.ru#?#.entry-content div.alert:has(> div[class^="ya-share"])
+flutenotes.ph#?#.sidebar > div.widget:has(> div.widget-content > iframe[src^="https://www.facebook.com/plugins/page.php?href="])
+kuchnia.wp.pl#?#.content div[class*=" "] div[class*=" "]:has(> span > svg > title:contains(/^Share$/))
+kuchnia.wp.pl#?#.article figure > .article--photoSource + div[class*=" "]:has(> div[class] > strong:contains(/^Podziel się$/))
+sputnik-abkhazia.ru#?#.l-sidebar > div.b-block:has(> h6.b-block__title:contains(Соцсети))
+natemat.pl#?##article-body > div:not(.art):has(> div > iframe.instagram-media)
+okeygeek.ru#?#.sidebar > div.side-blok:has(> div.textwidget > div#vk_groups)
+blog.themarfa.name#?#.article > div.sidebar > div.sidebar__block:has(> div.addthis_inline_share_toolbox)
+eluban.pl#?#.article_summary > .text-left > p.text-muted:contains(/^Podziel się:$/)
+musicrelease.ru#?#.article-side div.article-side__block > div.article-side__label:contains(ПОДЕЛИТЬСЯ)
+genius.com#?#article-content-actions .article_info_and_action_box > div:not(:has(pyong-button))
+anidub.com#?#.sidebar > div.block:has(> div#vk_groups > iframe[src^="https://vk.com/widget_community.php"])
+a2zapk.com#?#.LeftSection > div > div.ArticleLand:has(> div#share-buttons)
+fusionbd.com#?#body > div.pgn:contains(Share)
+tvp.pl#?#.article__left > .article__content > .article__icons:has(> .article__icons-item > .icon-small-fb)
+tesbihane.com#?##price-flexer > .triple > .row > .d-flex > .text-description:contains(Share:)
+shorturl.at#?#body > main > section#content:has(> div.socialnetworkbox)
+muchohentai.com#?##sidebar > div.widget:has(> div.textwidget a.twitter-timeline)
+viprow.me#?#.container > .row > .col-12.text-center > .btn-danger:contains(Sharing is Caring)
+sudouest.fr#?#.social-links > *:not(div)
+singleclickapps.com#?#.nav-list > li.nav-header:contains(/\sUs on\s/)
+geo.de#?#.sidebar-teasergroup:has(> .sidebar-headline:contains(Facebook))
+computerologia.ru#?#.widget-area > div[class] > aside.widget:has(> div.textwidget > div[id="vk_groups"])
+kindkino.ru#?#.eBlock > tbody > tr:has(> td[colspan] > div[class] > div[class^="ya-share"])
+joxi.ru#?#.dropdown-container > div.content:has(> h4.heading-stunner:contains(Поделиться))
+doramasmp4.com#?#.card-footer > div.d-flex > a[role="button"]:has(> i.fa-share-alt)
+android-example.ru#?#.sidebar-content > div.widget:has(> h3.group > span:contains(Мы вконтакте))
+economics-prorok.com#?##sidebar > ul#widgetlist > li.widget:has(> p:contains(Подписаться))
+filesupload.org#?#.pageSectionMainInternal > div[id="pageHeader"]:has(> h2:contains(share))
+filesupload.org#?#.pageSectionMainInternal > div[id="pageHeader"]:has(> h2:contains(share)) + div > table:has(td.share-file-table-header)
+okko.tv#?#.movie-page > section + section > div > div > div > div:has(> span:contains(Поделиться))
+tva.in.ua#?#.theiaStickySidebar > div.widget:has(> div.widget-container > div.textwidget > a.twitter-timeline)
+rsload.net#?#aside > div.side-box:has(> div[class] > div[id="vk_groups"])
+forum.qt.io#?#ul.dropdown-menu > li.dropdown-header:contains(Поделиться)
+consultant.ru#?##content > div > .text-right:has(> .ya-share2)
+megapolisonline.ru#?#.block-title:has(> span.block-title__text:contains(/Поделиться|Группа ВКонтакте/))
+kulturologia.ru#?#.post > div.colored2:has(> div.fb-like)
+mail.rambler.ru#?#h4:contains(Рассказать друзьям)
+notebook-center.ru#$?#.leftCol > div[style^="height:"]:has(> div.head > h3:contains(/Поделиться|Нравится/)) { remove: true; }
+spid.center#?#main > section > div > div:has(> a[href^="//www.facebook.com/sharer/sharer.php?"])
+knowem.com#?##socialpremium > h2:contains(/Share\:/)
+howchoo.com#?#footer > .grey:has(> div > div > div > .row > div > .fb-page)
+fashionwaltz.com#?#.pull-left > div.widget:has(> div.textwidget > div.fb-page)
+kulturologia.ru#?#.top_window > ul.ul_top > li[class]:has(> a[id^="share_"])
+touch.otvet.mail.ru#?#.b-question-full__footer > span.btn:has(> .icon-share)
+sport.tut.by#?##article_body > blockquote:has(> p > a[href^="https://pm.by/"])
+slutsk-gorod.by#?#.pos-bottom > div.element:has(> h3:contains(Поделиться))
+uznaytut48.ru#?#.main > div.center-full > div[align]:has(> h4 > strong > span:contains(Поделитесь))
+gagadget.com#?#p.h2:has(> small:contains(/Поделиться|Розповісти/))
+officelife.media#?#.drop-actions > div.label:contains(Поделиться)
+play-force.ru#?#.center-sidebar > h1:contains(Поделись)
+howdyho.net#?#.inner > section.default:has(> header > h1:contains(МЫ ВКОНТАКТЕ))
+windowspro.ru#?##sidebar > div#popular:has(> div.dcont > center > div#vk_groups)
+pronetblog.by#?#aside > section.widget-after-post-content:has(> div.textwidget > table > tbody > tr > td[valign="middle"] > div.rss)
+osp.ru#?#.article-full > p:contains(Поделитесь)
+tsn.ua#?#.c-post-info .c-bar-unit:has(> ul[data-switch="share-post-bottom"])
+7days-ua.com#?##content > div[align="center"]:has(> font:contains(Поділитись))
+prostofinovo.ru#?#.news-detail > article > center:has(> p:contains(Поделиться))
+ngs24.ru,e1.ru#?##record-header > div[class] > div[class] > p[class]:contains(Поделиться)
+nastroyvse.ru#?#.row div.home_content_right > div.widget_text:has(> div.textwidget > div.content_rb)
+nastroyvse.ru#?#.row div.home_content_right > div.saitbar_bock:has(> div.textwidget > div#vk_groups)
+gazeta.ru#?#div.borderdown:has(> div[class*="share"])
+batashkihan.com#?#article div[class] > h3:contains(Share)
+creatorlabs.net#?#div[data-container="sidebar"] > div[id^="cc-matrix-"] > div.j-module:contains(/Tweets|Twitter/)
+creatorlabs.net#?#div[data-container="sidebar"] > div[id^="cc-matrix-"] > div.j-module:has(> h3:contains(Discord))
+autorambler.ru#?#div.block > div[style*="padding"][style*="15px"] > div[style*="padding"][style*="105px"] > div.wrapper:has(> div.rambler-share)
+postnauka.ru#?#div[class*="_share"]:has(> *:contains(Поделиться))
+postnauka.ru#?#[class*="share"]:has(> a[class*="vk"])
+wallpaperwaifu.com#?#.elementor-widget[data-widget_type="heading.default"] > .elementor-widget-container:contains(/^Share$/)
+quiz.rambler.ru#?#div#app > div[class] > div[class] > div[class]:has(> p:contains(Поделитесь с друзьями))
+tqm.com.ua#?#.blog-sidebar > h2:contains(/Facebook|Twitter/)
+deti.mail.ru#?#div.flex > div.flex__item > div.tooltip:has( > div.tooltip__wrapper > button.button > span.button__inner:contains(Поделиться))
+eda.ru##div[class*="social"] > p:contains(Поделиться)
+automobilemagazine.com.tr#?#aside:has(> div.textwidget > a.twitter-hashtag-button)
+erzurumajans.com#?##sidebar > div.box:has(> a.twitter-timeline)
+headphonesbest.ru#?##article > div:not([class]):not([id]) > table > tbody > tr > td:has(> div > .likely)
+pudelek.pl,o2.pl#?#div[data-st-area="st-article"] div[class*=" "] > div[class*=" "] > button[color="gray400"]:has(> svg[color="#4267b2"])
+o2.pl#?#div[class^="sc-"]:has(> #fb-like-btn)
+o2.pl#?#div[class^="sc-"]:has(> button[shape="circle"] > svg[color="socialFacebook400"])
+pudelek.pl#?#aside[role="complementary"] > div > div:has(> div > div.fb-like)
+kamyonum.com.tr#?#table > tbody > tr:has(> td[bgcolor] font[color]:contains(FACEBOOK))
+jetvis.ru#?##rightcol > div.block:has(> div.blockcontent > div.blockcontent-inside > a.twitter-timeline)
+anews.com#?#.tooltip__list > .tooltip__list-item:has(> .post-share)
+aviasales.ru#?#.ticket-sharing-desktop__list-item:has(> button)
+ozon.ru#?#.top-base-column-top button[type="submit"]:has(>span:contains(Поделиться))
+tatort.tube#?##aside > .bnr-container:has(> .fb-page)
+washingtonpost.com#?#article > .utility-bar > div:has(.utility-bar__item > span:contains(Share))
+tochka.net#?#footer > .b_header:has(> h3:contains(/Поделись|Поділися/))
+discoverskills.com#?#.et_pb_extra_column_sidebar > div.widget_text:has(> div.textwidget > a.twitter-timeline)
+catalog.sport-wiki.org#?##sidebar > aside:has(> div[class^="social"])
+online.anidub.com#?#div.lblockhead:contains(Мы Вконтакте)
+online.anidub.com#?#div.lblockcon:has(> div > div > div > script[src*="vk.com/js/api/openapi.js?146"])
+goodlocal.ru#?#.b-item__desc > div[style*="margin"]:has(> b:contains(Поделиться ссылочкой))
+basketshop.ru#?##allrecords > div[id^="rec"]:has(> div > .t-container > div > div > div:contains(поделиться с друзьями))
+halklailiskiler.com.tr#?##footer-top-wrapper > div#footer-top > div.footer-widget:has(> h3:contains(/Twitter|Facebook/))
+kinokong.org#?#.controls-top-right:has(> button > span > span:contains(Поделиться ссылкой))
+filmsa.net#?##sidebar > div.sidebar-kutu:has(> div.yanust:contains(Sosyal Medya))
+onet.pl#?#div[class] > span[class^="_"]:first-child:contains(/^Podziel się tym artykułem:$/)
+onet.pl#?##Detail header ~ div[class] > div[class] > div[class][data-run-module^="embeddedapp/main.sharethis_"] + div[class]:has(>span:contains(/^Kopiuj link$/))
+semawur.com#?#.float-left-right > ul.list-a-hvr-primary:has(> li:contains(Share))
+beejournal.ru#?#div[style^="width:"]:has(> div.module_round_box_outer > div.module_round_box > div[class] span:contains(/Вступайте|в нашу группу/))
+petri.com#?#.content_sidebar > div.widget:has(> div.widget_header > h6.title:contains(Follow Us))
+accupass.com#?#div[class$="-org-buttons-container"] > div:not([class]):has(> a[class$="-org-button"] > .fa-facebook-f)
+sonkaleizmir.com#?#div[style^="float:left;"] > div[style]:contains(/TWITTER|FACEBOOK/)
+hentaihd.xyz#?#.row div.widget > div.widget_header > h2:contains(LIKE)
+malatyadan.com#?#.SocialTools > ul > li[class]:has(> a[onclick^="ShareOn"])
+sergeiyurev.com#?#.inner_sidebar > section:has(> div > div[id*="ytsubscribe"])
+sergeiyurev.com#?#.inner_sidebar > section:has(> div > div[id="vk_groups"])
+smotret-anime.online#?#.col-even + div.col > div.card:has(> div > div.m-translation-view__share)
+elise.com.ua#?#.justify-center:has(> div.flex > a[data-social])
+beauty.ua#?#.sidebar > div.sb-tabs:has(> ul > li[class] > div[class]:contains(Facebook))
+gorodrabot.ru#?#.row > div[class] > div.block-content:has(> div > div[class^="ya-share"])
+minecraft20.ru#?#.short > div[style] > div[id^="news-id"] > li > center > span:contains(Поделится)
+manganime.id#?#.sidebar > h3:has(> span:contains(Like This))
+fb2-epub.ru#?#p[style^="text-align: center"]:has(> strong > span:contains(Мы ВКонтакте))
+alternativeto.net#?#.alternative-list > li[style="text-align: center"]:not([id]) > h3:contains(/^Share this list of alternatives\?$/)
+vertele.eldiario.es#?#.col-x30 > div > aside > aside.md-basic-block:has(> h1.m-title-2 > span.text:contains(/^Síguenos en Twitter$/))
+video.wp.pl#?#article[data-testid="article-main"] > div[class^="sc-"] > div[class^="sc-"] > div[font-family="primary"] > div[class^="sc-"] > div[class^="sc-"] > div[class^="sc-"]:has(> button[shape="circle"] > svg[color="socialFacebook400"])
+w3schools.com#?##right > .sidesection:has(> .sharethis)
+mister-robot.tv#?#.sidebar > div:contains(Мы ВКонтакте)
+nsn.fm#?#button:contains(Поделиться)
+progorodsamara.ru#?##MainContentBox > #CENTER > h3:contains(Вступай в группу)
+progorodsamara.ru#?##MainContentBox > #CENTER > h3:contains(Вступай в группу) ~ div[style*="float"][style*="width"]
+hentai365.ru#?#.card-content:has(> div.m-translation-view__share)
+dailycaller.com#?#ul.list-none > li:has(button[data-social])
+store.steampowered.com#?#.rightcol > div > div.responsive_apppage_details_right:has(> div.block_content > div.share)
+epochtimes.jp#?#.sidebar >section[class="hidden-xs"]:has(> header > h3:contains(LINE NEWS))
+winnote.ru#?#article > .news-text > div:has(> .ya-share2)
+it-tehnik.ru#?#.content-area > .content-box:has(> .text-center > div > .social-button)
+learn.javascript.ru#?#.sidebar__section:has(> .sidebar__share)
+calcsbox.com#?#.site-content > section.excess:has(> div.sharecode)
+solverbook.com#?#.social > table:has(> tbody > tr > td:contains(Понравился сайт))
+bhub.com.ua#?#.fatfooter > div[class] > div.widget_text:has(> h4 > span:contains(Поделиться))
+bugaga.ru#?#.fsmsg:has(> .social)
+optimushaber.com#?#.middle_content > center > table[style^="font:"]:has(> tbody > tr > td > b:contains(Paylaş:))
+kfc.ru#?#.content > div[class]:has(> div > span:contains(Поделиться))
+thegamesdb.net#?#.card > div.card-footer > p:contains(Share Via)
+filmold.com#?#.widget-alt > h4.title:has(> span:contains(Twitter))
+izvestia.nikolaev.ua#?##primary.widget-area > div:has(> div > .adsbyyottos)
+izvestia.nikolaev.ua#?##primary.widget-area > div:has(> div > a > img[src*="banner33.png"])
+proglang.su#?#.mtb > div.row > div[class] > h6:contains(Поделитесь)
+ivd.ru#?#.article-content__container > div.article-action:has(> div > div.social-block)
+agrarii-razom.com.ua#?#.region-sidebar-first > div:has(> div > .fb_iframe_widget)
+mind.ua#?#.right_column > .block_archive:has(> div[id*="ytsubscribe"])
+mind.ua#?#.right_column > .block_archive:has(> .fb_iframe_widget)
+agravery.com#?#.post > div:has(> ul > .social-link)
+dnepr.news#?##colona > h2.boxTitle:contains(Мы в Фейсбуке)
+askvg.com#?##content > .post > p:has(> strong:contains(/^Share this article:$/))
+85cc.net#?#.segment > table[width] > tbody > tr:has(> td > iframe[src*="facebook.com/plugins/"])
+intro4u.ru#?##secondary > aside:has(> div > .vk_groups)
+sochinyshka.ru#?#section > article.type-post > h4:contains(Сохрани)
+sewin.net#?##dle-content > div > table > tbody > tr > td:has(> div[class^="ya-share"])
+megaresheba.ru#?#.mainMenu > div:has(> #vk_groups)
+1zaicev.ru#?#article > .text-center:has(> p:contains(Поделитесь статьёй))
+narutoplanet.ru#?#.art-layout-cell > div.art-block:has(> div.art-blockheader > div:contains(Мы в Telegram))
+losst.ru#?##sidebar > div:has(> div > #vk_groups)
+losst.ru#?##sidebar > div:has(> div > p > .twitter-timeline)
+kinoxa.biz#?#.side > .side-box:has( > .side-bc > #vk_groups)
+luxhard.com#?##sidebar-primary .widget-container:has(#vk_groups)
+korrespondent.net#?#.col__sidebar > div[class="unit-rubric"]:has(> div > h3 > span:contains(Корреспондент.net в cоцсетях))
+topserialy.to#?#.sidebar > div:contains(Facebook)
+thehindu.com#?#li:has(> a > .fa-reddit-alien)
+subscity.ru#?#div:has(> .fa-share-alt)
+itemci.com#?##sag_alt_blok > .blok:has( > h5.bas:contains("Facebook"))
+editorsdepot.com#?#.panel:has(> .panel-body > .col-md-4 > #fb-share-btn)
+gercekizmir.com#?#.right_title:contains(/FACEBOOK|TWITTER/)
+hardwareluxx.ru#?#aside:has( > h3:contains('Hardwareluxx VK'))
+hardwareluxx.ru#?#footer > h4:contains(Социальные сети)
+f.ua#?#body > div#popup_window:has(> div#popup_content > div.popup_subscribe_window)
+videovegas.ru#?##sidebar > .blocks > .block:contains(Социальные кнопки)
+coreradio.ru#?#.right-block > div.right-block-title:contains(Share)
+pctip.ru#?#.menu:has(> noindex:contains(Сохранить))
+pctip.ru#?#.content > noindex > h4:contains(Сохранить и поделиться)
+fullmacizle.com#?#.s-b:has(> .fa-share-alt)
+jornaldestaquebaixada.com#?#.sidebar > .widget:has(> div > .fb_iframe_widget)
+tragos.ru#?##MiddleRightPan > fieldset:has(> legend > b:contains(Поделиться))
+berliner-zeitung.de#?#div[class^="dm_teaser_verticle_block_"] > div[class]:has(> iframe[src^="/ajax/"][src*="asFriendlyIFrameScript"])
+the-challenger.ru#?#.sharesblock > div.sticky > div.blockholder:has(> h3:contains(Поделиться))
+sims4pack.ru#?#.block-right > .menu-block:has( > #vk_groups)
+sims4pack.ru#?#.block-right > .menu-block:contains("Ссылкой с другом поделись!")
+ofoct.com#?#.widget-area > aside[id^="text-"]:has(> div > div#poplike)
+ettoday.net#?#div:has(> a.fb-messenger)
+russiancouncil.ru#?#.js-tabs-simple:has(> span > p:contains(Facebook))
+russiancouncil.ru#?#div:has(> .js-tabs-simple-content > #vk_groups)
+sport24.ru#?#div:has(> span:contains(Поделиться))
+ngs24.ru#?#.central-column-container ul:has(> li > button[style="width:36px;height:36px;"] > svg)
+ilahisozleri.me#?#.col-md-4 > .widget:has(> .widget-title > span:contains(Paylaş))
+oyunindir.vip#?#.td-ss-main-sidebar > .td_block_template_2:has(> .td-block-title > span:contains(Sosyal Medya:))
+ichip.ru#?#.vc_column_container:has(.wpb_wrapper > .instagram-widget)
+hello7app.com#?#body > .color_mavi:contains(Bilgi paylaşıldıkça artar. Paylaşma sırası sende! )
+russiancouncil.ru#?#div:has(> b:contains(Поделиться статьей))
+bonusmieter.de#?##mo_globba > div[-ext-has='div#fb-root']
+metropolico.org#?##right > .rightwidget > .textwidget > .rightwidget[-ext-has='a.twitter-timeline']
+metropolico.org#?##right > .rightwidget > h3.widget-title[-ext-has='span:contains(Facebook)']
+challonge.com#?#.actions:has(> div > a > .fa-share-alt)
+relizua.com#?#.colum_right > .block:has(#vk_like)
+relizua.com#?#.colum_right > .block:has(#vk_groups)
+trikky.ru#?##sidebar div:has(> div > .vk_widget_group)
+wd-x.ru#?#.block:has(> #share)
+vestifinance.ru#?#div:has(> div[id^="vk_groups"])
+indir.vip#?#.td-ss-main-sidebar > .td_block_template_2:has(> h4 > span:contains(Sosyal Medya:))
+kodiak.top#?##container > h3 > a[href="#"]:contains(Share)
+oneindir.com#?#.sidebar > .enCokIndirilenler:has(>.blockTitle > h5:contains(BİZİ TAKİP EDİN))
+soft-arhiv.com#?##sidebar > div:contains(Вконтакте)
+soft-arhiv.com#?##sidebar > div:contains(Вконтакте) + img
+bilginc.com#?#div.col-md-6[itemtype="http://schema.org/BlogPosting"] > p > b:contains(Bu Makaleyi Paylaş)
+pl.com.ua#?##main-footer .widget:has(.twitter-timeline)
+pl.com.ua#?##main-footer .widget:has(#sb_instagram)
+glavred.info#?#.shares-button > .article__socials-item:has(div:not(.comment-show))
+actual.today#?#.widget:has(> div > .fb_iframe_widget)
+olkino.com#?#.tech_info:has(>div:contains(Поделиться))
+windd.ru#?#.theiaStickySidebar > div.widget_text:has(> div.widget-container > div.textwidget > div#vk_groups)
+galka.if.ua#?#.main-sidebar.right > .widget:has(> h3:contains(Google +))
+galka.if.ua#?#.main-sidebar.right > .widget:has(> h3:contains(Поділись з друзями))
+win8talks.com#?##sidebar > div.widget_text:has(div#vk_group_win8talks)
+gamebomb.ru#?#.grid-100p-301-rc > div.container > div[class="container"][style^="background-color:"]:has(> div > h4:contains(Подписывайтесь))
+dobreprogramy.pl#?#.social_bottom  > .social__group_like:not(:has(> .social__button_bookmark))
+gazeta.ua#?#.container div.w:has(> iframe.fb_iframe_nourl)
+bit.ua#?#.maincontent > section[class="mainsect-slider"]:has(> div > div.ms-title:contains(Подписывайтесь на нас))
+youla.ru#?#[data-test-component="DescriptionList"] > [class]:contains(Поделиться)
+lifehacker.ru#?##app button:contains(Поделиться в)
+~www.wp.pl,~poczta.wp.pl,wp.pl#?#.content a[href^="https://www.facebook.com/"] > div[class]:has(> div[class] > div[class] > .fb-like)
+~www.wp.pl,~poczta.wp.pl,wp.pl#?#.content > div[class] > div[class] > div[class] > div[data-reactid] > div[class]:has(> div[class] > div[class] > .fb-like)
+~www.wp.pl,~poczta.wp.pl,wp.pl#?#.content > div[class] > div[class] > div[class] > div[data-reactid] > div[class]:has(> div[class] > span > svg > [stroke="none"] > #PAKO_reakcje-Copy)
+~www.wp.pl,~poczta.wp.pl,wp.pl#?#.article > div[class] > .article--title + div[class] > div[class] > div[class]:has(> div[class] > strong[class]:contains(/^Podziel się$/))
+~www.wp.pl,~poczta.wp.pl,wp.pl#?#.article + div[class*=" "] > div[class] > div[class]:has(> div[class] > div[class] > div[class] > .fb-like)
+~www.wp.pl,~poczta.wp.pl,wp.pl#?#.article + div[class*=" "] > div[class] > div:not([class]) > div[class]:has(> div[class*=" "] > span > svg > [stroke="none"] > #PAKO_reakcje-Copy)
+~www.wp.pl,~poczta.wp.pl,wp.pl#?#.article > [class] > .article--lead + div[class*=" "] > div[class] > div[class*=" "]:has(> div[class] > div[class] > span > svg > path)
+newsweek.pl#?#.socialAreaArticle > li:has(> a.socialButton:not(.com))
+pfm.pl#?#.single-article-column-left > .fb-like + .headers-style:contains(Udostępnij)
+specialcom.net#?##sidebar > div.widget:has(div#fb-root)
+karapaia.com#?#.content > .section-box[-ext-has='a[href^="http://line.naver.jp/R/msg"]']
+imgseed.com#?##container > h3 > a[href="#"]:contains(Share)
+fakty.tvn24.pl#?#.main-col-narrow > article#dailyNewsBox:has(> h1.section-title:contains(/^Fakty na (Facebooku|G\+)$/))
+purepc.pl#?#.sidebar > .sidebox:has(> .sb_facebook)
+plarium.com#?#div:has(> div > button[data-qa-entity="button.share"])
+news.tvbs.com.tw#?#div[class^="newsdetail_"][class*="community"] ul > li:has(> a[href^="https://plus.google.com/share?"])
+news.tvbs.com.tw#?#div[class^="newsdetail_"][class*="community"] ul > li:has(> a[href^="https://www.facebook.com/sharer/sharer.php"])
+bul.az#?#.right-section > div[style^="position:"]:has(.active > h2:contains(Facebook səhifəmiz))
+freebrowsers.ru#?##content > div.t_center:has(>b:contains(Поделитесь))
+onlinemschool.com#$?#.share_buttons:has(> a) { position: absolute!important; left: -3000px!important; }
+orkdesigns.com#?#.productRight > table > tbody > tr.rowspan.row28:has(a[rel="data-social-link"])
+o2.pl#?#div[data-st-area^="ST-Article-Social"] > div[class] > div[class] > div[class][title="polubienia"] + div[class]:has(span[icon="twitter"])
+akademikpersonel.org#?##sidebar > li:has(> .block.smaller span.blocktitle:contains(Facebook'da Bizi Beğenin))
+seznamzpravy.cz#?#section[data-dot="tpl-content"] > div[class] > .d_cz:has(> .fb-like)
+mindhack2ch.com#?#.share-btn-list:has(>.share-btn-item)
+jin115.com#?#.section-box > .plugin-box[-ext-has='.article-facebook']
+welovebundles.ru#?#.sidebar > div.content > ul.sidebar_widget > li.widget:has(>h2:contains(/ЛАВАЛАМПОВАЯ АТМОСФЕРА:|Find us on Facebook/))
+kinomagnit.org#?#.left-block:has(> .left-block-title:contains(Мы в соцсетях))
+fnp.de#?#.article-content > article > aside[-ext-has='.sharing']
+computerworld.hu#?#.field_global_rightside > .box-html:has(h3:contains(Kövessen Facebookon))
+filmbuzi.hu#?##right > h2:contains(Twitter)
+sinonim.org#?#div.main > div:has(> .ya-share2)
+kalptensozler.com#?#.td-ss-main-sidebar > .td_block_template_1:has(> .block-title > span:contains(Facebook Sayfamız))
+whatsappdurumlari.com#?##content-right .flickr > h3:contains(Facebook)
+saostar.vn#?#.swbd-left > .swbdl-item[-ext-has='> a[href="javascript:void(0)"][onclick]']
+techaddikt.hu#?#.vc_column-inner > .wpb_wrapper > .wpb_content_element[-ext-has='h2.widgettitle:contains(FACEBOOK)']
+nikopolnews.net#?##main-body > div#sp-right2 > div.module:has(> div > h2:contains(ИНСТАГРАМ))
+gematsu.com#?##sidebar > #section:contains(Facebook)
+turgutlutivi.com#?##anasayfaalt_bilesen > .engin > .bilesen:has(>.facebookkutusu)
+ademocut.com#?##sidebar > .yanmenu[-ext-has='h2:contains(YouTube Abone OL)']
+m.favorilezzetler.com#?#body > div[style*="background-color"][style*="z-index"] + div[style*="background-color"][style*="z-index"]:contains(PAYLAŞ)
+habr.com#?#.sidebar_right > div.default-block_sidebar:has(> div > div#facebook_like_box)
+habr.com#?#.sidebar_right > div.default-block_sidebar:has(> div > div#vk_groups)
+habr.com#?#.sidebar_right > div.default-block_sidebar:has(> div > ul#tweets_stream)
+natureweight.ru#?##sidebar > #wlist > div > .textwidget:has(> #vk_groups)
+watchparksandrecreation.net,watchtheofficeonline.net,watchhouseonline.net,watch30rockonline.com,watchbreakingbad.online,watchtopgearonline.net,watchrickandmorty.online,watchcurbyourenthusiasm.com,watchsmallvilleonline.net,watchfearthewalkingdead.net,watchpsychonline.net,watchcheersonline.com,iwatchseries.online,watchhowimetyourmother.com,watchscrubsonline.com,watchthesopranos.com,watchdoctorwhoonline.com,watchkingofthehill.com,watcheverybodylovesraymond.com,watchitsalwayssunnyinphiladelphia.com,watchprisonbreakonline.com,watcharresteddevelopment.com,watcharcheronline.com,watchsouthpark.online,watchamericandad.net,watchseinfeld.com,watchthewalkingdead.online,watchfriendsonline.net#?#.content > .sbox:has(> .dt_social_single)
+cankiri.tv#?#.sidebar > .widget:first-child:has(#fb-root)
+ademocut.com#?##sidebar > .yanmenu:has(>h2:contains(Facebook Takip Et))
+uvfitness.net#?#.blog-sidebar > .box-blue:has(> .widget > .share)
+faktxeber.com#?##habersol > .ikutub:has(a[href^="https://web.whatsapp.com/send?"])
+forum.donanimhaber.com#?#.altkisim > [class="altkisimdetay"]:has(>span:contains(Facebook Sayfamız))
+queenbet1.tv,bahsinetv.com#?#.col-lg-12 > .s-b:has(> .fa-share-alt)
+rojadirectaonlinetv.com,extremotvplay.com#?#.sidebar > .encabezados:has(>h2:contains(Síguenos))
+techbang.com#?##sidebar > .section:has(>.fb-page)
+solvettube.com#?##sidebar > .blocks > li.block:has(>.block-content > [class^="box textwidget "][class*="uson"])
+overclockers.ru#?#body > div[class="ui container main-wrap"] > div[class="ui grid"] > div[class="five wide column"] > div[class="ui grid"]:has(> div > div#fbRoot)
+overclockers.ru#?#body > div[class="ui container main-wrap"] > div[class="ui grid"] > div[class="five wide column"] > div[class="ui grid"]:has(> div > div#vkRoot)
+overclockers.ru#?#.five.column > div.right-content-wrap > div.container-block:has( > div.faceLink)
+overclockers.ru#?#.five.column > div.right-content-wrap > div.container-block:has(> div#vkRoot)
+overclockers.ru#?#.five.column > div.grid > div.container-block:has(> div#vkRoot)
+kocaeligazetesi.com.tr#?#.block-pano > .as:has(>.block-fan)
+diziyo4.net,diziyo2.net#?#.content > .sbox:has(>.dt_social_single)
+pobieramy.top#?#.container > .row > div[-ext-has='.fa-facebook-official']
+waplic.com#?#.main_vid > .material_contentbox[-ext-has='.btn_social']
+dcode.fr#?##right > .heading_bar:contains(Share)
+doridro.net#?#.panel-body > .col-md-4 > .panel[-ext-has='#shareFB']
+20min.ch#?##content .clusterRight > .clusterTop[-ext-has='#fb-root']
+m.diabetes-ratgeber.net#?##main > .link-block > div[-ext-has='.socialMediaButtonBar']
+fautsy.com#?#.alert-warning:has(>font[color="8D8666"]:contains(Do you like Fautsy?))
+kitapkeyfim.com.tr#?#td > .kenarlik-mavi-alt21:contains(Paylaş)
+webtekno.com#?#.sidebar > .sidebar-block[-ext-has='.sidebar-social']
+dosya.co#?#.file_slot > tbody > tr[-ext-has='.share']
+superyenihaber.net#?#tr > td > b:contains(Paylaş:)
+shareae.com#?##sidebar > div.block:has(> center > div.fb-page)
+boehms-dax-strategie.de#?##content > .contentcontainer > .contentblock:has(>.share-buttons)
+turkanime.tv#?#.row > .col-xs-12:has(>.panel > .panel-ust > .panel-title:contains(FACEBOOK'ta BEĞEN))
+turkanime.net#?#div[class^="col-xs-"]:has(> div.panel > div.panel-ust > div.panel-title:contains(FACEBOOK))
+problogbooster.com#?#.sidebar.section > div[class="widget HTML"]:has(#fb-root)
+a2zapk.com#?#.RightAside > .NewBlock:has(>.ArticleTitle > p:contains(Like Us On FACEBOOK))
+listelist.com#?##sidebar-wrapper > ul > .sidebar-widget[-ext-has="#social-kutu"]
+edirneaktuel.com#?#td[valign="top"][height="40"][width="632"]:has(>table[background="/images/paylas.jpg"])
+calorizator.ru#?#.block-wrap > div.block:has(#social_group)
+maango.info#?#.block-cat > .title-top-random:contains(Follow us on Google+)
+hizlimp3.net#?##colRight > h2:contains(Sosial Ağlarda bizi izleyin)
+hizlimp3.net#?##colRight > h3:contains(Sosial Ağlarda bizi izleyin)
+film.joy.az#?#[id$="-menu"][-ext-has=">.mavi-text:contains(Facebook səhifəmiz)"]
+film.joy.az#?##featur-product-box2 > #video-box[-ext-has='>center >a[href*="facebook.com/share.php"]']
+javmost.com#?#.panel-body > .text-warning:contains(SHARE)
+mp3.xodver.az#?##footer > .column-one-fourth[-ext-has='>.fb-page']
+firstonetv.watch#?#.widgetBox > .widgetTitle > h5:contains(Facebook)
+imgrum.org#?#.module_blog_page > .blogpost_user_meta[-ext-has=">.fb-share-button"]
+topxeber.az#?#.main > .s-post-nav ~ span:contains(PAYLAŞ)
+brifinq.com#?##sidebar-right > .title:contains(Facebook-da)
+boxfilmizle.com#?#.col3 > .video-bot3[-ext-has=".fsfb"]
+asanradio.az#?#.col-md-12 > .panel.panel-info[-ext-has=">.dividers > .dividers-header:contains(Facebook)"]
+anv.az#?#.row.side_content > [class="row xeber_lenti_holder hidden-xs"][style^="padding:"][-ext-has=">.ng_header:contains(FACEBOOK)"]
+gundem.ws#?#.sidebar > .kopa-article-list-5-widget[-ext-has=">.fb-page"]
+durmamp3indir.biz#?#.blok[-ext-has=">i:contains(Paylaş)"]
+tubidy.mobi#?#.video-search-footer > li[-ext-has='>a[href^="/share.php"]']
+fullprogramlarindir.com#?##sidebar > div.widget_text[-ext-has='div#fb-root']
+finikeakdeniz.com.tr#?#tbody > tr > td[width="307"][valign="top"][bgcolor="#FFFFFF"] > table[width="100%"][cellpadding="8"][-ext-has="strong:contains(Bizi Facebook'ta takip edin)"]
+piste.de#?##wrapper > .large-4 > .headline[-ext-has='h5 > span.red:contains(Facebook)']
+prjaga.ru#?##right > div#right_nav > h3:contains(Мы )
+bg-gledai.tv#?#.right > .featbox[-ext-has=".sidetitl:contains(Facebook)"]
+vol.az#?##footer > .column-one-fourth[-ext-has=".line > span:contains(FACEBOOK)"]
+limitsizdayi.org#?##right-sidebar > br + .side-block[-ext-has=".fa-facebook-square"]
+shayhowe.com#?#.pop-out > .toc > h6:contains(Share)
+bythom.com#?##sidebar-content div.pagelet.titled[-ext-has="> h4 > span:contains(Social Links)"]
+ran.de#?##hs-customer-block > section[class="box module_group psdcontainer clearfix icon-left has_header "][-ext-has='.hs-module_header > h2:contains(Facebook)']
+csgo-stats.net#?#.container > div.row > div > div.picture-list[-ext-has="> div.card-header > h2:contains(Share)"]
+kachelmannwetter.com#?#.row > .col-lg-6 > h2.head-index:contains(Facebook)
+stylevamp.de#?#.site-main > #secondary > .widget > .section-title:contains(Finde uns auf Facebook)
+g2esports.com#?#.container-fluid > .section-header > .pull-right[-ext-has='a[href="https://twitter.com/G2Esports"]']
+schwaebische.de#?#aside > .grey[-ext-has='>div.fb-page']
+solidshare.net#?##dle-content div.cerceve[-ext-has='center > img[src$="/paylas.png"]']
+teknolojic.com#?##page_right > .right_block[-ext-has='div.socialRightBlock']
+elazigyeniufuk.com#?##page_right > .right_block[-ext-has='div[class$="socialRightBlock"]']
+bugununhaberi.com,karadenizmanset.com,saraykoy.com.tr,sporhd.com#?##page_right div.right_block[-ext-has="div.title.grey:contains(Sosyal Medya)"]
+oyunprogram.gen.tr#?##secondary .widget[-ext-has='*>.fb-page']
+imdb.com#?##sidebar > .aux-content-widget-2[-ext-has='div.ab_facebook']
+imdb.com#?##sidebar > .aux-content-widget-2[-ext-has='div.ab_twitter']
+filmizlef.net#?##sidebar > .border5a[-ext-has=">.header>h3:contains(Google + 'da takip edin)"]
+thurrott.com#?##sidebar > .widget[-ext-has='ul.social-icons']
+vioyun.com#?##sidebar > .widget_text[-ext-has="span:contains(Facebook)"]
+hurriyetoto.com#?##urunSag_menu li[-ext-has='ul[id$="ilaniPaylas"]']
+extra-radio.de#?#.bc_left div.box_left[-ext-has="div.box_left_headline>h5.swiss:contains(Facebook)"]
+vol.az#?#.bolmeici > div[class$="tab-menu"][-ext-has='a[href^="#"]:contains(Одноклассники & VK like)']
+minikacocuk.com.tr,minikago.com.tr#?#.boxBlack[-ext-has="> .row:first-child > .social"]
+ikz-online.de,nrz.de,waz.de,wp.de,wr.de#?#.content-triple__column[-ext-has=".fb_iframe_widget"]
+hesaplama.net#?#.hesaplama_sonuclari > ol li[-ext-has='label:contains(Paylaş)']
+vipbox.nu#?#.hidden-md > .panel[-ext-has='span.st_facebook']
+fullhdfilmadresi.com#?#.leftC > .filmborder[-ext-has='div[class$="plink"]']
+sarkisozlerihd.com#?#.lyric-bottom .pull-right[-ext-has='span.lyric-share']
+onedio.com#?#.main > .entry.html[-ext-has="h2:contains(YouTube Kanalımıza Abone)"]
+vse42.ru#?#.more-content-holder div[class="block"][-ext-has=">.social-tabs"]
+sarkisozleri.biz.tr#?#.right > .sagliste[-ext-has='div.fb-like-box']
+filmsarayi.net#?#.sidebarborder[-ext-has='div[class$="facebookbox"]']
+androidcanavari.net#?#aside.sidebar div.widget.widget_text[-ext-has=".fb-page"]
+ikz-online.de,nrz.de,waz.de,wp.de,wr.de#?#div.sidebar__column > div.content-options div.content-options[-ext-has="span.block-header__icon:contains(Facebook)"]
+otoraba.com#?#div[class$="kutu gri"][-ext-has='div[class$="g-plusone"]']
+abendzeitung-muenchen.de#?#div[class$="statichtmlbrick module"][-ext-has='div[class$="fb-page"]']
+bookdl.org#?#div[style$="width:320px;height:235px;"][-ext-has='div.fb-like-box']
+bookdl.org#?#div[style*="width: 320px; height: 235px;"][-ext-has='div.fb-like-box']
+golem.de#?#li[class="text1"][-ext-has='div[class$="social-bar social-sidebar"]']
+turkanime.tv#?#td[valign="top"][style="padding-left:10px; padding-top:10px; padding-right:5px;"] div[-ext-has='span.ui-blok-title:contains(FACEBOOK)']
+!
+fontanka.ru#?##app div[class] > aside[class] + div[class] > section[class] article[data-io-article-url] + div > div[class] > div[class]:has(> h4[class]:contains(ПОДЕЛИТЬСЯ))
+!
+gog.com#?#div[gog-hide-by-window-name="galaxy_order_popup"] > div[gog-dropdown]:contains(share)
+gog.com#?#div[gog-hide-by-window-name="galaxy_order_popup"] > div[gog-dropdown]:contains(share) + span.order-message__separator
+!
+! share button in player
+phys-kids.com#?##oframeplayer > pjsdiv[style*="position: absolute"][style*="opacity"]:has(> pjsdiv[style*="position: absolute"][style*="top: -10px"][style*="left: -10px"] > svg[width="20"][height="20"])
+!
+hdreactor.club,hdreactor.su,hdreactor.tv,hdreactor.net#?#.sidebar > div.menu-head:contains(Наша Группа ВК)
+hdreactor.club,hdreactor.su,hdreactor.tv,hdreactor.net#?#.sidebar > div.menu-head:contains(Наша Группа ВК) + div.menu-head1
+!
+!+ PLATFORM(windows, mac, android)
+jbbs.seesaa.net#?#.bookmark > .sns_box
+! Popups
+buzzhand.com#$?#.mash-lightbox[-ext-has="div"] { display: none!important; }
+buzzhand.com#$?#body[-ext-has="div"] { overflow: visible!important; }

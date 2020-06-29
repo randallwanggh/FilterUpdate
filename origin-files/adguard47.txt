@@ -1,0 +1,423 @@
+!
+! Section fixing issues caused by social filter
+!
+! #Social locker#
+!#if (adguard_ext_safari || adguard_app_ios || adguard_ext_android_cb)
+@@||platform.twitter.com/js/button$domain=thehungryjpeg.com|softwarespro.net
+@@||facebook.com/*/plugins/like.php?action=like$domain=thehungryjpeg.com|softwarespro.net
+thehungryjpeg.com,softwarespro.net#@#body .twitter-share-button
+thehungryjpeg.com,softwarespro.net#@#.fb-like
+!#endif
+! #End Social locker
+!
+! https://github.com/AdguardTeam/AdguardFilters/issues/56769
+!+ PLATFORM(ios, ext_android_cb, ext_safari)
+@@||reddit.com/r/*/social_media_
+! wyborcza.pl - incorrect blocking
+wyborcza.pl,wyborcza.biz#@#.socialBar
+! https://github.com/AdguardTeam/AdguardFilters/issues/56631
+bat.com#@#.socialbutton
+! https://github.com/AdguardTeam/AdguardFilters/issues/56093
+minutouno.com#@#.social-wrapper
+! https://github.com/AdguardTeam/AdguardFilters/issues/56129
+png.is,nohat.cc#@#.socialshare
+! https://github.com/AdguardTeam/AdguardFilters/issues/54891
+!+ PLATFORM(ios, ext_android_cb, ext_safari)
+@@||onet.pl^$generichide
+! meczyki.pl - embedded tweets are hidden
+meczyki.pl#@#.social-wrapper
+! https://github.com/AdguardTeam/AdguardFilters/issues/54986
+pzonline.com#@#.social_fix
+! https://github.com/AdguardTeam/AdguardFilters/issues/54894
+politico.com#@#.social-tools
+! kontrast.at - broken social icons
+@@||kontrast.at/wp-content/plugins/easy-social-share-buttons$font
+! https://github.com/AdguardTeam/AdguardFilters/issues/54231
+jobs.kroger.com#@#.socialbutton
+! https://github.com/AdguardTeam/AdguardFilters/issues/52210
+@@||vk.com/js/api/share.js$domain=redspell.ru
+! https://github.com/AdguardTeam/AdguardFilters/issues/52979
+epaper.hindustantimes.com#@#.share_article
+! https://github.com/AdguardTeam/AdguardFilters/issues/53436
+@@||facebook.com/*/plugins/$domain=theidealist.ru
+theidealist.ru#@#.fb-page
+! https://github.com/AdguardTeam/AdguardFilters/issues/53321
+scribd.com#@#.social_wrapper
+! https://github.com/AdguardTeam/AdguardFilters/issues/52669
+ixl.com#@#.social-sharing
+! https://github.com/AdguardTeam/AdguardFilters/issues/51619
+spin.com#@#.social-icons
+! https://github.com/AdguardTeam/AdguardFilters/issues/51554
+pixabay.com#@#.like_buttons
+! https://github.com/AdguardTeam/AdguardFilters/issues/50864#issuecomment-594525860
+@@||addthis.com/js/*/addthis_widget.js$domain=nacongaming.com
+! https://forum.adguard.com/index.php?threads/37751/
+paywithapost.de#@#a[href^="https://www.facebook.com/sharer.php"]
+! https://github.com/AdguardTeam/AdguardFilters/issues/50823
+thekrazycouponlady.com#@#.share-buttons
+! https://github.com/AdguardTeam/AdguardFilters/issues/49604
+! Unhide links to a websites in different languages
+nutella.com#@#.socials
+! https://github.com/AdguardTeam/AdguardFilters/issues/49377
+gwytb.gov.cn#@#.sharebox
+! https://github.com/AdguardTeam/AdguardFilters/issues/49512
+ihned.cz#@#.social-buttons
+! https://github.com/AdguardTeam/AdguardFilters/issues/49380
+callingtaiwan.com.tw#@#.share-container
+! https://github.com/AdguardTeam/AdguardFilters/issues/48501
+play.kotlinlang.org#@#.share__button
+! Blocked icons for social logging
+@@||i.ua/*/ico/share/share_*_24.png$domain=passport.i.ua
+! https://github.com/AdguardTeam/AdguardFilters/issues/47616
+cs-cart.com#@##social-buttons
+! https://github.com/AdguardTeam/AdguardFilters/issues/47623
+xmind.net#@#.share-page
+! https://github.com/AdguardTeam/AdguardFilters/issues/47288
+gamegaz.com#@#.social-count
+! https://github.com/AdguardTeam/AdguardFilters/issues/50003
+! https://github.com/AdguardTeam/AdguardFilters/issues/47287
+nytimes.com,brainfall.com#@#.share-btn
+! https://github.com/AdguardTeam/AdguardFilters/issues/47370
+@@||olgasmile.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/
+! freundin.de - unblocking embedded pinterest pictures
+@@||assets.pinterest.com/js/pinit.js$domain=freundin.de
+@@||assets.pinterest.com/js/pinit_main.js$domain=freundin.de
+! https://github.com/AdguardTeam/AdguardFilters/issues/46783
+mogaznews.com#@#.img-share
+! https://github.com/AdguardTeam/AdguardFilters/issues/46310
+bionluk.com#@#.social-button
+! https://github.com/AdguardTeam/AdguardFilters/issues/43831
+kayseritelgraf.com#@#.social-icon
+! https://github.com/AdguardTeam/AdguardFilters/issues/43424
+@@||platform.twitter.com/oct.js$domain=nuheara.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/43043
+adaymag.com#@#.share-container
+! https://github.com/AdguardTeam/AdguardFilters/issues/43096
+naszesprawy.eu#@#.social-icon
+! https://github.com/AdguardTeam/AdguardFilters/issues/47355
+! https://github.com/AdguardTeam/AdguardFilters/issues/42785
+uber.com#@#input.fb
+uber.com#@#input.vk
+! https://github.com/AdguardTeam/AdguardFilters/issues/42778
+@@||addthis.com/js/*/addthis_widget.js$domain=ripsave.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/42146
+4shared.com#@#.social-button
+! https://github.com/AdguardTeam/AdguardFilters/issues/42067
+gracefulabandon.com#@#.nav-social
+! https://github.com/AdguardTeam/AdguardFilters/issues/39958
+money.co.uk#@#.addThis
+! https://github.com/AdguardTeam/AdguardFilters/issues/39815
+openstreetmap.org#@#.share-link
+! itsmycity.ru - fix next article loading
+@@||platform-api.sharethis.com/js/sharethis.js$domain=itsmycity.ru
+! https://github.com/AdguardTeam/AdguardFilters/issues/37719
+tiempo.com.mx#@#.socialShare
+! https://github.com/AdguardTeam/AdguardFilters/issues/39515
+carfax.com#@#.fb-button
+! https://github.com/AdguardTeam/AdguardFilters/issues/37431
+! https://github.com/AdguardTeam/AdguardFilters/issues/41986
+!+ NOT_OPTIMIZED
+@@||lightningmaps.org/min/index.php?f=js/
+! https://github.com/AdguardTeam/AdguardFilters/issues/37306
+@@||connect.facebook.net/en_US/sdk.js$domain=agar.io
+! https://github.com/AdguardTeam/AdguardFilters/issues/35390
+doshermanasinfo.com#@#.share-container
+! https://github.com/AdguardTeam/AdguardFilters/issues/36892
+cheesequeen.co.kr#@#.sns_list
+! fotostrana.ru - fixing auth
+@@||connect.mail.ru/proxy?resource=getLoginStatus$domain=fotostrana.ru
+! https://github.com/AdguardTeam/AdguardFilters/issues/35547
+@@||addthis.com/js/*/addthis_widget.js$domain=samsonite.com.my
+! https://github.com/AdguardTeam/AdguardFilters/issues/34528
+@@||addthis.com/js/*/addthis_widget.js$domain=litres.ru
+! https://github.com/AdguardTeam/AdguardFilters/issues/34729
+soundiiz.com#@#.social-row
+! https://github.com/AdguardTeam/AdguardFilters/issues/34675
+truthinsideofyou.org#@#.share-container
+! https://github.com/AdguardTeam/AdguardFilters/issues/34187
+sme.sk#@#.share-box
+! https://github.com/AdguardTeam/AdguardFilters/issues/34093
+!#if (adguard_ext_safari || adguard_app_ios || adguard_ext_android_cb)
+fxhome.com#@#a[href^="https://twitter.com/intent/tweet?"]
+fxhome.com#@#a[href^="https://www.facebook.com/sharer/sharer.php"]
+!#endif
+! https://github.com/AdguardTeam/AdguardFilters/issues/33845
+@@||addthis.com/js/*/addthis_widget.js$domain=dummies.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/33315
+cointiply.com#@#.social-tab
+! https://github.com/AdguardTeam/AdguardFilters/issues/32505
+kriptokoin.com#@#.share-container
+! https://github.com/AdguardTeam/AdguardFilters/issues/32256
+@@||m.addthisedge.com/live/boost/*/_ate.track.config_resp
+! https://github.com/AdguardTeam/AdguardFilters/issues/32381
+geleceksimdi.com#@#.share-container
+! https://github.com/AdguardTeam/AdguardFilters/issues/32353
+lowyat.net#@#.share-container
+! deezer.com - fixing authorization
+@@||connect.facebook.net/*/sdk/vb.js$domain=deezer.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/30633
+virginradio.it#@#.social2
+! https://github.com/AdguardTeam/AdguardFilters/issues/30623
+applemagazine.com#@#.share-container
+! https://github.com/AdguardTeam/AdguardFilters/issues/30082
+@@||vk.com/js/api/share.js$domain=ctc.ru
+! https://github.com/AdguardTeam/AdguardFilters/issues/28838
+@@||extrakupony.pl/js/zakladki.js
+! https://github.com/AdguardTeam/AdguardFilters/issues/29303
+gmanetwork.com#@#.page-share
+! https://github.com/AdguardTeam/AdguardFilters/issues/26784
+@@||remontnik.ru/static/js/app.min/components/Socials/SocialButtons/SocialButtons.js
+! https://github.com/AdguardTeam/AdguardFilters/issues/27091
+@@||addthis.com/js/*/addthis_widget.js$domain=mutfaksirlari.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/26808 -- unhiding self-promo social buttons
+harpers.org#@#.socialmedia
+! https://github.com/AdguardTeam/AdguardFilters/issues/26287
+arkansasmatters.com,kark.com#@#.meta-share
+! https://github.com/AdguardTeam/AdguardFilters/issues/25625
+nid.naver.com#@#.sns_list
+! https://github.com/AdguardTeam/AdguardFilters/issues/23385
+@@||addthis.com/js/*/addthis_widget.js$domain=citytv.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/34904
+@@||addthis.com/js/*/addthis_widget.js$domain=wiggle.com.au|wiggle.ru
+! https://github.com/AdguardTeam/AdguardFilters/issues/24809
+@@||addthis.com/js/*/addthis_widget.js^$domain=theprp.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/24925
+tw.mobi.yahoo.com#@#.socialBar
+! https://github.com/AdguardTeam/AdguardFilters/issues/24655
+@@||addthis.com/*/official-addthis-angularjs/current/dist/official-addthis-angularjs.min.js$domain=ead.senac.br
+! https://github.com/AdguardTeam/AdguardFilters/issues/24429
+tripzilla.ph#@#.share-container
+! https://github.com/AdguardTeam/AdguardFilters/issues/24522
+xboxdvr.com#@#.social-button
+! https://github.com/AdguardTeam/AdguardFilters/issues/24061
+mustangnews.net#@#.share-container
+! https://github.com/AdguardTeam/AdguardFilters/issues/23842
+@@||platform.linkedin.com/in.js$domain=malaysianwireless.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/23857
+jobs.bostonscientific.com#@#.socialbutton
+! https://github.com/AdguardTeam/AdguardFilters/issues/22219
+@@||addthis.com/js/*/addthis_widget.js$domain=restorationhardware.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/20583
+@@||addthis.com/js/*/addthis_widget.js^$domain=pudra.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/19990
+@@||smartvsphone.it/wp-content/plugins/ultimate-social-media-plus/css/sfsi-style.css
+@@||smartvsphone.it/wp-content/plugins/ultimate-social-media-plus/images/icons_theme/flat/flat_
+! avgle.com - fake video after a while
+@@||addthis.com/js/300/addthis_widget.js$domain=avgle.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/19498
+neoseeker.com#@#.social_share
+! https://github.com/AdguardTeam/AdguardFilters/issues/18411
+@@||addthis.com/js/*/addthis_widget.js$domain=kinitv.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/17070
+! https://github.com/AdguardTeam/AdguardFilters/issues/50575
+@@/wp-content/plugins/easy-social-share-button$font,domain=appbrowser.ru|cpomagazine.com|incelemeks.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/15897
+@@||count-server.sharethis.com/*/get_counts$domain=haberkibris.com
+@@||platform-api.sharethis.com/js/sharethis.js$domain=haberkibris.com
+@@||buttons-config.sharethis.com/js^$domain=haberkibris.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/16051
+@@||count-server.sharethis.com/*/get_counts$domain=odatv.com
+@@||platform-api.sharethis.com/js/sharethis.js$domain=odatv.com
+@@||buttons-config.sharethis.com/js^$domain=odatv.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/15869
+1password.com#@#.share-button
+! https://github.com/AdguardTeam/AdguardFilters/issues/15322
+@@||addthis.com/js/*/addthis_widget.js$domain=motorsport-total.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/14989
+@@||addthis.com/js/*/addthis_widget.js$domain=politico.com
+! https://forum.adguard.com/index.php?threads/28493/
+@@||platform.twitter.com/js/button.*.js$domain=vectorhq.com
+@@||platform.twitter.com/widgets/$domain=vectorhq.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/13064
+forbes.com#@#a[href^="https://twitter.com/intent/tweet?"]
+! https://github.com/AdguardTeam/AdguardFilters/issues/12193
+@@||news.filehippo.com/wp-content/themes/filehippo/js/socialite.min.js
+! https://github.com/AdguardTeam/AdguardFilters/issues/12100
+!+ PLATFORM(ios, ext_android_cb)
+windowstechblog.nl#@#.fb-like
+!+ PLATFORM(ios, ext_android_cb)
+@@||facebook.com/*/plugins/$domain=windowstechblog.nl
+!+ PLATFORM(ios, ext_android_cb)
+@@||platform.twitter.com/js/button.$domain=windowstechblog.nl
+!+ PLATFORM(ios, ext_android_cb)
+@@||platform.twitter.com/widgets/follow_button$domain=windowstechblog.nl
+! https://github.com/AdguardTeam/AdguardFilters/issues/11677
+@@||addthis.com/js/*/addthis_widget.js^$domain=pafc.co.uk
+! overclockers.ru - fixing comments
+@@||facebook.com/plugins/like_box.php^$domain=overclockers.ru
+! https://github.com/AdguardTeam/AdguardFilters/issues/11332
+@@||addthis.com/js/*/addthis_widget.js^$domain=corepoweryoga.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/11330
+@@||kalemsende.com/wp-content/plugins/easy-social-share-buttons3/lib/modules/social-followers-counter/assets/font/essb-socialfollowers.
+! https://github.com/AdguardTeam/AdguardFilters/issues/9202
+@@||addthis.com/js/*/addthis_widget.js^$domain=mojekrpice.hr
+! https://github.com/AdguardTeam/AdguardFilters/issues/8520
+@@||facebook.com/*/plugins^$domain=tiendichshop.vn
+! https://github.com/AdguardTeam/AdguardFilters/issues/28787
+! https://github.com/AdguardTeam/AdguardFilters/issues/8110 https://github.com/AdguardTeam/AdguardFilters/issues/8112 https://github.com/AdguardTeam/AdguardFilters/issues/8528 https://github.com/AdguardTeam/AdguardFilters/issues/8546
+stiefelparadies.de#@#.social-sidebar
+stiefelparadies.de#@#.icon-google-plus
+stiefelparadies.de,justfab.de,oettinger-bier.de,mydays.de#@#.icon-pinterest
+justfab.de#@#.icon-gplus
+! https://github.com/AdguardTeam/AdguardFilters/issues/8457
+sn.at#@#.icon-gplus
+! https://github.com/AdguardTeam/AdguardFilters/issues/8043
+dronedj.com#@#.header-social
+! https://github.com/AdguardTeam/AdguardFilters/issues/8127
+@@||vk.com/js/api/share.js$domain=radio7.ru
+! https://github.com/AdguardTeam/ExperimentalFilter/issues/315
+@@||vk.com/js/api/share.js$domain=filmec.in.ua
+! https://forum.adguard.com/index.php?threads/27275/
+@@||vk.com/share.php$domain=tahc.ru
+@@||vk.com/js/api/share.js$domain=tahc.ru
+! https://forum.adguard.com/index.php?threads/25711/
+!+ PLATFORM(android, ext_android_cb, ios)
+hurriyet.com.tr#@#.social-line
+! https://forum.adguard.com/index.php?threads/25162/
+@@||facebook.com/restserver.php?*.getStats&$domain=agsat.com.ua
+! https://github.com/AdguardTeam/AdguardFilters/issues/6695
+cnet.com#@#.share-button
+! https://github.com/AdguardTeam/AdguardFilters/issues/6438
+radiojavan.com#@##socialize
+! https://github.com/AdguardTeam/AdguardFilters/issues/20494
+! https://forum.adguard.com/index.php?threads/24670/
+@@||facebook.com/plugins/page.php^$domain=sonoraquetzal.com|mixcloud.com
+! https://forum.adguard.com/index.php?threads/https-www-ghacks-net.24274/
+ghacks.net#@#.synved-social-button
+! https://forum.adguard.com/index.php?threads/26010/
+@@||graph.facebook.com/?id=$domain=mintmanga.com|findanime.me|doramatv.ru|librebook.me|selflib.me|grouple.co|readmanga.me
+! https://github.com/AdguardTeam/AdguardFilters/issues/6370
+barstoolsports.com#@#.socialwrap
+! https://github.com/AdguardTeam/AdguardFilters/issues/6058
+chowhound.com#@#a[href^="http://pinterest.com/pin/create/button/"]
+! https://forum.adguard.com/index.php?threads/http-news-filehippo-com.24015/
+@@||technews.wpengine.netdna-cdn.com/wp-content/themes/filehippo/js/socialite.min.js$domain=filehippo.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/5856
+maketecheasier.com#@#.icon-pinterest
+maketecheasier.com#@#.icon-google-plus
+! https://github.com/AdguardTeam/AdguardFilters/issues/5672
+! https://github.com/AdguardTeam/AdguardFilters/issues/5702
+mic.com#@#.social-icon
+! https://github.com/AdguardTeam/AdguardFilters/issues/5704
+clashofclans.com#@#.icon-reddit
+! https://github.com/AdguardTeam/AdguardFilters/issues/5835
+@@||mercury.landmarkglobal.com/tracking/track.php
+! https://github.com/AdguardTeam/AdguardFilters/issues/5737
+cbsnews.com#@#.social-icons
+! https://github.com/AdguardTeam/AdguardFilters/issues/5452
+benetton.com#@#.icon-instagram
+benetton.com#@#.icon-google-plus
+benetton.com#@#.icon-pinterest
+! https://github.com/AdguardTeam/AdguardForiOS/issues/287
+@@||w.sharethis.com/button/buttons.js$domain=legacy.com
+!
+!!! https://github.com/AdguardTeam/AdguardFilters/issues/5303
+@@||googlevideo.com/videoplayback?$domain=9anime.to
+@@||blogspot.com^$~image,domain=9anime.to
+!
+@@||mycloud.to/resources/css/
+@@//mycloud.to/resources/js/player.js
+@@//mycloud.to/resources/player/jwplayer-*/jwplayer.js
+!!!
+! https://github.com/AdguardTeam/AdguardFilters/issues/5093
+bie-dro.de#@#.header-social
+! https://github.com/AdguardTeam/AdguardFilters/issues/5080
+@@||ghbtns.com/github-btn.html$domain=etcher.io
+! https://github.com/AdguardTeam/AdguardFilters/issues/4902
+@@||xing-share.com/assets/spi/message_proxy-*.js$domain=xing.com
+@@||xing-share.com/plugins^$domain=bewerbung.co
+! Unblock minificated scripts library
+! for example: http://kinogo-net-co.ru/engine/classes/min/index.php?charset=windows-1251&f=/engine/classes/js/jquery.js,*,/templates/Kinogo/js/social-likes.min.js
+@@/engine/classes/min/index.php?*/social-likes.min.js$~third-party
+@@/engine/classes/min/?charset=*/social-likes.min.js$~third-party
+! Fixing authorization via FaceBook
+@@||facebook.com/*/plugins/login_button.
+! https://forum.adguard.com/index.php?threads/18418/
+@@||addthis.com/js/*/addthis_widget.js^$domain=hatsandcaps.co.uk
+! Fixing broken buttons on some sites
+@@||yandex.st/share/share.js$domain=66.ru|calculatewater.ru|ktk.kz|splav.ru|vnukovo.ru|yadi.sk|gama-gama.ru|foxtrot.com.ua|radiorecord.ru|xn--80aneaaefcxzcih6g1e.xn--p1ai
+@@||yastatic.net/share*/share.js$domain=trans.ru|chepetsk.ru|iz.ru|thequestion.ru|readovka.ru|mazda.ru|vse.fm|kinogo-720.net|xn--80aneaaefcxzcih6g1e.xn--p1ai|playground.ru|foxtrot.com.ua|biglion.ru|master-of-orion.ru|ktk.kz|universarium.org|pix.playground.ru|xn--80aaelc4ars1a7ab6d.xn--p1ai|kramola.info|myfin.by|zona.plus|culture.ru
+! zenmate.com preemium trial sign up
+zenmate.com#@#.social-networks
+! https://forum.adguard.com/index.php?threads/13009/
+@@||facebook.com/*/plugins/$domain=dlh.net
+dlh.net#@#.fb-like
+! https://forum.adguard.com/index.php?threads/12378/
+@@||api.facebook.com/method/links.getStats$domain=grammarly.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/2701
+belgafiles.com,dakine.com,linkedin.com,way2sms.com#@#.share-box
+! https://github.com/AdguardTeam/AdguardFilters/issues/2566
+@@||vk.com/js/api/share.js$domain=bobfilm1.net|bobfilm.net
+! https://forum.adguard.com/index.php?threads/11743/
+@@||sol-online.ru/art/sol-board
+! https://github.com/AdguardTeam/ExperimentalFilter/issues/2124
+@@||orlandoweekly.com/wp-content/plugins/wpsocialite/Socialite/socialite.min.js
+! https://github.com/AdguardTeam/ExperimentalFilter/issues/2052
+@@||platform.linkedin.com/in.js$domain=youngliving.com
+! Do not block facebook embedded video
+@@||facebook.com/plugins/video.php
+! tune.com - fixing broken navigation bar
+@@||tune.com/blog/wp-content/plugins/ultimate-social-deux/public/assets/css/style.css
+! Fixing authorization via vk.com
+@@||vk.com/widget_auth.php
+! unblocking comments, embed posts, embed player
+@@||vk.com/widget_comments.php
+@@||vk.com/widget_post.php
+@@||vk.com/widget_playlist.php
+! https://github.com/AdguardTeam/ExperimentalFilter/issues/1437
+@@||zona.mobi/js/build/libs/likely.js
+! https://github.com/AdguardTeam/ExperimentalFilter/issues/1185
+@@||platform.twitter.com/oct.js$domain=vulcun.com
+! https://github.com/AdguardTeam/ExperimentalFilter/issues/932
+@@||talon.by/squeeze/
+! https://github.com/AdguardTeam/ExperimentalFilter/issues/851
+@@||addthis.com/js/*/addthis_widget.js$domain=milli-firka.org
+! rifey.ru - comments broken
+@@||rifey.ru/sites/default/files/advagg_js/$document
+! rolandgarros.com - broken videos
+@@||i.po.st^$domain=rolandgarros.com
+! unblocking comments plugin
+@@||facebook.com/*/plugins/comments.php
+@@||facebook.com/plugins/feedback.php
+@@||facebook.com/plugins/comments
+@@||facebook.com/plugins/livefeed.php$document
+@@||facebook.com/plugins/login_button.php$document
+! unblocking facebook embedded posts and comments
+@@||facebook.com/plugins/comment_embed.php
+@@||facebook.com/*/plugins/post.php
+@@||facebook.com/*/plugins/video.php
+@@||facebook.com/plugins/post
+! addthis.com was broken
+@@||addthiscdn.com^$domain=addthis.com
+! http://forum.adguard.com/showthread.php?3492
+@@||gibdd.ru/about/social/
+! https://github.com/AdguardTeam/ExperimentalFilter/issues/253
+@@||civilization.com^$jsinject
+! simcity.com
+@@||facebook.com/plugins/$domain=simcity.com
+@@||fls.doubleclick.net^$domain=simcity.com
+@@||twitter.com/widgets$domain=simcity.com
+! http://forum.adguard.com/showthread.php?2919
+@@||vkontakte.ru/js/api/share.js^$domain=nashe.ru
+! Fixing CNET login
+@@||gigya.com/*/socialize.js
+! http://forum.adguard.com/showthread.php?2728 Comments blocked
+@@||facebook.com/sharer.php$third-party,domain=lifehacker.com
+@@||twitter.com/share$third-party,domain=lifehacker.com
+!
+lse.co.uk#@#.shareContent
+! Socialshareprivacy
+@@||notebookcheck.com^*/jquery.socialshareprivacy.min.js
+@@||panzi.github.io/SocialSharePrivacy/
+@@||schluetersche.de/global/js/libs/jquery/plugins/socialshareprivacy/jquery.socialshareprivacy.min.js
+@@||spardaspendenwahl.de^*/jquery.socialshareprivacy.min.js
+@@||weser-kurier.de/stellen/riot-utils/joined.js?*/socialshareprivacy/
+@@||wn-gruesse.de^*/socialshareprivacy/$script
+@@||wn-jobs.de^*/socialshareprivacy/$script
+@@||wn-markt.de^*/socialshareprivacy/$script
+@@||wn-mobil.de^*/socialshareprivacy/$script
+@@||apotheken-umschau.de$content
+!
+@@||i.po.st/static/v3/post-widget.js$domain=seenive.com
+@@||gstatic.com/chrome/webstore/images/share_$domain=google.com
+@@||slidesharecdn.com/images/share_icon_transparent.png$domain=slideshare.net

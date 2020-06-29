@@ -1,0 +1,104 @@
+!
+! These rules are against all kinds of ad blocking reinjection/circumvention scripts
+!
+!--- Temporary
+! https://github.com/AdguardTeam/AdguardForiOS/issues/255
+@@||m.beautypageants.in^$elemhide
+!---
+! Rules for AdFender to block injected ads when AdGuard DNS is active
+!+ PLATFORM(ios, ext_android_cb)
+||chefkoch.de/magazin/sites/default/files/styles/*/public/media/image/*/*_*x*.jpg
+!
+! merkur.de amp adblock detection for glomex video (Android)
+@@||imasdk.googleapis.com/*/ima3.js$domain=player.glomex.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/44990
+@@||m.da.mgtv.com/m/player?_type_object=$domain=m.mgtv.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/32971
+!+ PLATFORM(ios, ext_android_cb)
+@@||usgamer.net^$generichide
+! https://github.com/AdguardTeam/AdguardFilters/issues/27586
+@@||js.kanald.com.tr/assets/dist/js/custom/ads.js
+! https://github.com/AdguardTeam/AdguardFilters/issues/23913
+!+ PLATFORM(ios, ext_android_cb)
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=anlink.top
+! wr.de/wp.de/nrz.de
+!+ PLATFORM(ios, ext_android_cb)
+wr.de,wp.de,nrz.de#@#.ad
+! https://github.com/AdguardTeam/AdguardFilters/issues/17629
+@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=thebrickfan.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/16544
+!+ PLATFORM(ios, ext_android_cb)
+@@||dallasnews.com^$generichide
+! https://github.com/AdguardTeam/AdguardFilters/issues/16085
+m.postimees.ee#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links { display: block !important; }
+@@||m.postimees.ee/static/libraries/fuckadblock.js
+!+ PLATFORM(ios, ext_android_cb)
+@@||m.postimees.ee^$generichide
+! https://github.com/AdguardTeam/AdguardFilters/issues/8802
+@@||securepubads.g.doubleclick.net/gpt/pubads_impl_$domain=mobile.donanimhaber.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/14770
+!+ PLATFORM(ios, ext_android_cb)
+@@||publico.pt^$generichide
+! https://github.com/AdguardTeam/AdguardFilters/issues/14756
+!+ PLATFORM(ios, ext_android_cb)
+@@||synonymbog.com^$generichide
+! https://github.com/AdguardTeam/AdguardFilters/issues/14752
+!+ PLATFORM(ios, ext_android_cb)
+@@||farmeramania.de^$generichide
+! https://github.com/AdguardTeam/AdguardFilters/issues/9789
+!+ PLATFORM(ios, ext_android_cb)
+@@||wstream.video/img2/rivcash_banner
+! https://github.com/AdguardTeam/AdguardFilters/issues/5033
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=dthforum.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/4732
+@@/popunder*.js$domain=kissanime.ru
+@@/adlabs.js$domain=kissanime.ru
+! https://forum.adguard.com/index.php?threads/20215/
+@@||smedia2.intoday.in/aajtak_pwapp$script
+! https://forum.adguard.com/index.php?threads/19885/
+||m.eisamay.com/detector.cms
+! https://forum.adguard.com/index.php?threads/19892/
+||samayam.com/detector.cms
+! https://forum.adguard.com/index.php?threads/16365/
+@@||m.beautypageants.in^$generichide
+! https://forum.adguard.com/index.php?threads/15379/
+@@||static.expressbpd.com/rsjs/ads.js
+! https://forum.adguard.com/index.php?threads/15378/
+@@||ads.dainikbhaskar.com/AdTech/ads/ads.js
+! https://github.com/AdguardTeam/AdguardFilters/issues/3067
+@@||javadecompilers.com^$generichide
+! https://github.com/AdguardTeam/AdguardFilters/issues/3067
+delfi.ee#@#.adbanner
+delfi.ee#%#Object.defineProperty(window, 'adblock_detect_run', { get: function() { return true; } });
+! https://github.com/AdguardTeam/AdguardFilters/issues/23128
+! https://github.com/AdguardTeam/AdguardFilters/issues/3025
+food.ndtv.com,m.ndtv.com#@#.ad300
+food.ndtv.com,m.ndtv.com#%#Object.defineProperty(window, 'canRunAdsN', { get: function() { return false; } });
+! https://github.com/AdguardTeam/AdguardFilters/issues/2506
+@@||m.timesofindia.com/ad-*.cms
+@@||m.timesofindia.com/*ads*.cms
+@@||b.scorecardresearch.com/beacon.js$domain=m.timesofindia.com
+@@||google-analytics.com/analytics.js$domain=m.timesofindia.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=m.timesofindia.com
+@@||static.chartbeat.com/js/chartbeat.js$domain=m.timesofindia.com
+@@||static.clmbtech.com^$domain=timesofindia.com,script
+@@||tags.crwdcntrl.net/*.js?ns=^$domain=m.timesofindia.com
+@@||tags.crwdcntrl.net/c/*/cc.js?ns=$domain=m.timesofindia.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/2661
+@@||mobi.oui9.com/advertisement.js
+! https://github.com/AdguardTeam/AdguardFilters/issues/2322
+pcmag.com##body > div[style^="position:fixed;top:47%;width:100%;height:auto;z-index:9999;"]
+! http://forum.adguard.com/showthread.php?10051
+moroccoworldnews.com#@#.header-ad
+moroccoworldnews.com#@#.custom-ad
+! https://github.com/AdguardTeam/ExperimentalFilter/issues/713
+gizchina.com#@#.header-ad
+! https://github.com/AdguardTeam/ExperimentalFilter/issues/449
+gizmobolt.com#@#.custom-ad
+gizmobolt.com#@#.header-ad
+! https://github.com/AdguardTeam/ExperimentalFilter/issues/1817
+blogdoiphone.com#@#.header-ad
+blogdoiphone.com#@#.custom-ad
+! https://github.com/AdguardTeam/ExperimentalFilter/issues/1709
+westseattleblog.com#@#.custom-ad
+westseattleblog.com#@#.header-ad

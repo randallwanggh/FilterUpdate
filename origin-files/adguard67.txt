@@ -1,0 +1,139 @@
+!
+! Section contains list general hiding rules
+!
+! https://github.com/AdguardTeam/AdguardFilters/issues/56937
+!+ NOT_OPTIMIZED
+###interads
+! https://github.com/AdguardTeam/AdguardFilters/issues/51287#issuecomment-599896371
+!+ NOT_OPTIMIZED
+##.ad-container--leaderboard
+! https://github.com/AdguardTeam/AdguardFilters/issues/47225
+!+ NOT_OPTIMIZED
+###videopageadblock
+!+ NOT_OPTIMIZED
+###floatingAdContainer
+! winfuture.de - left-over
+!+ NOT_OPTIMIZED
+##.ad_w300i
+!+ NOT_OPTIMIZED
+##.adsbygoogle
+! https://github.com/AdguardTeam/AdguardFilters/issues/40726
+!+ NOT_OPTIMIZED
+##.ad-300
+! https://github.com/AdguardTeam/AdguardFilters/issues/36807
+!+ NOT_OPTIMIZED
+##.commercial-unit-mobile-bottom
+! https://github.com/AdguardTeam/AdguardFilters/issues/30864
+!+ NOT_OPTIMIZED
+##.mobile-instream-ad-holder-single
+! https://github.com/AdguardTeam/AdguardFilters/issues/26257
+!+ NOT_OPTIMIZED
+###ad_wp_base
+! https://github.com/AdguardTeam/AdguardFilters/issues/25532
+!+ NOT_OPTIMIZED
+###adxtop
+! https://github.com/AdguardTeam/AdguardFilters/issues/19482
+!+ NOT_OPTIMIZED
+###ad_728h
+!+ NOT_OPTIMIZED
+###ad_336_singlebt
+! https://github.com/AdguardTeam/AdguardFilters/issues/16974
+!+ NOT_OPTIMIZED
+##.tjads
+!+ NOT_OPTIMIZED
+##topadblock
+! https://github.com/AdguardTeam/AdguardFilters/issues/14993
+!+ NOT_OPTIMIZED
+###ad-fullbanner2-billboard-outer
+! https://github.com/AdguardTeam/AdguardFilters/issues/14979
+!+ NOT_OPTIMIZED
+##.loop_google_ad
+! https://github.com/AdguardTeam/AdguardFilters/issues/10524
+!+ NOT_OPTIMIZED
+##.amp_ad_wrapper
+! https://github.com/AdguardTeam/AdguardFilters/issues/10560
+! https://github.com/AdguardTeam/AdguardFilters/issues/10799
+!+ NOT_OPTIMIZED
+##.commercial-unit-mobile-top
+!
+! For example: http://vol.az/mp3-3288-Nara-Richebru-Araftayim-2016
+##div[id*="ScriptRootN"]
+!
+! https://github.com/AdguardTeam/AdguardFilters/issues/34045
+!+ NOT_OPTIMIZED
+##.b_ad
+! https://github.com/AdguardTeam/AdguardFilters/issues/7752
+!+ NOT_OPTIMIZED
+##.ad-engage
+! https://forum.adguard.com/index.php?threads/23528/
+!+ NOT_OPTIMIZED
+###gads_middle
+! https://github.com/AdguardTeam/AdguardFilters/issues/7826
+!+ NOT_OPTIMIZED
+##.add_300x250
+!
+! https://github.com/AdguardTeam/AdguardFilters/issues/7613
+!+ NOT_OPTIMIZED
+##.ContentAd
+!
+##a[href^="https://join3.bannedsextapes.com/track/"]
+##.puFloatLine > #puFloatDiv
+##.td-a-rec
+##a[href*=".ufinkln.com/"]
+##body > #overover[style="position:fixed;width:100%;height:100%;background:silver;z-index: 2;opacity: 0.1;"]
+##body > #overover[style="position:fixed;width:100%;height:100%;background:silver;z-index: 2;opacity: 0.1;"] ~ #obrazek
+~ero-advertising.com##a[href^="https://redirect.ero-advertising.com"] > img
+##.stripper > a[href*="istripper"] > img
+##a[href*="/fdh/wth.php?"]
+##.BetterJsPopOverlay
+##.videojs-hero-overlay
+~kingandqueenpro.com##a[href*="://kingandqueenpro.com/r/?"]
+##div[id^="M"][id*="Composite"]
+##.wpcnt > .wpa
+###BannerBox
+###ad-topper
+###ad_300X250
+###ad_google
+###advertRightTopPosition
+###banner-top-right
+###bannerfloat22
+###bb_banner
+###blox-top-promo
+###bp_banner
+###campaign-banner
+###extensible-banner
+###fb_300x250
+###footer-banner
+###scorecard-ad
+###topBanners
+###total_banner
+##.SC_TBlock
+##.ad_google
+##.ad_register_prompt
+##.ad_showthread_firstpost_start_placeholder
+##.adheader403
+##.b-header-banner
+##.baners_block
+##.banner_header
+##.banners-middle
+##.banners_block
+##.innerBanner
+##.main_promo_image_container
+##.menu-ads
+##.post-ads
+##.reclamTable
+##.sidebar-ads-container
+##.special-ads
+##.sponsor-div
+##.sponsored-home-page-inner
+##.sponsored-items
+##.top-adv-app
+##.top-banners
+##.top-r-ads
+##.topbannerad
+##.widget-sidebar-right-banner
+##a[href*="//sub2.bubblesmedia.ru/"]
+##a[href^="http://softexcellence.com/"]
+!##body .wpmrec
+##div[id^="google_ads_iframe_"]
+##img[title^="advertisement"]

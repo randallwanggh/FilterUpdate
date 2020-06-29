@@ -1,0 +1,15 @@
+!
+! Section contains list general hiding rules
+!
+##amp-embed[type="outbrain"]
+!--- popular banner sizes ---
+##img[width="320"][height="50"]
+##iframe[width="320"][height="50"]
+! AMP websites ad container class
+##amp-iframe[src^="https://widgets.outbrain.com"]
+##.amp-ad-container
+##.amp-ad container
+##amp-ad
+##.amp_ad
+! Popular ads on mobile Japanese sites
+##.plugin-blogroll

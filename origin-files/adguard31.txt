@@ -1,0 +1,674 @@
+!
+! Section contains rules for specific applications
+!
+! ru.yandex.metro
+||extmaps-api.yandex.net/promo/api/
+! ua.slando - fixing adverts
+@@||www.olx.ua/api^$app=ua.slando
+!
+! Fixing Google Play Services 11.7.* misbehavior (tries to open that file in browser when it's blocked)
+||googleads.g.doubleclick.net/mads/static/mad/sdk/native/*.html$replace=/[\s\S]*/<!DOCTYPE html><html><head><script>var efs = false;<\/script><\/head><body><\/body><\/html>/,important
+!
+! Google ads (be careful)
+||googleads.g.doubleclick.net^$app=world.cup|com.ludo.king
+!
+! Blocking specific apps tracking
+! Booking app
+||tags.tiqcdn.com^$app=com.booking
+||graph.facebook.com^$app=com.booking
+!
+! Blocking Facebook mobile ads
+||graph.facebook.com^$app=com.nightmode.darkmode|com.tiktok.video.videodownloader|gfxtool.gamebooster.gfx|com.avalon.quicksave|free.gfxtool.freefire.gamebooster
+||graph.facebook.com^$app=com.vyroai.AutoCutCut
+||graph.facebook.com^$app=fr.playsoft.teleloisirs
+||graph.facebook.com^$app=xyz.wmfall.phim
+||graph.facebook.com^$app=booster.optimizer.cleaner|com.assistivetouch.controlcenter|com.att.assistivetouch2|com.att.swipe.assistivetouch|com.easytouch.assistivetouch|com.team.assistivetouch.easytouch|screen.recorder.videorecorder.screenrecorder
+||graph.facebook.com^$app=com.eenadu
+||graph.facebook.com^$app=com.forshared.files
+||graph.facebook.com^$app=com.manevolves.android.mandontfapstreakbasedwallpaper
+||graph.facebook.com^$app=com.fragileheart.alarmclock
+||graph.facebook.com^$app=com.dv.adm
+||graph.facebook.com^$app=br.com.aleluiah_apps.hinario.harpa_crista
+||graph.facebook.com^$app=com.hangodjin.animal_crossing_guide
+||graph.facebook.com^$app=com.softinit.urlshortner
+||graph.facebook.com^$app=com.cerminara.yazzy
+||graph.facebook.com^$app=video.player.videoplayer
+||graph.facebook.com^$app=com.lyoomatch.glowpuzzleblock.blockgame
+||graph.facebook.com^$app=puzzle.wood.block.cube.music.box
+||graph.facebook.com^$app=imoblife.toolbox.full
+||graph.facebook.com^$app=com.allenmm.archery
+||graph.facebook.com^$app=bubble.shoot.fruit.splash.game2
+||graph.facebook.com^$app=com.q1.breakbricks
+||graph.facebook.com^$app=com.commsource.beautyplus
+||graph.facebook.com^$app=com.scienze.notizie
+||graph.facebook.com^$app=com.gameloft.android.ANMP.GloftM5HM
+||graph.facebook.com^$app=com.nice.accurate.weather
+||graph.facebook.com^$app=com.games.noodleman.io2
+||graph.facebook.com^$app=com.trendmicro.dr.booster
+||graph.facebook.com^$app=com.xmonetize.quizzland
+||graph.facebook.com^$app=com.skype.raider
+||graph.facebook.com^$app=Draziw.Button.Mines
+||graph.facebook.com^$app=com.lft.password.manager.accounts
+||graph.facebook.com^$app=abs.workout.bellyfatworkout.waistworkout.stomach|armworkout.armworkoutformen.armexercises|bodyfast.zero.fastingtracker.weightloss|buttocksworkout.hipsworkout.bootyworkout.legworkouts|com.eyefilter.nightmode.bluelightfilter|com.northpark.drinkwater|com.northpark.periodtracker|com.popularapp.thirtydayfitnesschallenge|downloader.vitmate.downloaderapp|fat.burnning.plank.fitness.loseweight|hd.video.downloader.app.hdvideodownloaderapp|homeworkout.homeworkouts.noequipment|hydration.watertracker.waterreminder.drinkwaterreminder|increaseheightworkout.heightincreaseexercise.tallerexercise|kegel.kegelexercises.pelvicfloor.pfm|legsworkout.slimlegs.fatburning.stronglegs|losebellyfat.flatstomach.absworkout.fatburning|loseweightapp.loseweightappforwomen.womenworkoutathome|maybebaby.getpregnant.getbaby.flo|menloseweight.loseweightappformen.weightlossformen|nightfilter.bluelightfilter.nightshift|pedometer.steptracker.calorieburner.stepcounter|periodtracker.pregnancy.ovulationtracker|runningforweightloss.runningapp.runningtracker|sixpack.sixpackabs.absworkout|sleepsounds.relaxandsleep.whitenoise|splits.splitstraining.dothesplits.splitsin30days|steptracker.healthandfitness.walkingtracker.pedometer|stretching.stretch.exercises.back|walking.weightloss.walk.tracker|women.workout.female.fitness|workoutforwomen.femalefitness.womenworkout.loseweight
+||graph.facebook.com^$app=com.puzzle.miniworld
+||graph.facebook.com^$app=hcom.buta.caculator
+||graph.facebook.com^$app=hd.uhd.live.wallpapers.topwallpapers
+||graph.facebook.com^$app=com.fugo.wow
+||graph.facebook.com^$app=com.mobilexsoft.ezanvakti
+||graph.facebook.com^$app=com.bbfilm.app
+||graph.facebook.com^$app=com.lookandfeel.qrcodescanner
+||graph.facebook.com^$app=com.ezhld.recipe
+||graph.facebook.com^$app=Orion.Soft
+||graph.facebook.com^$app=com.mobond.mindicator
+||graph.facebook.com^$app=drug.vokrug
+||graph.facebook.com^$app=com.brainium.blackjack|com.brainium.freecellfree|com.brainium.jumbline2free|com.brainium.solitaire|com.brainium.spiderfree|com.brainium.sudoku.free
+||graph.facebook.com^$app=cast.video.screenmirroring.casttotv
+||graph.facebook.com^$app=com.icreativeidea
+||graph.facebook.com^$app=com.womanlog
+||graph.facebook.com^$app=com.linkdesks.iBubble
+||graph.facebook.com^$app=com.resultadosfutbol.mobile
+||graph.facebook.com^$app=com.brainpuzzles.roperescue.physicsgames
+||graph.facebook.com^$app=tr.com.apps.kk
+||graph.facebook.com^$app=bubble.game.shooter.bird.pop
+||graph.facebook.com^$app=pl.videostar
+||graph.facebook.com^$app=com.mind.quiz.brain.out
+||graph.facebook.com^$app=es.socialpoint.wordlife
+||graph.facebook.com^$app=com.kayenworks.mcpeaddons
+||graph.facebook.com^$app=com.sail.advanced.booster
+||graph.facebook.com^$app=org.yccheok.jstock.gui
+||graph.facebook.com^$app=balls.glow.bricks.breaker.brounce.ballz.puzzle.free
+||graph.facebook.com^$app=com.vidmix.app
+||graph.facebook.com^$app=com.kroegerama.appchecker
+||graph.facebook.com^$app=io.github.nekotachi.easynews
+||graph.facebook.com^$app=com.iposedon.bricksbreakerballs
+||graph.facebook.com^$app=game2048.b2048game.twozerofoureight2048.game
+||graph.facebook.com^$app=com.infraware.office.link
+||graph.facebook.com^$app=com.bloodyluna.TaipeiMetroTimeAndFare
+||graph.facebook.com^$app=com.antutu.ABenchMark
+||graph.facebook.com^$app=com.triple.voicerecorder
+||graph.facebook.com^$app=com.mobilityware.AddictionSolitaire|com.mobilityware.BlackJackFree|com.mobilityware.CastleSolitaire|com.mobilityware.CrownSolitaire|com.mobilityware.destinationsolitaire|com.mobilityware.freecell|com.mobilityware.MahjongSolitaire|com.mobilityware.PyramidFree|com.mobilityware.Slots|com.mobilityware.spider|com.mobilityware.SpiderGo|com.mobilityware.TriPeaksFree|com.mobilityware.TropicalTreats
+||graph.facebook.com^$app=com.code.bluegeny.myhomeview
+||graph.facebook.com^$app=com.ryzenrise.seffct
+||graph.facebook.com^$app=com.sports.schedules.basketball.nba|com.sports.schedules.college.basketball.ncaa|com.sports.schedules.football.ncaa|com.sports.schedules.ncaaw.college.basketball.women|com.sports.schedules.scores.baseball.mlb|com.sports.schedules.scores.basketball.women.wnba|com.sports.schedules.scores.hockey.nhl|com.sports.schedules.football.nfl
+||graph.facebook.com^$app=com.moonactive.coinmaster
+||graph.facebook.com^$app=com.lenovo.anyshare.gps
+||graph.facebook.com^$app=com.spacegame.basic3|com.spacegame.basic5|com.spacegame.basic7
+||graph.facebook.com^$app=fr.redshift.nrj
+||graph.facebook.com^$app=com.outfit7.mytalkingtom2|com.outfit7.mytalkingtomfree
+||graph.facebook.com^$app=com.appynation.occw
+||graph.facebook.com^$app=com.okaeriapp.kabesan
+||graph.facebook.com^$app=com.geecko.QuickLyric
+||graph.facebook.com^$app=com.dumplingsandwich.pencilsketch
+||graph.facebook.com^$app=com.amdroidalarmclock.amdroid
+||graph.facebook.com^$app=com.DTA.trigon
+||graph.facebook.com^$app=com.openmygame.games.android.wordsearchsea
+||graph.facebook.com^$app=com.dotnbeat.dancing.music.rhythm.handspeed
+||graph.facebook.com^$app=com.word.game.crossword.brain.puzzle.scapes.connect
+||graph.facebook.com^$app=com.differencetenderwhite.skirt
+||graph.facebook.com^$app=pedometer.stepcounter.calorieburner.pedometerforwalking
+||graph.facebook.com^$app=com.anddoes.launcher
+||graph.facebook.com^$app=app.source.getcontact
+||graph.facebook.com^$app=com.popularapp.periodcalendar
+||graph.facebook.com^$app=com.psy.chigs7.psychologyfacts
+||graph.facebook.com^$app=com.notizie.libere
+||graph.facebook.com^$app=com.homemade.ffm2
+||graph.facebook.com^$app=game.bubble.shooter.dragon.pop
+||graph.facebook.com^$app=org.whiteglow.keepmynotes
+||graph.facebook.com^$app=com.chocolabs.app.chocotv
+||graph.facebook.com^$app=com.cisana.guidatv
+||graph.facebook.com^$app=com.FruitBump
+||graph.facebook.com^$app=com.billiards.city.pool.nation.club
+||graph.facebook.com^$app=com.jrummyapps.rootchecker
+||graph.facebook.com^$app=ibecsystems.kz.zakonkz
+||graph.facebook.com^$app=com.supergame.ultrasharp.cutitdown
+||graph.facebook.com^$app=com.candl.chronos
+||graph.facebook.com^$app=com.advancedprocessmanager
+||graph.facebook.com^$app=tv.fourgtv.fourgtv
+||graph.facebook.com^$app=com.geekslab.eyeprotection
+||graph.facebook.com^$app=best.hd.uhd.amoled.wallpapers
+||graph.facebook.com^$app=com.tourbillon.freeappsnow
+||graph.facebook.com^$app=com.acg.manga
+||graph.facebook.com^$app=com.bloodyluna.TaipeiMetroTimeAndFace
+||graph.facebook.com^$app=com.lazymasters.wordweekend
+||graph.facebook.com^$app=com.worldradios.ukraine
+||graph.facebook.com^$app=net.b92.android.brisbane
+||graph.facebook.com^$app=mobi.drupe.app
+||graph.facebook.com^$app=com.mapswithme.maps.pro
+||graph.facebook.com^$app=com.tenqube.notisave
+||graph.facebook.com^$app=com.intsig.camscanner
+||graph.facebook.com^$app=com.androidmkab.telugu
+||graph.facebook.com^$app=il.co.smedia.callrecorder.yoni
+||graph.facebook.com^$app=com.allgoritm.youla
+||graph.facebook.com^$app=com.magicv.airbrush
+||graph.facebook.com^$app=ru.mail.horo.android
+||graph.facebook.com^$app=net.wordbit.enru
+||graph.facebook.com^$app=com.appside.bongcal
+||graph.facebook.com^$app=com.mindmill.pipes.loops.plumber.puzzle
+||graph.facebook.com^$app=com.evozi.network
+||graph.facebook.com^$app=com.RenownEntertainment.BallHopAE
+||graph.facebook.com^$app=com.mi.android.globalFileexplorer
+||graph.facebook.com^$app=tv.peel.app
+||graph.facebook.com^$app=com.toi.reader.activities
+||graph.facebook.com^$app=com.eco.fastcharger
+||graph.facebook.com^$app=com.digitalchemy.calculator.freedecimal
+||graph.facebook.com^$app=mong.moptt
+||graph.facebook.com^$app=com.digidust.elokence.akinator.freemium
+||graph.facebook.com^$app=idm.internet.download.manager
+||graph.facebook.com^$app=com.erudite.ecdict
+||graph.facebook.com^$app=com.outfit7.talkingtomgoldrun
+||graph.facebook.com^$app=com.worldboardgames.seabattleworld
+||graph.facebook.com^$app=net.zedge.android
+||graph.facebook.com^$app=com.aniclear.app
+||graph.facebook.com^$app=ua.in.citybus.lviv
+||graph.facebook.com^$app=com.niceapp.instasave
+||graph.facebook.com^$app=com.Project100Pi.themusicplayer
+||graph.facebook.com^$app=com.fdgentertainment.tentaclewars.gp.free
+||graph.facebook.com^$app=com.droid27.transparentclockweather
+||graph.facebook.com^$app=com.idea.backup.smscontacts
+||graph.facebook.com^$app=com.devexpert.weather
+||graph.facebook.com^$app=com.ogqcorp.bgh
+||graph.facebook.com^$app=cache.optimize.cleancache.clearcache.cachecleaner.clean.clear.boost.booster.junk
+||graph.facebook.com^$app=com.hyperionics.avar
+||graph.facebook.com^$app=ace.jun.shortcuts
+||graph.facebook.com^$app=com.chess
+||graph.facebook.com^$app=com.idea.backup.smscontacts
+||graph.facebook.com^$app=com.altshift.notnot
+||graph.facebook.com^$app=free.vpn.unblock.proxy.vpn.master.pro
+||graph.facebook.com^$app=com.avira.android
+||graph.facebook.com^$app=com.piriform.ccleaner
+||graph.facebook.com^$app=an.Radio80
+||graph.facebook.com^$app=com.radiolight.etatsunis
+||graph.facebook.com^$app=net.tsapps.appsales
+||graph.facebook.com^$app=game.puzzle.woodypuzzle
+||graph.facebook.com^$app=com.plurk.android
+||graph.facebook.com^$app=com.l
+||graph.facebook.com^$app=com.bbm
+||graph.facebook.com^$app=com.mail.mobile.android.mail
+||graph.facebook.com^$app=com.pss.line
+||graph.facebook.com^$app=com.plugmind.cbtest
+||graph.facebook.com^$app=com.zombodroid.MemeGenerator
+||graph.facebook.com^$app=cn.wps.moffice_eng
+||graph.facebook.com^$app=com.mobikolik.tumgazeteler
+||graph.facebook.com^$app=anews.com
+||graph.facebook.com^$app=com.cmcm.locker
+||graph.facebook.com^$app=com.seekingalpha.webwrapper
+||graph.facebook.com^$app=com.scores365
+||graph.facebook.com^$app=com.candl.athena
+||graph.facebook.com^$app=com.instanza.baba
+||graph.facebook.com^$app=com.microsoft.microsoftsolitairecollection
+||graph.facebook.com^$app=com.dencreak.spbook
+||graph.facebook.com^$app=com.armeniatoday.rss
+||graph.facebook.com^$app=com.ttxapps.dropsync
+||graph.facebook.com^$app=com.avast.android.mobilesecurity
+||graph.facebook.com^$app=fm.castbox.radio.music
+||graph.facebook.com^$app=com.finallevel.radiobox
+||graph.facebook.com^$app=com.estmob.android.sendanywhere
+||graph.facebook.com^$app=com.inswall.wallpaper
+||graph.facebook.com^$app=jp.gocro.smartnews.android
+||graph.facebook.com^$app=com.zynga.crosswordswithfriends
+||graph.facebook.com^$app=com.urbandroid.sleep
+||graph.facebook.com^$app=com.conjoinix.smartparent
+||graph.facebook.com^$app=com.msmobile.hb
+||graph.facebook.com^$app=com.appdlab.radarexpress
+||graph.facebook.com^$app=com.rcplatform.nocrop
+||graph.facebook.com^$app=com.game.JewelsStar
+||graph.facebook.com^$app=com.p74.player
+||graph.facebook.com^$app=com.ivanGavrilov.CalcKit
+||graph.facebook.com^$app=com.contapps.android
+||graph.facebook.com^$app=com.balysv.loop
+||graph.facebook.com^$app=org.aastudio.games.longnards
+||graph.facebook.com^$app=com.flyersoft.moonreader
+||graph.facebook.com^$app=com.sofascore.results
+||graph.facebook.com^$app=com.textra
+||graph.facebook.com^$app=es.rafalense.themes
+||graph.facebook.com^$app=com.xoopsoft.apps.bundesliga.free
+||graph.facebook.com^$app=com.trungpt.video.download
+||graph.facebook.com^$app=com.devexpert.weather
+||graph.facebook.com^$app=com.eterno
+||graph.facebook.com^$app=com.hornet.android
+||graph.facebook.com^$app=com.jrtstudio.AnotherMusicPlayer
+||graph.facebook.com^$app=com.ketchapp.donttouchthespikes
+||graph.facebook.com^$app=com.laurencedawson.reddit_sync
+||graph.facebook.com^$app=com.mobilefootie.wc2010
+||graph.facebook.com^$app=com.mobilesrepublic.appy
+||graph.facebook.com^$app=com.mobilesrepublic.appygeek
+||graph.facebook.com^$app=com.musixmatch.android.lyrify
+||graph.facebook.com^$app=com.mxtech.videoplayer.ad|com.mxtech.videoplayer.beta
+||graph.facebook.com^$app=com.sonyericsson.trackid
+||graph.facebook.com^$app=com.xda.labs.play
+||graph.facebook.com^$app=ferp.android
+||graph.facebook.com^$app=fr.meteo
+||graph.facebook.com^$app=io.casper.android
+||graph.facebook.com^$app=com.cmplay.cellconnect
+||graph.facebook.com^$app=com.apxsoft.dodonpachi_gg
+||graph.facebook.com^$app=com.quoord.tapatalkpro.activity
+||graph.facebook.com^$app=com.teeonsoft.ztorrent
+!
+||a.*.com^$app=com.cerminara.yazzy
+||com.europosit.polygon2d.coloringpuzzle^$app=com.cisana.guidatv
+!
+! Block Google DNS for TikTok app
+8.8.8.8^$network,app=com.zhiliaoapp.musically|com.zhiliao.musically.livewallpaper
+8.8.4.4^$network,app=com.zhiliaoapp.musically|com.zhiliao.musically.livewallpaper
+! https://github.com/AdguardTeam/AdguardFilters/issues/54515
+@@||mc.yandex.ru^$app=ru.rtlabs.mobile.ebs.android
+! https://github.com/AdguardTeam/AdguardFilters/issues/57809
+/whowho_app/v*/collection/*$app=com.ktcs.whowho
+/app*_banner_*.jsp$app=com.ktcs.whowho
+! https://github.com/AdguardTeam/AdguardFilters/issues/52955
+||raw.githubusercontent.com^$app=com.yoku.marumovie
+! https://github.com/AdguardTeam/AdguardFilters/issues/52988
+@@||www.google-analytics.com^$app=com.google.android.apps.cultural
+@@||stats.g.doubleclick.net^$app=com.google.android.apps.cultural
+@@||static.doubleclick.net^$app=com.google.android.apps.cultural
+@@||googleads.g.doubleclick.net^$app=com.google.android.apps.cultural
+! Ads in some Chinese browsers(clones)
+||s3.amazonaws.com^$app=privacy.explorer.fast.safe.browser|net.fast.web.browser|org.easyweb.browser
+! https://github.com/AdguardTeam/AdguardFilters/issues/51115
+||adnxs.com^$app=com.soundcloud.android
+! https://github.com/AdguardTeam/AdguardFilters/issues/50947
+||thalles.org^$app=thalles.org.playeriptv.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/53161
+@@||imasdk.googleapis.com^$app=bbc.mobile.news.ww
+! https://github.com/AdguardTeam/AdguardFilters/issues/48948
+@@||imasdk.googleapis.com^$app=com.mperience.vvvvidmobile
+! https://github.com/AdguardTeam/AdguardFilters/issues/48570
+@@||pubads.g.doubleclick.net^$app=com.bloomberg.android.plus
+! https://github.com/AdguardTeam/AdguardFilters/issues/46634
+@@||imasdk.googleapis.com^$app=com.cbs.app
+@@||pubads.g.doubleclick.net^$app=com.cbs.app
+! https://github.com/AdguardTeam/AdguardFilters/issues/46374
+! App does not work if any analytics is blocked. No ads in this app.
+@@*$app=com.cinemark.mobile
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/207
+@@||google-analytics.com^$app=com.nvidia.geforcenow
+! https://github.com/AdguardTeam/AdguardFilters/issues/46054
+@@||icreativeidea.com/unique/assets/images/ad_photo/$app=com.icreativeidea
+! https://github.com/AdguardTeam/AdguardFilters/issues/45993
+||sgcompany.shop/api_builder*/index.php?cmd=GET_*_CTAD$app=com.mind.power
+! https://github.com/AdguardTeam/AdguardFilters/issues/45192
+@@||paypal.com^$app=com.bandcamp.android
+! https://github.com/AdguardTeam/AdguardFilters/issues/42482
+@@||api.leanplum.com^$app=com.dolap.android
+! https://github.com/AdguardTeam/AdguardFilters/issues/42305
+@@||imasdk.googleapis.com^$app=com.bamnetworks.mobile.android.gameday.atbat
+! https://github.com/AdguardTeam/AdguardFilters/issues/42029
+||assets-service.amadeus.com/distributions/*.gif$app=com.amadeus.cmt.client.android
+! https://github.com/AdguardTeam/AdguardFilters/issues/41592
+|http$app=com.rock.gota|com.hll.fileexplorer
+! https://github.com/AdguardTeam/AdguardFilters/issues/41572
+194.177.23.34$network,app=com.badmanners.murglar
+@@||an.yandex.ru^$app=com.badmanners.murglar
+@@||google-analytics.com^$app=com.badmanners.murglar
+! https://github.com/AdguardTeam/AdguardFilters/pull/41533/
+! Duodian
+||launcher-us.yeshen.com/external/advertisement/*
+||cleaner.noxgroup.org/activity/ads/*
+! https://github.com/AdguardTeam/AdguardFilters/issues/38987
+||images.fotmob.com/images/betting/$app=com.mobilefootie.wc2010
+! https://github.com/AdguardTeam/AdguardFilters/issues/38689
+@@||api.olx.$app=com.app.tokobagus.betterb
+! https://github.com/AdguardTeam/AdguardFilters/issues/36310
+|http*$app=com.tiny.autoskip
+! https://github.com/AdguardTeam/AdguardFilters/issues/37195
+@@||api.joara.com/v1/banner/main_popup.joa$app=com.joara.mobile
+! https://github.com/AdguardTeam/AdguardFilters/issues/36655
+||graph.facebook.com^$app=com.PSVStudio.HippoDentist
+||cdn.kidoz.net^$app=com.PSVStudio.HippoDentist
+||vast.kidoz.net^$app=com.PSVStudio.HippoDentist
+||psvpromo.psvgamestudio.com^$app=com.PSVStudio.HippoDentist
+||psdata.psvgamestudio.com^$app=com.PSVStudio.HippoDentist
+! https://github.com/AdguardTeam/AdguardFilters/issues/31633
+||feed.4wnet.com^$app=com.Meteosolutions.Meteo3b
+! https://github.com/AdguardTeam/AdguardFilters/issues/29479
+@@||js.mamydirect.com^$app=com.adguard.dns
+! https://github.com/AdguardTeam/AdguardFilters/issues/30906
+@@||events.appsflyer.com^$app=com.mapswithme.maps.pro
+! https://github.com/AdguardTeam/AdguardFilters/issues/29964
+||facemap.foldlife.net^$app=com.estrongs.android.pop
+! https://github.com/AdguardTeam/AdguardFilters/issues/29913
+||api.peers.tv/money_miner/$app=ru.cn.tv
+! https://github.com/AdguardTeam/AdguardFilters/issues/29029
+@@||imasdk.googleapis.com^|$app=com.usatoday.android.news
+||taboola.com^$app=com.usatoday.android.news
+! https://github.com/AdguardTeam/AdguardFilters/issues/28827
+||appgiftwall.*.aliyuncs.com^$app=photo.album.galleryvault.photogallery
+! https://github.com/AdguardTeam/AdguardFilters/issues/29289
+||lectoriy.mipt.ru/*/bread^$app=ru.mipt.mlectoriy
+! https://github.com/AdguardTeam/AdguardFilters/issues/28297
+@@||data.flurry.com^$app=ru.afisha.android
+!
+||api2.appscraft.mobi/banner/get_banners.php
+!
+||mcdp-nydc1.outbrain.com^$app=ru.sports
+||outbrain.com^$app=ru.sports
+||d30x8mtr3hjnzo.cloudfront.net$app=ru.sports
+! https://github.com/AdguardTeam/AdguardFilters/issues/25302
+||etnet.com.hk/ad/
+! https://github.com/AdguardTeam/AdguardFilters/issues/26940
+! https://github.com/AdguardTeam/AdguardFilters/issues/27245
+@@||googleads.g.doubleclick.net^$app=com.thoptv.livetvstream
+! https://github.com/AdguardTeam/AdguardFilters/issues/26774
+@@||ssl.google-analytics.com$app=com.avast.android.mobilesecurity
+!
+@@||imasdk.googleapis.com^|$app=com.nhl.gc1112.free|com.nhl.hattrickchallenge
+! https://github.com/AdguardTeam/AdguardFilters/issues/24782
+||api.rvuzov.ru/images/c4ac821d-4580-4011-a402-3de5d38b5709.jpg
+! https://github.com/AdguardTeam/AdguardFilters/issues/24907
+@@||imasdk.googleapis.com^|$app=net.ettoday.phone
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$app=net.ettoday.phone
+! https://github.com/AdguardTeam/AdguardFilters/issues/24541
+||adcs.rqmob.com^
+||static.rqmob.com/sa^
+||preitem.wshareit.com^
+! https://github.com/AdguardTeam/AdguardFilters/issues/23401
+||stream.pcradio.ru/list/message/notifications_v2.json
+! https://github.com/AdguardTeam/AdguardFilters/issues/24176
+||io.dizx.xyz$app=com.gosoft.sukela
+! https://github.com/AdguardTeam/AdguardFilters/issues/21870
+||online.rayjump.com/openapi/ads
+||mobimagic.com^
+! https://github.com/AdguardTeam/AdguardFilters/issues/21087
+||adywind.com^
+||cdn-adn.rayjump.com/cdn-adn/*/offersync^
+||hasmobi.net^
+! https://github.com/AdguardTeam/AdguardFilters/issues/24182
+@@||imasdk.googleapis.com^|$app=com.nextmediatw
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$app=com.nextmediatw
+! https://github.com/AdguardTeam/AdguardFilters/issues/18815
+@@||imasdk.googleapis.com^$app=tw.com.gamer.android.animad
+! https://github.com/AdguardTeam/AdguardFilters/issues/22839
+@@||googleads.g.doubleclick.net/favicon.ico$app=com.ftt.boxingstar.gl.aos
+@@||googleads.g.doubleclick.net^|$app=com.ftt.boxingstar.gl.aos
+! https://github.com/AdguardTeam/AdguardFilters/issues/22728
+! Ad in Opera
+||api-a.op-mobile.opera.com^
+! https://github.com/AdguardTeam/AdguardFilters/issues/21120
+||a.a-p-i.io/udnnews^$replace=/(photocp4s|adNews)/__\$1/
+! https://github.com/AdguardTeam/AdguardFilters/issues/18802
+||api.ettoday.net/app/*/get_app_adlist^
+! https://github.com/AdguardTeam/AdguardFilters/issues/19737
+@@||h-sdk.online-metrix.net^$app=com.ebay.mobile
+! https://github.com/AdguardTeam/AdguardFilters/issues/21152
+@@||api.championat.com/*/?tag_id=$app=ru.ideast.championat
+! http://4pda.ru/forum/index.php?showtopic=601691&st=8140#entry57313153
+@@||mc.yandex.ru^$app=ru.yandex.weatherplugin
+@@||awaps.yandex.ru$app=ru.yandex.weatherplugin
+@@||appmetrica.yandex.net$app=ru.yandex.weatherplugin
+@@||an.yandex.ru$app=ru.yandex.weatherplugin
+!
+! https://github.com/AdguardTeam/AdguardFilters/issues/21629
+||mail.google.com/mail/ads^
+! https://github.com/AdguardTeam/AdguardFilters/issues/21078
+||app.adjust.com^$empty,app=com.ilike.cartoon,important
+! https://github.com/AdguardTeam/AdguardFilters/issues/20486
+||go2s.co/res/$image
+||go2s.co/*?t=
+||go2s.co/*/*.zip
+! ru.rostel - fixing app
+@@||mc.yandex.ru^$app=ru.rostel
+! https://github.com/AdguardTeam/AdguardFilters/issues/20405
+@@||api-rewarded-video.fyber.com^$app=net.wooga.tropicats_tropical_cats_puzzle_paradise
+@@||video.fyber.com^$app=net.wooga.tropicats_tropical_cats_puzzle_paradise
+@@||engine.fyber.com^$app=net.wooga.tropicats_tropical_cats_puzzle_paradise
+@@||mbe-cdn.fyber.com$app=net.wooga.tropicats_tropical_cats_puzzle_paradise
+! https://forum.adguard.com/index.php?threads/27868/
+||hasmobi.net^$app=com.rahul.videoderbeta
+! https://github.com/AdguardTeam/CoreLibs/issues/348
+@@||awaps.yandex.ru^$app=ru.yandex.searchplugin
+! https://github.com/AdguardTeam/AdguardFilters/issues/17993
+@@||stats.g.doubleclick.net$app=ro.rcsrds.mydigi
+@@||google-analytics.com$app=ro.rcsrds.mydigi
+! https://github.com/AdguardTeam/AdguardFilters/issues/18445
+||storage.yogavpn.com/exchange^$app=co.vpnmelon.free.unblock.unlimited.turbo.proxy
+! https://github.com/AdguardTeam/AdguardFilters/issues/18472
+||promotion.polarisoffice.com^
+! https://github.com/AdguardTeam/AdguardFilters/issues/18514
+||newad.ifeng.com^
+||ifengad.*.ifeng.com^
+! https://github.com/AdguardTeam/AdguardFilters/issues/17456
+||v.ssacdn.com^$app=com.appgame7.jigsaw.free
+||cx.ssacdn.com/image/fetch/*supersonicads
+||img.go2s.co/res^$app=.com.appgame7.jigsaw.free
+! https://github.com/AdguardTeam/AdguardFilters/issues/15477
+||mb-cdn.stocard.de/offer_headers/$app=de.stocard.stocard
+! https://github.com/AdguardTeam/AdguardFilters/issues/17160
+||json.dcinside.com/json0/app_ad_setting.php
+! https://github.com/AdguardTeam/AdguardFilters/issues/15143
+||p.jwpcdn.com/*/vast.js$app=nl.sanomamedia.android.nu,important
+! https://github.com/AdguardTeam/AdguardFilters/issues/15744
+@@||imasdk.googleapis.com$app=com.digiturk.ligtv
+! https://github.com/AdguardTeam/AdguardFilters/issues/16458
+||ws.kebapp.co/api/CrossPromotion
+! https://github.com/AdguardTeam/AdguardFilters/issues/14202
+@@||www.google-analytics.com^$app=jp.naver.line.android
+! https://github.com/AdguardTeam/AdguardFilters/issues/13716
+||varravgames.com/AdVarServer/
+! https://github.com/AdguardTeam/AdguardFilters/issues/13224
+||184.164.88.220^$app=com.newtime.hp.templetreasure
+! https://github.com/AdguardTeam/AdguardFilters/issues/13130
+||allot.twotwotwoone.com/soma.cfg$replace=/ads\.app\.today=true/ads.app.today=false/
+! https://github.com/AdguardTeam/AdguardFilters/issues/12552
+@@||api.leanplum.com^$app=com.thetrainline
+! https://github.com/AdguardTeam/AdguardFilters/issues/11459
+||taboola.com^$app=com.dailymail.online
+! https://github.com/AdguardTeam/AdguardFilters/issues/11600
+@@||imasdk.googleapis.com/native/core/*/native_bridge__*.js$app=com.linecorp.linetv
+! https://github.com/AdguardTeam/AdguardFilters/issues/10326
+||api.ambelbet.com/assets/js/page.ads.js$empty
+||api.ambelbet.com/assets/js/in.ads.js$empty
+! https://github.com/AdguardTeam/AdguardFilters/issues/8935
+||mobi.yanosik.pl:8080/mobile-advertizer/
+! https://github.com/AdguardTeam/AdguardFilters/issues/8162
+||api.mobpowertech.com^$app=cn.wps.moffice_eng
+||dj1d6o6ftflzi.cloudfront.net^$app=cn.wps.moffice_eng
+||cloudservice14.kingsoft-office-service.com^$app=cn.wps.moffice_eng
+! https://github.com/AdguardTeam/AdguardFilters/issues/7352
+||batmobil.net^$app=com.cmcm.locker
+! https://github.com/AdguardTeam/AdguardFilters/issues/8648
+||app.openstreamapp.com/*/getallads/
+! com.google.android.googlequicksearchbox - app crashes when request is blocked
+@@||www.google.*/gen_204$app=com.google.android.googlequicksearchbox
+! https://github.com/AdguardTeam/AdguardFilters/issues/7287
+||football.ua/hnd/*.ashx$replace=/<item\stype="banner">.*?(<\/item>)//
+! https://github.com/AdguardTeam/AdguardFilters/issues/6505
+@@||imasdk.googleapis.com/native/core/*/native_bridge__*.js$app=com.allocine.androidapp
+! https://github.com/AdguardTeam/AdguardFilters/issues/6728
+@@||api.ebay-kleinanzeigen.de/api/ads/*.json$app=com.ebay.kleinanzeigen
+@@||api.ebay-kleinanzeigen.de/api/ads.json?$app=com.ebay.kleinanzeigen
+! https://github.com/AdguardTeam/AdguardFilters/issues/22179
+! https://github.com/AdguardTeam/AdguardForiOS/issues/496#issuecomment-330155499
+||m.104.com.tw/api^$replace=/"(ad_list|diamond_ad_list)"/"__\$1"/
+! https://github.com/AdguardTeam/AdguardFilters/issues/6167
+||ketchapp.org/crosspromo/
+! https://github.com/AdguardTeam/AdguardFilters/issues/6134
+@@||imasdk.googleapis.com/native/core/*/native_bridge__*.js$app=com.ysb.esh
+! https://github.com/AdguardTeam/AdguardFilters/issues/6133
+@@||imasdk.googleapis.com/native/core/*/native_bridge__*.js$app=com.digiturk.ligtv
+! https://forum.adguard.com/index.php?threads/13437/
+/ads|$app=system
+/cpd|$app=system
+/cps|$app=system
+! https://forum.adguard.com/index.php?threads/13437/
+||loc.map.baidu.com^$app=com.xiaomi.metoknlp
+! https://github.com/AdguardTeam/AdguardFilters/issues/3346
+||api.ebay-kleinanzeigen.de/api/ads.json*^q=$app=com.ebay.kleinanzeigen,replace=/"(adsense|ecn|native-ad)"/"x\$1"/
+! https://forum.adguard.com/index.php?threads/le-bon-coin-apk-from-googleplay.18840/
+! fix ?ad_id= in Liste FR
+@@||mobile.leboncoin.fr/templates/api/view.json?ad_id=$app=fr.leboncoin
+! https://github.com/AdguardTeam/AdguardFilters/issues/5191
+||104.199.8.250^*/webservices/getDialogAdDetails.php
+! https://forum.adguard.com/index.php?threads/21611/
+||todayweather.co/ads.json
+! https://github.com/AdguardTeam/AdguardFilters/issues/4901
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$app=com.makonda.blic
+! https://github.com/AdguardTeam/AdguardFilters/issues/4898
+||dict.leo.org/api/mobile/production/hello/adb/0?b=$app=org.leo.android.dict,replace=/\/adv_pda" rel="nofollow"><img width=/\\/adv_pda" rel="nofollow"><im_ width=/i
+||dict.leo.org/api/mobile/production/hello/adb/0?b=$app=org.leo.android.dict,important,replace=/\/adv_pda" rel="nofollow"><img width=/\\/adv_pda" rel="nofollow"><im_ width=/i
+! https://github.com/AdguardTeam/AdguardFilters/issues/4774
+@@||irr.ru/mobile_api^$app=com.umojo.irr.android
+! https://github.com/AdguardTeam/AdguardFilters/issues/4759
+||overall.ikvapp.ru/api/ad?api_key=
+! https://github.com/AdguardTeam/AdguardFilters/issues/4722
+||api.bitmango.com/api/ad_manager
+! https://forum.adguard.com/index.php?threads/19617/
+@@||gabe.it.gemius.pl/gemiuslib.js$app=com.saipm.dh|com.twipemobile.laderniereheure|com.vlan.capteo|be.rossel.sudpresse.sports|be.rossel.lesoir.sports|be.rossel.westtoer|com.audaxis.mobile.sudpresse.lameuse|com.audaxis.mobile.sudpresse.lacapitale|com.audaxis.mobile.sudpresse.laprovince|com.audaxis.mobile.sudpresse.lanouvellegazette|com.audaxis.mobile.sudpresse.nordeclair|be.lesoir.geeko|be.lesoir.goToJo|be.rossel.android.communales|be.sudpresse.blogs|be.sudpresse.reader|be.vlan.reader|com.rossel.hslesoir|com.audaxis.mobile.sudpresse|be.rossel.soirmag|com.rosselfestival|be.appsolution.lesoir|com.twipemobile.lalibreplus|com.tapptic.cinebel|com.tapptic.lalibre|be.twizz
+! https://forum.adguard.com/index.php?threads/20641/
+||wpsconfig4svr.elasticbeanstalk.com/config/android/list?
+||minfo.wps.cn/minfo/infos.ads?
+||cloudservice14.kingsoft-office-service.com/onlineParam
+! https://forum.adguard.com/index.php?threads/hd-videobox.20645/
+||startappservice.com/*/getadsmetadata?
+! https://github.com/AdguardTeam/AdguardFilters/issues/4644
+||api.hh.ru/banners_targeting
+! https://github.com/AdguardTeam/AdguardFilters/issues/4572
+||config.ioam.de^$app=com.netbiscuits.kicker
+! https://github.com/AdguardTeam/AdguardFilters/issues/4572
+||m.banner.t-online.de/adsdk/
+! https://github.com/AdguardTeam/AdguardFilters/issues/4493
+@@||imasdk.googleapis.com/native/core/*/native_bridge__*.js$app=com.mylocaltv.wptv
+! https://github.com/AdguardTeam/AdguardFilters/issues/4471
+@@||bbci.co.uk/static/*/adunit.json|$app=bbc.mobile.news.ww
+! https://github.com/AdguardTeam/AdguardForAndroid/issues/1016
+||taboola.com^$app=com.microsoft.microsoftsolitairecollection
+! https://github.com/AdguardTeam/AdguardFilters/issues/4184
+||apis.tapatalk.com/api/user/info/$replace=/"ads":/"bbb":/
+! https://github.com/AdguardTeam/AdguardFilters/issues/4161
+||baidu.com/setting/grobal_strategy?p=com.adslib.mobovee$app=cn.xender
+! com.sofoot app
+@@||engine.widespace.com/map/provisioning?appId=com.sofoot$app=com.sofoot
+! https://github.com/AdguardTeam/AdguardFilters/issues/3533
+@@||rutube.ru/api/play/options/$app=ru.rutube.app|ru.rutube.RutubeKids,important
+! https://github.com/AdguardTeam/AdguardFilters/issues/3738
+||crosspromo*.qplaze.com/PushCampaignXMLOut.php
+||crosspromo*.qplaze.com^$app=com.nomoc.wolfonfarm
+! https://github.com/AdguardTeam/AdguardFilters/issues/3717
+@@||ups.ksmobile.net^$app=com.cleanmaster.security
+! https://github.com/AdguardTeam/AdguardFilters/issues/3634
+||server.idreams.pl/news/ads_sfr_*.json
+! FOCUS Online
+@@||imasdk.googleapis.com^$app=de.cellular.focus
+! https://github.com/AdguardTeam/AdguardFilters/issues/3131
+@@||ads.cricbuzz.com/adserver/units/mobile/set_ads_values.php
+! https://github.com/AdguardTeam/AdguardFilters/issues/2697
+@@||connect.tapjoy.com/connect$app=com.lucasarts.starts_goo
+! https://github.com/AdguardTeam/AdguardForAndroid/issues/569
+||alxanosoft.com/rk/$empty
+! Dailyhunt
+||api-news.dailyhunt.in/api/*/content?$replace=/externalAd/-externalAd/
+! sport1.mobile.android.apps
+||assets.sport1.de/imagix/filter2/jpeg/_set=dyn_size_no_crop/imagix/
+! Gumtree app
+||gumtree.com/partner/bing?*&adUnitId=
+||gumtree.com/partner/bingimpression?
+! AfreecaTV
+||ad.daum.net/imp
+||afreeca-tag.ad-mapps.com^
+||mtag.mman.kr^
+! Zigbang (analytics)
+||cognito-identity.us-east-1.amazonaws.com^$app=com.chbreeze.jikbang4a
+! Tinder (analytics)
+||etl.tindersparks.com^
+! https://forum.adguard.com/index.php?threads/13437/#post-101138
+! For Xiaomi devices
+||market.mi-img.com/download/AdCenter/
+||market.xiaomi.com/download/AdCenter/
+! https://github.com/AdguardTeam/AdguardFilters/issues/2461
+@@||imasdk.googleapis.com/native/core/*/native_bridge_$app=com.totrix.glwiz
+@@||imasdk.googleapis.com/native/sdkloader/native_sdk_$app=com.totrix.glwiz
+! https://forum.adguard.com/index.php?threads/adguard-blocking-news-clips-on-ynet-app.10114/#post-81493
+@@||imasdk.googleapis.com/native/core/*/native_bridge_$app=com.goldtouch.ynet
+@@||imasdk.googleapis.com/native/sdkloader/native_sdk_v3.html?$app=com.goldtouch.ynet
+@@||pubads.g.doubleclick.net/gampad/ads?$app=com.goldtouch.ynet
+! Daily Mail Online
+@@||imasdk.googleapis.com/native/core/$app=com.dailymail.online
+@@||imasdk.googleapis.com/native/sdkloader/native_sdk_$app=com.dailymail.online
+! GO Keyboard
+||navigation.api.hk.goforandroid.com/api/*/website/navigations?virtual_id=
+! Investing.com Forex
+||investingapp.net/ads_api.php?
+! WPS Office
+||cloudservice24.kingsoft-office-service.com/cards
+! https://github.com/AdguardTeam/AdguardFilters/issues/2462
+! The Chive
+@@||api.branch.io/v1/open
+@@||api.branch.io^$app=com.thechive
+! https://github.com/AdguardTeam/AdguardFilters/issues/2318
+@@||ingress.com/intel?$document
+! https://forum.adguard.com/index.php?threads/igaworks-com-android.10777/#post-86234
+||igaworks.com/AdPOPcorn/
+! https://github.com/AdguardTeam/AdguardForAndroid/issues/587
+||espresso.economist.com/api/v1/ad/*/json$replace=/html/abcd\,/i
+||espresso.economist.com/api/v1/ad/*/json$replace=/html/abcd\,/i,important
+! https://github.com/AdguardTeam/AdguardFilters/issues/2245
+@@||mingle.kijiji.ca/api/ads/
+! https://github.com/AdguardTeam/AdguardFilters/issues/2182
+||config.sdk.scopely.io/*/android/ads_config.json
+||s3.amazonaws.com/promos.withbuddies.com/prod/ads/
+! https://github.com/AdguardTeam/AdguardFilters/issues/2253
+||onceux.unicornmedia.com/now/ads/vmap/*&UMADPARAMcsid=imdb.us.android$important,replace=/(<vmap:VMAP[\s\S]*?>)[\s\S]*<\/vmap:VMAP>/\$1<\/vmap:VMAP>/
+||onceux.unicornmedia.com/now/ads/vmap/*&UMADPARAMcsid=imdb.us.android$replace=/(<vmap:VMAP[\s\S]*?>)[\s\S]*<\/vmap:VMAP>/\$1<\/vmap:VMAP>/
+! https://github.com/AdguardTeam/ExperimentalFilter/issues/2191
+@@||googleads.g.doubleclick.net/mads/gma?*&_package_name=com.nextradiotv.bfmbusiness
+@@||googleads.g.doubleclick.net/mads/gma?request_id=*&_package_name=com.nextradiotv.bfmbusiness
+! Start: YT app
+! https://github.com/AdguardTeam/AdguardForAndroid/issues/573
+! https://github.com/AdguardTeam/AdguardForAndroid/issues/621
+||googleapis.com/youtubei/v1/browse?$important,protobuf=62887855|49413586|51621377
+||googleapis.com/youtubei/v1/browse?$protobuf=62887855|49413586|51621377
+||googleapis.com/youtubei/v1/next?$important,protobuf=55514441|62960614|65002523|105649908|82182324|99845384
+||googleapis.com/youtubei/v1/next?$protobuf=55514441|62960614|65002523|105649908|82182324|99845384
+||googleapis.com/youtubei/v1/player$important,protobuf=48841103|63112829|23|25
+||googleapis.com/youtubei/v1/player$protobuf=48841103|63112829|23|25
+||googleapis.com/youtubei/v1/search?$important,protobuf=73920376
+||googleapis.com/youtubei/v1/search?$protobuf=73920376
+! End: YT app
+! https://forum.adguard.com/index.php?threads/10132/
+||api.live.daum.net/*/ad/
+! https://forum.adguard.com/index.php?threads/10132/
+||vads-api.daumkakao.com/xylophone/adrequest/json
+! https://github.com/AdguardTeam/ExperimentalFilter/issues/2026
+||spoofgames.com/prod/*.txt
+! https://github.com/AdguardTeam/ExperimentalFilter/issues/1806
+! Jewels Maze 2
+||m.ezjoygame.com/update_android.json?os=
+! https://github.com/AdguardTeam/ExperimentalFilter/issues/1759
+! Privet app
+||privetapp.ru/ads/
+! https://github.com/AdguardTeam/ExperimentalFilter/issues/1065
+||staticaws.365scores.com/AdsConfig/
+! Plants vs. Zombies
+||eamobile.com/gameasset/direct/draper/*/ads/
+! DU Browser
+||mobile-global.baidu.com/mbrowser/promotion/get_advertisement_conf?
+! Fixing Buffer app
+@@||api.bufferapp.com/*/profiles.json
+@@||api.bufferapp.com/*/service/
+@@||api.bufferapp.com/*/user
+! com.setsnail.daddylonglegs
+||d27tpsznug51gz.cloudfront.net/creatives/*.mp4$mp4
+||d27tpsznug51gz.cloudfront.net^
+! Crunchyroll
+@@||api.crunchyroll.com/log_ad_event.0.json$app=com.crunchyroll.crunchyroid
+@@||v.fwmrm.net/ad/*&resp=vast2$app=com.crunchyroll.crunchyroid
+||v.lvlt.crcdn.net/*/video.mp4?$mp4
+!+ PLATFORM(ios)
+@@||api.crunchyroll.com/log_ad_event.0.json
+!+ PLATFORM(ios)
+@@||v.fwmrm.net/ad/*&resp=vast2
+! megogo for Android
+||vcdn.biz/*_mggads/
+! Asphalt 8
+||gameloft.com/*/index.ppp?ad=
+! AMC app
+||mdialog.com/*/stream_time_events$replace=/[\s\S]+/{}/
+! com.picsart.studio
+@@||dev.appboy.com^$app=com.picsart.studio
+@@||config.inmobi.com^$app=com.picsart.studio
+! DYWX Apps
+||sensors.larkplayerapp.com^
+||sensors.snaptubeapp.com^
+! Snow Inc (Line) Apps
+||log.kajicam.com^
+! Google Maps Promoted Pins
+||mobilemaps-pa.googleapis.com/google.internal.mothership.maps.mobilemaps.ads.v1.MobileMapsAdsService/ListPromotedPinAds^
