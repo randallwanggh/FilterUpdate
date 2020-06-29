@@ -1,10 +1,10 @@
 name: Auto build new list
 
 on:
-  schedule:
-    - cron: "0 21 * * *"
   watch:
     types: started
+# schedule:
+#  - cron: "0 21 * * *"
 
 jobs:
   build:
