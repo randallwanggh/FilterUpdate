@@ -3,9 +3,12 @@ name: Auto build new list
 on:
   schedule:
     - cron: "0 21 * * *"
+  watch:
+    types: started
+
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest    
     steps:
     - uses: actions/checkout@master
     - name: Run update.sh
