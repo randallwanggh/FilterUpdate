@@ -9,9 +9,9 @@ jobs:
     runs-on: ubuntu-latest    
     steps:
     - uses: actions/checkout@master
-    - name: Run update.sh
+    - name: Run start.sh
       run: |
-        ./update.sh
+        ./start.sh
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
