@@ -23,7 +23,7 @@ jobs:
         cd ~/gitee
         git config --global credential.helper store
         git config --local user.email "${{ secrets.GITEE_EMAIL }}"
-        git config --local user.name "gently"
+        git config --local user.name "randallwang"
         git add .
         git commit -m "pull newest list." -a
         git push -u origin master
