@@ -24,10 +24,16 @@ antiad_xinggsf
 
 https://raw.githubusercontent.com/randallwanggh/FilterUpdate/master/rules/antiad_xinggsf.txt
 
+https://gitee.com/randallwang/FilterUpdate/raw/master/antiad_xinggsf.txt
+
 hosts
 
 https://raw.githubusercontent.com/randallwanggh/FilterUpdate/master/rules/hosts.txt
 
+https://gitee.com/randallwang/FilterUpdate/raw/master/hosts.txt
+
 adguard
 
 https://raw.githubusercontent.com/randallwanggh/FilterUpdate/master/rules/adguard.txt
+
+https://gitee.com/randallwang/FilterUpdate/raw/master/adguard.txt
