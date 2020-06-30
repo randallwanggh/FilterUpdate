@@ -4652,7 +4652,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||api.iapps.ifeng.com^
 ||api.iimedia.cn^
 ||api.ijunhai.com^
-||api.ip138.com^
 ||api.iplay.163.com^
 ||api.jsfc8.cn^
 ||api.ketedata.com^
@@ -11795,7 +11794,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||events.avantisvideo.com^
 ||events.brightline.tv^
 ||events.chaordicsystems.com^
-||events.data.microsoft.com^
 ||events.demoup.com^
 ||events.gfe.nvidia.com^
 ||events.godaddy.com^
@@ -16206,7 +16204,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||ip.taobao.com^
 ||ip.tianqiapi.com^
 ||ip2c.landscape.co.jp^
-||ip2location.com^
 ||ip2map.com^
 ||ip2phrase.com^
 ||ipaddresslabs.com^
