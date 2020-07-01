@@ -42,6 +42,10 @@ pornopank.com,3w-video.com,coqporn.com,paraticlube.com,pornopix.net,isexpro.net,
 ! ##.paylas
 duzcedamla.com,muglagazetesi.com.tr,apron24.com,bilecikses.com,enzahome.com.tr,dizilove.com,filmizlex.com,habernida.com,guvenlifilmizle.com,full1080pfilmizle.com,istanbultakipte.com,dizilost.com,bodrumhaberpostasi.com,hdfilmizlesene2.com,gazetelink.com,dizivay.com,hizlifilmizlehd.com,simdifilmizle.com,filmdizievi1.com,asyadizileri.net,fullfilmizledim.com,fiilmizleyeni.com,canlitvlive.io,sondakika.com.tc,bolununsesi.com,sivashaber.com,anlasevgimi.com,ademocut.com,akdenizhaber.com.tr,donanimhaber.com,hayatbul.org,kimdirkim.com##.paylas
 !
+m.gazeta.ru##.social_icons
+criptonoticias.com##.amp-wp-share
+m.bursadabugun.com##.newsShareIcons
+infobank.by##.sharfriend
 auto.ru##.ButtonShare-module__container
 media.auto.ru##.Review__shareTitle
 media.auto.ru##.ReviewStickyHeader__share
@@ -610,7 +614,6 @@ www.msn.com##.stb-flexvertical
 babylonbee.com##.stacker-shares
 babylonbee.com##.stacker-mail
 nanu-nana.de###social-links
-m.bianet.org##.social_icons
 myshows.me,showjet.ru##.rmp-sharing-social
 aliexpress.ru##div[data-role="sns-share"]
 yadi.sk##.ns-view-sliderShare
@@ -3336,7 +3339,7 @@ townhall.com##button.btn-twitter-lg
 townhall.com##.btn-twitter-lg
 versus.com##.ShareButtons__shareButtons___3uSeW > .ShareButtons__social___2FYvI:not(.ShareButtons__mail___3x8lT)
 ispazio.net##.socialcount
-postnauka.ru,spletnik.ru,dreamtv.com.tr,theatlantic.com,fr.de,cozumpark.com,acquavivalive.it##.share-wrapper
+businessinsider.com,postnauka.ru,spletnik.ru,dreamtv.com.tr,theatlantic.com,fr.de,cozumpark.com,acquavivalive.it##.share-wrapper
 popculture.com##.social_blk
 technopat.net##.essb_bottombar
 history.com##.social-float
@@ -4606,7 +4609,7 @@ ligovka.ru##.social_blocks
 rg.ru##.social_bottom
 metacritic.com##.social_btm
 kidstaff.com.ua##.social_but
-tabnak.ir,hindustantimes.com##.social_icons
+m.bianet.org,tabnak.ir,hindustantimes.com##.social_icons
 ain.ua,ua.today##.social_like
 m.timesofindia.com##.social_links
 m.wn.de##.social_media_block
