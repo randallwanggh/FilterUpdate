@@ -710,6 +710,7 @@ cctv.com###bgAd_div
 ch-hr12333.com
 chinanews.com##div.advert_nav,#news_top_advert,#qizhi_div980,#zhengwenvideo~*
 chuangshi.qq.com##.topbanner,.mainbox>div.adv,div.jpBanner.fr,.banner_index,.main_banner,#advert
+cnbeta.com##+js(set, JB, noopFunc)
 cnbeta.com##.cbv,#artibody~*,#upcoming_box,div.article-global,div.meta > span.fr:last-child
 coral.qq.com##div[id^="PL_ad_cmt_"],div.mod-ad
 cr-nielsen.com
@@ -758,7 +759,7 @@ kolinay.com
 le.com##.banner_ad,#rightBottomPop,div.banner_left,div.banner_right,[id^=pause_a_content_h5ad]
 mail.163.com,mail.126.com##.emailSuggest,#theme,.gWel-bottom
 mieyisi.com
-mydrivers.com##.duilian
+mydrivers.com##.duilian,div.news_info > p:last-of-type,a[href*="jd.com/"]
 myhack58.com##.CMBox>.adv32
 news.163.com###js-cnxh-content~:not(#js-epTabRank)
 onlinedown.net##div.downDz>:first-child,a[href*=".9377wan.cn/"],div.downgs,div.downxzqad,div.srolltool~div,#ItemXGJC,#ItemXGXZ,#ItemXGZT,#ItemSSZT
@@ -20855,6 +20856,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||mydisplay.ctfile.com/$script,subdocument,popup
 ||mydisplay.ctfile.com^
 ||mydreamads.com^
+||mydrivers.com/*_728_90.$image
 ||myeffect.net^
 ||myeffecto.com^
 ||myemailbox.info^

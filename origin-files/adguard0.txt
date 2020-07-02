@@ -1445,7 +1445,9 @@ whathifi.com,futurestud.io,slate.com,businessinsider.de,fastcompany.com,heise.de
 ! ##.cta-component-full-width
 bournemouthecho.co.uk,eveningtimes.co.uk,greenocktelegraph.co.uk,heraldscotland.com,swindonadvertiser.co.uk,wiltshiretimes.co.uk##.cta-component-full-width
 !
+delfi.ee##.newsletter-cta
 bloomberg.com##.newsletter-module
+||libs.platform.californiatimes.com/newsletter-campaign-manager/latest.js
 businessinsider.com##.inline-newsletter-signup
 bigbangnews.com##.suscribehorizontal
 fosspost.org##.mailform
@@ -1898,7 +1900,7 @@ tasty.co##.newsletter
 vesti.ua#?##adpartner_branding > div.rowFullsecond:has(> div.redLine > div[class] > form.email-form)
 dailycaller.com##.spot-im-conversation-header
 tproger.ru##.yikes-mailchimp-container
-noobslab.com,sinagritbabasworkshop.com###FollowByEmail1
+gsmfirmware.net,noobslab.com,sinagritbabasworkshop.com###FollowByEmail1
 geekwire.com###newsletter-subscribe-sidebar
 boxerdergisi.com.tr###MobileNewsLetterFormContainer
 newatlas.com###NewsletterSubscribe
