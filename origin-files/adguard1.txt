@@ -342,7 +342,6 @@ rutab.net#%#//scriptlet("abort-current-inline-script", "$", "adv")
 krunker.io###aHolder
 ||g2insights-cdn.azureedge.net/*/mng/g2insights.min.js
 uploadship.com##.pageErrors
-dogemate.com##.bg-dark:not(body)
 @@||townnews.com/*/shared-content/art/tncms/templates/libraries/flex/components/ads/resources/scripts/tnt.ads.advertisements.*.js
 @@||glav.su/themes/glav/images/ads.gif
 @@||glav.su/js/site_ads.js
@@ -867,7 +866,6 @@ opengapps.org#@#.advertisement:not(body)
 tsn.ua##.e-content > aside.c-aside-box
 pronetblog.by##.adsensepost
 zerohedge.com###abd-banner
-delfi.ee#@#.patronad
 ||assets.livingathome.de/js/sp*/msg.js$empty
 @@||eca-anime.net/advert.js
 ebookdz.com###adblock_div
@@ -1367,7 +1365,7 @@ wochenanzeiger-muenchen.de##.alert-danger.alert
 bestradio.fm##.adb
 ||cdn.tinypass.com^$domain=autonews.com|cnbc.com
 wydaily.com##.special-message-wrapper
-anistar.org,anistar1.org,anistar2.org,anistar3.org,anistar4.org,anistar5.org,anistar6.org,anistar7.org,anistar8.org,anistar9.org,anistar10.org,anistar11.org,anistar12.org,anistar13.org,online-stars.org,online-star.org##.a-message
+anistar.org,anistar.world,anistar1.org,anistar2.org,anistar3.org,anistar4.org,anistar5.org,anistar6.org,anistar7.org,anistar8.org,anistar9.org,anistar10.org,anistar11.org,anistar12.org,anistar13.org,online-stars.org,online-star.org##.a-message
 germancarforum.com##.samCodeUnit
 rufilmtv.org##.attentions
 yazarokur.com###errorr[style]
@@ -1629,6 +1627,10 @@ it-actual.ru#%#AG_setConstant('window.alert', 'undefined');
 ||rusopen.com/img/default/noblock.png
 ||static.cdnslate.com/etc/designs/slate/js/plus-upsell-adblock.js
 techsolutiontips.com#%#window.google_jobrunner = function() { };
+!#safari_cb_affinity(general)
+delfi.ee#@#.ad-banner
+delfi.ee#@#.patronad
+!#safari_cb_affinity
 !
 duolingo.com#?#body > div[id="root"] > div:not([class]) > div[class^="_"] > div:not([class]) > div[class^="_"] > div[class^="_"] > div[class^="_"]:has(> div[class*=" _"] > h2 +div[class^="_"]:contains(Duolingo Plus))
 duolingo.com#?#div[class^="_"] > div[class*=" _"]:has( > div[class^="_"] > div[class*=" _"] > div[class^="_"]:contains(Duolingo Plus))
@@ -1792,12 +1794,14 @@ forbes.com#$#page-standard[id^="article-container"] { position: unset!important;
 !+ PLATFORM(ios, ext_android_cb, ext_safari)
 @@||forbes.com^$generichide
 ! https://github.com/AdguardTeam/AdguardFilters/issues/50850
+!#safari_cb_affinity(general)
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=viki.com
 @@||pubads.g.doubleclick.net/gampad/ads?env=vp&gdfp_req=1*www.viki.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=viki.com
 @@||viki.io/cms-uploads/uncategorized/ima3.js$domain=viki.com
 @@||pubads.g.doubleclick.net/gampad/ads?adk=*www.viki.com
 @@||dallasobserver.com/*/ads.js
+!#safari_cb_affinity
 !
 !
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=zkillboard.com,empty,important
