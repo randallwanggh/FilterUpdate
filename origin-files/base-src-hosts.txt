@@ -3846,6 +3846,7 @@
 127.0.0.1 7search.com
 127.0.0.1 7search.com #[Adware.7FaSSt]
 127.0.0.1 7softwaredreams.com
+127.0.0.1 7solo.biz
 127.0.0.1 7th-club.com
 127.0.0.1 7thlegion.ru
 127.0.0.1 7tools.eu
@@ -12499,6 +12500,7 @@
 127.0.0.1 alhijaztrvl.com
 127.0.0.1 ali-stats.jpush.cn
 127.0.0.1 ali.cityads.com
+127.0.0.1 aliadvert.ru
 127.0.0.1 alibaba.zzux.com
 127.0.0.1 alibabaslots.com
 127.0.0.1 alibestsale.com
@@ -14423,7 +14425,6 @@
 127.0.0.1 api.waptest.taobao.com
 127.0.0.1 api.webengage.com
 127.0.0.1 api.webpush.jp
-127.0.0.1 api.weibo.com
 127.0.0.1 api.west.bidtellect.com
 127.0.0.1 api.whysoserius.club
 127.0.0.1 api.wipmania.com  #[affects WorldIP]
@@ -18102,6 +18103,7 @@
 127.0.0.1 bnetds.cn
 127.0.0.1 bnewsb.com
 127.0.0.1 bngpt.com
+127.0.0.1 bngpt.com
 127.0.0.1 bnhtml.com
 127.0.0.1 bnk30livejs.112.2o7.net
 127.0.0.1 bnk30livejs.112.2o7.net
@@ -20497,8 +20499,6 @@
 127.0.0.1 cdn.blueconic.net
 127.0.0.1 cdn.boomtrain.com
 127.0.0.1 cdn.boomtrain.com
-127.0.0.1 cdn.bootcss.com
-127.0.0.1 cdn.bootcss.com.dns.maoyun.tv
 127.0.0.1 cdn.branch.io
 127.0.0.1 cdn.braun634.com
 127.0.0.1 cdn.brcdn.com
@@ -31311,6 +31311,7 @@
 127.0.0.1 fireads.pl
 127.0.0.1 firebase-settings.crashlytics.com
 127.0.0.1 firebasedynamiclinks-ipv4.googleapis.com
+127.0.0.1 firebaselogging-pa.googleapis.com
 127.0.0.1 firebaselogging.googleapis.com
 127.0.0.1 firebaseremoteconfig.googleapis.com
 127.0.0.1 firebid.pl
@@ -35908,6 +35909,7 @@
 127.0.0.1 i.blogads.com
 127.0.0.1 i.blogads.com
 127.0.0.1 i.bongacash.com
+127.0.0.1 i.bongacash.com
 127.0.0.1 i.casalemedia.com
 127.0.0.1 i.casalemedia.com
 127.0.0.1 i.cdn.openx.com
@@ -38169,7 +38171,6 @@
 127.0.0.1 ipv4main.antibot.cloud
 127.0.0.1 ipv6-wildcard.applovin.com.edgekey.net
 127.0.0.1 ipv6.adrta.com
-127.0.0.1 ipv6.slot9428.ebay.com.edgekey.net
 127.0.0.1 ipw.metadsp.co.uk
 127.0.0.1 ipw.metadsp.co.uk
 127.0.0.1 ipzd.pl
@@ -39021,7 +39022,6 @@
 127.0.0.1 johnlewis.112.2o7.net
 127.0.0.1 johnlewis.112.2o7.net
 127.0.0.1 johnston.grapeshot.co.uk
-127.0.0.1 join-latest.skype.com
 127.0.0.1 join.cityads.com
 127.0.0.1 join.javhd.com
 127.0.0.1 join.pro-gaming-world.com
@@ -39766,6 +39766,7 @@
 127.0.0.1 kaloryferypoznan.pl
 127.0.0.1 kamafit.pl
 127.0.0.1 kamasutra.popunder.ru
+127.0.0.1 kameleoon.eu
 127.0.0.1 kamilapaczka.org
 127.0.0.1 kamirkominki.pl
 127.0.0.1 kanapa.tv
@@ -40346,6 +40347,7 @@
 127.0.0.1 kryminalnyblues.pl
 127.0.0.1 kryptochemik.pl
 127.0.0.1 kryptosda.kryptosmobile.com
+127.0.0.1 krytox.benutzerprofilbbs02.space
 127.0.0.1 kryzyspolska.pl
 127.0.0.1 krzycztrybson.pl
 127.0.0.1 krzysztofbielanski.pl
@@ -42926,6 +42928,7 @@
 127.0.0.1 m.jzvog.cn
 127.0.0.1 m.k079j.cn
 127.0.0.1 m.k2d98mi.cn
+127.0.0.1 m.k9wz7.cn
 127.0.0.1 m.kafka8.com
 127.0.0.1 m.kbwmt.cn
 127.0.0.1 m.kcenu.com
@@ -53986,6 +53989,7 @@
 127.0.0.1 prod.apptimize.com
 127.0.0.1 prod.letswinstuff.com
 127.0.0.1 prod.linkitox.com
+127.0.0.1 prod.perf-serving.com
 127.0.0.1 prod.spotify.map.fastly.net
 127.0.0.1 prod.spotify.map.fastlylb.net
 127.0.0.1 prod.zenkube.com
@@ -54077,6 +54081,7 @@
 127.0.0.1 promediagrp-d.openx.net
 127.0.0.1 prometheus.fullstory.com
 127.0.0.1 promienieszczescia.pl
+127.0.0.1 promio-mail.com
 127.0.0.1 promo-images.ttpsdk.info
 127.0.0.1 promo-m.bongacash.com
 127.0.0.1 promo-m.bongacash.com
@@ -56864,6 +56869,7 @@
 127.0.0.1 rtb-useast.adexchangemedia.xyz
 127.0.0.1 rtb-useast.admeridian.com
 127.0.0.1 rtb-useast.vidoomy.com
+127.0.0.1 rtb-usw.mfadsrvr.com
 127.0.0.1 rtb-va.origin.startappservice.com
 127.0.0.1 rtb-xa.openx.net
 127.0.0.1 rtb.ad-stir.com
@@ -57150,6 +57156,7 @@
 127.0.0.1 rytmybielizny.pl
 127.0.0.1 ryylc.q8w4gxhjn.com
 127.0.0.1 rz.w8r4q.cn
+127.0.0.1 s-0001.ffdod.s-afdentry.us
 127.0.0.1 s-100.predictvideo.com
 127.0.0.1 s-39.predictvideo.com
 127.0.0.1 s-41.algovid.com
@@ -65293,6 +65300,8 @@
 127.0.0.1 tengoksebelah.blogspot.com
 127.0.0.1 tenmagazines.us.intellitxt.com
 127.0.0.1 tenmagazines.us.intellitxt.com
+127.0.0.1 tenmax-static.cacafly.net
+127.0.0.1 tenmax.io
 127.0.0.1 tennis.oewabox.at
 127.0.0.1 tenuate.1.p2l.info
 127.0.0.1 tenyek-online.com
@@ -71682,6 +71691,7 @@
 127.0.0.1 wildcard.measuread.com.edgekey.net
 127.0.0.1 wildcard.moatads.com.edgekey.net
 127.0.0.1 wildent.pl
+127.0.0.1 wildernbus19.live
 127.0.0.1 wildgrelns15.live
 127.0.0.1 wildreiki.pop.bid
 127.0.0.1 wileydumcom.112.2o7.net
@@ -74316,7 +74326,6 @@
 127.0.0.1 www.badznaptak.pl
 127.0.0.1 www.bagslap.com
 127.0.0.1 www.bagstory.pl
-127.0.0.1 www.baidu.com
 127.0.0.1 www.baiduccdn.org
 127.0.0.1 www.baiducdn.org
 127.0.0.1 www.baidujs.vip
@@ -83928,7 +83937,6 @@
 127.0.0.1 www.wrzeszcz-pallotyni.pl
 127.0.0.1 www.ws4q.com
 127.0.0.1 www.ws510.com
-127.0.0.1 www.wshifen.com
 127.0.0.1 www.wshufa.com
 127.0.0.1 www.wsparciejezykowe.eu
 127.0.0.1 www.wspolniedlaprzyszlosci.pl
@@ -85589,7 +85597,6 @@
 127.0.0.1 xyrkl.com
 127.0.0.1 xyxudubax.angelcities.com
 127.0.0.1 xyy.code.weddingeeos.com
-127.0.0.1 xyz
 127.0.0.1 xyz.cashnow.ee
 127.0.0.1 xyz.freelogs.com
 127.0.0.1 xyz.freelogs.com
@@ -85977,6 +85984,7 @@
 127.0.0.1 yoursuperservice.com
 127.0.0.1 yourtango.us.intellitxt.com
 127.0.0.1 yourtango.us.intellitxt.com
+127.0.0.1 yourtopprize.life
 127.0.0.1 youshouldclick.us
 127.0.0.1 youso.crazyegg.com
 127.0.0.1 youthrenewphyto.com

@@ -1,4 +1,4 @@
-#version=202007041851
+#version=202007052046
 #url=https://github.com/VeleSila/yhosts/blob/master/hosts
 #-----Test
 127.0.0.1 at.umeng.com
@@ -5018,6 +5018,7 @@
 127.0.0.1 m.jzvog.cn
 127.0.0.1 m.k079j.cn
 127.0.0.1 m.k2d98mi.cn
+127.0.0.1 m.k9wz7.cn
 127.0.0.1 m.kbwmt.cn
 127.0.0.1 m.kcenu.com
 127.0.0.1 m.kchaq.com

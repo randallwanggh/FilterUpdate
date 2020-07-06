@@ -18446,7 +18446,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||liveprivates.com^
 ||livepromotools.com^
 ||liverail.com^
-||livere.com^
 ||liveresources.mensxp.com^
 ||liversely.net^
 ||lives.l.aiseet.atianqi.com^
