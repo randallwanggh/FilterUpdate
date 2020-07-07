@@ -153,6 +153,10 @@
 !END: Chinese ad servers
 !
 !
+||ezexfzek.com^$third-party
+||adpay.network^$third-party
+||ethicalads.io^$third-party
+||advinci.uno^$third-party
 ||opsoomet.net^
 ||d.trafiq.party^$third-party
 ||4tnui5r06j62.com^$third-party

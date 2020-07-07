@@ -22,9 +22,6 @@ tradingreview.net#?##sidebar > .widget:has( > a[rel*="nofollow"][target="_blank"
 rogerebert.com#?#.page-content > div[class="columns is-centered is-spaced--large"]:has(> .column > .page-content--block > .page-content--ad-block)
 ! https://github.com/AdguardTeam/AdguardFilters/issues/56701
 filecrypt.co#?##cform > .protection div > ul > li:has(> .bims > div[onclick])
-! https://github.com/AdguardTeam/AdguardFilters/issues/56579
-sythe.org#$?#.mainContent > div.primaryContent + div.section ~ *:not(div):not(ol):not(br):not(div) style { remove: true; }
-sythe.org#$?#.pageWidth > div.pageContent > *:not(div):not(ol):not(br):not(div):not(h3):not(form):not(nav):not(span):not(aside):not(dl):not(ul) *:not(div):not(ol):not(br):not(div):not(h3):not(form):not(nav):not(span):not(aside):not(dl):not(ul) style { remove: true; }
 ! https://github.com/AdguardTeam/AdguardFilters/issues/56617
 onepiece-online-manga.com#?#.code-block > center:contains(Advertisement)
 ! https://github.com/AdguardTeam/AdguardFilters/issues/56572
@@ -38,10 +35,11 @@ mail.yahoo.com#?#a[data-test-id="pencil-ad-messageList"]
 !#endif
 ! windows101tricks.com - ads
 windows101tricks.com#?##sidebar-primary-sidebar > .primary-sidebar-widget > .section-heading > span.h-text:contains(Advertisement)
+! https://github.com/AdguardTeam/AdguardFilters/issues/58740
 ! https://github.com/AdguardTeam/AdguardFilters/issues/56171
-bustle.com,inverse.com#?#div[data-adroot] > div[class*=" "]:has(> div[id^="ad-"]:only-child)
-inverse.com#?#body > header + div[class] > div[class*=" "]:has(> div[id^="ad-"]:only-child)
-inverse.com#?#article > div > div[class*=" "] > div[class] > div[class*=" "] > div[class*=" "]:has(> div[id^="ad-"]:only-child)
+inputmag.com,bustle.com,inverse.com#?#div[data-adroot] > div[class*=" "]:has(> div[id^="ad-"]:only-child)
+inputmag.com,inverse.com#?#body > header + div[class] > div[class*=" "]:has(> div[id^="ad-"]:only-child)
+inputmag.com,inverse.com#?#article > div > div[class*=" "] > div[class] > div[class*=" "] > div[class*=" "]:has(> div[id^="ad-"]:only-child)
 ! https://github.com/AdguardTeam/AdguardFilters/issues/56129
 png.is#?#.grid > .grid__item > img[onload="reloadma()"] + .alert-info:contains(/^These ads help/)
 png.is,nohat.cc#?#.grid > .grid__item[style*="min-height: 250px; position: absolute;"]:has(> .adsbygoogle)
@@ -944,13 +942,14 @@ tuberel.com#?#.videos div.video-item:has(> a.vda-link)
 smailpro.com#?##home div.caption > div[class]:contains(/Hide|HIDE/)
 smailpro.com#?##home div.caption > div[class]:has(> div > a[target="_blank"] > img)
 !
+severeporn.com#?#.block-video > div.table:has(> div.opt)
 kentonline.co.uk#?#.PageContent > div.SiteContentBlock:has(> div#TaboolaMain)
 foobar2000.com#?#body table[style]:has(> caption:contains(advertisement))
 hometheaterforum.com#?#.uix_sidebar--scroller > div.block:has(> div.block-container > h3:contains(Forum Sponsors))
 windowschimp.com#?#.inside-right-sidebar > aside.widget:has(> div.textwidget a[target="_blank"] > img)
 thetakeout-com.cdn.ampproject.org#?#article > div[class]:has(> div[class] > p[class]:contains(Advertisement))
 thewindowsclub.com#?#.sidebar > aside.widget:has(> div.textwidget > span[id^="ezoic-pub-ad-placeholder-"])
-pussyspace.com,pussyspace.net#?#.mainBoxContent div[class]:has(> style ~ *:not(script) img[src*="base64"])
+pussyspace.com,pussyspace.net#?#.MainBoxContent div[class]:has(> style ~ *:not(script) img[src*="base64"])
 healthline.com#?#article > div:not([class]):not([id]):has(> section > div > div > div > div:contains(ADVERTISEMENT))
 macmillandictionary.com#?##topslot_container:has(> #ad_topslot)
 aetherhub.com#?#.inner-content > div.row div.card:has(> div > div[id^="zone"])

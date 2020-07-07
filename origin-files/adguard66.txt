@@ -29,6 +29,8 @@ video.gjirafa.com#%#AG_defineProperty('originVideo.requestA.Id', { value: "0" })
 !---------------------------------------------------------------------
 !------------------------------ Arabian ------------------------------
 !---------------------------------------------------------------------
+! https://github.com/AdguardTeam/AdguardFilters/issues/58726
+harmash.com#%#//scriptlet('prevent-setTimeout', '#ads_alert')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/57982
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=amni8.com
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=amni8.com,script,redirect=googlesyndication-adsbygoogle,important
@@ -909,6 +911,11 @@ fofmyanmar.com##center > a[rel="noopener noreferrer"] > img
 !--- general hide --
 ##a[href^="https://adm.beimg.com/"]
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/58587
+||53orz.com^$domain=hotpress.info
+hotpress.info##.widget_text:first-child
+hotpress.info##.widget_text:nth-of-type(n+5)
+hotpress.info#%#//scriptlet('prevent-setTimeout', 'nextFunction', '2000')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/58327
 lnk2.cc#%#//scriptlet("set-constant", "adblock", "false")
 @@||lnk2.cc/js/ad_code.js
@@ -4304,6 +4311,12 @@ krucil.net##img[width="900"][height="50"]
 !---------------------------------------------------------------------
 !------------------------------ Hebrew -------------------------------
 !---------------------------------------------------------------------
+! https://github.com/AdguardTeam/AdguardFilters/issues/58620
+pricez.co.il##.ProductInCatLIB
+pricez.co.il#%#//scriptlet("abort-on-property-read", "adsBlocked")
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,xmlhttprequest,redirect=nooptext,domain=pricez.co.il
+!+ PLATFORM(ios, ext_android_cb, ext_safari)
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=pricez.co.il
 ! https://github.com/AdguardTeam/AdguardFilters/issues/56716
 krayot.com##.krayo-slider
 ! https://github.com/AdguardTeam/AdguardFilters/issues/55038
@@ -6279,6 +6292,8 @@ innpoland.pl,mamadu.pl,dadhero.pl,natemat.pl#%#//scriptlet("prevent-eval-if", "i
 @@||video.onnetwork.tv/adblock_notify.js
 ||request.dqst.pl/v*/$xmlhttprequest
 !
+! fakt.pl - ad leftovers
+fakt.pl#$##onet-ad-flat-plista { position: absolute !important; left: -3000px !important; }
 ! https://github.com/AdguardTeam/AdguardFilters/issues/58213
 waw4free.pl#?#.zobacz-box-text:contains(/^reklama$/)
 waw4free.pl$$script[tag-content="Wykryliśmy adblocka"]
@@ -8376,7 +8391,7 @@ brandbuffet.in.th#@#.category-advertorial
 !
 ! https://github.com/AdguardTeam/AdguardFilters/issues/58456
 !+ PLATFORM(ios, ext_safari, ext_android_cb)
-@@||phim.vkool.tv/js/adsvk_v*.js
+@@||vkool.tv/js/adsvk_v*.js
 ! https://github.com/AdguardTeam/AdguardFilters/issues/58342
 @@||apitvh.net/embed/ads_code_1.js$domain=apitvh.net
 ||apitvh.net/preload^
