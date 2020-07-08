@@ -324,8 +324,6 @@
 127.0.0.1 ubmcmm.baidustatic.com
 127.0.0.1 ucstat.baidu.cn
 127.0.0.1 ucstat.baidu.com
-127.0.0.1 ufosdk.baidu.cn
-127.0.0.1 ufosdk.baidu.com
 127.0.0.1 ulic.baidu.com
 127.0.0.1 ulog.imap.baidu.com
 127.0.0.1 union.baidu.cn

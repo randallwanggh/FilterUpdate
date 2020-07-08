@@ -68400,8 +68400,6 @@
 127.0.0.1 uetv.adj.st
 127.0.0.1 uf2.svrni.ca
 127.0.0.1 uf2aasn.111adfueo.us
-127.0.0.1 ufosdk.baidu.cn
-127.0.0.1 ufosdk.baidu.com
 127.0.0.1 ufpcdn.com
 127.0.0.1 ufz.doesxyz.com
 127.0.0.1 ug.rtb.adx1.com

@@ -50,6 +50,15 @@ allianz.de,easybib.com,st.com,mauijim.com,citationmachine.net,idevice.ro,tagheue
 ! ##div[aria-label="cookieconsent"]
 download.pixelexperience.org,waterdrop.com,exvital.de,mobile01.com,duckduckgo.merchmadeeasy.com,bear-family.com,r-pur.com,wstream.video##div[aria-label="cookieconsent"]
 !
+/*component-CookieConsent.*.js$domain=electrolux.al|electrolux.at|electrolux.be|electrolux.com.ar|electrolux.com.au|electrolux.bg|electrolux.ca|electrolux.cl|electrolux.de|electrolux.ch|electrolux.co.id|electrolux.co.il|electrolux.co.jp|electrolux.co.kr|electrolux.co.nz|electrolux.co.th|electrolux.co.uk|electrolux.co.za|electrolux.com.br|electrolux.com.cn|electrolux.com.co|electrolux.com.ec|electrolux.com.hk|electrolux.com.my|electrolux.com.pe|electrolux.com.ph|electrolux.com.sg|electrolux.com.tr|electrolux.com.tw|electrolux.com.ve|electrolux.cz|electrolux.dk|electrolux.dz|electrolux.ee|electrolux.es|electrolux.fi|electrolux.fr|electrolux.gr|electrolux.hr|electrolux.hu|electrolux.it|electrolux.lt|electrolux.lu|electrolux.lv|electrolux.ma|electrolux.nl|electrolux.no|electrolux.pl|electrolux.pt|electrolux.ro|electrolux.rs|electrolux.ru|electrolux.se|electrolux.si|electrolux.sk|electrolux.ua|electrolux.vn|electroluxarabia.com|electroluxusa.com
+partnerize.com###cookie_opt_out_wrapper
+sravnibank.com.ua##.csppp-container
+creditznatok.com.ua###cookierookie
+otelrezervasyon.com##.datapolicy-wrapper
+tatilsepeti.com##.cookie-confirmation
+etorazvesex.ru##div[data-storage-item^="t886cookiename_"]
+msn.com###cookiebanner
+pracuj.pl###kansas-header > div[data-test="section-cookies-prompt"]
 restate.ru#?#body > div[class][style]:has(> .hide-from-print p  a[href$="/personaldata.html"])
 lamoda.ru#?#.footer > .vue-widget > div:has(> div > div > a[href="/about/oferta/"])
 sentry.io#?##gatsby-focus-wrapper > div[class] > div[class]:has(> div > div > p > a[href="https://sentry.io/privacy/"])
@@ -405,7 +414,7 @@ bio-hoflieferant.de###cookies_acceptance
 bechtle.com##.neo-footer__cookieBar
 flyer-bikes.com###pn_cookieconsent
 igiftcards.de#?##content-container > aside:has(> div.container > div.box > div > p > a[href="/legal/privacy"])
-walkme.com###privacy_cookies
+xkekos.tv,habboin.net,fantasy.li,walkme.com###privacy_cookies
 consorsbank.de##.tc-privacy-overlay
 consorsbank.de##.tc-privacy-wrapper
 capterra.com.de###cookie-consent__banner
@@ -1516,7 +1525,7 @@ leroyseafood.com##.js-cookie-root
 vkusvill.ru##.js-cookie-warning
 cylance.com##.js-cookiePolicy
 hunkemoller.de##.js-cookie_hint
-sharp.hu##.js-cookielayer
+sharp.com.tr,sharp.hu##.js-cookielayer
 stopad.io##.js-gdpr-modal
 opel.hu##.js-silent-consent
 olimpsport.com##.konatsu-cookies
@@ -1748,7 +1757,7 @@ docinsider.de###__cookiemsg
 evo.co.uk###__ic-notice
 enirocentrum.pl,panoramafirm.pl###__msg_overlay
 teetres.com###_cookies_info
-sony.ru,priceless.com,gazzetta.it,la7.it###_evh-ric
+corriere.it,sony.ru,priceless.com,gazzetta.it,la7.it###_evh-ric
 abebooks.co.uk,abebooks.fr###abe-gdpr
 hk.on.cc###acceptDisclaimer
 eg.ru###agreement
@@ -1871,7 +1880,7 @@ deluxe-marketing.com###dsgvo-cookie-container
 otosklep24.pl###dymek
 schuh-armbruster.de###egg-cookie-bar
 ephe.fr###elytics
-binekarac.vw.com.tr,latimes.com,scotsman.com###ensNotifyBanner
+bhphotovideo.com,binekarac.vw.com.tr,latimes.com,scotsman.com###ensNotifyBanner
 strato.de,strato.nl###eu-cookie-guideline
 rail.cc###eucookiebox
 forum-kulturystyka.pl###fk-terms
@@ -2581,7 +2590,6 @@ laptopmag.com,livescience.com,space.com,tomsguide.com,toptenreviews.com###prism-
 allrecipes.com###privacyNotification
 starwindsoftware.com###privacyPopup
 motor1.com###privacy_accept
-fantasy.li###privacy_cookies
 altincicadde.com###privacy_modal
 derstandard.at###privacypolicy
 longfonds.nl###ptCookieBarWrap
@@ -3006,7 +3014,7 @@ ing.nl###cookieCheck-app
 animeforce.org,chip.de,main-echo.de###cookieChoiceInfo
 areamobile.de###cookieChooser
 okdiario.com###cookieLawPanel
-expert-technomarkt.de,kirstein.de,asgoodasnew.de,papierdirekt.de,zweirad-stadler.de,eustore.ifixit.com,basicbio.de,bigge-energie.de,erf.de,metabo.com,rewe.de###cookieNote
+feedity.com,expert-technomarkt.de,kirstein.de,asgoodasnew.de,papierdirekt.de,zweirad-stadler.de,eustore.ifixit.com,basicbio.de,bigge-energie.de,erf.de,metabo.com,rewe.de###cookieNote
 bide-et-musique.com###cookieOK
 natgeotv.com###cookieStandar
 bournemouthecho.co.uk,cravenherald.co.uk,eveningtimes.co.uk,greenocktelegraph.co.uk,heraldscotland.com,swindonadvertiser.co.uk,warringtonguardian.co.uk,wiltshiretimes.co.uk###cookieWarningR
@@ -3128,7 +3136,6 @@ tu-dresden.de###privacy-statement
 cottodeste.it###privacyBox
 marca.com###privacyPolicyLayerN
 motorsport.com###privacy_accept
-habboin.net###privacy_cookies
 zorgenzekerheid.nl###ps-bottombar
 ray-ban.com###rb_cookieBox
 mobile.twitter.com###react-root > div[aria-hidden="false"] + ._2FU3NGw4 > ._1363jyKz > .rn-11luve4
@@ -4011,6 +4018,9 @@ bmwfaq.org#?#.Notices[-ext-has='a[href="//www.bmwfaq.org/help/cookies"]']
 ! JS rules
 !
 ! tarnkappe.info#%#//scriptlet("set-constant", "CM_cookieManager.start", "noopFunc")
+ffm.to#%#document.cookie="allowTracking=false; path=/;"; document.cookie="trackingSettings={%22ads%22:false%2C%22performance%22:false}; path=/;";
+corriere.it#%#document.cookie = "__ric=1; path=/;";
+cw.choice.faktor.io#%#AG_onLoad(function(){if(window.self!==window.top&&document.referrer.startsWith("https://www.omroepwest.nl/")){var a=new MutationObserver(function(){var b=document.querySelector("button#acceptAll");b&&(a.disconnect(),b.click())});a.observe(document,{childList:!0,subtree:!0});setTimeout(function(){a.disconnect()},1E4)}});
 hufeisenkrater.de#%#//scriptlet('abort-current-inline-script', '$', '#cookieNotice')
 proshop.de#%#document.cookie = "CookieInformationConsent=%7B%22consents_approved%22%3A%5B%22cookie_cat_necessary%22%5D%7D; path=/;";
 raiba-ke-oa.de#%#//scriptlet("set-constant", "Object.prototype.cookieConsentState", "true")

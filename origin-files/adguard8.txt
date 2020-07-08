@@ -90,6 +90,8 @@ sodapdf.com##.be-tooltip
 !
 ! Specific sites
 !
+partnerize.com##.showOnScroll.contentPopupMini
+schlank-mit-darm.de##.pum-overlay[data-popmake*="newsletter"]
 nb2.bicerovo.ru,ingrad.ru###scb_bg
 mskguru.ru###callback_phone
 ionos.de###bio_ep
@@ -2207,6 +2209,11 @@ com-magazin.de##w-div[role$="dialog"]
 ||turkusozu.com/js/fancybox/
 ||ufatime.ru/st/libs/magnific/jquery.magnific-popup.min.js
 !
+philips.com.tr#$#.mfp-wrap2 { display: none !important; }
+philips.com.tr#$#.mfp-bg2 { display: none !important; }
+philips.com.tr#$#html { overflow: auto !important; }
+!
+!
 atbmarket.com#$#.popup_promo_block { display: none !important; }
 atbmarket.com#$#.popup_promo_block ~ div.modal-backdrop { display: none !important; }
 atbmarket.com#$#body { overflow: auto !important; }
@@ -2276,8 +2283,8 @@ greatist.com#$##modal-host { display: none !important; }
 greatist.com#$#body { overflow: visible !important; }
 !
 bongacams.net,bongacams.org,bongacams4.com,bongacams3.com,royalcams.com,100tipcams.com,adultcams.me,adultchat2100.com,alphafreecams.com,bimbolive.com,bongacam.net,bongacam.org,bongacams-chat.ru,bongacams.com,bongacams.eu,bongacams2.com,cammbi.com,dcmoz.net,hdkinomax.com,prostocams.com,pure-t.ru,r2games.com,redlightarea.com,smutcam.com##.popover_spygasm
-bongacams18.com,bongacams.net,bongacams.org,bongacams4.com,bongacams3.com,royalcams.com,100tipcams.com,adultcams.me,adultchat2100.com,alphafreecams.com,bimbolive.com,bongacam.net,bongacam.org,bongacams-chat.ru,bongacams.com,bongacams.eu,bongacams2.com,cammbi.com,dcmoz.net,hdkinomax.com,prostocams.com,pure-t.ru,r2games.com,redlightarea.com,smutcam.com##.fancybox-overlay
-bongacams18.com,bongacams.net,bongacams.org,bongacams4.com,bongacams3.com,royalcams.com,100tipcams.com,adultcams.me,adultchat2100.com,alphafreecams.com,bimbolive.com,bongacam.net,bongacam.org,bongacams-chat.ru,bongacams.com,bongacams.eu,bongacams2.com,cammbi.com,dcmoz.net,hdkinomax.com,prostocams.com,pure-t.ru,r2games.com,redlightarea.com,smutcam.com##.fancybox-wrap
+bongacams19.com,bongacams18.com,bongacams.net,bongacams.org,bongacams4.com,bongacams3.com,royalcams.com,100tipcams.com,adultcams.me,adultchat2100.com,alphafreecams.com,bimbolive.com,bongacam.net,bongacam.org,bongacams-chat.ru,bongacams.com,bongacams.eu,bongacams2.com,cammbi.com,dcmoz.net,hdkinomax.com,prostocams.com,pure-t.ru,r2games.com,redlightarea.com,smutcam.com##.fancybox-overlay
+bongacams19.com,bongacams18.com,bongacams.net,bongacams.org,bongacams4.com,bongacams3.com,royalcams.com,100tipcams.com,adultcams.me,adultchat2100.com,alphafreecams.com,bimbolive.com,bongacam.net,bongacam.org,bongacams-chat.ru,bongacams.com,bongacams.eu,bongacams2.com,cammbi.com,dcmoz.net,hdkinomax.com,prostocams.com,pure-t.ru,r2games.com,redlightarea.com,smutcam.com##.fancybox-wrap
 !
 pastemagazine.com###newsletter-signup-overlay
 pastemagazine.com##body > div.screen:empty
