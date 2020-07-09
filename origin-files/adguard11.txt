@@ -235,7 +235,10 @@ yggtorrent.ch##.ad-alert-wrapper
 ! cosmopolitan.de - own shop
 cosmopolitan.de##.media > a[href^="http://bit.ly"]
 cosmopolitan.de##.content #dikr-responsive-ads-posterad + p
+! https://github.com/AdguardTeam/AdguardFilters/issues/58860
 ! https://github.com/AdguardTeam/AdguardFilters/issues/34726
+geeksforgeeks.org###secondary a[href^="https://practice.geeksforgeeks.org/courses/"][target="_blank"] > img
+geeksforgeeks.org##.promotional > a[href^="https://practice.geeksforgeeks.org/courses/"][target="_blank"] > img
 geeksforgeeks.org###page a[href^="https://practice.geeksforgeeks.org/courses/"][target="_blank"] > img
 ! https://github.com/AdguardTeam/AdguardFilters/issues/34034
 thehackernews.com##body > .deals > .deal-box
@@ -560,6 +563,7 @@ experts-exchange.com##.ctaSolutionStickyWrapper
 ! Working rule, but JS: is.alicdn.com#%#if (typeof localStorage != 'undefined' && localStorage.setItem) { localStorage.setItem('2', '"{\"2USD_coupon_popup\":1}"'); }
 aliexpress.ru,aliexpress.com#$?##newuser-activity-config { remove: true; }
 !
+yahoo.com##div[class^="subscriptiontdv2"]
 sravnibank.com.ua##a[href="https://sravnibank.com.ua/kredity-nalichnymi/"]
 ||androidheadlines.com/wp-content/uploads/2019/07/AH-TechDeals-300x150.jpg
 ||androidheadlines.com/wp-content/uploads/2020/04/AH-Latest-Tech-Deals-Wide.jpg

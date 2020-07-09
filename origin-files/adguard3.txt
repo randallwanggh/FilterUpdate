@@ -50,7 +50,14 @@ allianz.de,easybib.com,st.com,mauijim.com,citationmachine.net,idevice.ro,tagheue
 ! ##div[aria-label="cookieconsent"]
 download.pixelexperience.org,waterdrop.com,exvital.de,mobile01.com,duckduckgo.merchmadeeasy.com,bear-family.com,r-pur.com,wstream.video##div[aria-label="cookieconsent"]
 !
+express.dhl.ru###modcookie
+donanimhaber.com##.cookie-kutu
+planner5d.com###modal-cookies-policy
+agcocorp.com##.disclaimerpopup
+agcocorp.com###cookie_privacy_policy
+bumudur.com###wboxA
 /*component-CookieConsent.*.js$domain=electrolux.al|electrolux.at|electrolux.be|electrolux.com.ar|electrolux.com.au|electrolux.bg|electrolux.ca|electrolux.cl|electrolux.de|electrolux.ch|electrolux.co.id|electrolux.co.il|electrolux.co.jp|electrolux.co.kr|electrolux.co.nz|electrolux.co.th|electrolux.co.uk|electrolux.co.za|electrolux.com.br|electrolux.com.cn|electrolux.com.co|electrolux.com.ec|electrolux.com.hk|electrolux.com.my|electrolux.com.pe|electrolux.com.ph|electrolux.com.sg|electrolux.com.tr|electrolux.com.tw|electrolux.com.ve|electrolux.cz|electrolux.dk|electrolux.dz|electrolux.ee|electrolux.es|electrolux.fi|electrolux.fr|electrolux.gr|electrolux.hr|electrolux.hu|electrolux.it|electrolux.lt|electrolux.lu|electrolux.lv|electrolux.ma|electrolux.nl|electrolux.no|electrolux.pl|electrolux.pt|electrolux.ro|electrolux.rs|electrolux.ru|electrolux.se|electrolux.si|electrolux.sk|electrolux.ua|electrolux.vn|electroluxarabia.com|electroluxusa.com
+socialclub.rockstargames.com##div[class^="CookiesBanner__"]
 partnerize.com###cookie_opt_out_wrapper
 sravnibank.com.ua##.csppp-container
 creditznatok.com.ua###cookierookie
@@ -153,7 +160,7 @@ portal.pixelfederation.com##.announcement.cookies
 diggysadventure.com###gdpr-modal
 diggysadventure.com###gdpr-modal-backdrop
 tproger.ru###cookie-notice-wrapper
-relax.by##.CookiesNotification
+103.ua,relax.by##.CookiesNotification
 otomatikbes.info###pop-capsul
 liquidtelecom.com###lqt-cookie-app
 singtel.com##.ux-consent-banner
@@ -641,7 +648,7 @@ distractify.com###_CookieConsent
 ||microsoft.com/mscc/
 microsoft.com###msccBanner
 tabletka.by##.js-coockie
-joinhoney.com###honey > div[class^="t-mainContainer-"] > div[class^="t-mainContainer-"][class*="t-blue-"][class*="t-tall-"][class*="t-breakpoint-"]
+joinhoney.com###honey > div[class^="withHoneyCountryInfo"] > div[class^="t-mainContainer-"][class*="t-blue-"][class*="t-tall-"][class*="t-breakpoint-"]
 whatsapp.com#?##hide_till_load > div[class^="_"] > div[id][class^="_"]:has(> i.img[role="button"] + div[class^="_"])
 thebabel.net,thebabel.com.ua##.js-cookies-modal
 depositfiles.com,dfiles.eu###cookie_popup
@@ -1403,7 +1410,7 @@ android-hilfe.de##.bottomFixer .DismissParent
 calkalasutasayrani.com##.bs-example-modal-lg
 coursedrive.org,economiasc.com,windows101tricks.com,software-on.com,adslayuda.com,enterinit.com,howtofixwindows.com,konupara.com,prajwaldesai.com,hackintosh.computer,derstarih.com,letsgetapps.co,linehaber.com.tr,pcbilimi.com,zillowtech.com##.bs-wrap-gdpr-law
 boerse-stuttgart.de##.bsg-cookie-layer
-fitness24seven.com,logistics.dhl##.c-cookie-disclaimer
+logistics.dhl.ru,fitness24seven.com,logistics.dhl##.c-cookie-disclaimer
 237solution.net,bibleserver.com,history.vn.ua,iseyskyr.com##.cc-container
 mediapart.fr##.cc-cookie-consent-banner-modal
 wallpapershome.com##.cc-dialog
@@ -1538,7 +1545,7 @@ gelbeseiten.de##.mod-CookieMessage
 aldi-nord.de##.mod-cookie-consent
 calkalasutasayrani.com,xn--giant-dsseldorf-5vb.de##.modal-backdrop
 511tactical.com#$##.modal-backdrop { display:none!important; }
-ghacks.net##.mrf-cmp
+der-postillon.com,ghacks.net##.mrf-cmp
 issuu.com##.msgbox-CookieConsent
 praxis.nl##.mxd-cookie-bar
 csmbucuresti.ro##.my-cookie-banner
@@ -2001,7 +2008,7 @@ forums.techguy.org##.Notice
 userstyles.org##.NotificationLine
 nouvelobs.com##.ObsCnilWarning
 hfboards.mandatory.com##.PanelScrollerOff
-gamepro.de,gamestar.de,htforum.com,linksysinfo.org,tonymacx86.com##.Panels > .DismissParent.notice_-1 > .noticeContent
+forums.sherdog.com,gamepro.de,gamestar.de,htforum.com,linksysinfo.org,tonymacx86.com##.Panels > .DismissParent.notice_-1 > .noticeContent
 fashionmodeldirectory.com##.PrivacyNotice
 grammarly.com##._18PBe-_-_-client-components-gdpr-notification--notification-notification
 ngnovoros.ru##._1TNYbgH
@@ -2495,7 +2502,7 @@ cielotv.it,sky.it,tv8.it###bannerprivacy
 iptvbin.com###barracookies
 fcbarcelona.com###block-notifications-cookie
 br-klassik.de,br.de###brCookieBanner
-ozelkuvvet.com,sarizeybekhaber.com.tr,tcmakale.com###cerezsorgula
+haberarsiviyiz.com,ozelkuvvet.com,sarizeybekhaber.com.tr,tcmakale.com###cerezsorgula
 fototips.ru,natureweight.ru###clearfy-cookie
 dailystar.co.uk,express.co.uk,kizi.com,pcgamer.com,techradar.com,yepi.com###cmp-container-id
 onlinekosten.de,preis24.de###cms_dp_bar
@@ -3959,7 +3966,6 @@ codecs.forumotion.net,antdm.forumactif.com#?#body > style + div[id]:has(> div > 
 cimri.com#?##__next > div > div[class*=" "]:has(> a[href="/cerez-politikasi"][target="_blank"])
 myunidays.com#?#.js-toasts > .toast:has(> .message > .message-text > a[data-track="join-cookie-account"])
 vitra.com#?#body > .ReactModalPortal:has(> .ReactModal__Overlay > .ReactModal__Content .modal__content > .consent__snipped)
-yubo.live#?#body > script + div > div[class^="_"]:has(> button:contains(I agree))
 tvplay.tv3.lt#?##__next > div[class^="sc-"] > div[class^="sc-"]:has(> button)
 yubo.live#?#body > script + div > div[class^="_"]:has(> button:contains(I agree))
 scores24.live#?#body > div#root > div:last-child:has(> div > a[href*="/p-rules"])

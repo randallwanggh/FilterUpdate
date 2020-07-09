@@ -911,6 +911,8 @@ fofmyanmar.com##center > a[rel="noopener noreferrer"] > img
 !--- general hide --
 ##a[href^="https://adm.beimg.com/"]
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/58804
+493428493428c.monster##div[style^="width:728px;height:90px;"]
 ! https://github.com/AdguardTeam/AdguardFilters/issues/58587
 ||53orz.com^$domain=hotpress.info
 hotpress.info##.widget_text:first-child
@@ -6620,6 +6622,8 @@ wylecz.to#?#.row div[class][style*="border-bottom:"][style*="max-height:"]:has(>
 ! https://github.com/AdguardTeam/AdguardFilters/issues/35408
 darkw.pl##.bladbl
 darkw.pl#$#.adsbox { display: block!important; height: 1px!important; position: absolute!important; left: -3000px!important; }
+! darkw.pl - ads
+darkw.pl#?#.main > .container > .topic > .topic__row:has(> .topic__user > a[href="Reklama/"])
 ! https://github.com/AdguardTeam/AdguardFilters/issues/35197
 !+ PLATFORM(ext_ff, ext_opera, ios, ext_android_cb, ext_safari, ext_ublock)
 @@||serialosy.pl^$generichide

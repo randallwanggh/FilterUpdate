@@ -153,6 +153,11 @@
 !END: Chinese ad servers
 !
 !
+||intellipopup.com^$third-party
+||padslimz.com^$third-party
+||zoaheeth.com^
+||emolapnay.com^
+||nunailsum.com^
 ||xml.realtime-bid.com^$document,popup
 ||refparjhob.top^$document,popup
 ||1xredir57496.top^$document,popup
