@@ -1,6 +1,7 @@
 !
 ! Extended CSS rules
 !
+phoneky.com#?#.mod-hdr:contains(Share:)
 mega-porno.me#?##oframemega-jwplayer > pjsdiv[style]:has(> pjsdiv[style]:contains(В ЭФИРЕ)) + pjsdiv[style]
 pravda.if.ua#?#.vc_widget_sidebar > aside.widget_text:has(> h4.block-title:contains(Лайкни))
 underverse.su,underver.se#?##sidebar1-wrap > noindex:has(> h3:contains(Социальные сети))
@@ -347,8 +348,6 @@ listelist.com#?##sidebar-wrapper > ul > .sidebar-widget[-ext-has="#social-kutu"]
 edirneaktuel.com#?#td[valign="top"][height="40"][width="632"]:has(>table[background="/images/paylas.jpg"])
 calorizator.ru#?#.block-wrap > div.block:has(#social_group)
 maango.info#?#.block-cat > .title-top-random:contains(Follow us on Google+)
-hizlimp3.net#?##colRight > h2:contains(Sosial Ağlarda bizi izleyin)
-hizlimp3.net#?##colRight > h3:contains(Sosial Ağlarda bizi izleyin)
 film.joy.az#?#[id$="-menu"][-ext-has=">.mavi-text:contains(Facebook səhifəmiz)"]
 film.joy.az#?##featur-product-box2 > #video-box[-ext-has='>center >a[href*="facebook.com/share.php"]']
 javmost.com#?#.panel-body > .text-warning:contains(SHARE)

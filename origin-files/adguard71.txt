@@ -239,6 +239,14 @@ xxxparodyhd.net,movgotv.com,123kmovies.net,123movies.*,bluemovies.co,f5movies.to
 !
 !
 !
+linksly.co##div[aria-label="Close Ads"]
+himovies.to###overlay-container
+ky3.com##body .arc-ad
+glitched.online##a[href^="https://bit.ly/"] > img
+glitched.online##.elementor-widget-sidebar > .elementor-widget-container > #text-7
+glitched.online##.elementor-widget-sidebar > .elementor-widget-container > #text-8
+glitched.online##.elementor-widget-sidebar > .elementor-widget-container > #text-9
+glitched.online##.elementor-widget-sidebar > .elementor-widget-container > #media_image-6
 appleinsider.com##article .ad
 porndroids.com##.aan_fake
 ||porndroids.com/nb.js
@@ -346,7 +354,7 @@ pornbimbo.com##iframe[src*="/player/html.php?aid="]
 ||vidia.tv/lockerdss.js
 ymp4.download###results a[href][target="__blank"]
 duckduckgo.com##.module--carousel-products
-androidpolice.com##iframe[src^="//tempest.services.disqus.com/ads-iframe/"]
+glitched.online,androidpolice.com##iframe[src^="//tempest.services.disqus.com/ads-iframe/"]
 ||prprocess.com/goal.js.php
 ||wp.com/banners.$domain=nudepicturearchive.com
 ebaumsworld.com##.mediumRect
@@ -1905,7 +1913,6 @@ adn.com##.taboola-well
 freegames66.com##.Ad300 + .AV
 switchbounty.com##.header-widgets-wrapper > .header-widgets-three > .switc-widget
 reportkernel.com###link-view > center > .form-group ~ *:not(button)
-androidpolice.com##.big-sponsor
 techsapparel.com##a[href*="deloplen.com/afu.php"]
 thenewyear.xyz,techsapparel.com##a[href^="http://mob1ledev1ces.com/"]
 ||vidmoly.net/*.php?*=*&*&$xmlhttprequest,other
@@ -3353,7 +3360,6 @@ jav.guru###custom_html-15
 jav.guru###custom_html-17
 jav.guru###main_header > li.menu-item > a[href="https://theporndude.com/"]
 washingtonpost.com##div[class*="pb-f-ad-leaderboard"]
-msn.com##div[data-section-id="sponsored.stripe.shopping"]
 politicaloutcast.com##.ad-336x280
 politicaloutcast.com##.ad-336x280-nativeads
 wololo.net##.content > div[style="background-color:#DDEEDD;"]:not([class]):not([id])
@@ -3505,7 +3511,6 @@ foxtube.com##a[href^="https://webcams.muyzorras.com"]
 foxtube.com##body > .pds.pb_footer
 foxtube.com##footer > #pie
 foxtube.com##footer > #pie_top
-alphaporno.com##.advertising-side
 alphaporno.com##.sort-menu > li > span > a.pignr
 alphaporno.com##a[href="https://hellmoms.com/"]
 alphaporno.com##.bnnrs-player
@@ -6580,7 +6585,7 @@ androidcentral.com,windowscentral.com,imore.com##.article-leaderboard
 geniuskitchen.com##.smart-card-wrap > div.smart-aside
 ||thisvid.com/js/exblk/
 thisvid.com##.bottom-spots
-superligatv.com,tele-on.com,tvenvivo.online,dinozap.info,livinstream.org,livetv.sc,vvcast.tv##[id^="floatLayer"]
+superligatv.com,tele-on.com,tvenvivo.online,dinozap.info,livetv.sc,vvcast.tv##[id^="floatLayer"]
 vidmoly.me###boxs
 watchfaces.be##.google
 watchfaces.be###secondary > aside#text-2
