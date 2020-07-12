@@ -1125,6 +1125,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||14119276be0852.com^
 ||142904.com^
 ||144.dragonparking.com^
+||1480876790.rsc.cdn77.org^
 ||1494.top^
 ||1495039.com^
 ||14nuzznszbdp.com^
@@ -7340,7 +7341,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||cdn4ads.com^
 ||cdn7.network^
 ||cdn7.rocks^
-||cdn77.org^
 ||cdn7now.com^
 ||cdna.tremormedia.com^
 ||cdnads.com^
@@ -8030,7 +8030,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||cloudcdn.gd^
 ||cloudcdn.gdn^
 ||cloudcoins.co^
-||cloudflare.net^
 ||cloudflare.solutions^
 ||cloudflareinsights.com^
 ||cloudfront-labs.amazonaws.com^
@@ -32834,6 +32833,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||www.skycn.com/js/$image
 ||www.skycn.com/js/info.js
 ||www.skycn.com/show/d2.gif
+||www.supportxmr.com.cdn.cloudflare.net^
 ||www.tdms.saglik.gov.tr^
 ||www.tianyabooks.com/$script,inline-script
 ||www.toutiao.com/api/web_ads/

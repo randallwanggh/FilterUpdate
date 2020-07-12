@@ -49,7 +49,10 @@ elmundo.es,standaard.be,closermag.fr,elnortedecastilla.es,elpais.com,ibtimes.co.
 allianz.de,easybib.com,st.com,mauijim.com,citationmachine.net,idevice.ro,tagheuer.com,adevarul.ro,arris.com,beinsports.com,cnn.com,globalscape.com,hotnews.ro,lorealparis.rs,oxouk.com,salesforce.com###optanon
 ! ##div[aria-label="cookieconsent"]
 download.pixelexperience.org,waterdrop.com,exvital.de,mobile01.com,duckduckgo.merchmadeeasy.com,bear-family.com,r-pur.com,wstream.video##div[aria-label="cookieconsent"]
+! ###cookie-box
+ergo.de,fosforludusunceler.com,kirtkirtla.com,sonaktuel.com,muglaweather.com,denizcilikbilgileri.com,filmonerileri.org,wblogy.com,dnschecker.org,krombacher.de###cookie-box
 !
+avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com,motorcyclenews.com###sp_privacy_manager_container
 start.ru##div[class^="HeaderCookie_cookie_agreement"]
 ||conclude.com/assets/build/combined.*.js
 nutrimmun.de###hellotrust_cookie_popup
@@ -3000,7 +3003,6 @@ knuddels.de###cookie-accept-banner
 lokalmatador.de,m.europa-apotheek.com###cookie-advice
 orangebank.fr###cookie-band
 ip-address.org,shinden.pl,smallseotools.com,telestar.fr###cookie-bar
-fosforludusunceler.com,kirtkirtla.com,sonaktuel.com,muglaweather.com,denizcilikbilgileri.com,filmonerileri.org,wblogy.com,dnschecker.org,krombacher.de###cookie-box
 amp-netzwelt-de.cdn.ampproject.org,netzwelt.de###cookie-choice
 latribune.fr###cookie-display
 betfair.com###cookie-holder
