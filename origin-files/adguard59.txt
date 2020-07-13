@@ -151,6 +151,15 @@
 !END: Chinese ad servers
 !
 !
+||moneypunchstep.online^$third-party
+||webpinp.com^$third-party
+||wtdome.com^$third-party
+||app.titsx.com^$third-party
+||chouftak.net^
+||edampeci.com^
+||thautsie.net^
+||mawsewtow.com^
+||secureanalytic.com^$third-party
 ||auweelta.net^
 ||willalland.info^$third-party
 ||intellipopup.com^$third-party

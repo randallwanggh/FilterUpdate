@@ -4,6 +4,9 @@
 !#########################################
 ! START: Temporary
 !
+! https://github.com/AdguardTeam/PopupBlocker/issues/215
+@@||senpa.io^$extension
+@@||vanis.io^$extension
 ! https://github.com/AdguardTeam/AdguardFilters/issues/58149
 !+ PLATFORM(windows, mac, android)
 @@||simple-auto.ru^$extension
@@ -219,6 +222,10 @@ copypastecharacter.com#$##contents { visibility: visible!important; }
 !#########################################
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/59023
+@@||i.postimg.cc/*/banner*.png$domain=scandal-heaven.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/59176
+@@||104.237.158.105^$domain=brofist.io
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59098
 @@||googletagmanager.com/gtm.js$domain=redbull.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/58950
@@ -460,13 +467,6 @@ soup.io#@#.showads
 @@||gounlimited.to/embed-*.html
 ! https://github.com/AdguardTeam/AdguardFilters/issues/52008
 @@||youporn.com/embed/$domain=porndollz.com
-! https://github.com/AdguardTeam/AdguardFilters/issues/51453
-||youtube.com/get_video_info?$~third-party,badfilter
-! Fixing embedded video player
-! https://github.com/easylist/easylist/issues/5112
-! https://github.com/easylist/easylist/commit/3ed65e66e22963dc08a659dce6baa344ff158664
-@@||youtube.com/get_video_info*&el=editpage
-@@||youtube.com/get_video_info?*embedded$~third-party,other
 ! https://github.com/AdguardTeam/AdguardFilters/issues/52041
 @@||content*.uplynk.com/channel/*.m3u8?$domain=abcnews.go.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/51865

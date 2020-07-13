@@ -192,7 +192,7 @@ thurrott.com,mtlblog.com,accuweather.com,narcity.com,mywebtimes.com,cellz.io##.a
 forvo.com,apornotube.net,instadp.com,stream365.xyz,bab.la,elophant.com,ibrodtv.net##.ad
 ipaddress.com,mobafire.com,movieweb.com,ndtv.com,owfire.com,samistream.com,trafficland.com##.ad
 ! ##.banner-inner
-link1s.com,arabplus2.co,stfly.me,profitlink.info,jwearn.com,shorthitz.com,adsy.pw,cut4fun.com,intothelink.com,linkviet.xyz,uiz.app,adslinkfly.online,theblogcash.in,miniurl.pw,placestourist.com,lkop.me,shlinko.com,fullytech24.com,s-short.co,oncehelp.com,shorterall.com,urle.io,s-url.xyz,glory-link.com,getpronews.com,encurta.eu,url.topadnetworks.net,shotly.io,linksbuddy.com,stfly.io,tapynews.com,mm1.ink,educationvilla.xyz,click-paid.com,newsbaxs.com,shrtfly.net,vivads.net,skiplink.pw,fc.lc,icutlink.com,urlcloud.us,jobcandies.com,techlootz.com,shopmoon.in,healthfary.com,teachersjobindia.com,wi.cr,suqdz.com,dailyworldupdates.com,expressbulletin.in,sctricks.com,trendlouds.com,cutlinks.pro,futurefoundationngo.com,pustkala.com,techtremendous.com,brenhealth.com,justlikeyojna.com,shortzon.com,sivitechno.com,talkittechy.com,techfinda.com,jainjinvani.com,bloggingdekh.xyz,agradarpan.com,royalown.review,utimetableresult.in,getfreshcloud.xyz,abouttech.space,technocanvas.xyz,funnyquiz.blog,blogginggyanbox.com,yesmoviesapp.info,kutz.io,geki.tech,fabsdeals.com,iitjeemainguide.in,1921681254.tech,earn-url.com,payco.xyz,gifsis.com,li-nkz.com,oturl.com,clk.press,arura.win,bitshortener.site,coinb.ink,bit-url.com,tmearn.com,linkkawy.com##.banner-inner
+srt.leechpremium.link,link1s.com,arabplus2.co,stfly.me,profitlink.info,jwearn.com,shorthitz.com,adsy.pw,cut4fun.com,intothelink.com,linkviet.xyz,uiz.app,adslinkfly.online,theblogcash.in,miniurl.pw,placestourist.com,lkop.me,shlinko.com,fullytech24.com,s-short.co,oncehelp.com,shorterall.com,urle.io,s-url.xyz,glory-link.com,getpronews.com,encurta.eu,url.topadnetworks.net,shotly.io,linksbuddy.com,stfly.io,tapynews.com,mm1.ink,educationvilla.xyz,click-paid.com,newsbaxs.com,shrtfly.net,vivads.net,skiplink.pw,fc.lc,icutlink.com,urlcloud.us,jobcandies.com,techlootz.com,shopmoon.in,healthfary.com,teachersjobindia.com,wi.cr,suqdz.com,dailyworldupdates.com,expressbulletin.in,sctricks.com,trendlouds.com,cutlinks.pro,futurefoundationngo.com,pustkala.com,techtremendous.com,brenhealth.com,justlikeyojna.com,shortzon.com,sivitechno.com,talkittechy.com,techfinda.com,jainjinvani.com,bloggingdekh.xyz,agradarpan.com,royalown.review,utimetableresult.in,getfreshcloud.xyz,abouttech.space,technocanvas.xyz,funnyquiz.blog,blogginggyanbox.com,yesmoviesapp.info,kutz.io,geki.tech,fabsdeals.com,iitjeemainguide.in,1921681254.tech,earn-url.com,payco.xyz,gifsis.com,li-nkz.com,oturl.com,clk.press,arura.win,bitshortener.site,coinb.ink,bit-url.com,tmearn.com,linkkawy.com##.banner-inner
 !
 ! remains from generichide rule `tnt-adblock`
 gazettetimes.com,missoulian.com,kenoshanews.com,cumberlink.com,trib.com,dailyprogress.com,stltoday.com,journalstar.com##.ad-col
@@ -220,6 +220,7 @@ youtube.com#%#//scriptlet("json-prune", "adPlacements playerAds")
 ! This one may be unnecessary:
 ||youtube.com/get_video_info?*=adunit&$important
 ! https://github.com/AdguardTeam/AdguardFilters/issues/51453
+!+ NOT_OPTIMIZED
 ||youtube.com/get_video_info?$~third-party,badfilter
 ! Fixing embedded video player
 ! https://github.com/easylist/easylist/issues/5112
@@ -239,6 +240,16 @@ xxxparodyhd.net,movgotv.com,123kmovies.net,123movies.*,bluemovies.co,f5movies.to
 !
 !
 !
+youtube-nocookie.com##.ytp-ad-progress-list
+addictinggames.com##.add-bx
+senmanga.com##.banner-block
+flvto.biz##.square-ads 
+flvto.biz##.horizontal-ads
+senpa.io###ad-slot-center-panel
+senpa.io##div[class^="advertisement-informer"]
+vanis.io###player-data > div[style="text-align: center; height: 286px;"]
+larvelfaucet.com##.close-ad
+larvelfaucet.com###bottomRightFloatingAd
 linksly.co##div[aria-label="Close Ads"]
 himovies.to###overlay-container
 ky3.com##body .arc-ad
@@ -295,7 +306,7 @@ addictivetips.com##.adslabel
 addictivetips.com##div[class^="reim"]
 ||fcc.lc/glx_*.js
 lookmovie.ag##html > iframe[style*="position: fixed !important; display: block !important; z-index:"][style*="right:"]:not([src])
-cryptomininggame.com##ins[class^="bmadblock-"]
+trxfaucet.xyz,ethereumfaucet.xyz,bchfaucet.xyz,dashfaucet.xyz,dogfaucet.xyz,ltcfaucet.xyz,digibytefaucet.xyz,bytecoinfaucet.xyz,monerofaucet.xyz,zcashfaucet.xyz,ripplefaucety.xyz,peercoinfaucet.xyz,liskfaucet.xyz,etherclassic.xyz,potcoinfaucet.xyz,wavesfaucet.xyz,neofaucet.xyz,stratisfaucet.xyz,cryptomininggame.com##ins[class^="bmadblock-"]
 ||cryptomininggame.com/uploads/partner/images/
 clipartkey.com##.adhtml
 clipartkey.com##.adtextshow
@@ -625,7 +636,7 @@ physicsworld.com##.corporate-partners
 flutenotes.ph##.widget-content > div[id^="headline"]
 hulkpop.top##.eaa-ad
 gizmodo.com,avclub.com##.js_movable_ad_slot
-shorterall.com##iframe[src^="//mellowads.com/"]
+larvelfaucet.com,shorterall.com,cpmlink.net##iframe[src^="//mellowads.com/"]
 shorterall.com##a[href^="//mellowads.com/"]
 shorterall.com##.row > div[class] > style + div.sticky
 dutchycorp.space###boxes > #mask
@@ -1078,7 +1089,6 @@ imgixxx.com##body > script[src^="https://afshanthough.pro/"] + center
 readlightnovel.org##.header > style + div.container--content
 readlightnovel.org##div[style="min-height:250px;"]
 dotabuff.com##.elo-placement
-cpmlink.net##iframe[src^="//mellowads.com/"]
 ||goldenbbw.com/*_fe.js
 realestate.co.nz##.modal-ad-wrap
 realestate.co.nz##.topbar-ad-parent
@@ -1296,7 +1306,7 @@ babylonbee.com##.sticky-footer-image
 cwtv.com###ad_728x90
 9gag.com##.post-container > div > div[style^="width: 500px; height: 281px;"]
 9gag.com##iframe[src^="https://9gag.com/static/ads/"]
-unblockit.me,torrentz2.eu##div[class$="onToleratds"]
+torrentz2.is,unblockit.me,torrentz2.eu##div[class$="onToleratds"]
 ||xvideos-cdn.com/*/js/static/header/sda/ppsuma*.js
 in330.com##.main-content-row > aside.sidebar
 ||solarmovie.news/templates/Solar/images/button*_.png

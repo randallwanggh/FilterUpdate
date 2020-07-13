@@ -1197,18 +1197,18 @@ torrentleech.org##a[href="/user/donate"]
 !
 ! START: YouTube annoyances
 ! YouTube promo annotations
-youtube.com##.annotation.iv-branding
-youtube.com##.annotation.iv-promo
-youtube.com##.iv-promo-video
-youtube.com##.video-annotations
-youtube.com##.ytp-cards-teaser
+youtube-nocookie.com,youtube.com##.annotation.iv-branding
+youtube-nocookie.com,youtube.com##.annotation.iv-promo
+youtube-nocookie.com,youtube.com##.iv-promo-video
+youtube-nocookie.com,youtube.com##.video-annotations
+youtube-nocookie.com,youtube.com##.ytp-cards-teaser
 ! YouTube video annotations
-youtube.com##.ytp-ce-element
-youtube.com##.ytp-pause-overlay
+youtube-nocookie.com,youtube.com##.ytp-ce-element
+youtube-nocookie.com,youtube.com##.ytp-pause-overlay
 ! https://github.com/AdguardTeam/AdguardFilters/issues/28271#issuecomment-454325128
-youtube.com##.ytp-paid-content-overlay
+youtube-nocookie.com,youtube.com##.ytp-paid-content-overlay
 ! https://forum.adguard.com/index.php?threads/11119/
-youtube.com###yt-lang-alert-container
+youtube-nocookie.com,youtube.com###yt-lang-alert-container
 ! END: YouTube annoyances
 !
 !
@@ -1356,6 +1356,7 @@ health.yandex.ru##.product-start-consultation
 ! Yandex.Zen (third-party)
 ||zen.yandex.ru/widget-loader$domain=~yandex.by|~yandex.kz|~yandex.ru|~yandex.ua
 ||zen.yandex.ru/widget-loader$domain=mail.yandex.by|mail.yandex.kz|mail.yandex.ru|mail.yandex.ua|mail.yandex.com|mail.yandex.com.tr
+sport-express.ru##.widget-container
 russian.rt.com##.dzen--widget
 regnum.ru##.slot-article-yandex-zen
 ##amp-embed[type="zen"]
@@ -1455,6 +1456,7 @@ whathifi.com,futurestud.io,slate.com,businessinsider.de,fastcompany.com,heise.de
 ! ##.cta-component-full-width
 bournemouthecho.co.uk,eveningtimes.co.uk,greenocktelegraph.co.uk,heraldscotland.com,swindonadvertiser.co.uk,wiltshiretimes.co.uk##.cta-component-full-width
 !
+macmost.com#?#.sidebar > div.widget:has(> div.textwidget > form#awebersubside)
 kp.ru##.page-footer_subscribe
 easyspeak.ru##.blog_subscribe
 creditznatok.com.ua##.cz-subscribe-box

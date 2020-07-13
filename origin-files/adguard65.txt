@@ -1,6 +1,10 @@
 !
 ! Extended CSS rules
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/59035
+comicastle.org#?#.card > .card-body.text-center:has(> .adsbygoogle)
+! https://github.com/AdguardTeam/AdguardFilters/issues/59106
+vanis.io#?##overlay > .container > .fade-box.box-1:has(> div[style="padding: 4px;"]:contains(/^Advertisement$/))
 ! majorgeeks.com - ad leftover
 majorgeeks.com#?#.content > center > font[size="1"]:contains(/^-=Advertisement=-$/)
 ! https://github.com/AdguardTeam/AdguardFilters/issues/58832
@@ -946,6 +950,7 @@ tuberel.com#?#.videos div.video-item:has(> a.vda-link)
 smailpro.com#?##home div.caption > div[class]:contains(/Hide|HIDE/)
 smailpro.com#?##home div.caption > div[class]:has(> div > a[target="_blank"] > img)
 !
+larvelfaucet.com#?#.row > div[class]:has(> div a[href]:contains(advertise))
 pocketgamer.com#?#.fence > article.content-block:has(> h3:contains(ADVERTISEMENT))
 severeporn.com#?#.block-video > div.table:has(> div.opt)
 kentonline.co.uk#?#.PageContent > div.SiteContentBlock:has(> div#TaboolaMain)
@@ -954,7 +959,6 @@ hometheaterforum.com#?#.uix_sidebar--scroller > div.block:has(> div.block-contai
 windowschimp.com#?#.inside-right-sidebar > aside.widget:has(> div.textwidget a[target="_blank"] > img)
 thetakeout-com.cdn.ampproject.org#?#article > div[class]:has(> div[class] > p[class]:contains(Advertisement))
 thewindowsclub.com#?#.sidebar > aside.widget:has(> div.textwidget > span[id^="ezoic-pub-ad-placeholder-"])
-pussyspace.com,pussyspace.net#?#.MainBoxContent div[class]:has(> style ~ *:not(script) img[src*="base64"])
 healthline.com#?#article > div:not([class]):not([id]):has(> section > div > div > div > div:contains(ADVERTISEMENT))
 macmillandictionary.com#?##topslot_container:has(> #ad_topslot)
 aetherhub.com#?#.inner-content > div.row div.card:has(> div > div[id^="zone"])
@@ -1150,6 +1154,9 @@ theverge.com#?#.l-col__main > div.c-compact-river > div.c-compact-river__entry[-
 toolslib.net#?#[class="col-lg-4 col-md-6 col-sm-6"][-ext-has='.custom > div.custom-label > span:contains(Advertising)']
 ! https://forum.adguard.com/index.php?threads/23429/
 bhg.com.au#?#.OUTBRAIN ul.ob-widget-items-container > li.ob-dynamic-rec-container[-ext-has='a[onmousedown*="https://paid.outbrain.com/network/redir?"]']
+! pussyspace.com,pussyspace.net - ads from ExoLoader on extensions
+!+ NOT_PLATFORM(windows, mac, android)
+pussyspace.com,pussyspace.net#?#.mcbox div[class]:has(> style ~ *:not(script) img[src*="base64"])
 ! https://github.com/AdguardTeam/AdguardFilters/issues/38725
 !+ PLATFORM(ext_ff, ext_opera)
 camwhores.tv#$?#body > div[style*="position"][style*="box-shadow"]:has(> a[href^="https://t.hrtyj.com/"]) { position: absolute!important; left: -3000px!important; }

@@ -301,6 +301,7 @@ texture-packs.com#%#//scriptlet("abort-on-property-read", "mdpDeBlockerDestroyer
 !
 !
 !
+||s.yimg.com/*/bundle_basic_mail_affiliate_partner_$domain=mail.yahoo.com
 oneman.gr#%#AG_abortInlineScript(/-10000px/, 'window.atob');
 @@||talkceltic.net/forums/js/Siropu/AM/ads.min.js
 @@||bigten.org/common/templates/dfp/dfp-component-template.html
@@ -362,8 +363,7 @@ krunker.io###aHolder
 ||g2insights-cdn.azureedge.net/*/mng/g2insights.min.js
 uploadship.com##.pageErrors
 @@||townnews.com/*/shared-content/art/tncms/templates/libraries/flex/components/ads/resources/scripts/tnt.ads.advertisements.*.js
-@@||glav.su/themes/glav/images/ads.gif
-@@||glav.su/js/site_ads.js
+glav.su##div[id^="js-abd-"]
 @@||a.omappapi.com/app/js/ads.js
 ||sp.desmoinesregister.com^
 kompravda.eu,kp.ru###popapIsBlockedAd
@@ -625,7 +625,7 @@ tiz-cycling.live###msg-sticky-wrapper
 @@||chefkoch.de/ads/werbe-banner/doubleclicktag.js
 chefkoch.de$@$script[tag-content="Flags.networkListener"][min-length="20000"][max-length="150000"]
 ||ad-ipd.sxp.smartclip.net^$empty,important,domain=chefkoch.de
-chefkoch.de#%#AG_defineProperty('adblocker_is_off', {value: "true"});
+chefkoch.de#%#//scriptlet("set-constant", "adblocker_is_off", "true")
 @@||mangarock.com/ads.js
 @@||playep.pro/player/vendor/adblock.js
 @@||golem.de/dist/showAds.js

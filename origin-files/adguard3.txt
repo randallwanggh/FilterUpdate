@@ -52,8 +52,16 @@ download.pixelexperience.org,waterdrop.com,exvital.de,mobile01.com,duckduckgo.me
 ! ###cookie-box
 ergo.de,fosforludusunceler.com,kirtkirtla.com,sonaktuel.com,muglaweather.com,denizcilikbilgileri.com,filmonerileri.org,wblogy.com,dnschecker.org,krombacher.de###cookie-box
 !
+gillettevenus.com.tr###divOneTrustButton
+derby.com.tr###f-cookie-alert
+hepsievcil.com###menu-cookie-bottom
+goodyear.eu##.cmp-responsivegrid--behavior-cookie
+freemake.com###bottombar
+allinonedownloader.com##.gdprbanner
+marketpaketi.com.tr###cookiePrivacyArea
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com,motorcyclenews.com###sp_privacy_manager_container
 start.ru##div[class^="HeaderCookie_cookie_agreement"]
+perekrestok.ru##.fo-cookies-policy
 ||conclude.com/assets/build/combined.*.js
 nutrimmun.de###hellotrust_cookie_popup
 express.dhl.ru###modcookie
@@ -115,8 +123,6 @@ ghanaweb.com##body > #bk
 yota.ru##.b-info-message
 ratp.fr#$#html { overflow: visible !important; }
 ratp.fr#$##tarteaucitronAlertBig { display: none !important; }
-al.to#$##app-TopBar > div.EjXXH > div.gCzslG { display: none !important; }
-al.to#$##app-TopBar > div.EjXXH { height: 132px !important; }
 money.yandex.ru##div[class^="Gdpr__"]
 kaspersky.com##section[data-at-selector="cookie-banner"]
 edebiyatdefteri.com###kvkksozlesme
@@ -154,7 +160,7 @@ turkishcargo.com.tr##.warning-bar
 sabanci.com###warning-bar
 openrice.com##.facebook-floating-container
 veepee.fr##.cookiesBanner
-prima.com.tr##.dc-cookie-consent
+kizlararasinda.com,prima.com.tr##.dc-cookie-consent
 video.foxbusiness.com##.notification-banner
 braintreepayments.com###gdprComponent
 magzter.com##.cookies__notification
@@ -385,7 +391,7 @@ creative.com##.ck-notiz
 chessbase.com###askForCookies
 saalesparkasse.de#$#.if6_eprivacy { display: none!important; }
 saalesparkasse.de#$#body.eprivacy_initial_visible { border-top: none!important; }
-togg.com.tr###cookieBand
+lassa.com.tr,togg.com.tr###cookieBand
 englex.ru##.cookies-agreement-wrapper
 edk.peerates.net###EUCOOK
 planetradio.co.uk##.radioplayer-anno
@@ -537,7 +543,7 @@ mediamarkt.de##div[class^="CookieLayer__StyledCookieWrapper-"]
 therealreal.com##.gdpr-pop-over
 akunssh.net,minuteinbox.com##.wpcc-container
 enroll.virginpulse.com##.cookie-banner-container
-korayspor.com,monsternotebook.com.tr##.cookieBnrWrp
+ipekyol.com.tr,korayspor.com,monsternotebook.com.tr##.cookieBnrWrp
 md5hashing.net##.primary-container > .pp-footer
 msn.com##.optanon-alert-box-wrapper
 oppo-ae.custhelp.com,oppo-au.custhelp.com,oppo-bd.custhelp.com,oppo-chde.custhelp.com,oppo-chfr.custhelp.com,oppo-dz.custhelp.com,oppo-eg.custhelp.com,oppo-es.custhelp.com,oppo-fr.custhelp.com,oppo-id.custhelp.com,oppo-in.custhelp.com,oppo-it.custhelp.com,oppo-jp.custhelp.com,oppo-ke.custhelp.com,oppo-kh.custhelp.com,oppo-kz.custhelp.com,oppo-lk.custhelp.com,oppo-ma.custhelp.com,oppo-mm.custhelp.com,oppo-mx.custhelp.com,oppo-my.custhelp.com,oppo-ng.custhelp.com,oppo-nl.custhelp.com,oppo-np.custhelp.com,oppo-nz.custhelp.com,oppo-ph.custhelp.com,oppo-pk.custhelp.com,oppo-pl.custhelp.com,oppo-ru.custhelp.com,oppo-sa.custhelp.com,oppo-sg.custhelp.com,oppo-th.custhelp.com,oppo-tn.custhelp.com,oppo-tr.custhelp.com,oppo-ua.custhelp.com,oppo-uk.custhelp.com,oppo.custhelp.com###use_cookies
@@ -4028,6 +4034,8 @@ bmwfaq.org#?#.Notices[-ext-has='a[href="//www.bmwfaq.org/help/cookies"]']
 ! JS rules
 !
 ! tarnkappe.info#%#//scriptlet("set-constant", "CM_cookieManager.start", "noopFunc")
+alpro.com#%#document.cookie='cookieConsent={"statistical":0,"personalization":0,"targeting":0}; path=/;';
+al.to,x-kom.pl#%#document.cookie="cookieAccept=true; path=/;";
 redbull.com#%#AG_onLoad(function(){if(!document.cookie.includes("OptanonAlertBoxClosed")){var a=new MutationObserver(function(){var b=document.querySelector(".cookie-setting-link");var c=document.querySelector("label[for='ot-group-id-C0002'] > .ot-switch-nob");var d=document.querySelector("label[for='ot-group-id-C0004'] > .ot-switch-nob");var e=document.querySelector(".onetrust-close-btn-handler");b&&(a.disconnect(),b.click(),c.click(),d.click(),e.click())});a.observe(document,{childList:!0,subtree:!0});setTimeout(function(){a.disconnect()},1E4)}});
 ffm.to#%#document.cookie="allowTracking=false; path=/;"; document.cookie="trackingSettings={%22ads%22:false%2C%22performance%22:false}; path=/;";
 corriere.it#%#document.cookie = "__ric=1; path=/;";
