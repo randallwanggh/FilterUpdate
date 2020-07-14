@@ -27835,7 +27835,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||shop265.com^
 ||shopalyst.com^
 ||shopeasy.by^
-||shopify.com^
 ||shopilize.com^
 ||shopmetric.rediff.com^
 ||shopnetic.com^

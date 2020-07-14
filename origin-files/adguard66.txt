@@ -842,7 +842,9 @@ filmisub.com##a[href^="https://ggbet.life/"]
 mail.bg##.branding_content_link
 mail.bg###main-billboard-spacer
 !+ PLATFORM(windows, mac, android)
-@@||mail.bg/message/$xmlhttprequest,other,jsinject,elemhide,extension
+@@||mail.bg/message/$jsinject,elemhide,extension
+!+ PLATFORM(windows, mac, android)
+@@||mail.bg/message/$xmlhttprequest,other
 ! https://github.com/AdguardTeam/AdguardFilters/issues/46407
 @@||filmisub.com/templates/filmisub/js/advertisement.js
 ! https://github.com/AdguardTeam/AdguardFilters/issues/44372
@@ -914,6 +916,12 @@ fofmyanmar.com##center > a[rel="noopener noreferrer"] > img
 !--- general hide --
 ##a[href^="https://adm.beimg.com/"]
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/59009
+teepr.com##body .ucfad_async
+! https://github.com/AdguardTeam/AdguardFilters/issues/59264
+!+ PLATFORM(ios, ext_android_cb)
+@@||static.youranshare.com/*/adsbygoogle_adview_pic_cpc_cpm_cpa_guanggao_gg_ads_300x250.js
+youranshare.com#%#//scriptlet("abort-current-inline-script", "$", "adskilltest")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59047
 mpyit.com##.post-999999
 ! https://github.com/AdguardTeam/AdguardFilters/issues/58804
@@ -5155,6 +5163,8 @@ dap-news.com##.ads
 !------------------------------ Korean -------------------------------
 !---------------------------------------------------------------------
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/59149
+news2day.co.kr##.banner_con
 ! https://github.com/AdguardTeam/AdguardFilters/issues/58379
 linsoo.co.kr##span[style*="document.documentElement.scrollTop?document.documentElement.scrollTop: document.body.scrollTop"]
 linsoo.co.kr$$script[tag-content="document.documentElement.scrollTop?document.documentElement"]
@@ -6306,6 +6316,8 @@ innpoland.pl,mamadu.pl,dadhero.pl,natemat.pl#%#//scriptlet("prevent-eval-if", "i
 @@||video.onnetwork.tv/adblock_notify.js
 ||request.dqst.pl/v*/$xmlhttprequest
 !
+! se.pl - incorrect blocking
+@@||googletagmanager.com/gtm.js$domain=se.pl
 ! lowcygier.pl - ads
 lowcygier.pl##body .top-background
 lowcygier.pl#$#body.background-image.background-screening .intro .header-widget { position: static!important; }
@@ -6556,7 +6568,8 @@ zakazany-humor.pl##.ppsPopupShell
 zakazany-humor.pl###ppsPopupBgOverlay
 zakazany-humor.pl##.sidebar > .widget-wrap > aside#text-7
 ! https://github.com/AdguardTeam/AdguardFilters/issues/42037
-@@||wfirma.pl/*/add/*?_=$other,elemhide,jsinject,extension
+@@||wfirma.pl/*/add/*?_=$elemhide,jsinject,extension
+@@||wfirma.pl/*/add/*?_=$other
 ! https://github.com/AdguardTeam/AdguardFilters/issues/42358
 ||r.trojmiasto.pl/*/json.php?zoneid=
 trojmiasto.pl#%#AG_abortInlineScript(/banner_/, '$');
@@ -8021,6 +8034,7 @@ tt1069.com#@##adbrite
 @@||gamer-cds.cdn.hinet.net/vod/gamer/*.ts^$domain=ani.gamer.com.tw
 @@||hinet.net/keys/a.key^$domain=ani.gamer.com.tw
 @@||gamer-cds.cdn.hinet.net/vod/gamer/*.m3u8^$domain=ani.gamer.com.tw
+||googletagservices.com/tag/js/gpt.js$script,redirect=googletagservices-gpt,domain=ani.gamer.com.tw
 !
 ! https://github.com/AdguardTeam/AdguardFilters/issues/6826
 @@||digiland.tw/advert.js
@@ -8408,6 +8422,11 @@ brandbuffet.in.th#@#.category-advertorial
 !------------------------------ Vietnam ------------------------------
 !---------------------------------------------------------------------
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/58770
+hentai18plus.blogspot.com#?#.sidebar > div.widget:has(> div.widget-content > a[href]:not([href^="http://hentai18plus.blogspot.com/"]))
+! https://github.com/AdguardTeam/AdguardFilters/issues/59123
+!+ NOT_OPTIMIZED
+||hentaiz.net/images/sponsor/
 ! https://github.com/AdguardTeam/AdguardFilters/issues/58456
 !+ PLATFORM(ios, ext_safari, ext_android_cb)
 @@||vkool.tv/js/adsvk_v*.js

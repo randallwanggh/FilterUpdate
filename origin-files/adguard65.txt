@@ -1,6 +1,8 @@
 !
 ! Extended CSS rules
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/59163
+mangainn.net#?#.col-md-4 > .sidebar:has(> .text-back > span:contains(/^Sponsored Content$/))
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59035
 comicastle.org#?#.card > .card-body.text-center:has(> .adsbygoogle)
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59106
@@ -79,7 +81,6 @@ quora.com#?#div[style="box-sizing: border-box; direction: ltr;"] > div > div[cla
 kotaku.com,kotaku-com.cdn.ampproject.org#?#.js_post-content > aside:has(> div > div > a[data-amazonsin])
 kotaku.com,kotaku-com.cdn.ampproject.org#?#article > div[class*=" "]:has(> div > p:contains(Advertisement))
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#?#body > div > div[class]:has(> .ad-container)
-avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#?#body > div > div[class] > div[class] > div[class]:has(> div[class] > .js_ad-sticky-footer)
 ! https://github.com/AdguardTeam/AdguardFilters/issues/54315
 cointelegraph.com#?#.posts-listing__list > li.posts-listing__item:has(> div.posts-listing__bnr)
 ! https://github.com/AdguardTeam/AdguardFilters/issues/54629
@@ -131,9 +132,10 @@ reclaimthenet.org#?#.ezoic-ad
 temp-mail.org#?#.inbox-dataList > ul > li[class]:has(> div[class="col-box"] > a > span.inboxSenderEmail:contains(/^ad\s*\|.*|^AD\s*\|.*/))
 ! https://github.com/AdguardTeam/AdguardFilters/issues/52861
 android-x86.org#?#section > h6:contains(Advertisement)
+! https://github.com/AdguardTeam/AdguardFilters/issues/59259
 ! https://github.com/AdguardTeam/AdguardFilters/issues/52326
 tumblr.com#?##base-container aside > div[class^="_"]:has(> div[class^="_"] > h1 + div[class] > div[class^="_"] > div.iab_sf)
-tumblr.com#?##base-container main div:not([class]):not([id]) > div[class^="_"]:not([data-id]):has(> div[class^="_"] > div.iab_sf)
+tumblr.com#?##base-container main div:not([class]):not([id]) > div[class^="_"]:not([data-id]):has(.iab_sf)
 ! https://github.com/AdguardTeam/AdguardFilters/issues/52376
 djmag.com#?#._section--row > ._teaser--container--MPU:has(> ._teaser--MPU > .pane-djmag-advert-responsive-pane)
 ! https://github.com/AdguardTeam/AdguardFilters/issues/52221

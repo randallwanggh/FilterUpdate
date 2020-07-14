@@ -99,7 +99,8 @@ swatchseries.to##.download_link_sponsored
 @@||educationperfect.com^$jsinject,elemhide,extension
 ! https://github.com/AdguardTeam/CoreLibs/issues/1121
 ! https://github.com/AdguardTeam/AdguardFilters/issues/40391
-@@||idol.sankakucomplex.com/post/index.content?next=*&page=$other,elemhide,jsinject,extension
+@@||idol.sankakucomplex.com/post/index.content?next=*&page=$elemhide,jsinject,extension
+@@||idol.sankakucomplex.com/post/index.content?next=*&page=$other
 ! https://github.com/AdguardTeam/CoreLibs/issues/1110
 ! https://github.com/AdguardTeam/AdguardFilters/issues/40034
 !+ NOT_OPTIMIZED
@@ -222,8 +223,15 @@ copypastecharacter.com#$##contents { visibility: visible!important; }
 !#########################################
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/58372
+!+ PLATFORM(ios)
+@@||static.crunchyroll.com/config/cx-vilos-ads/crunchyroll-web.json
+! https://github.com/AdguardTeam/AdguardFilters/issues/59266
+@@||jkanime.net/*.php?$popup,domain=jkanime.net
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59023
 @@||i.postimg.cc/*/banner*.png$domain=scandal-heaven.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/59131
+@@||rumble.com/embed/*$domain=koreus.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59176
 @@||104.237.158.105^$domain=brofist.io
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59098

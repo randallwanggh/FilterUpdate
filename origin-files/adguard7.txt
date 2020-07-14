@@ -36,6 +36,7 @@ adme.ru#?##root div.g-recaptcha ~ div[class]:has(> a[href^="https://play.google.
 aura.top#?#.sidebar-nav > li.sidebar-nav-item-small-link:has(> a[href^="https://redirect.appmetrica.yandex.com/serve/"])
 !#endif
 !
+outlook.live.com##.ms-Fabric > div[tabindex] + div[class] > div[class] > div[class*="__cGoCqh"]
 flvto.biz##.mobile-banner
 bing.com##.bnp_btc
 bing.com###bnp_hfly
@@ -666,6 +667,10 @@ shiftdelete.net##img[title="Torrent Yasal mı? - ShiftDelete.Net"]
 ||vizefinalsorupaylasimi.com/uploads/googleplay.jpg
 mediamarkt.de##.mrh-app-banner
 rt.com###offers
+!
+retrip.jp,rtrp.jp#$#header-induction {display: none !important; }
+retrip.jp,rtrp.jp#$##page { padding-top: 0 !important; }
+retrip.jp,rtrp.jp#$#header.ng-scope { height: 45px !important; }
 !
 ! https://github.com/AdguardTeam/AdguardFilters/issues/58693
 nexttv.com.tw#$#.download-tip { display: none!important; }
