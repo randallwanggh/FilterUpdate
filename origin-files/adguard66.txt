@@ -916,6 +916,8 @@ fofmyanmar.com##center > a[rel="noopener noreferrer"] > img
 !--- general hide --
 ##a[href^="https://adm.beimg.com/"]
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/59334
+huaban.com##div[class="pin wfc ad wft"]
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59009
 teepr.com##body .ucfad_async
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59264
@@ -6700,7 +6702,6 @@ www.wp.pl,poczta.o2.pl,poczta.wp.pl,profil.wp.pl,abczdrowie.pl,autokult.pl,dobre
 www.wp.pl,poczta.o2.pl,poczta.wp.pl,profil.wp.pl,abczdrowie.pl,autokult.pl,dobreprogramy.pl,echirurgia.pl,fotoblogia.pl,gadzetomania.pl,kafeteria.pl,komorkomania.pl,money.pl,parenting.pl,snobka.pl#%#//scriptlet("set-constant", "Object.prototype.rekids", "undefined")
 turystyka.wp.pl,opinie.wp.pl,gry.wp.pl,moto.wp.pl,gwiazdy.wp.pl,tech.wp.pl,kobieta.wp.pl,wiadomosci.wp.pl#?#div[class*="-"] > div[class*="-"][class*=" "]:has(> img[src="https://i.wpimg.pl/O/56x45/i.wp.pl/a/i/stg/pkf/bg.png"])
 dobreprogramy.pl##iframe[id^="__bc_ifrm"]
-pudelek.pl#?#[class*="-"] > div[class*="-"][class*=" "]:has(> img[src="https://i.wpimg.pl/O/56x45/i.wp.pl/a/i/stg/pkf/bg.png"])
 so-magazyn.pl,o2.pl,pudelek.pl,film.wp.pl,finanse.wp.pl,gwiazdy.wp.pl,kobieta.wp.pl,ksiazki.wp.pl,magazyn.wp.pl,moto.wp.pl,opinie.wp.pl,sportowefakty.wp.pl,tech.wp.pl,teleshow.wp.pl,wiadomosci.wp.pl#@#.pub_300x250
 so-magazyn.pl,o2.pl,pudelek.pl,film.wp.pl,finanse.wp.pl,gwiazdy.wp.pl,kobieta.wp.pl,ksiazki.wp.pl,magazyn.wp.pl,moto.wp.pl,opinie.wp.pl,sportowefakty.wp.pl,tech.wp.pl,teleshow.wp.pl,wiadomosci.wp.pl#@#.text_ads
 so-magazyn.pl,o2.pl,pudelek.pl,film.wp.pl,finanse.wp.pl,gwiazdy.wp.pl,kobieta.wp.pl,ksiazki.wp.pl,magazyn.wp.pl,moto.wp.pl,opinie.wp.pl,sportowefakty.wp.pl,tech.wp.pl,teleshow.wp.pl,wiadomosci.wp.pl#$#.pub_300x250 { display: block!important; }
@@ -6920,6 +6921,7 @@ mgsm.pl###left-con > .row > .columns > div[style="display: block; height: 330px;
 ! https://github.com/AdguardTeam/AdguardFilters/issues/54690
 ! https://github.com/AdguardTeam/AdguardFilters/issues/44169
 ! https://github.com/AdguardTeam/AdguardFilters/issues/26011
+pudelek.pl#?#[class*="-"] > div[class*="-"][class*=" "]:has(> img[src="https://i.wpimg.pl/O/56x45/i.wp.pl/a/i/stg/pkf/bg.png"])
 pudelek.pl#?#div[class^="sc-"]:has(> img[src^="https://v.wpimg.pl/"][role="presentation"]:not([alt]))
 money.pl##a[href="https://www.kongres590.pl/"] > img
 pudelek.pl,o2.pl,moneyv.wp.pl,wideo.wp.pl,money.pl#?#div[class*="sc-"]:has(> img[src="https://i.wpimg.pl/O/56x45/i.wp.pl/a/i/stg/pkf/bg.png"])
@@ -8422,6 +8424,8 @@ brandbuffet.in.th#@#.category-advertorial
 !------------------------------ Vietnam ------------------------------
 !---------------------------------------------------------------------
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/59351
+anonyviet.com##.jeg_ad
 ! https://github.com/AdguardTeam/AdguardFilters/issues/58770
 hentai18plus.blogspot.com#?#.sidebar > div.widget:has(> div.widget-content > a[href]:not([href^="http://hentai18plus.blogspot.com/"]))
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59123

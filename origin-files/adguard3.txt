@@ -30,7 +30,7 @@ strunz.com###v-cookielaw
 ! ##.cookies
 compendium.com.ua,city-story.ru,gartic.io,telekom-dienste.de,iqos.com,d3o.com,dnews.dn.ua,befirst.info,eblocker.com,parapolitika.gr,makandracards.com,webtekno.com,2plus2.ua,unian.info,unian.net,unian.ua,cinemacity.hu,pepco.hu,pepco.pl,pepco.eu,pepco.sk,pepco.cz,pepco.ro,pepco.hr,pepco.lt,pepco.si,pepco.lv,pepco.ee,pepco.bg,1plus1.ua,otus.ru,astonmartin.com,sapphiretech.com,cbreaker.net,glavred.info,abarta.pl,alo.com.pl,universiteitleiden.nl,pap.pl,fly4free.pl,store.hmv.com,editions-delcourt.fr,square-enix-games.com,capcom-germany.de,global.astonmartin.com,crytek.com,tomorrow.one,vypocitejto.cz,rozklad.pkp.pl,rozklad-pkp.pl,aliorbank.pl,macpaw.com,polsatsport.pl,meczyki.pl,dhosting.com,dhosting.pl,ostrog.com,godealla.pl,diamante-wear.com,twinings.co.uk,moviepilot.de,euronics.it,amnesty.org,glavred.info,urtekram.com,ecuestre.es,betchannel.fr,scamner.com,mountainbike.es,feelunique.com,flooxer.com,tui.fr,comparateur-energie.be,sacsirlari.com,omaweetraad.nl,salusi.nl,uptodown.com##.cookies
 ! ##.cookie
-gelbe-liste.de,funbou.com,magdeburger.com.tr,zrzutka.pl,kioskla.co,pyur.com,why-tech.it,ilike.pet,hhv.de,maxcamping.de,mariin.ru,hiya.com,wall-art.de,wifire.tv,hyundai.ru,bb.lv,scotchwhisky.com,reisebank.de,rtl.de,computacenter.com,reyden-x.com,persil.de,modhoster.de,bug.hr,kigili.com,buddhism.ru,natwest.com,crowdfinder.be,snob.ru,stib-mivb.be,englishhome.com,commuterclub.co.uk,colliers.com,novmak.com,gugik.gov.pl,eibach.de,oreopeople.com,eishockeynews.de,nature.com,1mobil.hu,tvpaprika.ro,tvpaprika.cz,tvpaprika.hu,minimaxtv.rs,minimaxcz.tv,minimaxro.tv,minimaxtv.si,minimax.hu,docmorris.de,leroymerlin.pl,malavida.com,prodir.com,dw.com,joautok.hu,redditinc.com,oogfonds.nl,soft32.com,buffalo.de,donaukurier.de,le1hebdo.fr,turbo-c.soft32.com,juridischloket.nl,statusbrew.com,zumnorde.de,rbs.co.uk,okayfreedom.com,statarea.com,werkenbijbdo.nl##.cookie
+nudo.com.tr,erisun.com.tr,erislergida.com.tr,miluni.com.tr,gelbe-liste.de,funbou.com,magdeburger.com.tr,zrzutka.pl,kioskla.co,pyur.com,why-tech.it,ilike.pet,hhv.de,maxcamping.de,mariin.ru,hiya.com,wall-art.de,wifire.tv,hyundai.ru,bb.lv,scotchwhisky.com,reisebank.de,rtl.de,computacenter.com,reyden-x.com,persil.de,modhoster.de,bug.hr,kigili.com,buddhism.ru,natwest.com,crowdfinder.be,snob.ru,stib-mivb.be,englishhome.com,commuterclub.co.uk,colliers.com,novmak.com,gugik.gov.pl,eibach.de,oreopeople.com,eishockeynews.de,nature.com,1mobil.hu,tvpaprika.ro,tvpaprika.cz,tvpaprika.hu,minimaxtv.rs,minimaxcz.tv,minimaxro.tv,minimaxtv.si,minimax.hu,docmorris.de,leroymerlin.pl,malavida.com,prodir.com,dw.com,joautok.hu,redditinc.com,oogfonds.nl,soft32.com,buffalo.de,donaukurier.de,le1hebdo.fr,turbo-c.soft32.com,juridischloket.nl,statusbrew.com,zumnorde.de,rbs.co.uk,okayfreedom.com,statarea.com,werkenbijbdo.nl##.cookie
 ! ##.b-cookie
 machotube.tv,icegay.tv,gayporno.fm,fitnessbar.ru,skillbox.ru,gaymensextube.com,igayvideos.tv,findgaytube.com,onlydudes.tv,icegaytube.tv,machogaytube.com,gogaytube.tv,good-gay.tv,shemaleporntube.tv,boy18tube.com,goldgay.tv,xgaytube.tv,gayfuckporn.tv,xlgaytube.tv,me-gay.com,gaysuperman.com##.b-cookie
 ! ##.sliding-popup-bottom
@@ -52,16 +52,20 @@ download.pixelexperience.org,waterdrop.com,exvital.de,mobile01.com,duckduckgo.me
 ! ###cookie-box
 ergo.de,fosforludusunceler.com,kirtkirtla.com,sonaktuel.com,muglaweather.com,denizcilikbilgileri.com,filmonerileri.org,wblogy.com,dnschecker.org,krombacher.de###cookie-box
 !
+amazon.com.tr###sp-cc[action^="/cookieprefs"]
+limakcimento.com###divCerezUyarisi
 buecher.de###klaro
 tri-it-fit.de##.pixelmate-big-wrapper
 swordz.io###cookieMessage
 account.oup.com###fixedHeader > #banners
+hekimoglu.com.tr###kwkbilgilendirme
 atombilgisayar.com##.module-notification[data-options*="cookie"]
 jamieoliver.com###ccc
 gesundheitswissen.de##.cookie_statement
 th-owl.de###c-cookie-note
 arbys.com##.ccpa-banner
 gillettevenus.com.tr###divOneTrustButton
+premier.one#?#.main > div.notifications-container:has(> div.notification-item > p > a[href="/info/tntp/cookie-description"])
 derby.com.tr###f-cookie-alert
 hepsievcil.com###menu-cookie-bottom
 goodyear.eu##.cmp-responsivegrid--behavior-cookie
@@ -998,7 +1002,7 @@ abgreyd.servis2010.ru###uni-notification
 haberci-gazete.de##.gdpr_infobar_postion_bottom
 ||scripts.tv2a.dk/oil/oil.js
 ankarahalkekmek.com.tr###cookie-field
-gazelektrik.com,akillitarife.com###ac-cookie-compliance
+podecomparar.com.br,gazelektrik.com,akillitarife.com###ac-cookie-compliance
 pngindir.com,happymod.com##.fot-fixd
 freegogpcgames.com##div[id^="cookii-"]
 viennaticketoffice.com##body > div[id][style="float:left"]
@@ -1532,7 +1536,7 @@ careers.google.com##.gc-cookie-bar
 zomato.com##.gdbr_banner_wrapper
 fanpage.it##.gdpr-bar
 avaaz.org##.gdpr-block
-emag.ro,petri.com,surveymonkey.com,emag.hu,canadapost.ca,research.net,thurrott.com##.gdpr-cookie-banner
+surveymonkey.de,emag.ro,petri.com,surveymonkey.com,emag.hu,canadapost.ca,research.net,thurrott.com##.gdpr-cookie-banner
 navbharattimes.indiatimes.com##.gdpr-cookiebanner
 nejm.org,vpnranks.com##.gdpr-msg
 lingq.com##.gdpr-notice
@@ -2622,7 +2626,7 @@ altincicadde.com###privacy_modal
 derstandard.at###privacypolicy
 longfonds.nl###ptCookieBarWrap
 blog.eu.playstation.com###siee-cookie-bar
-novartis.com.tr,royal.uk,transcom.com,netcologne.de,belltower.news,bigfm.de,click.ro,demokrata.hu,emma.de,gysev.hu,humanite.fr,ikgastarten.nl,la7.it,london.gov.uk,mavcsoport.hu,mcdonalds.at,mcdonalds.it,mises.org,mnm.hu,musescore.com,nbcsports.com,pnas.org###sliding-popup
+medrxiv.org,novartis.com.tr,royal.uk,transcom.com,netcologne.de,belltower.news,bigfm.de,click.ro,demokrata.hu,emma.de,gysev.hu,humanite.fr,ikgastarten.nl,la7.it,london.gov.uk,mavcsoport.hu,mcdonalds.at,mcdonalds.it,mises.org,mnm.hu,musescore.com,nbcsports.com,pnas.org###sliding-popup
 sz-online.de###szoCookieBar
 4gr.it###taxcodeandprivacy-cookienotice-container
 shemalemodelstube.com###termly-code-snippet-support-banner
@@ -2721,7 +2725,7 @@ footlocker.de,footlocker.eu,runnerspoint.com,runnerspoint.de,sidestep-shoes.de##
 sitechecker.pro##.footer__cookie
 e-marine.ru##.fz-use-cookies
 play.google.com##.gb_Ad.gb_0c.gb_g[style]
-glossika.com,bleachmx.fr,fuser.com,nytimes.com,bagdatbaharat.com.tr,foreignaffairs.com,tagmp3.net,arkadszeged.hu,basemark.com,eonline.com,gogoro.com,money.yandex.ru,sydsvenskan.se,theatlas.com##.gdpr
+hibboux.com,glossika.com,bleachmx.fr,fuser.com,nytimes.com,bagdatbaharat.com.tr,foreignaffairs.com,tagmp3.net,arkadszeged.hu,basemark.com,eonline.com,gogoro.com,money.yandex.ru,sydsvenskan.se,theatlas.com##.gdpr
 bootcampdrivers.freeforums.net,gdforum.freeforums.net,transittalk.proboards.com##.gdpr-banner-content-wrapper
 jooble.org##.gdpr-consent-banner
 trello.com##.gdpr-cookie-consent-banner
@@ -4044,6 +4048,7 @@ bmwfaq.org#?#.Notices[-ext-has='a[href="//www.bmwfaq.org/help/cookies"]']
 ! JS rules
 !
 ! tarnkappe.info#%#//scriptlet("set-constant", "CM_cookieManager.start", "noopFunc")
+oyunskor.com#%#AG_onLoad(function() { setTimeout(function() { var el = document.querySelector('button[class*="intro_acceptAll-"]'); if(el) { el.click(); } }, 600); });
 alpro.com#%#document.cookie='cookieConsent={"statistical":0,"personalization":0,"targeting":0}; path=/;';
 al.to,x-kom.pl#%#document.cookie="cookieAccept=true; path=/;";
 redbull.com#%#AG_onLoad(function(){if(!document.cookie.includes("OptanonAlertBoxClosed")){var a=new MutationObserver(function(){var b=document.querySelector(".cookie-setting-link");var c=document.querySelector("label[for='ot-group-id-C0002'] > .ot-switch-nob");var d=document.querySelector("label[for='ot-group-id-C0004'] > .ot-switch-nob");var e=document.querySelector(".onetrust-close-btn-handler");b&&(a.disconnect(),b.click(),c.click(),d.click(),e.click())});a.observe(document,{childList:!0,subtree:!0});setTimeout(function(){a.disconnect()},1E4)}});
@@ -4327,6 +4332,8 @@ ziekenhuis.nl#%#AG_onLoad(function() { setTimeout(function() {var check = docume
 !
 ! Replace rules
 !
+||pudelek.pl/*=$replace=/return .\.isVendorAllowed\(.\)&&.\.filter\(\(function\(.\){return .\.isPurposeAllowed\(.\)\}\)\)\.length===.\.length/return/,script
+||wp.pl/*=$replace=/return .\.isVendorAllowed\(.\)&&.\.filter\(\(function\(.\){return .\.isPurposeAllowed\(.\)\}\)\)\.length===.\.length/return/,script
 ||wp.pl/*=$replace=/return .\.isVendorAllowed\(.\)&&.\.filter\(.=>.\.isPurposeAllowed\(.\)\)\.length===.\.length/return/,script
 ||wp.pl/*=$replace=/\n\(window\.__proto__[\s\S]*?\/polityka-prywatnosci[\s\S]*?AKCEPTUJ[\s\S]*?Pliki cookies[\s\S]*//,script
 ||o2.pl/*=$replace=/\n\(window\.__proto__[\s\S]*?\/polityka-prywatnosci[\s\S]*?AKCEPTUJ[\s\S]*?Pliki cookies[\s\S]*//,script

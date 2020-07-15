@@ -5,6 +5,9 @@
 mangainn.net#?#.col-md-4 > .sidebar:has(> .text-back > span:contains(/^Sponsored Content$/))
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59035
 comicastle.org#?#.card > .card-body.text-center:has(> .adsbygoogle)
+! https://github.com/AdguardTeam/AdguardFilters/issues/59032
+file-upload.com#?#.container > div.page-wrap > div.text-center[style^="margin-bottom: 20px;"]:contains(ads)
+file-upload.com#?#.container > div.page-wrap > center:contains(ads) 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59106
 vanis.io#?##overlay > .container > .fade-box.box-1:has(> div[style="padding: 4px;"]:contains(/^Advertisement$/))
 ! majorgeeks.com - ad leftover
@@ -1158,7 +1161,7 @@ toolslib.net#?#[class="col-lg-4 col-md-6 col-sm-6"][-ext-has='.custom > div.cust
 bhg.com.au#?#.OUTBRAIN ul.ob-widget-items-container > li.ob-dynamic-rec-container[-ext-has='a[onmousedown*="https://paid.outbrain.com/network/redir?"]']
 ! pussyspace.com,pussyspace.net - ads from ExoLoader on extensions
 !+ NOT_PLATFORM(windows, mac, android)
-pussyspace.com,pussyspace.net#?#.mcbox div[class]:has(> style ~ *:not(script) img[src*="base64"])
+pussyspace.com,pussyspace.net#?#.mcbox div:has(> style ~ *:not(script) img[src*="base64"])
 ! https://github.com/AdguardTeam/AdguardFilters/issues/38725
 !+ PLATFORM(ext_ff, ext_opera)
 camwhores.tv#$?#body > div[style*="position"][style*="box-shadow"]:has(> a[href^="https://t.hrtyj.com/"]) { position: absolute!important; left: -3000px!important; }

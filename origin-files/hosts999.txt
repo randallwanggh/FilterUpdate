@@ -709,7 +709,6 @@
 127.0.0.1 geo.yahoo.com
 127.0.0.1 js-apac-ss.ysm.yahoo.com
 127.0.0.1 locdrop.query.yahoo.com
-127.0.0.1 m.yap.yahoo.com
 127.0.0.1 onepush.query.yahoo.com
 127.0.0.1 p3p.yahoo.com
 127.0.0.1 partnerads.ysm.yahoo.com
