@@ -12275,7 +12275,6 @@
 127.0.0.1 ais-api.applicaster.com
 127.0.0.1 ais.applicaster.com
 127.0.0.1 aiseet.aa.atianqi.com
-127.0.0.1 aiseet.atianqi.com
 127.0.0.1 aiservice.vn
 127.0.0.1 aishowbger.com
 127.0.0.1 aisiansex.com
