@@ -685,12 +685,13 @@
 1905.com##.ad-couplet,#hd-tab-label4,div.bd-tab.video-list:last-child
 1ting.com##[id^=tingx_]
 360doc.com##div[id^=divad],#fullbg
+3z9e.cn
 51cto.com###ft~div
 51cto.com##div:has(#tonglanad)
 52z.com###softdown>div,div.syGaosuDa:first-child
 88btbtt.com##body > a
 91danji.com###bg_ad,div.hr.hr48
-acfun.cn###ad-comment,#ad-player-view
+acfun.cn##.pause-display-container,#ad-comment,#ad-player-view
 admin5.com##.float_both,div.sherry_ad1,div.specialBox,.content_right_ad
 adservice.google.com
 adxvip.com
@@ -747,8 +748,8 @@ huya.com###hy-ad,#hy-ab,#huya-ab
 iciba.com##div[class|=ad],div.newpc-entry
 ieeod0.com
 ifeng.com##.slide_popo_modal,div[class^=pao_],div[class^=adList],div[class^=adbox],div[class^=FNewRAvtLisBox],body>div.Avt02,#picTxt~*,div.topAd
-iqiyi.com##+js(aopr, DOMParser)
-iqiyi.com##div[data-adzone][adid]
+iqiyi.com##+js(set, Object.prototype.parseXML, noopFunc)
+iqiyi.com##div[data-adzone][adid],#block-V
 ithome.com##.categoryimg,#hd_float,#side_func,#con>#tt5>div,div.related_buy,li.sb_list:nth-child(5)
 iyoowi.com
 jb51.net##.clearfix.mtb10:first-child,div.r300>.idc3,#txtlink,div.topimg,#param.content-box+div,#xgd+dd
@@ -795,8 +796,8 @@ ulmdb.cn
 user.qzone.qq.com##div#idQbossHotbar.hotbar_wrap,div.icenter-right-ad,div#QM_100005_Body,div.fn-feed-mod-bd,div.ck-act,div#QM_Container_100005,div.gdtads_box,li.f-single-biz
 v.baidu.com##div[videoadv],a[href^="http://g.youxi.v.baidu."]
 v.ifeng.com##.vAdbox,div.vAdImg,div.newAdImg,div.ad300,div.ad1000,div.vPlayerAdbox,div.main+.scrollcol
-v.qq.com##+js(json-prune,adList ad)
-v.qq.com##+js(nano-sib, \u5012\u8ba1\u65f6)
+v.qq.com##+js(json-prune, ad, vinfo)
+v.qq.com##+js(json-prune,ad,errCode)
 v.youku.com##.control-phonewatch,#right-title-ad-banner
 v2ex.com##.box:has(.sidebar_compliance)
 v4dwkcv.com
@@ -815,6 +816,7 @@ yatu.tv###loadtop,[id^=myas],#myds1
 youdao.com###topImgAd,#spTop
 youle55.com
 yoyi.com.cn
+ys.da.mgtv.com
 yxdown.com##.bg_l,.bg_r,div.gg,div[id$=_ads]
 zhidao.baidu.com###left-promotion,#ui-tooltip-0,div.cms-slide.cms-slide-optimus,div.wgt-bottom-ask,div.cms-slide.cms-slide-lazy
 zhihu.com##.Banner.Card,.shameimaru-section,.Banner-image,.Banner-image
@@ -29607,7 +29609,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||t4ft.de^
 ||t58b.com^
 ||t70123.com^
-||t7z.cupid.iqiyi.com/show$script,important
 ||t7z.cupid.ptqy.gitv.tv^
 ||t8ac8a8f8.jingfeed.com^
 ||ta.qq.com^
