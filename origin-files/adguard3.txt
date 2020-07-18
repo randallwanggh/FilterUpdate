@@ -52,6 +52,7 @@ ignshop.hu,download.pixelexperience.org,waterdrop.com,exvital.de,mobile01.com,du
 ! ###cookie-box
 aksaelektrik.com.tr,ergo.de,fosforludusunceler.com,kirtkirtla.com,sonaktuel.com,muglaweather.com,denizcilikbilgileri.com,filmonerileri.org,wblogy.com,dnschecker.org,krombacher.de###cookie-box
 !
+theregister.com##.RegCTBWF_wrapper
 wko.at#$#.popup__cookie { display: none !important; }
 wko.at#$#body.hasPopup > * { opacity: 1 !important; }
 ||scripts.tv2a.dk/oil-sdk^
@@ -2580,7 +2581,7 @@ vk.com###cookies_policy_wrap
 tout-debrid.net###cookiescript_injected
 corriere.it###cpmt_container
 runningwarehouse.eu,tennis-warehouse.com,tenniswarehouse-europe.com###data_protection
-expansion.com###didomi-notice.shape-banner
+softonic.com,expansion.com###didomi-notice.shape-banner
 pharmacosmetica.ru###disclaimer
 ocsworldwide.co.uk###divcookie
 deepl.com###dl_cookie_footer

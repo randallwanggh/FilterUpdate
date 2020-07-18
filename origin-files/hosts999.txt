@@ -83,7 +83,6 @@
 127.0.0.1 amdc.alipay.com
 127.0.0.1 atanx.alicdn.com
 127.0.0.1 atanx2.alicdn.com
-127.0.0.1 click.mz.simba.taobao.com
 127.0.0.1 fav.simba.taobao.com
 127.0.0.1 g.click.taobao.com
 127.0.0.1 g.tbcdn.cn

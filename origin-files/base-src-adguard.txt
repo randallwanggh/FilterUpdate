@@ -10277,7 +10277,6 @@ executive-shaving.co.uk#$#body { overflow: visible!important; }
 exelab.ru##a[href="/videokurs.php"]
 exelab.ru##div[id^="bnr"]
 exophase.com##.ad-general
-expansion.com###didomi-notice.shape-banner
 expansion.com##.modulo.especial.newsletter
 expansion.com,marca.com##.colVideo > .redes
 expatforum.com###vspopup-overlay
@@ -10460,6 +10459,7 @@ facebook.com,facebookcorewwwi.onion###pagelet_ego_pane > .pagelet:not(.egoOrgani
 facebook.com,facebookcorewwwi.onion#$#body > .AdBox.Ad.advert { display:block!important; }
 facebook.com,facebookcorewwwi.onion#%#!function(){var e=new MutationObserver(function(){document.querySelectorAll('div[id^="substream_"] div[id^="hyperfeed_story_id"]').forEach(function(e){var n=e.querySelectorAll(".userContentWrapper > div[class] > div[class] > div[class]"),o=e.querySelectorAll(".userContentWrapper > div[class] > div > div span");if("display: none !important;"!=e.getAttribute("style")){if(0<n.length&&n[0].innerText.contains("Suggested")){console.log("--------"),t+=1;var l=e.querySelectorAll("a[href]")[2].innerText;console.log("Annoyance hidden from: "+l),console.log("Total annoyances Hidden: "+t),console.log("F length: "+n.length),console.log("--------"),e.style="display:none!important;"}if(0<o.length&&o[0].innerText.contains("People you may know"))console.log("--------"),t+=1,""==(l=e.querySelectorAll("a[href]")[2].innerText)&&(l="Facebook"),console.log("Annoyance hidden from: "+l),console.log("Total annoyances Hidden: "+t),console.log("F length: "+n.length),console.log("--------"),e.style="display:none!important;"}})}),t=0;e.observe(document,{childList:!0,subtree:!0})}();
 facebook.com,facebookcorewwwi.onion#%#(function() { var observer=new MutationObserver(hide);observer.observe(document,{childList:!0,subtree:!0});function hide(){var e=document.querySelectorAll('div[id^="substream_"] div[id^="hyperfeed_story_id"]');e.forEach(function(e){var i=e.__FB_STORE;if(i){var t=i["data-ft"];if(t!==void 0&&(!0===t.includes('"quick_promotion_id"')&&!1===t.includes('"page_id":"'))){e.style="display:none!important;";}}})} })();
+facebook.com,facebookcorewwwi.onion#%#new MutationObserver(function(){document.querySelectorAll('div[role="feed"] > div[data-pagelet^="FeedUnit"] > div[class]:not([style*="height"])').forEach(function(e){"display: none !important;"==e.getAttribute("style")||e.classList.contains("hidden_elem")||e.querySelectorAll("div[aria-posinset] div[style] div[class] > div[class] > div[class] > div[class] > span")[0].innerText.contains("Suggested for you")&&(console.log("--------"),console.log("Annoyances hidden (Suggested for you)"),e.style="display:none!important;")})}).observe(document,{childList:!0,subtree:!0});
 facebook.com,facebookcorewwwi.onion#%#new MutationObserver(function(){var t=["&eid=","%26eid%3D","?eid=","%3Feid%3D","?__tn__=","%3F%5F%5Ftn%5F%5F%3D","&__tn__=","%26%5F%5Ftn%5F%5F%3D","?source=","%3Fsource%3D","?__xts__","%3F%5F%5Fxts%5F%5F","&__xts__","%26%5F%5Fxts%5F%5F","&amp;__xts__%5B","?ref=","%3Fref%3D","?fref=","%3Ffref%3D","?epa=","%3Fepa%3D","&ifg=","%26ifg%3D","?comment_tracking=","%3Fcomment_tracking%3D","?av=","%3Fav%3D","&av=","%26av%3D","?acontext=","%3Facontext%3D","&session_id=","%26session_id%3D","&amp;session_id=","?hc_location=","%3Fhc_location%3D","&fref=","%26fref%3D","?__cft","%3f__cft"];document.querySelectorAll('a:not([target="_blank"])').forEach(function(e){for(i=0;i<t.length;i++)e.href.includes(t[i])&&e.setAttribute("href",e.href.split(t[i])[0])})}).observe(document,{childList:!0,subtree:!0});
 facebook.com,facebookcorewwwi.onion#?#div[data-testid="marketplace_pdp_component"] div[style^="max-height:"] div[style^="max-height:"] > div[class] > div > div:not([class]):has(> div[class] > div[class] > a[href^="/ads/"])
 facebook.com,facebookcorewwwi.onion#@#.Ad
@@ -19743,6 +19743,7 @@ mail.ee###inxAds-imr
 mail.ee##.b-promo
 mail.ee##.b-text-ads
 mail.google.com##header[role="banner"] > div[class] > div.gb_yf > div.gb_gc[role="dialog"][aria-label$="Google Chrome"]
+mail.google.com#?##views div[style^="min-height:"] > form ~ div[class][style]:has(> div[class] > div[class][id] > div[class] > div[class]:contains(Ad))
 mail.google.com#?#.aeF > .nH > .nH[role="main"] > .aKB:has(> div)
 mail.live.com###RightRailContainer
 mail.live.com#$#.WithRightRail { min-width: auto!important; right: 0!important; }
@@ -29304,6 +29305,7 @@ softonic.com##div[class="modal-di__step"] > div.modal-di__header + div.modal-di_
 softonic.com##div[data-ua-category="RecommendedAppHeaderBar"]
 softonic.com##div[id^="Newsletter-Subscription"]
 softonic.com##div[id^="zeus"]
+softonic.com,expansion.com###didomi-notice.shape-banner
 softpedia.com###_wlts
 softpedia.com###_wlts_lead
 softpedia.com###bottombubble
@@ -31739,6 +31741,8 @@ theregister.co.uk###article_newsletter_signup
 theregister.co.uk##.faux-article
 theregister.co.uk##.newsletter_signup
 theregister.co.uk##div.faceb
+theregister.com##.RegCTBWF_wrapper
+theregister.com##.sharing_widget
 therichest.com##.ad-zone-container
 therichest.com##.article_share
 therichest.com##.sharingOptions
@@ -32777,6 +32781,7 @@ trustedreviews.com#$#body.has-adverts > .header-advert { display: none!important
 trustedreviews.com#%#window.blockAdBlock = function() {};
 trustedreviews.com,nme.com$$script[tag-content="Object.defineProperties?Object.defineProperty:function"][max-length="120000"]
 trustpilot.com##.brand-share-button-wrapper
+trustpilot.com##.covid19
 truthinsideofyou.org#@#.share-container
 truyenaudiocv.com##.adsbygoogle
 truyenqq.com##a[target="_blank"][href*="http"]:not([href*="truyenqq.com/"]) > img
@@ -35541,7 +35546,6 @@ wikipedia.org##.cnotice
 wikipedia.org##.mw-dismissable-notice
 wikipedia.org#$##mw-head { top: 0!important; }
 wikipedia.org#$##mw-head-base { display:none!important; }
-wikipedia.org#$##mw-panel { top: 0!important; }
 wikipedia.org#$#body > #centralNotice { display:none!important; }
 wikireading.ru#?#.entry-content div.alert:has(> div[class^="ya-share"])
 wikiseriesonline.com##.barraPlus1
@@ -37779,6 +37783,7 @@ zzz.com.ua##body > div[style="text-align:center;font-size:11px;font-family:arial
 ||7pisem.com^$third-party
 ||7pisem.ru^$third-party
 ||7plus.com.au/js/app.*.js$replace=/t\.sevenCatalog\.adChoice="ssaibeacon"/t\.sevenCatalog\.adChoice="csai"/,domain=7plus.com.au
+||7q1z79gxsi.global.ssl.fastly.net^$third-party
 ||7s08gpbp39.com^$third-party
 ||7themes.su/sw.js
 ||7tor.download/AV/Banner.aspx
