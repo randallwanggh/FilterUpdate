@@ -39,7 +39,7 @@ docviewer.yandex.ru,docviewer.yandex.ua,docviewer.yandex.by,docviewer.yandex.com
 ! END: Yandex
 !
 ! liveinternet.ru
-liveinternet.ru#%#//scriptlet("set-constant", "Object.prototype.getYaContext", "undefined")
+liveinternet.ru#%#//scriptlet("abort-on-property-read", "Object.prototype.RtbManagerStart")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/42969
 drive2.ru#%#//scriptlet("abort-on-property-read", "Object.prototype.renderBanner")
 ! gismeteo domains: gismeteo.ru,gismeteo.by,gismeteo.pl,gismeteo.lt,gismeteo.md,gismeteo.kz
@@ -371,7 +371,7 @@ krunker.io###aHolder
 ||g2insights-cdn.azureedge.net/*/mng/g2insights.min.js
 uploadship.com##.pageErrors
 @@||townnews.com/*/shared-content/art/tncms/templates/libraries/flex/components/ads/resources/scripts/tnt.ads.advertisements.*.js
-glav.su##div[id^="js-abd-"]
+glav.su#%#//scriptlet("prevent-addEventListener", "DOMContentLoaded", "abd")
 @@||a.omappapi.com/app/js/ads.js
 ||sp.desmoinesregister.com^
 kompravda.eu,kp.ru###popapIsBlockedAd
