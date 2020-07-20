@@ -30,7 +30,7 @@ strunz.com###v-cookielaw
 ! ##.cookies
 compendium.com.ua,city-story.ru,gartic.io,telekom-dienste.de,iqos.com,d3o.com,dnews.dn.ua,befirst.info,eblocker.com,parapolitika.gr,makandracards.com,webtekno.com,2plus2.ua,unian.info,unian.net,unian.ua,cinemacity.hu,pepco.hu,pepco.pl,pepco.eu,pepco.sk,pepco.cz,pepco.ro,pepco.hr,pepco.lt,pepco.si,pepco.lv,pepco.ee,pepco.bg,1plus1.ua,otus.ru,astonmartin.com,sapphiretech.com,cbreaker.net,glavred.info,abarta.pl,alo.com.pl,universiteitleiden.nl,pap.pl,fly4free.pl,store.hmv.com,editions-delcourt.fr,square-enix-games.com,capcom-germany.de,global.astonmartin.com,crytek.com,tomorrow.one,vypocitejto.cz,rozklad.pkp.pl,rozklad-pkp.pl,aliorbank.pl,macpaw.com,polsatsport.pl,meczyki.pl,dhosting.com,dhosting.pl,ostrog.com,godealla.pl,diamante-wear.com,twinings.co.uk,moviepilot.de,euronics.it,amnesty.org,glavred.info,urtekram.com,ecuestre.es,betchannel.fr,scamner.com,mountainbike.es,feelunique.com,flooxer.com,tui.fr,comparateur-energie.be,sacsirlari.com,omaweetraad.nl,salusi.nl,uptodown.com##.cookies
 ! ##.cookie
-gamertech.hu,bevachip.hu,gamecitycorner.hu,gamecity.hu,nudo.com.tr,erisun.com.tr,erislergida.com.tr,miluni.com.tr,gelbe-liste.de,funbou.com,magdeburger.com.tr,zrzutka.pl,kioskla.co,pyur.com,why-tech.it,ilike.pet,hhv.de,maxcamping.de,mariin.ru,hiya.com,wall-art.de,wifire.tv,hyundai.ru,bb.lv,scotchwhisky.com,reisebank.de,rtl.de,computacenter.com,reyden-x.com,persil.de,modhoster.de,bug.hr,kigili.com,buddhism.ru,natwest.com,crowdfinder.be,snob.ru,stib-mivb.be,englishhome.com,commuterclub.co.uk,colliers.com,novmak.com,gugik.gov.pl,eibach.de,oreopeople.com,eishockeynews.de,nature.com,1mobil.hu,tvpaprika.ro,tvpaprika.cz,tvpaprika.hu,minimaxtv.rs,minimaxcz.tv,minimaxro.tv,minimaxtv.si,minimax.hu,docmorris.de,leroymerlin.pl,malavida.com,prodir.com,dw.com,joautok.hu,redditinc.com,oogfonds.nl,soft32.com,buffalo.de,donaukurier.de,le1hebdo.fr,turbo-c.soft32.com,juridischloket.nl,statusbrew.com,zumnorde.de,rbs.co.uk,okayfreedom.com,statarea.com,werkenbijbdo.nl##.cookie
+sepas.com.tr,gamertech.hu,bevachip.hu,gamecitycorner.hu,gamecity.hu,nudo.com.tr,erisun.com.tr,erislergida.com.tr,miluni.com.tr,gelbe-liste.de,funbou.com,magdeburger.com.tr,zrzutka.pl,kioskla.co,pyur.com,why-tech.it,ilike.pet,hhv.de,maxcamping.de,mariin.ru,hiya.com,wall-art.de,wifire.tv,hyundai.ru,bb.lv,scotchwhisky.com,reisebank.de,rtl.de,computacenter.com,reyden-x.com,persil.de,modhoster.de,bug.hr,kigili.com,buddhism.ru,natwest.com,crowdfinder.be,snob.ru,stib-mivb.be,englishhome.com,commuterclub.co.uk,colliers.com,novmak.com,gugik.gov.pl,eibach.de,oreopeople.com,eishockeynews.de,nature.com,1mobil.hu,tvpaprika.ro,tvpaprika.cz,tvpaprika.hu,minimaxtv.rs,minimaxcz.tv,minimaxro.tv,minimaxtv.si,minimax.hu,docmorris.de,leroymerlin.pl,malavida.com,prodir.com,dw.com,joautok.hu,redditinc.com,oogfonds.nl,soft32.com,buffalo.de,donaukurier.de,le1hebdo.fr,turbo-c.soft32.com,juridischloket.nl,statusbrew.com,zumnorde.de,rbs.co.uk,okayfreedom.com,statarea.com,werkenbijbdo.nl##.cookie
 ! ##.b-cookie
 machotube.tv,icegay.tv,gayporno.fm,fitnessbar.ru,skillbox.ru,gaymensextube.com,igayvideos.tv,findgaytube.com,onlydudes.tv,icegaytube.tv,machogaytube.com,gogaytube.tv,good-gay.tv,shemaleporntube.tv,boy18tube.com,goldgay.tv,xgaytube.tv,gayfuckporn.tv,xlgaytube.tv,me-gay.com,gaysuperman.com##.b-cookie
 ! ##.sliding-popup-bottom
@@ -52,6 +52,12 @@ ignshop.hu,download.pixelexperience.org,waterdrop.com,exvital.de,mobile01.com,du
 ! ###cookie-box
 aksaelektrik.com.tr,ergo.de,fosforludusunceler.com,kirtkirtla.com,sonaktuel.com,muglaweather.com,denizcilikbilgileri.com,filmonerileri.org,wblogy.com,dnschecker.org,krombacher.de###cookie-box
 !
+swatch.com##.reveal-modal-bg
+naturalnews.com###bottompopup
+vatlib.it,vaticanlibrary.va###cookieAd
+alimar.com.tr###terms-and-conditions
+akcansa.com.tr###divCookieInfoSrv
+yesilirmakedas.com###header-announcement
 theregister.com##.RegCTBWF_wrapper
 wko.at#$#.popup__cookie { display: none !important; }
 wko.at#$#body.hasPopup > * { opacity: 1 !important; }
@@ -64,7 +70,7 @@ pcland.hu##.cookieNoticeBox
 walmart.ca###privacy-policies-banner
 lidl.hu##.notification__content
 enerya.com.tr###kvkk_notification
-aksadogalgaz.com.tr##.cerezDiv
+coruhaksa.com,firataksa.com,firatedas.com.tr,coruhedas.com.tr,aksadogalgaz.com.tr##.cerezDiv
 amazon.com.tr###sp-cc[action^="/cookieprefs"]
 limakcimento.com###divCerezUyarisi
 buecher.de###klaro
@@ -122,7 +128,7 @@ twitter.com#?##react-root >div[class] > div[class] > div[class] > div[class] > d
 wkv.com###priv-notice-container
 dreamcruiseline.com##.gdpr-banner-wrapper
 femina.in##body > .blocked
-dsmart.com.tr##.kvkk
+aksa.com,dsmart.com.tr##.kvkk
 theguardian.com##div[id^="sp_message_container_"]
 gulfnews.com##.gn-cookies-warning
 ||cdn.prod.www.manager-magazin.de/public/spon/generated/3rdparty/js/msg*.js
@@ -1529,7 +1535,7 @@ telestar.fr##.didomi-notice-popup
 lequipe.fr##.didomi-regular-notice
 beate-uhse.com##.disclaimer_wrapper
 ichip.ru,playboyrussia.com,ivd.ru,lisa.ru##.disclamer
-dornbracht.com##.do-cookie-notice
+dornbrachtgroup.com,dornbracht.com##.do-cookie-notice
 buffet-crampon.com##.doyoulikecookies
 vorname.com,eltern.de##.dsgvo
 sol.de##.dsgvo-container
@@ -1830,7 +1836,7 @@ chefkoch.de###ck-cookie-statement
 aba-sport.pl,sts-sklep.pl,atman.pl,czasnabuty.pl,icomp.pl###ck_dsclr
 celebheights.com###ckeu
 foreca.ru###ckieconsent
-laleggepertutti.it,chimerarevo.com,navigaweb.net,politize.com.br###cl_modal
+psychic.de,laleggepertutti.it,chimerarevo.com,navigaweb.net,politize.com.br###cl_modal
 almamarket.pl###claw
 61trabzonhaber.com,isilanlarikariyer.com,bolgegundem.com,neoldu.com###cm-cookie-policy
 shopping.rakuten.com###cnilBanner
@@ -2228,7 +2234,7 @@ coop.se##.js-personalInformationNotice
 praca.gov.pl##.komunikat-panel-cookies
 archdaily.com##.kth-toast--bottom
 ticariarac.vw.com.tr##.kvkk-an-appointment-bar
-honda.com.tr##.kvvk-cookie
+winsa.com.tr,egepen.com.tr,honda.com.tr##.kvvk-cookie
 vectra.pl##.l-cookies
 lexus-polska.pl,lexus.am,lexus.at,lexus.az,lexus.be,lexus.bg,lexus.ch,lexus.co.il,lexus.co.uk,lexus.com.cy,lexus.com.tr,lexus.cz,lexus.de,lexus.ee,lexus.eu,lexus.fi,lexus.fr,lexus.gr,lexus.hr,lexus.hu,lexus.ie,lexus.is,lexus.it,lexus.kz,lexus.lt,lexus.lu,lexus.lv,lexus.nl,lexus.no,lexus.pt,lexus.ro,lexus.se,lexus.si,lexus.sk,lexus.ua,lexusauto.es,lexusgeorgia.ge##.l-disclaimer
 lego.com##.l-sticky-gf__accept
@@ -2314,7 +2320,7 @@ hrs.de##.sw-cookie-layer
 amplitude-studios.com##.system-notification-container > div[id*="-policy-"]
 acrylicwifi.com##.tar_cookiesBar
 jazzradio.com##.terms-message
-change.org##.tos-banner
+untappd.com,change.org##.tos-banner
 variatkowo.pl,audiotools.club,audiotorrentz.org##.tplis-cl-cookies
 investing.com,wacom.com,hilton.co.kr,hilton.com,hilton.com.cn,hilton.com.tr,hilton.ru,hiltonhotels.com,hiltonhotels.de,hiltonhotels.it,hiltonhotels.jp,sap.com,sourceforge.net##.truste_box_overlay
 investing.com,wacom.com,hilton.co.kr,hilton.com,hilton.com.cn,hilton.com.tr,hilton.ru,hiltonhotels.com,hiltonhotels.de,hiltonhotels.it,hiltonhotels.jp,sap.com,sourceforge.net##.truste_overlay

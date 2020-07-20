@@ -5986,6 +5986,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||bcvcmedia.com^
 ||bcvrczvqlm.com^
 ||bcvxpffzmkqf.com^
+||bd-gl.com^
 ||bd-js.baixing.net^
 ||bd-s.baixing.net^
 ||bd.czxuexi.com^
@@ -14709,6 +14710,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||gugeys.com^
 ||gugulonger.cn^
 ||guidashu.com^
+||guiheng.wang^
 ||guiltlessbasketball.com^
 ||guitaralliance.com^
 ||guitarpro.cc^
@@ -27683,6 +27685,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||sg2rgnza7k9t.com^
 ||sg888.vip^
 ||sg92.com^
+||sgbbc.cn^
 ||sgbfjs.info^
 ||sgbmhkptxali.com^
 ||sgcmoeu.cn^
@@ -27786,6 +27789,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||shforu.com^
 ||shftscdisov.com^
 ||shfutnjqshzw.com^
+||shgansheng.cn^
 ||shglegle.com^
 ||shgnts.net^
 ||shibagongfang.com^
@@ -33226,6 +33230,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||whatseet.net^
 ||whaustou.net^
 ||whautsel.net^
+||whbmy.com^
 ||whchsvlxch.site^
 ||whcrdz.com^
 ||whdafei.com^
@@ -34896,6 +34901,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||ykykbowk.com^
 ||ykyryixcwn.com^
 ||yl850555.com^
+||yl89.cn^
 ||ylads.yaolan.com^
 ||ylbslipwhfdwr.com^
 ||ylcgewdtetazek.com^
@@ -35377,6 +35383,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||zbtaiqess.com^
 ||zbtffdiu.com^
 ||zbulsymgpbjv.com^
+||zbwowo.com^
 ||zcand.com^
 ||zcaod.com^
 ||zcbyoqylllxe.com^

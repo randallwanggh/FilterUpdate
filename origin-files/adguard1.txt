@@ -204,7 +204,7 @@ whathifi.com,smokingmeatforums.com,ecosia.org,myzyia.com,robotikforum.net,kinogo
 ! can be closed
 online-tech-tips.com,digitaltrends.com,helpdeskgeek.com,britannica.com,wrestlinginc.com,superherohype.com,news24.com,pgatour.com,wral.com,gamepur.com,boredpanda.com,fin24.com,geekzone.co.nz,upi.com,thewindowsclub.com,androidcure.com,secondnexus.com,health24.com,wokesloth.com,sport24.co.za,onmsft.com,cultofmac.com,washingtontimes.com#%#//scriptlet("abort-current-inline-script", "document.createElement", "admiral")
 ! cannot be closed
-obsev.com,legacy.com,ranker.com,timelessleaf.com,practicalclinicalskills.com,interestingengineering.com,rawstory.com,simpleflying.com,gktoday.in,sanfoundry.com,post-gazette.com,leitesculinaria.com,feral-heart.com,viraliq.com,cmacapps.com#%#//scriptlet("abort-current-inline-script", "document.createElement", "admiral")
+order-order.com,obsev.com,legacy.com,ranker.com,timelessleaf.com,practicalclinicalskills.com,interestingengineering.com,rawstory.com,simpleflying.com,gktoday.in,sanfoundry.com,post-gazette.com,leitesculinaria.com,feral-heart.com,viraliq.com,cmacapps.com#%#//scriptlet("abort-current-inline-script", "document.createElement", "admiral")
 gry.pl#%#Object.defineProperty(Object.prototype, 'hasAdmiralList', { get: function() { throw null; }, set: function() { throw null; } });
 !
 digitaltrends.com#@#.pub_300x250
@@ -221,6 +221,7 @@ digitaltrends.com#@#.text_ads_2
 ! editorial.rottentomatoes.com#@#.text-ad
 ! @@||ad.doubleclick.net/ddm/adj^$domain=editorial.rottentomatoes.com
 !
+||sinceresubstance.com^$third-party
 ||overconfidentfood.com^$third-party
 ||strangesink.com^$third-party
 ||honorableland.com^$third-party
@@ -242,14 +243,14 @@ androidworld.it#%#AG_abortInlineScript(/enm.com/, 'navigator');
 !
 ! `AdBlock Notify` (anOptions)
 ! `#%#//scriptlet("abort-on-property-read", "anOptions")`
-downloadsachmienphi.com,fimico.de,manhuaplus.com,canyoublockit.com,48idol.tv,freeallcourse.com,congressoemfoco.uol.com.br,dogalvadi.com,kompukter.ru,paragezegeni.com,gatevidyalay.com,corgit.xyz,freefincal.com,dsogaming.com,bordoklavyeli.net,newonce.net,racefans.net,gpcoder.com,androidexplained.com,borodavsem.ru,czechavfree.com,karaokes.com.ar,kulturalnemedia.pl,magazeta.com,mur.tv,o365info.com,proswift.ru,sovetolog.com,tehnobzor.ru,thelongdark.ru,thewindowsclub.thewindowsclubco.netdna-cdn.com,windowstechblog.nl,xiaomitech.net#%#//scriptlet("abort-on-property-read", "anOptions")
+appsfullversion.com,downloadsachmienphi.com,fimico.de,manhuaplus.com,canyoublockit.com,48idol.tv,freeallcourse.com,congressoemfoco.uol.com.br,dogalvadi.com,kompukter.ru,paragezegeni.com,gatevidyalay.com,corgit.xyz,freefincal.com,dsogaming.com,bordoklavyeli.net,newonce.net,racefans.net,gpcoder.com,androidexplained.com,borodavsem.ru,czechavfree.com,karaokes.com.ar,kulturalnemedia.pl,magazeta.com,mur.tv,o365info.com,proswift.ru,sovetolog.com,tehnobzor.ru,thelongdark.ru,thewindowsclub.thewindowsclubco.netdna-cdn.com,windowstechblog.nl,xiaomitech.net#%#//scriptlet("abort-on-property-read", "anOptions")
 ! `$$script[tag-content="anOptionAdsSelectors"][max-length="4000"]`
-downloadsachmienphi.com,fimico.de,manhuaplus.com,canyoublockit.com,48idol.tv,freeallcourse.com,congressoemfoco.uol.com.br,dogalvadi.com,kompukter.ru,paragezegeni.com,gatevidyalay.com,corgit.xyz,freefincal.com,dsogaming.com,bordoklavyeli.net,newonce.net,racefans.net,gpcoder.com,androidexplained.com,borodavsem.ru,czechavfree.com,karaokes.com.ar,kulturalnemedia.pl,magazeta.com,mur.tv,o365info.com,proswift.ru,sovetolog.com,tehnobzor.ru,thelongdark.ru,thewindowsclub.thewindowsclubco.netdna-cdn.com,windowstechblog.nl,xiaomitech.net$$script[tag-content="anOptionAdsSelectors"][max-length="4000"]
+appsfullversion.com,downloadsachmienphi.com,fimico.de,manhuaplus.com,canyoublockit.com,48idol.tv,freeallcourse.com,congressoemfoco.uol.com.br,dogalvadi.com,kompukter.ru,paragezegeni.com,gatevidyalay.com,corgit.xyz,freefincal.com,dsogaming.com,bordoklavyeli.net,newonce.net,racefans.net,gpcoder.com,androidexplained.com,borodavsem.ru,czechavfree.com,karaokes.com.ar,kulturalnemedia.pl,magazeta.com,mur.tv,o365info.com,proswift.ru,sovetolog.com,tehnobzor.ru,thelongdark.ru,thewindowsclub.thewindowsclubco.netdna-cdn.com,windowstechblog.nl,xiaomitech.net$$script[tag-content="anOptionAdsSelectors"][max-length="4000"]
 ! for platforms without JS rules support
 /wp-content/uploads/*/*.js$domain=48idol.tv|paragezegeni.com|androidexplained.com|borodavsem.ru|czechavfree.com|karaokes.com.ar|magazeta.com|mur.tv|o365info.com|proswift.ru|sovetolog.com|tehnobzor.ru|thelongdark.ru|thewindowsclub.thewindowsclubco.netdna-cdn.com|windowstechblog.nl|xiaomitech.net
-downloadsachmienphi.com,fimico.de,manhuaplus.com,canyoublockit.com,48idol.tv,freeallcourse.com,congressoemfoco.uol.com.br,dogalvadi.com,kompukter.ru,paragezegeni.com,gatevidyalay.com,corgit.xyz,freefincal.com,dsogaming.com,bordoklavyeli.net,newonce.net,racefans.net,gpcoder.com,androidexplained.com,borodavsem.ru,czechavfree.com,karaokes.com.ar,kulturalnemedia.pl,magazeta.com,mur.tv,o365info.com,proswift.ru,sovetolog.com,tehnobzor.ru,thelongdark.ru,thewindowsclub.thewindowsclubco.netdna-cdn.com,windowstechblog.nl,xiaomitech.net#@##adsense
-downloadsachmienphi.com,fimico.de,manhuaplus.com,canyoublockit.com,48idol.tv,freeallcourse.com,congressoemfoco.uol.com.br,dogalvadi.com,kompukter.ru,paragezegeni.com,gatevidyalay.com,corgit.xyz,freefincal.com,dsogaming.com,bordoklavyeli.net,newonce.net,racefans.net,gpcoder.com,androidexplained.com,borodavsem.ru,czechavfree.com,karaokes.com.ar,kulturalnemedia.pl,magazeta.com,mur.tv,o365info.com,proswift.ru,sovetolog.com,tehnobzor.ru,thelongdark.ru,thewindowsclub.thewindowsclubco.netdna-cdn.com,windowstechblog.nl,xiaomitech.net#@#.an-advert-banner
-downloadsachmienphi.com,fimico.de,manhuaplus.com,canyoublockit.com,48idol.tv,freeallcourse.com,congressoemfoco.uol.com.br,dogalvadi.com,kompukter.ru,paragezegeni.com,gatevidyalay.com,corgit.xyz,freefincal.com,dsogaming.com,bordoklavyeli.net,newonce.net,racefans.net,gpcoder.com,androidexplained.com,borodavsem.ru,czechavfree.com,karaokes.com.ar,kulturalnemedia.pl,magazeta.com,mur.tv,o365info.com,proswift.ru,sovetolog.com,tehnobzor.ru,thelongdark.ru,thewindowsclub.thewindowsclubco.netdna-cdn.com,windowstechblog.nl,xiaomitech.net#@#.an-sponsored
+appsfullversion.com,downloadsachmienphi.com,fimico.de,manhuaplus.com,canyoublockit.com,48idol.tv,freeallcourse.com,congressoemfoco.uol.com.br,dogalvadi.com,kompukter.ru,paragezegeni.com,gatevidyalay.com,corgit.xyz,freefincal.com,dsogaming.com,bordoklavyeli.net,newonce.net,racefans.net,gpcoder.com,androidexplained.com,borodavsem.ru,czechavfree.com,karaokes.com.ar,kulturalnemedia.pl,magazeta.com,mur.tv,o365info.com,proswift.ru,sovetolog.com,tehnobzor.ru,thelongdark.ru,thewindowsclub.thewindowsclubco.netdna-cdn.com,windowstechblog.nl,xiaomitech.net#@##adsense
+appsfullversion.com,downloadsachmienphi.com,fimico.de,manhuaplus.com,canyoublockit.com,48idol.tv,freeallcourse.com,congressoemfoco.uol.com.br,dogalvadi.com,kompukter.ru,paragezegeni.com,gatevidyalay.com,corgit.xyz,freefincal.com,dsogaming.com,bordoklavyeli.net,newonce.net,racefans.net,gpcoder.com,androidexplained.com,borodavsem.ru,czechavfree.com,karaokes.com.ar,kulturalnemedia.pl,magazeta.com,mur.tv,o365info.com,proswift.ru,sovetolog.com,tehnobzor.ru,thelongdark.ru,thewindowsclub.thewindowsclubco.netdna-cdn.com,windowstechblog.nl,xiaomitech.net#@#.an-advert-banner
+appsfullversion.com,downloadsachmienphi.com,fimico.de,manhuaplus.com,canyoublockit.com,48idol.tv,freeallcourse.com,congressoemfoco.uol.com.br,dogalvadi.com,kompukter.ru,paragezegeni.com,gatevidyalay.com,corgit.xyz,freefincal.com,dsogaming.com,bordoklavyeli.net,newonce.net,racefans.net,gpcoder.com,androidexplained.com,borodavsem.ru,czechavfree.com,karaokes.com.ar,kulturalnemedia.pl,magazeta.com,mur.tv,o365info.com,proswift.ru,sovetolog.com,tehnobzor.ru,thelongdark.ru,thewindowsclub.thewindowsclubco.netdna-cdn.com,windowstechblog.nl,xiaomitech.net#@#.an-sponsored
 !
 ! Glomex player adblock detection (so far only visible in filter log - 23.11.2018)
 ! @@||ad.doubleclick.net/ddm/pfadx^$domain=player.glomex.com
@@ -302,8 +303,10 @@ texture-packs.com#%#//scriptlet("abort-on-property-read", "mdpDeBlockerDestroyer
 !
 !
 !
+psychic.de#%#//scriptlet("prevent-setTimeout", "test.offsetHeight")
 wikihow.com###contribute_footer
 wikihow.com#%#//scriptlet("set-constant", "_ads", "true")
+ctrlv.cz#%#//scriptlet('set-constant', 'adsAllowed2', 'true')
 ||ttauri.livescience.com^
 tileman.io#$#.adbanner#adt { display: block!important; }
 ||smedata.sk/monitor/bundles/smeblockmanagerapi/build/js/gfcc.js
@@ -1657,6 +1660,7 @@ it-actual.ru#%#AG_setConstant('window.alert', 'undefined');
 ||static.cdnslate.com/etc/designs/slate/js/plus-upsell-adblock.js
 techsolutiontips.com#%#window.google_jobrunner = function() { };
 !#safari_cb_affinity(general)
+topcashback.com#@#.afs_ads
 delfi.ee#@#.ad-banner
 delfi.ee#@#.patronad
 !#safari_cb_affinity
@@ -1959,7 +1963,9 @@ fontyukle.net#@#.adsbygoogle
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=meteologix.com
 !
 !#safari_cb_affinity(general)
+psychic.de#@#.ad-new
 @@||wikihow.com/extensions/*/_ads/ads.js
+@@||ctrlv.cz/js/seo-ads.js
 @@||evades.io/ads.*.js
 @@||snowheroes.io/ads.js
 @@||jkanime.net/ads.js

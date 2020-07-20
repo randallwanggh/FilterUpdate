@@ -20583,6 +20583,7 @@
 127.0.0.1 cdn.cmop.mgtv.com
 127.0.0.1 cdn.cmop.mgtv.com
 127.0.0.1 cdn.cmp.advertising.com
+127.0.0.1 cdn.cnbj1.fds.api.mi-img.com
 127.0.0.1 cdn.coinad.com
 127.0.0.1 cdn.comedia.coccoc.com
 127.0.0.1 cdn.conative.de
@@ -29656,7 +29657,6 @@
 127.0.0.1 entropia.net.pl
 127.0.0.1 entry-stats.huffingtonpost.com
 127.0.0.1 entry.adsage.com
-127.0.0.1 entry.baidu.cn
 127.0.0.1 entry.baidu.com
 127.0.0.1 entry.baidu.com
 127.0.0.1 entrypoint.search.yahooapis.jp

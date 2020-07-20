@@ -23,6 +23,7 @@
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||stats-stats.in.net^$third-party
 ||l.logly.co.jp^$third-party
 ||tagmanager.alright.network^$third-party
 ||statad.ru^$third-party
@@ -3169,6 +3170,7 @@
 ! Admiral domains
 ! These domains are used for tracking purposes according to the data that is being sent there.
 ! More info: https://getadmiral.com/products/measure
+||sinceresubstance.com^$third-party
 ||overconfidentfood.com^$third-party
 ||strangesink.com^$third-party
 ||carpentercomparison.com^$third-party
