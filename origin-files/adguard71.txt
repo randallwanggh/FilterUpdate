@@ -182,7 +182,7 @@ ww.9to5google.com,ww.9to5mac.com,ww.9to5toys.com,ww.dronedj.com,ww.electrek.co##
 ! ##.banner
 zagl.info,photoeditor.com,9c717baaf805a8436afd7912039e826c.link,uflash.tv,boxlink.us,shortbitsfree.net,hellomagazine.com,adsme.cc,clickurls.site,planetanime.co,rocketfiles.com,pornwhite.com,aplayer2.me,viralizeit.net,sex3.com,softonic.com,3pornstarmovies.com,govtsmartjob.com,cutearn.ca,dfporn.net,cll.press,hellporno.net,youramateurporn.com,getlink.pw,embedtvseries.com,keygames.com,uclick.in,flv2mp3.by,doodhwali.com,smutindia.com,dvdcover.com,xxxadultphoto.com,gabicoins.com,qpdownload.com,windows10portal.com,2conv.com,javcloud.com,underhentai.net,cutwin.com,hqasiananal.com,bradsknutson.com,flv2mp3.org,subscene.com,yourlink.in,iplayer.pw,qpornx.com,sofifa.com,jawcloud.co,indiansgetfucked.com,medi-bayreuth.de,oxforddictionaries.com,tube18.sex##.banner
 ! ##.ad
-jungle.lol,1v1.lol,tricksplit.io,filehippo.com,supersextube.pro,zipi.com,nejm.org,ertyu.org,howchoo.com,dvdsreleasedates.com,unicode-search.net##.ad
+javascripttutorial.net,jungle.lol,1v1.lol,tricksplit.io,filehippo.com,supersextube.pro,zipi.com,nejm.org,ertyu.org,howchoo.com,dvdsreleasedates.com,unicode-search.net##.ad
 icefilms.info,saavn.com,msn.com,www-technologyreview-com.cdn.ampproject.org##.ad
 greasyfork.org,ranker.com,curiouscat.me,pornhd.com,history.com##.ad
 investopedia.com,mangafox.la,sexhoundlinks.com,ibc.org,dcode.fr##.ad
@@ -230,7 +230,7 @@ youtube.com#%#//scriptlet("json-prune", "adPlacements playerAds")
 !
 ! For URL shorteners or simple sites with frequently changed ad servers.
 ! Incorrectly blocked domains can be excluded usig regex
-/^(?!.*(google\.com|gstatic\.com|googleapis\.com|shrink\.pe|recaptcha\.net|facebook\.net|cloudflare\.com|dmca\.com|disqus\.com|vidazoo\.com|disquscdn\.com|fluidplayer\.com|jwpcdn\.com)).*$/$third-party,script,domain=canyoublockit.com|aii.sh|uptoshort.com|gsurl.in|oncehelp.com|adslinkfly.online|loveheaven.net|extramovies.casa|asianclub.nl|file-up.org|kshow123.net|short.articlix.com|dlapk4all.com|cryptoads.space|profitlink.info|shorthitz.com|putlocker.digital
+/^(?!.*(google\.com|gstatic\.com|googleapis\.com|shrink\.pe|recaptcha\.net|facebook\.net|cloudflare\.com|dmca\.com|disqus\.com|vidazoo\.com|disquscdn\.com|fluidplayer\.com|jwpcdn\.com)).*$/$third-party,script,domain=canyoublockit.com|aii.sh|uptoshort.com|gsurl.in|oncehelp.com|adslinkfly.online|loveheaven.net|extramovies.casa|asianclub.nl|file-up.org|kshow123.net|short.articlix.com|dlapk4all.com|cryptoads.space|profitlink.info|shorthitz.com|putlocker.digital|pimpandhost.com
 !
 ! Fake buttons on pirate video services
 ! '##.mvic-btn > a.btn-successful'
@@ -240,11 +240,23 @@ xxxparodyhd.net,movgotv.com,123kmovies.net,123movies.*,bluemovies.co,f5movies.to
 !
 !
 !
+msn.com##a[href^="https://afflnk.microsoft.com/"]:not([href*="u=https://www.microsoft.com"])
+pimpandhost.com##.aablock
+highporn.net##a[href^="https://media.r18.com/"]
+swordz.io##div[style="width:336; height: 280; background-color: #000; display: inline-block"]
+malaysiastock.biz###sideBar > div[class^="RightPanel_Rectangle"]
+ehow.com##.ad
+||download.oxy.st/dd.png
+oxy.st##.button-list__container > div.text-left + p
+fliphtml5.com##.fh5---banner---container
+surviv.io###ad-block-right
+surviv.io##.ui-stats-ad-container
 disqus.com###placement-top
 ||gsu.st/glx_*.js
 ||linkspy.cc/js/fullPageScript.min.js
 ||naturalnews.com/Javascripts/Jean-Jul.js
 naturalnews.com##div[class] > div:not([class]):not([id]) > a[href^="https://www.naturalnews.com/WBA-"][href$=".html"][target="_blank"] > img
+megalink.vip###__bgd_link
 pngitem.com##.adhtml
 mensxp.com##ul[class$="-card"] > li:not(.track_ga) > div[class*=" "] > div > a[onclick]
 douploads.net##.row > div.text-center > a.btn-block + center
@@ -290,7 +302,7 @@ checkpagerank.net##div[style="text-align:center;"] > table[style="text-align:cen
 pngegg.com##.list_ads
 collinsdictionary.com##.mpuslot_b-container
 collinsdictionary.com##.btmslot_a-container
-pussyspace.com,pussyspace.net###camRegMenu + noindex
+pussyspace.com,pussyspace.net###showPlayerCam ~ a[href][rel="nofollow"][target="_blank"]
 ||moviemaniac.org/asset/barr.js
 fightz.io###menuDiv > center > table[style="margin-top: 20"] > tbody > tr > td[valign="top"] > div[style^="width:300; height: 250;"]
 fallback.steamworkshopdownloader.io##.alert-secondary
@@ -1052,7 +1064,8 @@ porndoe.com##[ng-if*="service.banners"]
 porndoe.com##ul[class="-h-nav"] > li > a[target="_blank"][href^="/track/"]
 porntrex.com##div[class="index-link show"]
 ||btdb.io/btdba.js
-btdb.io##div[onclick^="location.href = 'https://bit.ly/"]
+||btdb.eu/btdba.js
+btdb.eu,btdb.io##div[onclick^="location.href = 'https://bit.ly/"]
 mytopgames.net##div[style="font-family:Arial;font-size:12px;color:#ffffff;"]
 softonic.com##div[class="modal-di__step"] > div.modal-di__header
 softonic.com##div[class="modal-di__step"] > div.modal-di__header + div.modal-di__content
@@ -1524,7 +1537,7 @@ channelmyanmar.org##div[id^="custom_html-"]
 msn.com##li[data-yvef*="adblockMediumCardContainer"]
 msn.com##div[data-positions^=".shopping"]
 msn.com##div[data-yvef*="stripe"][data-yvef*="ad"]
-msn.com##.sponsored
+msn.com##.sponsored:not(.coronavirus)
 ||mediausamns-a.akamaihd.net/*.mp4$mp4,media,domain=crackle.com
 linksbuddy.com##span[id^="goog_"]
 linksbuddy.com##div[style="clear: both; text-align: center;"] > a[href] > img

@@ -29,6 +29,9 @@ video.gjirafa.com#%#AG_defineProperty('originVideo.requestA.Id', { value: "0" })
 !---------------------------------------------------------------------
 !------------------------------ Arabian ------------------------------
 !---------------------------------------------------------------------
+!
+! https://github.com/AdguardTeam/AdguardFilters/issues/59718
+@@||unpkg.com/aos@*/dist/aos.js$domain=xsanime.com
 ! https://forum.adguard.com/index.php?threads/elkooora-live.39063
 ||caiteesh.net^
 elkooora.live#%#//scriptlet("set-constant", "openx150", "true")
@@ -124,6 +127,7 @@ gerasanews.com###firstads_close_button
 deloplen.com$$script[max-length="0"]
 deloplen.com#%#!function(){setTimeout(function() { window.close(); }, 1000);}();
 ||vidstream.to/cv.$popup,badfilter
+!+ NOT_OPTIMIZED
 ||vidstream.*/cv.$popup,badfilter
 vidstream.to#%#AG_onLoad(function() { var el = document.querySelector('p > a.bigbutton:first-child:not(._reload)'); var el1 = document.querySelector('.video-js:not(._reload)'); if(el||el1) { $('html').unbind('click'); } });
 ! https://github.com/AdguardTeam/AdguardFilters/issues/45296
@@ -916,6 +920,13 @@ fofmyanmar.com##center > a[rel="noopener noreferrer"] > img
 !--- general hide --
 ##a[href^="https://adm.beimg.com/"]
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/59658
+||vip1.loli.net/2020/02/17/A9jmsY41EwiUzou.png$domain=ddrk.me
+! antiadblock
+@@||ddrk.oss-cn-shanghai.aliyuncs.com/img/0.png$domain=ddrk.me
+!
+! https://github.com/AdguardTeam/AdguardFilters/issues/59640
+hxcpp13.com###player-bottom-ads
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59395
 18comic.vip,18comic.fun,18comic1.biz,18comic2.biz##div[data-group^="skyscraper_"]
 18comic.vip,18comic.fun,18comic1.biz,18comic2.biz##div[data-height="250"][data-width="300"]
@@ -3652,6 +3663,10 @@ bhaskar.com#%#var canABP = true;
 !---------------------------------------------------------------------
 !------------------------------ Indonesian ---------------------------
 !---------------------------------------------------------------------
+!
+! https://github.com/AdguardTeam/AdguardFilters/issues/59740
+pengusahamuslim.com###text-27
+pengusahamuslim.com###text-28
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59189
 @@||ads.a-static.com/ads.js$domain=ad4msan.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/57565
@@ -7171,6 +7186,8 @@ www.wp.pl#$#body { overflow: visible!important; }
 ||wp.pl^$replace=/(<VAST[\s\S]*?>)[\s\S]*<\/VAST>/\$1<\/VAST>/,xmlhttprequest,other,~script,app=~pl.videostar
 !+ PLATFORM(ext_ff)
 ||wp.pl^$replace=/(<VAST[\s\S]*?>)[\s\S]*<\/VAST>/\$1<\/VAST>/,xmlhttprequest,other,~script,domain=~profil.wp.pl
+!+ PLATFORM(windows, mac, android, ext_ff)
+wp.pl#%#//scriptlet("set-constant", "apstag", "undefined")
 ! www.wp.pl#?#div[class]:has(>div[class]:not([-ext-has=">*"]):first-child:contains(REKLAMA))
 www.wp.pl#?#div[class^="sc-"]:has(> img[src^="https://v.wpimg.pl/"][role="presentation"][class^="sc-"]:matches-css(position: absolute))
 wp.pl#?#[class^="_"]:has(>img[src*=".wp.pl"])
@@ -7233,6 +7250,7 @@ auto-swiat.pl,businessinsider.com.pl,fakt.pl,medonet.pl,noizz.pl,onet.pl,plejada
 @@||businessinsider.com.pl^$generichide
 ! https://github.com/AdguardTeam/AdguardFilters/issues/53431
 filmweb.pl#%#//scriptlet("abort-current-inline-script", "addEventListener", "/faBar[\s\S]*?insertAdjacentElement/")
+filmweb.pl#?#.page__group > .filmWhereToWatchLinkSection > .page__container > .subPageLinkBlock:has(> .subPageLinkBlock__container > a[href^="https://pro.hit.gemius.pl/hitredir"])
 ||fwcdn.pl/el/kk/player/032020/672.html
 !+ NOT_PLATFORM(ios, ext_android_cb, ext_safari)
 filmweb.pl##.page__group > .fa.faBar > iframe[src*="fwcdn.pl/el/kk/player/"]
@@ -8428,7 +8446,11 @@ brandbuffet.in.th#@#.category-advertorial
 !---------------------------------------------------------------------
 !------------------------------ Vietnam ------------------------------
 !---------------------------------------------------------------------
-!
+! https://github.com/AdguardTeam/AdguardFilters/issues/59524
+||kiemtinh.com/wp-content/uploads/*-banner-650x90-
+! https://github.com/AdguardTeam/AdguardFilters/issues/59715
+||vphim.net/js/popup.js
+vphim.net#%#//scriptlet("abort-on-property-read", "SmartPopunder")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59351
 anonyviet.com##.jeg_ad
 ! https://github.com/AdguardTeam/AdguardFilters/issues/58770

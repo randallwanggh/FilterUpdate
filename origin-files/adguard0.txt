@@ -1307,7 +1307,7 @@ afisha.yandex.by,afisha.yandex.com,afisha.yandex.kz,afisha.yandex.ru,afisha.yand
 afisha.yandex.by,afisha.yandex.com,afisha.yandex.kz,afisha.yandex.ru,afisha.yandex.ua##.event-background
 afisha.yandex.by,afisha.yandex.com,afisha.yandex.kz,afisha.yandex.ru,afisha.yandex.ua#$#.content-event_commercial_yes { margin-top: 0!important; }
 ! Subscription
-afisha.yandex.by,afisha.yandex.com,afisha.yandex.kz,afisha.yandex.ru,afisha.yandex.ua##.subscribe-popup
+afisha.yandex.by,afisha.yandex.com,afisha.yandex.kz,afisha.yandex.ru,afisha.yandex.ua#?#.modals-react > span > div[class^="Root-sc-"] > div[class^="Popup-"]:has(> form > div > input[placeholder="Электронная почта"])
 !
 ! Yandex.Aviasales
 ! Mobile apps
@@ -1464,6 +1464,7 @@ whathifi.com,futurestud.io,slate.com,businessinsider.de,fastcompany.com,heise.de
 ! ##.cta-component-full-width
 bournemouthecho.co.uk,eveningtimes.co.uk,greenocktelegraph.co.uk,heraldscotland.com,swindonadvertiser.co.uk,wiltshiretimes.co.uk##.cta-component-full-width
 !
+adme.ru##div[data-test-id="subscription-block"]
 burakyeni.com##form[action="https://feedburner.google.com/fb/a/mailverify"]
 tvanouvelles.ca###covid_infolettre
 zona.media##.js-subscribe

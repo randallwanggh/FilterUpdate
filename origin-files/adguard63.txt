@@ -85,7 +85,9 @@ cdn.braun634.com^$third-party
 @@||zoover.adtrackers.net/shared/bannerpages/darttagsbanner.aspx
 @@||zoover.bannertrack.net/shared/bannerpages/darttagsbanner.aspx
 !
+@@||asus-zenfone.com^$generichide
 @@||gsu.st^$generichide
+@@||anonymous-links.com^$generichide
 @@||ouhxxx.com^$generichide
 @@||series-streaminghd.com^$generichide
 @@||dramahd.me^$generichide
@@ -619,6 +621,7 @@ cdn.braun634.com^$third-party
 ! URL baits
 @@/\.com\/miads\/|\/ad\/iframe\/ad|\/adinjector_|\/adminibanner2\.|\/adsatt\.|\/footerads\.|\/framead\/ad|\/housead\/ad|\/socialads\.|_afs_ads\./$domain=kamikiyuki.com
 !
+@@||hhkungfu.tv^$generichide
 @@||chuppito.fr^$generichide
 @@||filetera.com^$generichide
 @@||weezzle.tistory.com^$generichide
@@ -1051,6 +1054,17 @@ nachrichten.at,np-coburg.de,frankenpost.de,insuedthueringen.de,augsburger-allgem
 ! https://github.com/AdguardTeam/AdguardFilters/issues/47876
 topbusiness24.ru,mydomsam.ru,hubuhu.ru,moysadinfo.ru,mybusinessplus.ru,dukand.ru,mydizayn.ru,polzadom.ru,umnodachnik.ru,delnyesovety.ru,soverhenie.ru,mirinteresa.ru,uskorit.ru,dskyar.ru,biscand.ru,smartid24.ru,stroysaminfo.ru,topsovety.ru,sotsvetiya.ru,imdaily.ru,turizmnaok.ru,zdorovyobrazzhizni.ru,kinomann.ru,techinfolife.ru,dommoysad.ru,rteinfo.ru,psisovety.ru,kvilit.ru,speshit.ru,ollss.ru#@#.ad-placement
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/59822
+@@||a2a-static-4players.act2access.com/dist/ads.js
+! https://github.com/AdguardTeam/AdguardFilters/issues/59797
+@@||biopills.net^$generichide
+@@||contextual.media.net/dmedianet.js$domain=biopills.net
+@@||biopills.net/wp-content/plugins/ad-inserter/*/*.js
+@@||biopills.net/wp-content/plugins/ad-inserter/images/ads.png
+! https://github.com/AdguardTeam/AdguardFilters/issues/59772
+@@||malaysiastock.biz/*/javascript/ads.js
+! https://github.com/AdguardTeam/AdguardFilters/issues/59769
+@@||vi.freewheel.tv/static/creatives/fw-ad-300x250.jpg$domain=peacocktv.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59607
 @@||mashtips.com^$generichide
 @@||contextual.media.net/dmedianet.js$domain=mashtips.com

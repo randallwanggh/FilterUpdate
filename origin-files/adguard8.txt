@@ -90,6 +90,10 @@ sodapdf.com##.be-tooltip
 !
 ! Specific sites
 !
+diabetdieta.ru##.blockOverlay
+diabetdieta.ru##.subscribe-from-block-msg
+ehow.com#$#.component-modal-newsletter { display: none!important; }
+ehow.com#$#body { overflow: auto !important; }
 yahoo.co.jp###Perorin
 appsfullversion.com##.ht-ctc-chat
 trustpilot.com##.covid19
@@ -2231,7 +2235,11 @@ com-magazin.de##w-div[role$="dialog"]
 ||muzofond.com/mithdl.js
 ||sud.ua/js/jquery.arcticmodal*.min.js
 ||turkusozu.com/js/fancybox/
-||ufatime.ru/st/libs/magnific/jquery.magnific-popup.min.js
+/jquery.magnific-popup.min.js$domain=ufatime.ru|koreanworld.ru
+!
+f2movies.to#$##modalshare { display: none!important; }
+f2movies.to#$#body { overflow: auto!important; }
+f2movies.to#$#.modal-backdrop { display: none!important; }
 !
 ! https://github.com/AdguardTeam/AdguardFilters/issues/58976
 himovies.to#%#document.cookie="show_share=true; path=/;";

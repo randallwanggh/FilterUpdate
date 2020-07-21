@@ -254,6 +254,7 @@ macwelt.de,pcwelt.de#%#AG_setConstant('firebase.messaging', 'noopFunc');
 ||sendsay.ru^$third-party
 ||serumawus.com^$third-party
 ||webpush.hackers.com^
+||cdn.webpush.jp^$third-party
 !
 ||ria.ru/js/firebase/firebase-messaging.js
 ||gstatic.com/firebasejs/*/firebase.js$domain=novayagazeta.ru|comments.ua
@@ -522,6 +523,8 @@ aol.com#$#.banner-active { margin-top: 0 !important; }
 !
 ! Fixing the issues
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/59806
+@@||web.webpushs.com/js/push/$domain=culture.ru
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59375
 !+ PLATFORM(ios, ext_safari)
 @@||macstories.net/*-push-notifications/
