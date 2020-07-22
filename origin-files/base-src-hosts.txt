@@ -2623,6 +2623,7 @@
 127.0.0.1 234.adru.net
 127.0.0.1 234.media.lbn.ru
 127.0.0.1 234.media.lbn.ru
+127.0.0.1 2341.a.dlads.cn
 127.0.0.1 2345.api.swrve.com
 127.0.0.1 2345.content.swrve.com
 127.0.0.1 2345api.dftoutiao.com
@@ -7809,6 +7810,7 @@
 127.0.0.1 ads-pebblemedia.adhese.com
 127.0.0.1 ads-pebblemedia.adhese.com
 127.0.0.1 ads-pictela-net.geo.adtechus.com
+127.0.0.1 ads-pixiv.net
 127.0.0.1 ads-resources-legacy.waze.com
 127.0.0.1 ads-resources.waze.com
 127.0.0.1 ads-rm.looksmart.com
@@ -14112,6 +14114,7 @@
 127.0.0.1 api.dsp.batmobi.net
 127.0.0.1 api.dsp.yhd.com
 127.0.0.1 api.e-cg.cn
+127.0.0.1 api.e.mi.com
 127.0.0.1 api.eqmob.com
 127.0.0.1 api.ero-advertising.com
 127.0.0.1 api.ero-advertising.com
@@ -15657,6 +15660,7 @@
 127.0.0.1 at-img1.tdimg.com
 127.0.0.1 at-img2.tdimg.com
 127.0.0.1 at-img3.tdimg.com
+127.0.0.1 at.amfuwu.com
 127.0.0.1 at.amgdgt.com
 127.0.0.1 at.amgdgt.com
 127.0.0.1 at.atwola.com
@@ -20583,7 +20587,6 @@
 127.0.0.1 cdn.cmop.mgtv.com
 127.0.0.1 cdn.cmop.mgtv.com
 127.0.0.1 cdn.cmp.advertising.com
-127.0.0.1 cdn.cnbj1.fds.api.mi-img.com
 127.0.0.1 cdn.coinad.com
 127.0.0.1 cdn.comedia.coccoc.com
 127.0.0.1 cdn.conative.de
@@ -21007,6 +21010,7 @@
 127.0.0.1 cdn.stat-rock.com
 127.0.0.1 cdn.stat.easydate.biz
 127.0.0.1 cdn.static-cnt.bid
+127.0.0.1 cdn.static.biqudu.la
 127.0.0.1 cdn.static.zdbb.net
 127.0.0.1 cdn.static.zdbb.net
 127.0.0.1 cdn.steepto.com
@@ -28212,6 +28216,7 @@
 127.0.0.1 e.fxunn.com
 127.0.0.1 e.fzyda.com
 127.0.0.1 e.g71i1.cn
+127.0.0.1 e.g7wf6.cn
 127.0.0.1 e.gbieg.com
 127.0.0.1 e.gcaog.com
 127.0.0.1 e.gglay.com
@@ -28300,6 +28305,7 @@
 127.0.0.1 e.jyvlpg.cn
 127.0.0.1 e.jzvog.cn
 127.0.0.1 e.k079j.cn
+127.0.0.1 e.k2wx5.cn
 127.0.0.1 e.k9wz7.cn
 127.0.0.1 e.kafka8.com
 127.0.0.1 e.kcenu.com
@@ -28421,6 +28427,8 @@
 127.0.0.1 e.rqvfewi.cn
 127.0.0.1 e.s0o5g.cn
 127.0.0.1 e.s76xid.cn
+127.0.0.1 e.s7ww2.cn
+127.0.0.1 e.s9wp1.cn
 127.0.0.1 e.sanitwealth.com
 127.0.0.1 e.sbaoe.com
 127.0.0.1 e.scouc.com
@@ -29668,6 +29676,8 @@
 127.0.0.1 eo.40ic.cn
 127.0.0.1 eo.4s5n.cn
 127.0.0.1 eo.6sq7c.xyz
+127.0.0.1 eo.byjr899.top
+127.0.0.1 eo.dybx992.top
 127.0.0.1 eo.euwyc.xyz
 127.0.0.1 eo.lxujghc.cn
 127.0.0.1 eo.nftqkq.cn
@@ -30502,6 +30512,7 @@
 127.0.0.1 ezula.com
 127.0.0.1 f-ads.pl
 127.0.0.1 f-js1.spotsniper.ru
+127.0.0.1 f.5q63n.cn
 127.0.0.1 f.91byy.cn
 127.0.0.1 f.admicro.vn
 127.0.0.1 f.admob.com
@@ -30512,6 +30523,7 @@
 127.0.0.1 f.blogads.com
 127.0.0.1 f.bm324.com
 127.0.0.1 f.cn-sd.com
+127.0.0.1 f.com.5q63n.cn
 127.0.0.1 f.dashaowu.com
 127.0.0.1 f.dianwenwang.com
 127.0.0.1 f.domob.cn
@@ -32331,6 +32343,7 @@
 127.0.0.1 g.3gl.net
 127.0.0.1 g.3gl.net
 127.0.0.1 g.51network.com
+127.0.0.1 g.5q63n.cn
 127.0.0.1 g.6sfg.com
 127.0.0.1 g.711983.com
 127.0.0.1 g.ad8.cc
@@ -32354,6 +32367,7 @@
 127.0.0.1 g.chaishiguan.com
 127.0.0.1 g.click.taobao.com
 127.0.0.1 g.cn.miaozhen.com
+127.0.0.1 g.com.5q63n.cn
 127.0.0.1 g.corp.163.com
 127.0.0.1 g.d.yoyi.tv
 127.0.0.1 g.daman.cc
@@ -33295,6 +33309,7 @@
 127.0.0.1 ggdm1.nhaidu.net
 127.0.0.1 ggg.zj.com
 127.0.0.1 gghf.mobi
+127.0.0.1 ggic.cmvideo.cn
 127.0.0.1 ggimg.tapas.net
 127.0.0.1 gglcash4u.info  # twitter worm
 127.0.0.1 ggle.lywf.me
@@ -33647,6 +33662,7 @@
 127.0.0.1 go.data1rtb.com
 127.0.0.1 go.deliverymodo.com
 127.0.0.1 go.deliverymodo.com
+127.0.0.1 go.dlads.cn
 127.0.0.1 go.dropzenad.com
 127.0.0.1 go.eu.bbelements.com
 127.0.0.1 go.eu.bbelements.com
@@ -37191,7 +37207,6 @@
 127.0.0.1 img.yuyue007.cn
 127.0.0.1 img.zeruinong.com
 127.0.0.1 img.zsj18.com
-127.0.0.1 img.zuoyebang.cc
 127.0.0.1 img.zx590.com
 127.0.0.1 img0.egou.com
 127.0.0.1 img0.ru.redtram.com
@@ -37316,6 +37331,7 @@
 127.0.0.1 imgres.pinsightmedia.com
 127.0.0.1 imgs.adverticum.net
 127.0.0.1 imgs.adverticum.net
+127.0.0.1 imgs.dlads.cn
 127.0.0.1 imgs.jads.co
 127.0.0.1 imgs.wangketuan.com
 127.0.0.1 imgserv.adbutler.com  #[Tracking.Cookie]
@@ -38918,6 +38934,7 @@
 127.0.0.1 jfnyhdsite.us
 127.0.0.1 jfot.e647ob.cn
 127.0.0.1 jfraction.al
+127.0.0.1 jg.bjpengyi.com
 127.0.0.1 jg.hack-inter.net
 127.0.0.1 jg.revolvermaps.com
 127.0.0.1 jg.revolvermaps.com
@@ -39839,7 +39856,7 @@
 127.0.0.1 k.intellitxt.com
 127.0.0.1 k.kksgl.top
 127.0.0.1 k.ludong.tv
-127.0.0.1 k.q sbxg2.com
+127.0.0.1 k.qsbxg2.com
 127.0.0.1 k.qzzxjc.com
 127.0.0.1 k.streamrail.com
 127.0.0.1 k.streamrail.com
@@ -42903,6 +42920,7 @@
 127.0.0.1 m.fy4zb.cn
 127.0.0.1 m.fzyda.com
 127.0.0.1 m.g1ao7q.cn
+127.0.0.1 m.g7wf6.cn
 127.0.0.1 m.game.weibo.cn
 127.0.0.1 m.gameyun907.net
 127.0.0.1 m.ganrs.com
@@ -43073,6 +43091,7 @@
 127.0.0.1 m.jzvog.cn
 127.0.0.1 m.k079j.cn
 127.0.0.1 m.k2d98mi.cn
+127.0.0.1 m.k2wx5.cn
 127.0.0.1 m.k9wz7.cn
 127.0.0.1 m.kafka8.com
 127.0.0.1 m.kbwmt.cn
@@ -43287,6 +43306,8 @@
 127.0.0.1 m.s47e8.cn
 127.0.0.1 m.s52dv.com
 127.0.0.1 m.s76xid.cn
+127.0.0.1 m.s7ww2.cn
+127.0.0.1 m.s9wp1.cn
 127.0.0.1 m.sancdn.net
 127.0.0.1 m.sancdn.net
 127.0.0.1 m.sanjiangge.com
@@ -43702,6 +43723,7 @@
 127.0.0.1 m2u.376710.com
 127.0.0.1 m3.2mdn.net
 127.0.0.1 m3.ae.2mdn.net
+127.0.0.1 m3.aigou023.com
 127.0.0.1 m3.au.2mdn.net
 127.0.0.1 m3.be.2mdn.net
 127.0.0.1 m3.br.2mdn.net
@@ -46485,8 +46507,10 @@
 127.0.0.1 mo.b25ku.cn
 127.0.0.1 mo.baidu.com
 127.0.0.1 mo.bsxr.com.cn
+127.0.0.1 mo.byjr899.top
 127.0.0.1 mo.dfnbyn.top
 127.0.0.1 mo.drzd9.cn
+127.0.0.1 mo.dybx992.top
 127.0.0.1 mo.euwyc.xyz
 127.0.0.1 mo.grqf.com.cn
 127.0.0.1 mo.gsasqa.cn
@@ -52035,6 +52059,7 @@
 127.0.0.1 pc.5151gj.com
 127.0.0.1 pc.adonweb.ru
 127.0.0.1 pc.adonweb.ru
+127.0.0.1 pc.cathaycentury.com
 127.0.0.1 pc.clickmedias.info
 127.0.0.1 pc.ctsywy.com
 127.0.0.1 pc.ctsywy.com
@@ -52047,6 +52072,7 @@
 127.0.0.1 pc.videoclick.baidu.com
 127.0.0.1 pc.videoclick.baidu.com
 127.0.0.1 pc.yingshi.tcclick.1kxun.mobi
+127.0.0.1 pc.ziyuewentao.com
 127.0.0.1 pc1.da.mgtv.com
 127.0.0.1 pc1.ha1.yumenetworks.com
 127.0.0.1 pc1.yumenetworks.com
@@ -57524,6 +57550,7 @@
 127.0.0.1 s.hkfuy.com
 127.0.0.1 s.hnhgw.cn
 127.0.0.1 s.hnhgw.cn
+127.0.0.1 s.hongshi33.top
 127.0.0.1 s.hoverming.cn
 127.0.0.1 s.howsp.com
 127.0.0.1 s.huayi65.com
@@ -57548,6 +57575,7 @@
 127.0.0.1 s.jghcy.com
 127.0.0.1 s.jgtamgt.top
 127.0.0.1 s.jimdo.com
+127.0.0.1 s.jjcclc.top
 127.0.0.1 s.jlminte.com
 127.0.0.1 s.jpush.cn
 127.0.0.1 s.jsrdn.com
@@ -57561,6 +57589,7 @@
 127.0.0.1 s.lianmeng.360.cn
 127.0.0.1 s.liveads.jp
 127.0.0.1 s.logsss.com
+127.0.0.1 s.luluxinxin.top
 127.0.0.1 s.luxadv.com
 127.0.0.1 s.maipubao.cn
 127.0.0.1 s.media-imdb.com
@@ -64631,6 +64660,7 @@
 127.0.0.1 t.pusk.ru
 127.0.0.1 t.pzclw.cn
 127.0.0.1 t.qiuqiuqipai.com
+127.0.0.1 t.quandangdang.net
 127.0.0.1 t.sdpaji.com
 127.0.0.1 t.sellpoints.com
 127.0.0.1 t.sellpoints.com
@@ -66146,6 +66176,7 @@
 127.0.0.1 tj.jinyuewang.cn
 127.0.0.1 tj.keymob.com
 127.0.0.1 tj.kugou.com
+127.0.0.1 tj.playcvn.com
 127.0.0.1 tj.tongjiwo.com
 127.0.0.1 tj.tt1386.com
 127.0.0.1 tj.u17t.com
@@ -66243,6 +66274,7 @@
 127.0.0.1 tn.5.p2l.info
 127.0.0.1 tn.adserve.com
 127.0.0.1 tn.alphonso.tv
+127.0.0.1 tn.inxjguc.cn
 127.0.0.1 tnctrx.com
 127.0.0.1 tniemyceny.net
 127.0.0.1 tnkexchange.com
@@ -68094,6 +68126,7 @@
 127.0.0.1 tu.baixing.com
 127.0.0.1 tu.biddingx.com
 127.0.0.1 tu.connect.wunderloop.net
+127.0.0.1 tu.cvnad.com
 127.0.0.1 tu.moatads.com
 127.0.0.1 tu.szefe.com
 127.0.0.1 tu2.ttt669.com
@@ -69517,6 +69550,7 @@
 127.0.0.1 v.gdt.qq.com
 127.0.0.1 v.glbimg.com
 127.0.0.1 v.gougeyy.com
+127.0.0.1 v.heygugu.com
 127.0.0.1 v.iche88.cn
 127.0.0.1 v.inigsplan.ru
 127.0.0.1 v.irs01.com
@@ -69554,6 +69588,7 @@
 127.0.0.1 v.xinshide.cn
 127.0.0.1 v.xiuzhenjewelry.cn
 127.0.0.1 v.xrooxeo.cn
+127.0.0.1 v.yahgxog.cn
 127.0.0.1 v.zcoup.com
 127.0.0.1 v0-vcdn.anthill.vn
 127.0.0.1 v0.anthill.vn
@@ -73529,6 +73564,8 @@
 127.0.0.1 www.abcjmp.com
 127.0.0.1 www.abcu2lk.fun
 127.0.0.1 www.abetterinternet.com
+127.0.0.1 www.abie18.top
+127.0.0.1 www.abie19.top
 127.0.0.1 www.abihpopihigh.tk
 127.0.0.1 www.abikurier.com
 127.0.0.1 www.abirohokonar.pl
@@ -85365,6 +85402,7 @@
 127.0.0.1 x.ojgoy.cn
 127.0.0.1 x.ss2.us
 127.0.0.1 x.vamaker.com
+127.0.0.1 x.xxyxmdq.cn
 127.0.0.1 x.zeroredirect.com
 127.0.0.1 x.zhuyuanp.top
 127.0.0.1 x01.aidata.io
@@ -85726,6 +85764,7 @@
 127.0.0.1 xn--2ssq0ktxigkq.cc
 127.0.0.1 xn--2ssq0ktxigkq.com
 127.0.0.1 xn--30986-udb.biz
+127.0.0.1 xn--4gqqc629gbju.com
 127.0.0.1 xn--adidasgazellemskie-qnc.pl
 127.0.0.1 xn--adspace-kvg.ero-advertising.com
 127.0.0.1 xn--avyfedera-yubm.org
@@ -87123,7 +87162,6 @@
 127.0.0.1 zzz.onion.pet
 127.0.0.1 zzzrtrcm2.com
 127.0.0.11 localhost #[IPv6]
-13.107.21.200 cn.bing.com
 13.107.246.10	rixcloud.com
 13.124.203.13	www.pscp.tv
 13.124.246.138	pscp.tv

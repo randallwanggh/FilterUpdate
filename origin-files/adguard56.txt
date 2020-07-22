@@ -23,6 +23,7 @@
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||beget.com^$third-party
 ||pulsar.xlisting.jp^$third-party
 ||stats-stats.in.net^$third-party
 ||l.logly.co.jp^$third-party
@@ -3171,6 +3172,7 @@
 ! Admiral domains
 ! These domains are used for tracking purposes according to the data that is being sent there.
 ! More info: https://getadmiral.com/products/measure
+||calmcactus.com^$third-party
 ||sinceresubstance.com^$third-party
 ||overconfidentfood.com^$third-party
 ||strangesink.com^$third-party

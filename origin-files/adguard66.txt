@@ -4349,6 +4349,9 @@ krucil.net##img[width="900"][height="50"]
 !---------------------------------------------------------------------
 !------------------------------ Hebrew -------------------------------
 !---------------------------------------------------------------------
+! https://github.com/AdguardTeam/AdguardFilters/issues/59815
+hm-news.co.il#$?#a[href][data-item^='{"sources":['][data-item*='Video Ad'] { remove: true; }
+hm-news.co.il#%#//scriptlet("set-constant", "fv_player_pro.video_ads", "undefined")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/58620
 pricez.co.il##.ProductInCatLIB
 pricez.co.il#%#//scriptlet("abort-on-property-read", "adsBlocked")
@@ -4526,6 +4529,11 @@ goalim4you.site###f765
 !---------------------------------------------------------------------
 !------------------------------ Italian ------------------------------
 !---------------------------------------------------------------------
+! https://github.com/AdguardTeam/AdguardFilters/issues/59860
+sitostreaming.club##a[href^="https://madsoks.com/"]
+sitostreaming.club#%#//scriptlet("set-constant", "hasAdblock", "falseFunc")
+!+ PLATFORM(ios, ext_android_cb, ext_safari)
+@@||sitostreaming.club^$generichide
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59684
 ||pastemyimg.com/ads/$domain=androidaba.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/58422#issuecomment-657403682
@@ -5185,6 +5193,9 @@ dap-news.com##.ads
 !------------------------------ Korean -------------------------------
 !---------------------------------------------------------------------
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/59858
+x86.co.kr#%#//scriptlet("set-constant", "count", "0")
+x86.co.kr#@#.download_ad
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59149
 news2day.co.kr##.banner_con
 ! https://github.com/AdguardTeam/AdguardFilters/issues/58379
@@ -6338,6 +6349,8 @@ innpoland.pl,mamadu.pl,dadhero.pl,natemat.pl#%#//scriptlet("prevent-eval-if", "i
 @@||video.onnetwork.tv/adblock_notify.js
 ||request.dqst.pl/v*/$xmlhttprequest
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/59874
+@@||teledyski.info/link/*ads/show_ads.js
 ! se.pl - incorrect blocking
 @@||googletagmanager.com/gtm.js$domain=se.pl
 ! lowcygier.pl - ads
@@ -6992,7 +7005,7 @@ gazeta.pl###alternativeNewsSource
 gazeta.pl##.o-section__adform
 ! https://github.com/AdguardTeam/AdguardFilters/issues/23631
 dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,expressilustrowany.pl,gazetakrakowska.pl,gazetalubuska.pl,gazetawroclawska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gs24.pl,katowice.naszemiasto.pl,kurierlubelski.pl,motofakty.pl,naszemiasto.pl,nowiny24.pl,nowosci.com.pl,nto.pl,polskatimes.pl,pomorska.pl,poranny.pl,sportowy24.pl,strefaagro.pl,strefabiznesu.pl,stronakobiet.pl,telemagazyn.pl,to.com.pl,wspolczesna.pl##.promoContainer
-||ppstatic.pl/assets/gratka/v*/css/pages/promoButton.css
+||ppstatic.pl/assets/gratka/v*/css/pages/promoButton.css$domain=~naszemiasto.pl
 ! https://github.com/AdguardTeam/AdguardFilters/issues/23630
 instalki.pl##.module-adv
 instalki.pl###outer > #banner

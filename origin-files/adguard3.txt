@@ -52,6 +52,12 @@ ignshop.hu,download.pixelexperience.org,waterdrop.com,exvital.de,mobile01.com,du
 ! ###cookie-box
 aksaelektrik.com.tr,ergo.de,fosforludusunceler.com,kirtkirtla.com,sonaktuel.com,muglaweather.com,denizcilikbilgileri.com,filmonerileri.org,wblogy.com,dnschecker.org,krombacher.de###cookie-box
 !
+all4shooters.com##.cookie-consent-dialogue__advertising
+support.theguardian.com##.component-consent-banner-consent-banner
+weather.com##div[id^="WxuPrivacyDataNotice-"]
+farmasiint.org###st_notification_2
+farmasiint.org###st_notification_3
+spiceworks.com###zdprivacy-content
 leroymerlin.ru##.cookie-notification-modal
 open.spotify.com##section[data-testid="cookie-notice"]
 headspin.io##.privacy-consent-container
@@ -3479,6 +3485,7 @@ theguardian.com##.site-message--cookies
 derstandard.de##.site-privacypolicy
 sportdeutschland.tv##.sp-cookie-warning
 gp.se##.stampenCookieContainer
+hydroquebec.com###sticky-footer
 aboneturkuvaz.com,omroepbrabant.nl,tdp.com.tr,turkuvazabone.com,turkuvazmatbaacilik.com##.sticky-footer
 grazia-magazin.de,idee-fuer-mich.de##.subNaviNotification.safeSpaceForClose
 tsa-algerie.com##.template-footer__cookies

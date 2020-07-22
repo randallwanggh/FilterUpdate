@@ -516,7 +516,6 @@
 127.0.0.1 adv.sec.intl.miui.com
 127.0.0.1 adv.sec.miui.com
 127.0.0.1 bss.pandora.xiaomi.com
-127.0.0.1 cdn.cnbj1.fds.api.mi-img.com
 127.0.0.1 d.g.mi.com
 127.0.0.1 data.mistat.xiaomi.com
 127.0.0.1 de.pandora.xiaomi.com

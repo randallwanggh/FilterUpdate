@@ -173,6 +173,8 @@ newsweek.com##iframe[src="http://sns.europe.newsweek.com/newsletter?popup=1"]
 !######### JS tweaks ##########
 !##############################
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/59869
+safe.kangkimin.com#%#//scriptlet("adjust-setInterval", "counter", "", "0.02")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59744
 genlink.cc#%#//scriptlet("adjust-setInterval", "real-link", "", "0.02")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59634
@@ -539,7 +541,7 @@ trucnet.net#%#AG_onLoad(function() { var el=document.querySelector('a[href].btn.
 ! https://github.com/AdguardTeam/AdguardFilters/issues/41708
 mtbcut.net#%#AG_onLoad(function() { var el = document.querySelector('a[href].wp-block-button__link'); if(window.location.href.indexOf("/?p=") != -1 && el) { el.click(); } });
 ! https://github.com/AdguardTeam/AdguardFilters/issues/41369
-ntsafelink.blogspot.com,ph.tpaste.net,wwwfotografgotlin.blogspot.com,go.myviptuto.com,sdetectives.id,apps2app.com,hulblog.com,pro-bangla.com,citgratis.com,blog.omgmusik.com,blog.omglyrics.com,punasfc.blogspot.com,sflinkmu.blogspot.com,seputarandroid05.blogspot.com,media-blue.blogspot.com,eleventhlevelinteractive.com,apkmaghrab.tk,aice-coffee.blogspot.com#%#AG_onLoad(function(){setTimeout(function(){if("function"===typeof convertstr&&"function"===typeof aesCrypto.decrypt&&-1<window.location.href.indexOf("html#?o="))try{window.location=aesCrypto.decrypt(convertstr($.urlParam("o")),convertstr("root"))}catch(a){}},300)});
+safe.kangkimin.com,ntsafelink.blogspot.com,ph.tpaste.net,wwwfotografgotlin.blogspot.com,go.myviptuto.com,sdetectives.id,apps2app.com,hulblog.com,pro-bangla.com,citgratis.com,blog.omgmusik.com,blog.omglyrics.com,punasfc.blogspot.com,sflinkmu.blogspot.com,seputarandroid05.blogspot.com,media-blue.blogspot.com,eleventhlevelinteractive.com,apkmaghrab.tk,aice-coffee.blogspot.com#%#AG_onLoad(function(){setTimeout(function(){if("function"===typeof convertstr&&"function"===typeof aesCrypto.decrypt&&-1<window.location.href.indexOf("html#?o="))try{window.location=aesCrypto.decrypt(convertstr($.urlParam("o")),convertstr("root"))}catch(a){}},300)});
 ! https://github.com/AdguardTeam/AdguardFilters/issues/41346
 safelinku.icu#%#!function(){if(-1<window.location.href.indexOf("?url=")){var a=location.href.split("?url=");if(a&&a[1])try{window.location=atob(a[1])}catch(b){}}}();
 ! https://github.com/AdguardTeam/AdguardFilters/issues/41288
@@ -716,8 +718,8 @@ imslp.org#%#AG_onLoad(function(){var b=document.getElementById("sm_dl_wait");if(
 !--- CSS ---
 gamegame.kr#$#body div { -webkit-touch-callout: default!important; -moz-user-select: text!important; -webkit-user-select: text!important; -ms-user-select: text!important; -o-user-select: text!important; user-select: text!important; -khtml-user-select: text!important; }
 jstranslations1.com#$#body.unselectable * { -webkit-touch-callout: default!important; -moz-user-select: text!important; -webkit-user-select: text!important; -ms-user-select: text!important; -o-user-select: text!important; user-select: text!important; -khtml-user-select: text!important; }
-hulkpop.top#$#html > body *:not(input):not(textarea)::selection { background-color: #3297FD!important; }
-hulkpop.top#$#html > body *:not(input):not(textarea):not(button) { -webkit-touch-callout: default!important; -moz-user-select: text!important; -webkit-user-select: text!important; -ms-user-select: text!important; -o-user-select: text!important; user-select: text!important; -khtml-user-select: text!important; }
+omgkpop.top,hulkpop.top#$#html > body *:not(input):not(textarea)::selection { background-color: #3297FD!important; }
+omgkpop.top,hulkpop.top#$#html > body *:not(input):not(textarea):not(button) { -webkit-touch-callout: default!important; -moz-user-select: text!important; -webkit-user-select: text!important; -ms-user-select: text!important; -o-user-select: text!important; user-select: text!important; -khtml-user-select: text!important; }
 lectortmo.com#$#.element { -webkit-touch-callout: default!important; -moz-user-select: text!important; -webkit-user-select: text!important; -ms-user-select: text!important; -o-user-select: text!important; user-select: text!important; -khtml-user-select: text!important; }
 amp.n-tv.de#$#.wrapper-page { min-height: calc(100%) !important; }
 jucagototranslations.fukou-da.net,irisbuddies.ml#$#html > body { -webkit-touch-callout: default!important; -moz-user-select: text!important; -webkit-user-select: text!important; -ms-user-select: text!important; -o-user-select: text!important; user-select: text!important; -khtml-user-select: text!important; }
@@ -732,6 +734,7 @@ toptech360.com,devicespecifications.com,apkinstaller.com,androidmtk.com,serial-k
 !+ NOT_PLATFORM(windows, mac, android, ext_ff)
 quotev.com#$#body #res_area ::selection { background-color: #3297FD!important; }
 !--- JS ----
+omgkpop.top#%#//scriptlet("prevent-addEventListener", "/contextmenu|dragstart|keydown|keyup|keypress/", "/event\.dispatch\.apply|trackEvent/")
 asus-zenfone.com#%#//scriptlet("abort-current-inline-script", "document.onselectstart")
 nullslide.com#%#//scriptlet("prevent-addEventListener", "/contextmenu|selectstart|dragstart|copy|cut|keydown|keyup/", "preventDefault")
 toppremiumpro.com#%#//scriptlet("prevent-addEventListener", "/contextmenu|selectstart|dragstart|copy|cut|keydown|keyup/", "bypassEventsInProxies")
@@ -767,7 +770,7 @@ mangaku.in#%#AG_abortInlineScript(/contextmenu/, '$');
 kurosave.com#%#//scriptlet("abort-on-property-read", "mousehandler")
 aihristdreamtranslations.com#%#//scriptlet("abort-current-inline-script", "disableSelection")
 audio-sound-premium.com#%#//scriptlet("abort-on-property-read", "disableSelection")
-weezzle.tistory.com,isbool.tistory.com,jjisso.tistory.com,gamegame.kr,wangyeosa.tistory.com,eoreuni.com,jstranslations1.com,animeuniverse.it,minipol.tistory.com,dailyhoroscope.tistory.com,baltasar5010purohentai.com,securitypcsoluciones.blogspot.com,unisinav.com,aihristdreamtranslations.com,tipslab.info,lovelywoman.tistory.com,indcit.com,semi168.net,semi168.club,audio-sound-premium.com,filmboxoffice.web.id#%#//scriptlet("abort-current-inline-script", "document.oncontextmenu")
+omgkpop.top,weezzle.tistory.com,isbool.tistory.com,jjisso.tistory.com,gamegame.kr,wangyeosa.tistory.com,eoreuni.com,jstranslations1.com,animeuniverse.it,minipol.tistory.com,dailyhoroscope.tistory.com,baltasar5010purohentai.com,securitypcsoluciones.blogspot.com,unisinav.com,aihristdreamtranslations.com,tipslab.info,lovelywoman.tistory.com,indcit.com,semi168.net,semi168.club,audio-sound-premium.com,filmboxoffice.web.id#%#//scriptlet("abort-current-inline-script", "document.oncontextmenu")
 kkpmh.vip#%#//scriptlet("abort-current-inline-script", "jQuery", "contextmenu")
 nekopoi.web.id#%#AG_onLoad(function() { document.body.oncontextmenu = document.body.ondragstart = document.body.onkeydown = document.body.onmousedown = document.body.onselectstart = function() { return true; }; });
 wizardsubs.com#%#//scriptlet("abort-on-property-read", "disableSelection")

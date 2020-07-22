@@ -36,6 +36,10 @@ zen.yandex.ru,zen.yandex.ua,zen.yandex.by,zen.yandex.com,zen.yandex.com.tr,zen.y
 ! docviewer
 docviewer.yandex.ru,docviewer.yandex.ua,docviewer.yandex.by,docviewer.yandex.com,docviewer.yandex.com.tr,docviewer.yandex.fr,docviewer.yandex.kz,docviewer.yandex.md#%#//scriptlet("abort-on-property-read", "Object.prototype.renderBlock")
 !#endif
+! kinopoisk.ru - media ads in trailers
+www.kinopoisk.ru#%#//scriptlet("abort-on-property-read", "Object.prototype.mediaAds")
+www.kinopoisk.ru#%#//scriptlet("abort-on-property-read", "Object.prototype.createVideoBannerAdLite")
+www.kinopoisk.ru#%#//scriptlet("abort-on-property-read", "Object.prototype.Rtb")
 ! END: Yandex
 !
 ! liveinternet.ru
@@ -204,7 +208,7 @@ whathifi.com,smokingmeatforums.com,ecosia.org,myzyia.com,robotikforum.net,kinogo
 ! can be closed
 online-tech-tips.com,digitaltrends.com,helpdeskgeek.com,britannica.com,wrestlinginc.com,superherohype.com,news24.com,pgatour.com,wral.com,gamepur.com,boredpanda.com,fin24.com,geekzone.co.nz,upi.com,thewindowsclub.com,androidcure.com,secondnexus.com,health24.com,wokesloth.com,sport24.co.za,onmsft.com,cultofmac.com,washingtontimes.com#%#//scriptlet("abort-current-inline-script", "document.createElement", "admiral")
 ! cannot be closed
-order-order.com,obsev.com,legacy.com,ranker.com,timelessleaf.com,practicalclinicalskills.com,interestingengineering.com,rawstory.com,simpleflying.com,gktoday.in,sanfoundry.com,post-gazette.com,leitesculinaria.com,feral-heart.com,viraliq.com,cmacapps.com#%#//scriptlet("abort-current-inline-script", "document.createElement", "admiral")
+thegatewaypundit.com,order-order.com,obsev.com,legacy.com,ranker.com,timelessleaf.com,practicalclinicalskills.com,interestingengineering.com,rawstory.com,simpleflying.com,gktoday.in,sanfoundry.com,post-gazette.com,leitesculinaria.com,feral-heart.com,viraliq.com,cmacapps.com#%#//scriptlet("abort-current-inline-script", "document.createElement", "admiral")
 gry.pl#%#Object.defineProperty(Object.prototype, 'hasAdmiralList', { get: function() { throw null; }, set: function() { throw null; } });
 !
 digitaltrends.com#@#.pub_300x250
@@ -221,6 +225,7 @@ digitaltrends.com#@#.text_ads_2
 ! editorial.rottentomatoes.com#@#.text-ad
 ! @@||ad.doubleclick.net/ddm/adj^$domain=editorial.rottentomatoes.com
 !
+||calmcactus.com^$third-party
 ||cannontwin.com^$third-party
 ||sinceresubstance.com^$third-party
 ||overconfidentfood.com^$third-party
@@ -273,8 +278,6 @@ forums.rusmedserv.com,vsthouse.ru,primpogoda.ru,gitjournal.tech#%#//scriptlet("a
 !#if (!ext_ublock)
 varlamov.ru,lena-miro.ru,olegmakarenko.ru,periskop.su,livejournal.com#%#//scriptlet("abort-on-property-read", "Object.prototype.showAd")
 razlozhi.ru#%#//scriptlet("abort-on-property-read", "Object.prototype.AdvManager")
-! otzovik.com
-otzovik.com#%#//scriptlet("abort-on-property-read", "Object.prototype.RtbManagerStart")
 !#endif
 ! auto.ru
 auto.ru#%#//scriptlet('abort-on-property-read', 'Object.prototype.getAdditionalBanners')
@@ -315,6 +318,8 @@ ctrlv.cz#%#//scriptlet('set-constant', 'adsAllowed2', 'true')
 tileman.io#$#.adbanner#adt { display: block!important; }
 ||smedata.sk/monitor/bundles/smeblockmanagerapi/build/js/gfcc.js
 ||s.yimg.com/*/bundle_basic_mail_affiliate_partner_$domain=mail.yahoo.com
+glav.su#%#//scriptlet('set-constant', 'abd', 'undefined')
+glav.su$$script[tag-content="Nosferatu"][max-length="6000"]
 oneman.gr#%#AG_abortInlineScript(/-10000px/, 'window.atob');
 evades.io#%#//scriptlet("set-constant", "adBlockerDetected", "false")
 @@||talkceltic.net/forums/js/Siropu/AM/ads.min.js
@@ -378,7 +383,6 @@ krunker.io###aHolder
 ||g2insights-cdn.azureedge.net/*/mng/g2insights.min.js
 uploadship.com##.pageErrors
 @@||townnews.com/*/shared-content/art/tncms/templates/libraries/flex/components/ads/resources/scripts/tnt.ads.advertisements.*.js
-glav.su#%#//scriptlet("prevent-addEventListener", "DOMContentLoaded", "abd")
 @@||a.omappapi.com/app/js/ads.js
 ||sp.desmoinesregister.com^
 kompravda.eu,kp.ru###popapIsBlockedAd
@@ -1890,9 +1894,9 @@ hnonline.sk,digitaltrends.com#%#//scriptlet("abort-current-inline-script", "docu
 !+ PLATFORM(windows, mac, android)
 hnonline.sk,digitaltrends.com#%#AG_abortInlineScript(/googlefc/, 'document.addEventListener');
 !+ NOT_PLATFORM(windows, mac, android)
-slickdeals.net,narcity.com,observador.pt,ni.dk,jetphotos.com,marketscreener.com,zonebourse.com,ign.com,dziennikbaltycki.pl,marca.com,snopes.com,cnnturk.com,polskatimes.pl,abc.es,dumpert.nl,accuweather.com,expressilustrowany.pl#%#//scriptlet("abort-current-inline-script", "atob", "googlefc")
+esquire.com.gr,slickdeals.net,narcity.com,observador.pt,ni.dk,jetphotos.com,marketscreener.com,zonebourse.com,ign.com,dziennikbaltycki.pl,marca.com,snopes.com,cnnturk.com,polskatimes.pl,abc.es,dumpert.nl,accuweather.com,expressilustrowany.pl#%#//scriptlet("abort-current-inline-script", "atob", "googlefc")
 !+ PLATFORM(windows, mac, android)
-slickdeals.net,narcity.com,observador.pt,ni.dk,jetphotos.com,marketscreener.com,zonebourse.com,ign.com,dziennikbaltycki.pl,marca.com,snopes.com,cnnturk.com,polskatimes.pl,abc.es,dumpert.nl,accuweather.com,expressilustrowany.pl#%#AG_abortInlineScript(/googlefc/, 'atob');
+esquire.com.gr,slickdeals.net,narcity.com,observador.pt,ni.dk,jetphotos.com,marketscreener.com,zonebourse.com,ign.com,dziennikbaltycki.pl,marca.com,snopes.com,cnnturk.com,polskatimes.pl,abc.es,dumpert.nl,accuweather.com,expressilustrowany.pl#%#AG_abortInlineScript(/googlefc/, 'atob');
 !+ NOT_PLATFORM(windows, mac, android)
 maisfutebol.iol.pt,fredericksburg.com,sme.sk,mynet.com,topito.com,avsforum.com,interia.pl,latimes.com,omaha.com,theobserver.ca,nationalpost.com,tdn.com,kentucky.com,listenonrepeat.com,tomshw.it,yourdictionary.com,sunherald.com,lifestyle.bg,money.bg,news.bg,topsport.bg,elmundo.es,phonearena.com,kansascity.com,observador.pt,startv.com.tr,sanluisobispo.com,cinemablend.com,mtlblog.com,star-telegram.com,theindependent.com,ntv.com.tr,narcity.com,torontosun.com,bloomberght.com,thestate.com,trib.com,kupujemprodajem.com,windsorstar.com,fresnobee.com,theprovince.com,bnd.com,showtv.com.tr,haberturk.com,uol.com.br,metropoles.com,brantfordexpositor.ca,canoe.com,thesouthern.com,business.financialpost.com,vancouversun.com,poststar.com,wcfcourier.com,montrealgazette.com,nwitimes.com,elnuevoherald.com,bellinghamherald.com,elpais.com,okdiario.com#%#//scriptlet("abort-on-property-read", "googlefc")
 !+ PLATFORM(windows, mac, android)
@@ -1968,6 +1972,7 @@ fontyukle.net#@#.adsbygoogle
 !
 !#safari_cb_affinity(general)
 psychic.de#@#.ad-new
+ah.nl#@#.f-ad
 @@||wikihow.com/extensions/*/_ads/ads.js
 @@||ctrlv.cz/js/seo-ads.js
 @@||evades.io/ads.*.js
