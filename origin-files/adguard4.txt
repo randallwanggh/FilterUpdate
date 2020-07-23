@@ -2,6 +2,8 @@
 !######### White list. Fixing filtering errors #########
 !#######################################################
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/59907
+@@||sourcepoint.mgr.consensu.org/consent^$domain=manager-magazin.de
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59676
 @@||cdn.privacy-mgmt.com/mms/$xmlhttprequest,domain=ccpa-notice.sp-prod.net
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59462
@@ -564,7 +566,7 @@ xxl.fi#@#.cookiewarning:not(body)
 ! https://github.com/AdguardTeam/AdguardFilters/issues/26793
 @@||consent.truste.com/notice$domain=tmz.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/25643
-@@||ebok.vectra.pl/components/layout/cookie-bar/cookie-bar.component.
+@@||ebok.vectra.pl/*components/layout/cookie-bar/cookie-bar.component.
 ! https://github.com/AdguardTeam/AdguardFilters/issues/25330
 @@||kop-kande.dk/min/?f=/skin/frontend/*/cookielaw/css/cookielaw.
 ! https://github.com/AdguardTeam/AdguardFilters/issues/25177

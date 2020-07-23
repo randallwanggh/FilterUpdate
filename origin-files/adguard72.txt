@@ -225,6 +225,8 @@ copypastecharacter.com#$##contents { visibility: visible!important; }
 !#########################################
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/59898
+@@||bitent.com/lock_html5/adscontrol.js$domain=bitent.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59879
 @@||rule34hentai.net/cdn-cgi/challenge-platform/orchestrate/$domain=rule34hentai.net
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59831
@@ -250,8 +252,6 @@ get.tech#@#.ad-box
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=softonic.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$domain=softonic.com
 @@||securepubads.g.doubleclick.net/gampad/ads$domain=softonic.com
-! https://github.com/AdguardTeam/AdguardFilters/issues/59416
-@@||api.adinplay.com/player/v*/gunzer.io/player.min.js$domain=gunzer.io
 ! https://github.com/AdguardTeam/AdguardFilters/issues/58372
 !+ PLATFORM(ios)
 @@||static.crunchyroll.com/config/cx-vilos-ads/crunchyroll-web.json
@@ -270,8 +270,8 @@ get.tech#@#.ad-box
 @@||104.237.158.105^$domain=brofist.io
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59098
 @@||googletagmanager.com/gtm.js$domain=redbull.com
-! https://github.com/AdguardTeam/AdguardFilters/issues/58950
-@@||api.adinplay.com/player/v*/pockey.io/player.min.js$domain=pockey.io
+! https://github.com/AdguardTeam/AdguardFilters/issues/59928
+@@||api.adinplay.com/player/v*/player.min.js$domain=mineparkour.club|gunzer.io|pockey.io
 ! https://github.com/AdguardTeam/AdguardFilters/issues/58578
 mirrorace.com#@#.uk-margin-bottom
 ! https://github.com/AdguardTeam/AdguardFilters/issues/58808
@@ -304,7 +304,7 @@ nonfungerbils.com#@#iframe[width="600"][height="90"]
 ! https://github.com/AdguardTeam/AdguardFilters/issues/57791
 ! https://github.com/AdguardTeam/AdguardFilters/issues/57787
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59233
-@@||api.adinplay.com/libs/aiptag/*/tag.min.js$domain=memegames.space|erigato.space|inkwars.io|creatur.io|robofight.io|wormate.io|deadwalk.io|swaarm.io|octagor.com|captureflag.io|lordz2.io|brutalmania.io|warscrap.io|squadd.io|findcat.io|evowars.io|shellshock.io
+@@||api.adinplay.com/libs/aiptag/*/tag.min.js$domain=bumpercars.io|memegames.space|erigato.space|inkwars.io|creatur.io|robofight.io|wormate.io|deadwalk.io|swaarm.io|octagor.com|captureflag.io|lordz2.io|brutalmania.io|warscrap.io|squadd.io|findcat.io|evowars.io|shellshock.io
 ! https://github.com/AdguardTeam/AdguardFilters/issues/57863
 @@||gogoanime.io/img^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/57650

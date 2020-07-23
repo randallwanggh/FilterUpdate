@@ -1,6 +1,8 @@
 !
 !######### Annoying elements (not ads)
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/59905
+dijiasist.com##.st-widget-area > div.widget_st_social_profiles
 ! https://github.com/AdguardTeam/AdguardFilters/issues/34115#issuecomment-497969885
 wp.pl#%#!function(){if(decodeURIComponent(location.href).startsWith("https://www.wp.pl/?s=https://"))try{var a=(new URL(window.location.href)).searchParams.get("s");location.replace(a)}catch(b){}}();
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59007#issuecomment-658486652
@@ -1464,6 +1466,7 @@ whathifi.com,futurestud.io,slate.com,businessinsider.de,fastcompany.com,heise.de
 ! ##.cta-component-full-width
 bournemouthecho.co.uk,eveningtimes.co.uk,greenocktelegraph.co.uk,heraldscotland.com,swindonadvertiser.co.uk,wiltshiretimes.co.uk##.cta-component-full-width
 !
+investors.com##.subscribe-widget
 theguardian.com##.email-sub__iframe
 adme.ru##div[data-test-id="subscription-block"]
 burakyeni.com##form[action="https://feedburner.google.com/fb/a/mailverify"]
