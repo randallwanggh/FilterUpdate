@@ -5587,8 +5587,6 @@ box.com,thelayoff.com,miniclip.com,narcity.com###gdpr-consent
 boxberry.ru###dialog
 boxberry.ru###left_banner
 boxberry.ru##.popup-messenger
-boxcracked.com,idmcrackpatch.com,activationkey.net,activatorproductkey.org,androidride.com,c4crack.com,chserialkey.com,ckfile.com,crack4us.com,crackflare.com,cracksmod.com,cracxsoftwares.com,creativefabrica.com,downloadmockup.com,f4freesoftware.com,freeappstorepc.com,fullpcsoftz.com,gomovies.co,hentairon.net,latestcracked.com,megawarez.org,procrackerz.org,profullcrack.com,psdfreebies.com,realhax.com,sajidpc.com,serialkeypro.com,shehrozpc.com,sjcrack.com,soft7star.com,warezcrack.net,workingkeys.org#$#.onp-sl-content { display: block!important; }
-boxcracked.com,idmcrackpatch.com,activationkey.net,activatorproductkey.org,androidride.com,c4crack.com,chserialkey.com,ckfile.com,crack4us.com,crackflare.com,cracksmod.com,cracxsoftwares.com,creativefabrica.com,downloadmockup.com,f4freesoftware.com,freeappstorepc.com,fullpcsoftz.com,gomovies.co,hentairon.net,latestcracked.com,megawarez.org,procrackerz.org,profullcrack.com,psdfreebies.com,realhax.com,sajidpc.com,serialkeypro.com,shehrozpc.com,sjcrack.com,soft7star.com,warezcrack.net,workingkeys.org#$#.onp-sl-social-locker { display: none!important; }
 boxerdergisi.com.tr###MobileNewsLetterFormContainer
 boxerdergisi.com.tr###popup
 boxerdergisi.com.tr,instyle.com.tr,trendus.com###CookieAlertContainer
@@ -8253,6 +8251,7 @@ descargatelotodo.com###wnb-bar
 desdesoria.es##.wrapperMensajeCookie
 design-3000.de,geschenke.de##.bar--cookienote
 designboom.com,livescience.com,pbtech.co.nz,peoplesworld.org,space.com##.fa-facebook
+designervn.net#@#.fb-share-button
 designhill.com##.bottom_popup_container
 designhill.com##.dhBlog-graphic
 designhill.com##.sidebar-widget--div
@@ -29512,8 +29511,8 @@ softwares-serials.in#$##FTslide { visibility: hidden;!important; }
 softwaresblue.com#@#.ad_box
 softwarespatch.com##a[href^="http://tfp.sapphirum.com"]
 softwarespro.net##.entry-content > center > a > img
-softwarespro.net#$#.onp-sl-content { display:block!important; }
-softwarespro.net#$#.onp-sl-social-locker { display:none!important; }
+softwarespro.net,designervn.net,boxcracked.com,idmcrackpatch.com,activationkey.net,activatorproductkey.org,androidride.com,c4crack.com,chserialkey.com,ckfile.com,crack4us.com,crackflare.com,cracksmod.com,cracxsoftwares.com,creativefabrica.com,downloadmockup.com,f4freesoftware.com,freeappstorepc.com,fullpcsoftz.com,gomovies.co,hentairon.net,latestcracked.com,megawarez.org,procrackerz.org,profullcrack.com,psdfreebies.com,realhax.com,sajidpc.com,serialkeypro.com,shehrozpc.com,sjcrack.com,soft7star.com,warezcrack.net,workingkeys.org#$#.onp-sl-content { display: block!important; }
+softwarespro.net,designervn.net,boxcracked.com,idmcrackpatch.com,activationkey.net,activatorproductkey.org,androidride.com,c4crack.com,chserialkey.com,ckfile.com,crack4us.com,crackflare.com,cracksmod.com,cracxsoftwares.com,creativefabrica.com,downloadmockup.com,f4freesoftware.com,freeappstorepc.com,fullpcsoftz.com,gomovies.co,hentairon.net,latestcracked.com,megawarez.org,procrackerz.org,profullcrack.com,psdfreebies.com,realhax.com,sajidpc.com,serialkeypro.com,shehrozpc.com,sjcrack.com,soft7star.com,warezcrack.net,workingkeys.org#$#.onp-sl-social-locker { display: none!important; }
 softwarezee.com##a[href^=" http://download-performance.com/"]
 sohu.com##a[href^="https://m.sohu.com/promotion?"]
 sohu.com##div[data-spm-content="promotion"]
