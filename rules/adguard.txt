@@ -22090,6 +22090,7 @@ my-bier.de,harzer-blasenwurst.de###eu_cookiebox
 my-personaltrainer.it##.sal-adv-slot
 my-personaltrainer.it##.sal-leaf-accessori-sharebox
 my-spexx.de###cookielaw_container
+my.account.sony.com###js-SIEWS1lib-header
 my.avira.com##.bottom-page-notification[ng-show="cookiePolicyCtrl.isNotificationVisible"]
 my.com##.js_cookies_container
 my.dazn.com##div.cookieFooterbg
@@ -38509,6 +38510,7 @@ zzz.com.ua##body > div[style="text-align:center;font-size:11px;font-family:arial
 ||adosia.com^$third-party
 ||adotsolution.com^
 ||adotube.com^
+||adpaths.com^
 ||adpay.network^$third-party
 ||adpeepshosted.com^$third-party
 ||adpia.vn^$third-party
@@ -38764,6 +38766,7 @@ zzz.com.ua##body > div[style="text-align:center;font-size:11px;font-family:arial
 ||adwods.com^
 ||adword.ge^$third-party
 ||adworkmedia.com$third-party
+||adwstats.com^
 ||adx.adform.net/adx/$replace=/(<VAST[\s\S]*?>)[\s\S]*?(<Extensions>[\s\S]*<\/Extensions>)[\s\S]*<\/VAST>|(<VAST[\s\S]*?>)[\s\S]*<\/VAST>/\$1\$2\$3<\/VAST>/,xmlhttprequest,domain=tvp.pl,important
 ||adx.com.ru^$third-party
 ||adxadtracker.com^$third-party
@@ -38783,6 +38786,7 @@ zzz.com.ua##body > div[style="text-align:center;font-size:11px;font-family:arial
 ||adzos.com^$third-party
 ||adzuna-jobbox.fairfaxmedia.com.au^$third-party
 ||adzworld.in^
+||ae.dmxleo.com/*/events
 ||ae21a0ad95016488.com^
 ||ae25079147984d4d.com^
 ||ae7c783736eb2ff.com^
@@ -42724,7 +42728,6 @@ zzz.com.ua##body > div[style="text-align:center;font-size:11px;font-family:arial
 ||dmtry.com^$third-party
 ||dmtw0i4zln92b.cloudfront.net^
 ||dmx.sync.yume.com/tracker/
-||dmxleo.dailymotion.com
 ||dmzls.safe-installation.com^$third-party
 ||dni-adops-proxy-prod-adopsmediaconverter.mercury.dnitv.com/*.mp4$domain=vvvvid.it
 ||dniadops-a.akamaihd.net/*.mp4$domain=dplay.dk,empty,important
@@ -43357,6 +43360,7 @@ zzz.com.ua##body > div[style="text-align:center;font-size:11px;font-family:arial
 ||event.api.drift.com/track^
 ||event.condenastdigital.com^$third-party
 ||event.demirorenteknoloji.com^$third-party
+||event.prod.bidr.io^
 ||event.scimo.io^
 ||event.trove.com^
 ||eventcom.api.np.km.playstation.net/event^
@@ -45514,7 +45518,6 @@ zzz.com.ua##body > div[style="text-align:center;font-size:11px;font-family:arial
 ||id.katyporn.net/akp/jsbanner.js
 ||id.kbmg.cz^$third-party
 ||id.rambler.ru/login-20/counters.js
-||id.sonyentertainmentnetwork.com/id/cm/siews1lib.js
 ||id1.cn^
 ||id5-sync.com^$third-party
 ||idealmedia.io^
@@ -54589,6 +54592,7 @@ zzz.com.ua##body > div[style="text-align:center;font-size:11px;font-family:arial
 ||webcompteur.com^$third-party
 ||webcounter.co.za^$third-party
 ||webcounter.ws^$third-party
+||webed.dm-event.net^
 ||webed.dm.gg^$third-party
 ||webengage.com^$third-party
 ||weberotic.net^$third-party
