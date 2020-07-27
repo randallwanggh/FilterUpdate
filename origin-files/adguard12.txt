@@ -173,6 +173,13 @@ newsweek.com##iframe[src="http://sns.europe.newsweek.com/newsletter?popup=1"]
 !######### JS tweaks ##########
 !##############################
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/60105
+awdescargas.com#%#!function(){if(-1<window.location.href.indexOf("/go/")){var a=location.href.split("/go/");if(a&&a[1])try{window.location=atob(a[1])}catch(b){}}}();
+awlinks.me#%#!function(){if(-1<window.location.href.indexOf("/?go=")){var a=location.href.split("?go=");if(a&&a[1])try{window.location=atob(decodeURIComponent(a[1]))}catch(b){}}}();
+! https://github.com/AdguardTeam/AdguardFilters/issues/60126
+alphaantileak.net#%#//scriptlet("adjust-setInterval", "Please wait", "", "0.02")
+! https://github.com/AdguardTeam/AdguardFilters/issues/60106
+compartiendofull.net#%#!function(){if(-1<window.location.href.indexOf("/go/?p=")){var a=location.href.split("/go/?p=");if(a&&a[1])try{window.location=atob(a[1])}catch(b){}}}();
 ! https://github.com/AdguardTeam/AdguardFilters/issues/60028
 ifile.cc#%#//scriptlet("adjust-setInterval", "waktu--", "", "0.02")
 ifile.cc#%#AG_onLoad(function(){var a=document.querySelector('#download > form[action="/getlink.php"] > input[name="geturl"][value]');if(a)try{location=a.getAttribute("value")}catch(b){}});
@@ -737,6 +744,9 @@ toptech360.com,devicespecifications.com,apkinstaller.com,androidmtk.com,serial-k
 !+ NOT_PLATFORM(windows, mac, android, ext_ff)
 quotev.com#$#body #res_area ::selection { background-color: #3297FD!important; }
 !--- JS ----
+texte.work#%#//scriptlet("abort-on-property-read", "disableselect")
+texte.work#%#//scriptlet("remove-attr", "oncontextmenu|onkeydown", "body")
+texte.work#%#//scriptlet("abort-current-inline-script", "document.oncontextmenu")
 omgkpop.top#%#//scriptlet("prevent-addEventListener", "/contextmenu|dragstart|keydown|keyup|keypress/", "/event\.dispatch\.apply|trackEvent/")
 asus-zenfone.com#%#//scriptlet("abort-current-inline-script", "document.onselectstart")
 nullslide.com#%#//scriptlet("prevent-addEventListener", "/contextmenu|selectstart|dragstart|copy|cut|keydown|keyup/", "preventDefault")

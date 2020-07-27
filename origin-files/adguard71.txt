@@ -240,6 +240,23 @@ xxxparodyhd.net,movgotv.com,123kmovies.net,123movies.*,bluemovies.co,f5movies.to
 !
 !
 !
+||javtsunami.com/divine-glade-$script
+||javtsunami.com/steep-heart-$script
+javtsunami.com##.happy-inside-player
+||cloudrls.com/asset/barr.js
+uiporn.com##.text-gray
+hog.tv##.player__side
+hog.tv##div[class="title title--sm"]
+hog.tv##div[class="content__info content__info--vis info"]
+||widgets.future-fie.co.uk^$domain=tomsguide.com
+tomsguide.com##.hawk-placeholder
+||rule34.us/ad.html
+||img.rule34.us/images/gelbooru.mp4
+giga-down.com##div[style^="width:336px; height:280px;"]
+usporncomics.space##div[style^="position: fixed; top: 100%; left: 100%; transform: translate"]
+komikhentaiterbaru.xtgem.com##div[id^="st"][style^="z-index: 9999"]
+komikhentaiterbaru.xtgem.com##body > center > a[href] > img
+||komikhentaiterbaru.xtgem.com/iklan2.gif
 shootz.io###respawnDiv > center > div > div[style="width:336; height: 280; background-color: #000; display: inline-block"]
 shootz.io###readyDiv #col1 > div[style^="width:300; height: 330;"] > div[style="width:300; height: 250; background-color: #000"]
 popsplit.us##body #banner
@@ -253,6 +270,7 @@ orbz.io##div[style="width: 300px; height: 600px;"]
 orbz.io##div[style="width: 300px; height: 250px;"]
 polygun.io##div[class][style^="width: 300px; height: 250px; margin:"]
 tangies.io###right-ads-wrapper
+astroe.io##.wideAdPanel
 piaf.io###midBotPanel
 dungo.io###dungoio_300x250
 spaceblast.io,bombarena.io##div[id^="adArea"]
@@ -1015,7 +1033,7 @@ edmtunes.com##div[id^="sticky-footer-div-gpt-ad-"]
 titantv.com###ctl00_Main_TVL_ctl00_sb
 thingiverse.com##div[class^="AdCard"]
 watchthementalistonline.com###contenedor > #keeper_top
-watchthementalistonline.com##.mCSB_container #closeButton2
+watchdrakeandjoshonline.com,watchthementalistonline.com##.mCSB_container #closeButton2
 watchthementalistonline.com###custom_html-7 #closeButton2
 mangalatest.com##.panel-body div[id="svchapter"] ~ div[id="sv"] > div.panel-body-author:last-child
 ||cperformmedia-a.akamaihd.net/dpfm.js
@@ -1238,7 +1256,7 @@ news.sky.com##.sdc-article-body > .sdc-site-layout-sticky-region[data-format="fl
 sloomp.space###skip > span[style^="display: block;color: #aaa;"]
 a2zapk.com###galax
 ozbargain.com.au##div[id^="ozbads-"]
-shadowexplorer.com###skyscraper
+feudalwars.net,shadowexplorer.com###skyscraper
 linkcc.pro##.box-main > div[style] > a[href][target="_blank"]
 unblockninja.blue##body > cloudflare-app[app="flashcard"][data-visibility="visible"][style^="z-index:"]
 7deadlysins.tv###js-ap-ads
@@ -1955,7 +1973,7 @@ xxxmaturevideos.com##.XMV_video_hors
 xxxmaturevideos.com##.XMV_hor_bl
 ||xxxmaturevideos.com/ab_fl.js
 ||xxxmaturevideos.com/ab_bl.php
-sexu.com,javrave.club,mangamelon.com,vidoza.co,vintagetube.xxx,vidoza.org,xxxmom.pro##iframe[src^="//a.o333o.com/"]
+xtits.com,sexu.com,javrave.club,mangamelon.com,vidoza.co,vintagetube.xxx,vidoza.org,xxxmom.pro##iframe[src^="//a.o333o.com/"]
 iframeplayer.tubepornstreaming.com##.video-container > .inner-wrap[style="display: flex;"]
 nitroflare-porn.com##center > noindex
 nitroflare-porn.com##center > a[href^="https://www.nitroflare.com/view/"]
@@ -1998,7 +2016,7 @@ ibit.to##a[href^="https://hide.me/en/promotion/"]
 ibit.to##a[href^="https://torrentprotect.com/?friend="][href*="&banner="][target="_blank"]
 ||ibit.to/s/ext/pop.js
 ||tubepornclassic.com/detroit/
-tubepornclassic.com##.adv-title
+xtits.com,tubepornclassic.com##.adv-title
 hawkbets.com##.new_aside_block
 babestube.com##body > div#_iframe_content
 babestube.com##.twocolumns > div.viewlist + div.aside
@@ -3059,7 +3077,7 @@ imgfile.net##div[class^="ov-ar-container-"]
 ||link.tl/js/mobilead.js
 ||1373837704.rsc.cdn77.org/mobilead.js
 ||1373837704.rsc.cdn77.org/entry2.js
-watchcheersonline.com,watchonetreehillonline.com,watchhowimetyourmother.online###contenedor > #keeper2
+watchdrakeandjoshonline.com,watchcheersonline.com,watchonetreehillonline.com,watchhowimetyourmother.online###contenedor > #keeper2
 oddsdigest.com##a[href="https://www.dollarshaveclub.com/"] > img
 best4pc.com##.entry-content > center:last-child > :not(h5):not(h4)
 reblop.com##[href^="https://t.frtyo.com/"]

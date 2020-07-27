@@ -920,6 +920,9 @@ fofmyanmar.com##center > a[rel="noopener noreferrer"] > img
 !--- general hide --
 ##a[href^="https://adm.beimg.com/"]
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/60179
+gas.goodlife.tw###leaderboard_banner
+!
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59658
 ||vip1.loli.net/2020/02/17/A9jmsY41EwiUzou.png$domain=ddrk.me
 ! antiadblock
@@ -6344,6 +6347,14 @@ innpoland.pl,mamadu.pl,dadhero.pl,natemat.pl#%#//scriptlet("prevent-eval-if", "i
 @@||video.onnetwork.tv/adblock_notify.js
 ||request.dqst.pl/v*/$xmlhttprequest
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/60206
+@@||filmozercy.com/js/fuckadblock.min.js
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=nooptext,domain=filmozercy.com
+!+ PLATFORM(ios, ext_android_cb, ext_safari)
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=filmozercy.com
+! kursjs.pl - antiadblock
+@@||kursjs.pl/js/dfp.js
+kursjs.pl#%#//scriptlet("prevent-setTimeout", "wstretne-reklamy")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59874
 @@||teledyski.info/link/*ads/show_ads.js
 ! se.pl - incorrect blocking
@@ -6576,7 +6587,9 @@ horrortube.fun,otube.pl#%#//scriptlet("abort-current-inline-script", "decodeURI"
 !+ PLATFORM(windows, mac, android)
 horrortube.fun,otube.pl#%#AG_abortInlineScript(/4zz\./, 'decodeURI');
 ! wielkahistoria.pl - ad leftovers
-wielkahistoria.pl##.johannes-sidebar > .johannes-sticky > #custom_html-5
+wielkahistoria.pl##.johannes-sidebar > .johannes-sticky
+wielkahistoria.pl##.adsbygoogle + script + hr
+wielkahistoria.pl##p[style="color:f2f3f3; font-size:14px; text-align:center; padding:0; margin-bottom: 20px;"]
 ! vider.info - ads
 ||vider.info/static/player/*/vast.js
 ! https://github.com/AdguardTeam/AdguardFilters/issues/44036
@@ -6725,7 +6738,7 @@ pilot.wp.pl#@%#//scriptlet('ubo-set.js', 'Object.prototype.advViewability', 'und
 ! o2.pl,pudelek.pl,wp.pl#%#//scriptlet("set-constant", "Object.prototype.isGoogleBot", "true")
 ! pudelek.pl,wp.pl#%#AG_setConstant('WP.gaf.loadBunch', 'noopFunc');
 www.wp.pl#%#//scriptlet("abort-on-property-read", "Object.prototype.bodies")
-poczta.o2.pl,poczta.wp.pl,profil.wp.pl,abczdrowie.pl,autokult.pl,dobreprogramy.pl,echirurgia.pl,fotoblogia.pl,gadzetomania.pl,kafeteria.pl,komorkomania.pl,money.pl,parenting.pl,snobka.pl#%#//scriptlet("set-constant", "Object.prototype.advViewability", "undefined")
+www.wp.pl,poczta.o2.pl,poczta.wp.pl,profil.wp.pl,abczdrowie.pl,autokult.pl,dobreprogramy.pl,echirurgia.pl,fotoblogia.pl,gadzetomania.pl,kafeteria.pl,komorkomania.pl,money.pl,parenting.pl,snobka.pl#%#//scriptlet("set-constant", "Object.prototype.advViewability", "undefined")
 www.wp.pl,poczta.o2.pl,poczta.wp.pl,profil.wp.pl,abczdrowie.pl,autokult.pl,dobreprogramy.pl,echirurgia.pl,fotoblogia.pl,gadzetomania.pl,kafeteria.pl,komorkomania.pl,money.pl,open.fm,parenting.pl,snobka.pl#%#//scriptlet("set-constant", "Object.prototype.gafSlot", "undefined")
 www.wp.pl,poczta.o2.pl,poczta.wp.pl,profil.wp.pl,abczdrowie.pl,autokult.pl,dobreprogramy.pl,echirurgia.pl,fotoblogia.pl,gadzetomania.pl,kafeteria.pl,komorkomania.pl,money.pl,parenting.pl,snobka.pl#%#//scriptlet("set-constant", "Object.prototype.rekids", "undefined")
 turystyka.wp.pl,opinie.wp.pl,gry.wp.pl,moto.wp.pl,gwiazdy.wp.pl,tech.wp.pl,kobieta.wp.pl,wiadomosci.wp.pl#?#div[class*="-"] > div[class*="-"][class*=" "]:has(> img[src="https://i.wpimg.pl/O/56x45/i.wp.pl/a/i/stg/pkf/bg.png"])
@@ -8454,6 +8467,9 @@ brandbuffet.in.th#@#.category-advertorial
 !---------------------------------------------------------------------
 !------------------------------ Vietnam ------------------------------
 !---------------------------------------------------------------------
+!
+! https://github.com/AdguardTeam/AdguardFilters/issues/60179
+thienvadia.net##.my_responsive_ads
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59524
 ||kiemtinh.com/wp-content/uploads/*-banner-650x90-
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59715

@@ -1293,6 +1293,8 @@ mail.yandex.by,mail.yandex.com,mail.yandex.com.tr,mail.yandex.fr,mail.yandex.kz,
 yandex.md,yandex.by,yandex.com,yandex.com.tr,yandex.fr,yandex.kz,yandex.ru,yandex.ua##.promo-banner
 ! Реклама кинотеатров
 yandex.md,yandex.by,yandex.com,yandex.com.tr,yandex.fr,yandex.kz,yandex.ru,yandex.ua##.home-panel-content-view__tip > a.tip[target="_self"] > img
+! Рассылка Яндекс.Карт
+yandex.md,yandex.by,yandex.com,yandex.com.tr,yandex.fr,yandex.kz,yandex.ru,yandex.ua##.maillist-form-view
 !
 ! Yandex.Market
 ! Subscription
@@ -1465,7 +1467,12 @@ enerjiportali.com,vodafone.ua,ciapc.com.br,dontpayfull.com,salutbonjour.ca,coffe
 whathifi.com,futurestud.io,slate.com,businessinsider.de,fastcompany.com,heise.de,history.com,itprotoday.com,jewishjournal.com,king5.com,mic.com,motherjones.com,nydailynews.com,people.com,skyscanner.com.tw##.newsletter-signup
 ! ##.cta-component-full-width
 bournemouthecho.co.uk,eveningtimes.co.uk,greenocktelegraph.co.uk,heraldscotland.com,swindonadvertiser.co.uk,wiltshiretimes.co.uk##.cta-component-full-width
+! ##.subscribe
+tickets.ua,woman.ru,elle.ru,marieclaire.ru,europaplus.ru,krossovki.com,belretail.by,thecollegefix.com,femmie.ru,prostofinovo.ru,mauijim.com,netpeak.net,wday.ru,buhgalteria.ru,ellegirl.ru,gameslog.ru,gizmag.com,healthhacks.ru,klerk.ru,menshealth.com,rbc.ru,snce.ru,turizm.ru,wegame.com.ua##.subscribe
 !
+collider.com##.newsletter_signup
+vulture.com##.newsletter-flex-text
+fitomarket.ru##.subscribe_section_mainpage
 daan.dev##.halfway-post.widget-area
 investors.com##.subscribe-widget
 theguardian.com##.email-sub__iframe
@@ -2474,7 +2481,6 @@ seonews.ru##.sub-mailing-bg
 ndtv.com##.sub_newsletter
 incrussia.ru##.subs
 rockstargame.su##.subs-form
-woman.ru,elle.ru,marieclaire.ru,europaplus.ru,krossovki.com,belretail.by,thecollegefix.com,femmie.ru,prostofinovo.ru,mauijim.com,netpeak.net,wday.ru,buhgalteria.ru,ellegirl.ru,gameslog.ru,gizmag.com,healthhacks.ru,klerk.ru,menshealth.com,rbc.ru,snce.ru,turizm.ru,wegame.com.ua##.subscribe
 buyon.ru##.subscribe-b
 vogue.ru,hyperhost.ua,pravda.ru,reverso.net,vokrug.tv##.subscribe-block
 rabota.ru##.subscribe-block__inner
