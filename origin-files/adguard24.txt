@@ -115,6 +115,9 @@
 ||plugin.mobopay.baidu.com^
 ||mo.freeindoapp.com^
 !
+||matrix.dailyinnovation.biz^
+||view.adjust.com^
+||app.adjust.com^
 ||addata.mediacategory.com^
 ||dm.toutiao.com^
 ||ads-leaseweb.appsgeyser.com^
