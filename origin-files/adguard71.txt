@@ -240,8 +240,18 @@ xxxparodyhd.net,movgotv.com,123kmovies.net,123movies.*,bluemovies.co,f5movies.to
 !
 !
 !
+thepostmillennial.com##.commercial
+getcomics.info##.advanced_floating_content
+danishfamilysearch.com##div[id^="ContentPlaceHolder1_div_annonce"]
+javbangers.com##.opt
+||go.xhamsterlive.com/api/models$third-party
+simpleflying.com##div[class*="-display-ad-"]
+sciotocountydailynews.com##.content-inner > p > a[href][target="_blank"] > img
+inews.co.uk##.inews__mpu 
+inews.co.uk##.inews__advert
 codecs.forumotion.net###main-content > div[style^="position:relative;height:90px; min-width: 728px"]:not([class]):not([id])
 zbporn.com##.desktop-nat-spot
+express.co.uk##.imadc
 ||zbporn.com/zps/
 ||api.zbsexvid.info^$domain=zbporn.com
 porngem.com##.wrapper > div[style="text-align: right;"] > small.text-gray
@@ -7122,7 +7132,7 @@ huffingtonpost.co.uk##.ad_wrapper_top
 huffingtonpost.co.uk###ad_leaderboard_flex
 myrealgames.com##.main-adv-block:not(.desktop-only)
 golfchannel.com##body .gc-foundation > .aserve-top
-backin.net##[id*="ScriptRoot"]
+ockles.com,backin.net##[id*="ScriptRoot"]
 flashx.to##a[href^="https://adsrvmedia.adk2x.com/imp"]
 seriestop.online##a[href^="//go.onclasrv.com/afu.php"]
 ||seriestop.online/img/play_now_1v.png
@@ -8935,7 +8945,7 @@ amazon.com###ape_Detail_dp-ads-center-promo_Desktop_placement
 mixesdb.com###area-trending.clear
 tweaktown.com###background_skin
 canalesdelpueblotv.info###bandiv
-cloudplayer.online,goldenbbw.com,streamload.me,sportstream2.pw,streamvid.co,powvldeo.net,olink.icu,vlink.icu,mydramaoppa.com,rapid58.com,eatcells.com,vidload.co,streamsk.com,powvideo.xyz,pastelink.net###banner
+seriesultra.net,cloudplayer.online,goldenbbw.com,streamload.me,sportstream2.pw,streamvid.co,powvldeo.net,olink.icu,vlink.icu,mydramaoppa.com,rapid58.com,eatcells.com,vidload.co,streamsk.com,powvideo.xyz,pastelink.net###banner
 myp2p.biz,realstreamunited.tv,sportcategory.tv###bannerInCenter
 mystreans.com###banner_container
 bigvid.me###banner_over_vid

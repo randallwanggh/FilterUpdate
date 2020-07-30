@@ -42,6 +42,8 @@ pornopank.com,3w-video.com,coqporn.com,paraticlube.com,pornopix.net,isexpro.net,
 ! ##.paylas
 filmizleten.com,medyagazeteleri.com,kentvizyonhaber.com,duzcedamla.com,muglagazetesi.com.tr,apron24.com,bilecikses.com,enzahome.com.tr,dizilove.com,filmizlex.com,habernida.com,guvenlifilmizle.com,full1080pfilmizle.com,istanbultakipte.com,dizilost.com,bodrumhaberpostasi.com,hdfilmizlesene2.com,gazetelink.com,dizivay.com,hizlifilmizlehd.com,simdifilmizle.com,filmdizievi1.com,asyadizileri.net,fullfilmizledim.com,fiilmizleyeni.com,canlitvlive.io,sondakika.com.tc,bolununsesi.com,sivashaber.com,anlasevgimi.com,ademocut.com,akdenizhaber.com.tr,donanimhaber.com,hayatbul.org,kimdirkim.com##.paylas
 !
+wired.co.uk##.a-share
+life.pravda.com.ua##.net-wrap
 tweaktown.com##div[class^="sharedesktop"]
 ichannela.com##.sns > a[href^="javascript:openSendNews"]:not([href="javascript:openSendNews('url');"])
 biomedya.com##.share-url
@@ -50,12 +52,17 @@ elhow.ru##.art-social-wrapper-ahchor
 elhow.ru##.social-banner
 adme.ru##div[data-test-id="top-action-bar"] > a[data-test-id="comments-link"] + div
 ||maximp3.ru/js/goodshare.js
+bursahakimiyet.com.tr##.share-gallery
+bursahakimiyet.com.tr##.sharenewsin
+bursahakimiyet.com.tr##.detailShare
 ekantipur.com##.bottom-share-count
 lecturas.com##.mangiroshare
 lecturas.com##.article-mobile-share
 radiofm-online.com###share-wrapper
 vgorode.ua##.pinSaveBtn
 blic.rs##.custom-shareFb
+gubdaily.ru##.VK-share
+gubdaily.ru##.shr-txt
 grodno24.com##.similar-social
 football24.ua##.share-soc-icons
 ttf.org.tr##.face-box
@@ -961,7 +968,7 @@ ngoisao.net##.block_share > .total
 interfax.ru##.header__soc
 inoreader.com##span[onclick^="share_article"]
 viajenaviagem.com##li[id^="compartilhar-"]
-tek.id##.post-sharing
+gsminfo.com.ua,tek.id##.post-sharing
 ubang13.com##article > div.view-padding > a[onclick][target="_blank"] > img
 jetzt.de##.sharingbar
 vimeo.com##.share_social_icons
@@ -3794,7 +3801,6 @@ cnbc.com###social_bar_top_gig_containerParent
 cnbc.com###social-tools-panel_gig_containerParent
 cheezburger.com##.nw-sharing-buttons
 airmore.com,apowersoft.com,showmore.com##.counted-share-vertical
-bursahakimiyet.com.tr##.sharenewsin
 realnoevremya.ru##.colorShareBtn
 realnoevremya.ru##.grayShareBtn
 sueddeutsche.de###article-sidebar-action-facebook
@@ -4239,7 +4245,6 @@ dailydot.com##.dd-share-bar-wrapper
 softwarepassion.com##.dd_post_share
 ain.ua##.decom-share
 tv8.com.tr##.detail-page-share
-bursahakimiyet.com.tr##.detailShare
 tarsushaber.com##.detail_share_buttons
 adme.ru,brightside.me##.dialog-bg
 adme.ru,brightside.me##.dialog-social

@@ -52,6 +52,8 @@ ignshop.hu,download.pixelexperience.org,waterdrop.com,exvital.de,mobile01.com,du
 ! ###cookie-box
 aksaelektrik.com.tr,ergo.de,fosforludusunceler.com,kirtkirtla.com,sonaktuel.com,muglaweather.com,denizcilikbilgileri.com,filmonerileri.org,wblogy.com,dnschecker.org,krombacher.de###cookie-box
 !
+evermotion.org##.full-overlay
+beymen.com##.cookie-band
 thomassixt.de##.gdprMotus
 salonsecret.ru##div[class^="Cookie_root__"]
 gzt.com##.cookie-policy-block
@@ -2571,7 +2573,7 @@ diariodeleon.es###LegalCookies
 reddit.com###SHORTCUT_FOCUSABLE_DIV > div > div:not([class]):not([id]):not([style]) > .hvdZkC
 forticlient.com,fortiguard.com,fortinet.com###__agreementBar
 victoriassecret.com,huawei.com,argos.co.uk,tealiumiq.com,ti.com,disney.de,ups.com,macys.com,rakuten.de,telekom.de,trendmicro.com,epson.com,3m.com.tr,command.com.tr,virginmedia.com,francetvinfo.fr,greenmangaming.com,logitech.com,logitechg.com,webex.com###__tealiumGDPRecModal
-sony.co.uk,shellsmart.com,shell.com.tr,shell.de,thequietus.com###_evidon-background
+shell.co.kr,sony.co.uk,shellsmart.com,shell.com.tr,shell.de,thequietus.com###_evidon-background
 lenovo.com,menshealth.com,esquire.com,geek.com,ign.com,pcmag.com,speedtest.net###_evidon-barrier-wrapper
 humblebundle.com,last.fm,linuxtoday.com,pcmag.com,techrepublic.com,zdnet.com###_evidon_banner
 totalbike.hu,indamediasales.hu,divany.hu,blog.hu,indavideo.hu,femina.hu,index.hu,totalcar.hu###_iph_cp_popup
@@ -3305,7 +3307,7 @@ airbus.com,ncoi.nl,richardmille.com,scheidegger.nl##.c-cookies
 armyrecognition.com##.cadre_alert_cookies
 elcorreo.com,revespcardiol.org##.capa-cookies
 netdoktor.de,nflstreams.me,toolslib.net,vipbox.nu##.cc-floating
-mkvtoolnix.download,mlbstream.me,vipleague.me##.cc-window
+ockles.com,mkvtoolnix.download,mlbstream.me,vipleague.me##.cc-window
 futhead.com,gofobo.com,mobiflip.de,news.de##.cc_banner-wrapper
 infranken.de##.cc_banner-wrapper_FB
 argeweb.nl,internedservices.nl##.ccdiv

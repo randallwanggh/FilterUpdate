@@ -1,4 +1,4 @@
-#version=202007211846
+#version=202007292327
 #url=https://github.com/VeleSila/yhosts/blob/master/hosts
 #-----Test
 127.0.0.1 at.umeng.com
@@ -3500,6 +3500,7 @@
 127.0.0.1 e.cuomm.com
 127.0.0.1 e.cx016d.cn
 127.0.0.1 e.czggcj.com
+127.0.0.1 e.d1wn3.cn
 127.0.0.1 e.daishuxy.com
 127.0.0.1 e.danrs.com
 127.0.0.1 e.dbeii.com
@@ -3708,6 +3709,7 @@
 127.0.0.1 e.oq7d6b.cn
 127.0.0.1 e.oyrim.com
 127.0.0.1 e.ozwqxi.cn
+127.0.0.1 e.p7wj8.cn
 127.0.0.1 e.p98ytk.cn
 127.0.0.1 e.pbino.com
 127.0.0.1 e.picbr.com
@@ -3967,6 +3969,7 @@
 127.0.0.1 eo.szimic.cn
 127.0.0.1 eo.yhcrqzj.cn
 127.0.0.1 epernn.cn
+127.0.0.1 er.com.q2ws3.cn
 127.0.0.1 er.dlhygj.com
 127.0.0.1 erny.jxinyue.top
 127.0.0.1 erwqw.zh1155.com
@@ -4074,6 +4077,7 @@
 127.0.0.1 glxp.6c4t5.cn
 127.0.0.1 gm.uc003.com
 127.0.0.1 gmeng.625323.com
+127.0.0.1 gn.lalaqky.cn
 127.0.0.1 go.dlads.cn
 127.0.0.1 go.gogolm.xyz
 127.0.0.1 go.gotourl.xyz
@@ -4779,6 +4783,7 @@
 127.0.0.1 m.cuoas.com
 127.0.0.1 m.cuoss.com
 127.0.0.1 m.czxjx.cn
+127.0.0.1 m.d1wn3.cn
 127.0.0.1 m.d6s2pn5t.cn
 127.0.0.1 m.dailiq.cn
 127.0.0.1 m.daishuxy.com
@@ -5169,6 +5174,7 @@
 127.0.0.1 m.omztf.cn
 127.0.0.1 m.opqsr.com
 127.0.0.1 m.oyrim.com
+127.0.0.1 m.p7wj8.cn
 127.0.0.1 m.panwenjun.top
 127.0.0.1 m.pbino.com
 127.0.0.1 m.pcaoo.com
@@ -5606,6 +5612,7 @@
 127.0.0.1 n.88android.com
 127.0.0.1 n.qudwrj.cn
 127.0.0.1 n.yfi8.com
+127.0.0.1 n5.q2ws3.cn
 127.0.0.1 nads.wuaiso.com
 127.0.0.1 nadscdn.wuaiso.com
 127.0.0.1 nbbull.com
@@ -6158,6 +6165,7 @@
 127.0.0.1 t.tttmedd.com
 127.0.0.1 t.tymbf.top
 127.0.0.1 t.tzcccm.com
+127.0.0.1 t.usefavour.xyz
 127.0.0.1 t.xamaky.top
 127.0.0.1 t.xiumii.top
 127.0.0.1 t.xymj.xyz
@@ -6303,6 +6311,7 @@
 127.0.0.1 v.jntxst.cn
 127.0.0.1 v.lalaxqt.cn
 127.0.0.1 v.lrzazjl.cn
+127.0.0.1 v.lystrw.cn
 127.0.0.1 v.oq68.com
 127.0.0.1 v.originz.cn
 127.0.0.1 v.qhruixin.cn

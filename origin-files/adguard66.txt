@@ -920,6 +920,9 @@ fofmyanmar.com##center > a[rel="noopener noreferrer"] > img
 !--- general hide --
 ##a[href^="https://adm.beimg.com/"]
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/60067
+minhangcidian.com##div[id^="googleAd"]
+||icao4.com/uploads/pic/2.jpg
 ! https://github.com/AdguardTeam/AdguardFilters/issues/60179
 gas.goodlife.tw###leaderboard_banner
 !
@@ -1780,7 +1783,7 @@ weihemenye.com#$##player_ad_div { display: none!important; }
 ! https://github.com/AdguardTeam/AdguardFilters/issues/30701
 ||qq.com/proxyhttp$replace=/ad/_ad/
 !+ NOT_PLATFORM(windows, mac, android)
-v.qq.com#%#AG_setConstant('TxpCreativePlayer.prototype.loadAd', 'noopFunc');
+v.qq.com#%#//scriptlet('json-prune', 'ad')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/35335
 ! https://github.com/AdguardTeam/AdguardFilters/issues/33197
 bingfeng.tw#$##ypaad { height: 3px!important; }
@@ -5194,7 +5197,8 @@ dap-news.com##.ads
 !---------------------------------------------------------------------
 !------------------------------ Korean -------------------------------
 !---------------------------------------------------------------------
-!
+! https://github.com/AdguardTeam/AdguardFilters/issues/60454
+webtoon.daum.net###midBnr
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59858
 x86.co.kr#%#//scriptlet("set-constant", "count", "0")
 x86.co.kr#@#.download_ad
@@ -7885,6 +7889,8 @@ topsinhalamp3.com#?##sitbl > tbody > tr[-ext-has='a[href^="https://ylx-4.com"]']
 !---------------------------------------------------------------------
 !------------------------------ Taiwan -------------------------------
 !---------------------------------------------------------------------
+! https://github.com/AdguardTeam/AdguardFilters/issues/60463
+forum.gamer.com.tw##.a-mercy-d
 ! https://github.com/AdguardTeam/AdguardFilters/issues/52546
 pansci.asia#@#.ad-container
 ! https://github.com/AdguardTeam/AdguardFilters/issues/52449
