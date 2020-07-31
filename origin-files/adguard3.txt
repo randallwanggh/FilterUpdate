@@ -52,7 +52,10 @@ ignshop.hu,download.pixelexperience.org,waterdrop.com,exvital.de,mobile01.com,du
 ! ###cookie-box
 aksaelektrik.com.tr,ergo.de,fosforludusunceler.com,kirtkirtla.com,sonaktuel.com,muglaweather.com,denizcilikbilgileri.com,filmonerileri.org,wblogy.com,dnschecker.org,krombacher.de###cookie-box
 !
+gesundheitswissen.de#$##ccm-widget { display: none !important; }
+allergan.com.tr##.agn-cookie-consent-outer-wrapper
 evermotion.org##.full-overlay
+belkacar.ru##.confirm-cookie
 beymen.com##.cookie-band
 thomassixt.de##.gdprMotus
 salonsecret.ru##div[class^="Cookie_root__"]
@@ -65,6 +68,7 @@ pastebin.com##.popup-box.-cookies
 oppo.com###use_cookies
 neovolt.ru##.pop-up-cookie-alert-block
 fitomarket.ru###cookie_pop
+duplichecker.com###cookie_directive_container
 football24.ua##.privete-polisy
 m.timesofindia.com###myConsentFlow
 overclock.net#$#body { overflow: visible !important; }
@@ -125,7 +129,7 @@ swordz.io###cookieMessage
 account.oup.com###fixedHeader > #banners
 hekimoglu.com.tr###kwkbilgilendirme
 atombilgisayar.com##.module-notification[data-options*="cookie"]
-jamieoliver.com###ccc
+kit.co,jamieoliver.com###ccc
 gesundheitswissen.de##.cookie_statement
 th-owl.de###c-cookie-note
 arbys.com##.ccpa-banner
@@ -4114,6 +4118,7 @@ bmwfaq.org#?#.Notices[-ext-has='a[href="//www.bmwfaq.org/help/cookies"]']
 ! JS rules
 !
 ! tarnkappe.info#%#//scriptlet("set-constant", "CM_cookieManager.start", "noopFunc")
+gesundheitswissen.de#%#//scriptlet("remove-class", "ccm-blocked", "body")
 filmweb.pl#%#//scriptlet('remove-class', 'rodo', 'body.rodo')
 manager-magazin.de#%#AG_onLoad(function(){-1!=window.location.href.indexOf("/consent-")&&setTimeout(function(){var a=document.querySelector('button[data-consent-el="acceptAllButton"]');a&&a.click()},1500)});
 pharmazeutische-zeitung.de#%#document.cookie="erlaubte_cookies=1; path=/;";

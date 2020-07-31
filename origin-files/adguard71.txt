@@ -240,15 +240,21 @@ xxxparodyhd.net,movgotv.com,123kmovies.net,123movies.*,bluemovies.co,f5movies.to
 !
 !
 !
+livenewschat.eu###secondary > aside[id^="custom_html-"]
+golfroyale.io###adFooterContainer
+imore.com##p > a[href^="/e?link="][href*="offer"][target="_blank"].norewrite > img
+imore.com##p > a[href^="/e?link="][href*="offer"][target="_blank"].norewrite + span[style^="text-align: center; padding: 2px; display"]
+wabetainfo.com##.adsTextHeader
 thepostmillennial.com##.commercial
 getcomics.info##.advanced_floating_content
 danishfamilysearch.com##div[id^="ContentPlaceHolder1_div_annonce"]
-javbangers.com##.opt
+amateurporn.me,anon-v.com,javwhores.com,javtasty.com,javbangers.com,porntrex.com,private-shows.net,pornfapr.com,freepornvideo.sex##.opt
 ||go.xhamsterlive.com/api/models$third-party
 simpleflying.com##div[class*="-display-ad-"]
 sciotocountydailynews.com##.content-inner > p > a[href][target="_blank"] > img
 inews.co.uk##.inews__mpu 
 inews.co.uk##.inews__advert
+duplichecker.com##div[class*="aadd_boox"]
 codecs.forumotion.net###main-content > div[style^="position:relative;height:90px; min-width: 728px"]:not([class]):not([id])
 zbporn.com##.desktop-nat-spot
 express.co.uk##.imadc
@@ -515,8 +521,6 @@ boardgamegeek.com##.global-body-ad
 ||hanime.xxx/wp-content/plugins/script-manager/assets/js/script-manager.js
 vidcloud.pro###overlay-container
 ||duplichecker.com/6c2124a^
-duplichecker.com##div[class^="aadd_"]
-duplichecker.com##div[id^="dupli_side_bar"]
 squadd.io###crossPromo
 faucetcrypto.com##iframe[src^="https://www.faucetcrypto.com/ads/"]
 ||hentaihaven.xxx/wp-content/plugins/script-manager/assets/js/script-manager.js
@@ -1240,7 +1244,6 @@ fullytech24.com,getpronews.com###link-view > p[style="text-align: center;"]
 fullytech24.com,getpronews.com##.box-main > a[href] > img
 getpronews.com##center > a[href] > img
 getpronews.com##.box-main > p[style="text-align: center;"]
-duplichecker.com##div[class^="aadd_box"]
 a2zapk.com##a[href^="https://dropgalaxy.com/"] > img
 hockeybuzz.com###outer > #leaderboard
 forbes.com##.vestpocket
@@ -1891,7 +1894,6 @@ analyticsindiamag.com##img[src="https://www.analyticsindiamag.com/wp-content/upl
 analyticsindiamag.com##a[href][target="_blank"][data-wpel-link="external"] > img[data-src]
 analyticsindiamag.com##div.post-content > div[class][style="clear:both;float:left;width:100%;margin:0 0 20px 0;"]
 lovetheboxx.be##.footer-bnr-link
-duplichecker.com##div[class^="add_box"]
 irisbuddies.ml##.ticker-outer > #ticker:last-child
 ||tubsexer.com/fend_lodr.js
 ||tubsexer.com/backend_liador.php
@@ -2654,7 +2656,7 @@ vpnranks.com###sticky-banner
 ||compare.thecrazytourist.com/*/javascripts/intent_media_sca_ads.js
 18tube.club##.sidebar > #text-5
 18tube.club##.entry-content > .vc_row > .vc_col-sm-2
-||imglnkd.com^$domain=18tube.club
+||imglnkd.com^$domain=18tube.club|amateurporn.me
 gematsu.com##iframe[data-src^="https://www.play-asia.com/"][data-src*="iframe_banner-"]
 ||play-asia.com/*iframe_banner-$domain=gematsu.com
 erome.com##.free-space
@@ -3106,7 +3108,6 @@ reblop.com##[href^="https://t.frtyo.com/"]
 realstream.cc###float-bottom
 realstream.cc##body > div[id^="slice-"][style^="display:"][style*="position: absolute; z-index:"]
 ||realstream.cc/awrapper/
-duplichecker.com##.add_box
 ||filerio.in/images/logo_bw.png$popup
 xda-developers.com##.bravetwig-top
 ||kickassanime.io/codea/
@@ -4127,7 +4128,6 @@ telecomtalk.info##.second_post_adv_main
 wgrz.com##.taboola
 ||flyordie.com/games/online/iframeafg*.html
 anon-v.com##div[style="max-width: 640px; text-align: center; margin: 0 auto;"]
-anon-v.com##.opt
 yugioh.com###sidebar > .ad-01
 popjav.tv,hpjav.tv##.video-boxad
 popjav.tv,javdragon.com,hpjav.tv##.poplayer
@@ -4842,7 +4842,6 @@ anyporn.com##.content > noindex
 pornhub.com,pornhub.org,pornhub.net,pornhubthbh7ap3u.onion##.realsex
 gay1080.com###boxzilla-overlay
 gay1080.com##.boxzilla-container
-javwhores.com##.table > .opt
 fapality.com##.nativefooter
 fapality.com##.columns.large-3 > .simple:not(.video_view):not(.list_comments)
 ||fapality.com/b^
@@ -6079,7 +6078,6 @@ sintelevisor.com###floatLayer
 ||livesports.pw/ads/
 javadecompilers.com##.adsbygoogle
 viraliq.com###sidebar > div[style="max-width:300px;"] > p[style^="font-size: 13px; color: #333333; margin-bottom: 0px;"]
-porntrex.com##.table > .opt
 insidenova.com###jobCardDiv
 ||gomnlt.com/partner_resources/full_job_card_loader_prod.min.js
 imp3.live##center > a[rel="nofollow"].btn-primary
@@ -6567,7 +6565,6 @@ xxxx.se##iframe.sppc
 18pornvideos.net##.on-player-wrap
 ||patchsoftwares.com/wp-content/uploads/*/*banner-
 ||goo.gl$domain=patchsoftwares.com
-duplichecker.com##.duplia
 stun:1755001826:443$important
 apkmb.com##.widget-area > aside[id^="text-"]
 apkmb.com##.entry-content > center > .btnDownload
@@ -6867,7 +6864,6 @@ edmtunes.com##.td-g-rec
 cpmlink.net##.block-default > div[align="center"] > iframe
 private-shows.net##.place
 private-shows.net##.iframe-holder
-private-shows.net##.table > .opt
 movie4u.ch##a[href^="https://www.download-geek.com/"]
 720movies.com##.rkads
 ||720movies.com/wp-content/uploads/*/new.jpg
@@ -7274,7 +7270,6 @@ hpjav.com##iframe[src*="syndication.exosrv.com/ads-iframe"]
 jav69.co###announcement_bar_slider
 jav69.co##.fixed-sidebar-blank > #text-3
 ||kikibobo.com/banner/
-javtasty.com##.table > .opt
 ||javtasty.com/images/sample/sample-315x300.jpg
 stream365.live,2jav.com,javsex18.com,hdjavsex.com###overlay-ads
 jav789.com##.player-ads-bottom
@@ -7558,7 +7553,6 @@ tubedupe.com###content > noindex
 ||adult.xyz/fp.rev3.php
 thehackernews.com##.sidewalaad
 thehackernews.com##.deal-store
-pornfapr.com##.table > .opt
 camvideos.tv,pornfapr.com##.margin-fix > .place
 pornfapr.com##a[href^="http://c.trclkr.com/"]
 pornfapr.com##a[href^="https://pornaddik.com/"][href*="popunder"]
@@ -8270,7 +8264,6 @@ youtubeinmp3.com##[id^="contain-"].pe
 ||serve.adneutralads.com^
 csgo-stats.net##body .bannerzone
 road.cc##.adtech-ad
-freepornvideo.sex##noindex > div.opt
 ||veronicca.com/verobl.php
 ||veronicca.com/vfel.js
 wallgif.com###ad_modal
