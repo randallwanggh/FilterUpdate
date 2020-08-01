@@ -1,4 +1,4 @@
-#version=202007292327
+#version=202007311813
 #url=https://github.com/VeleSila/yhosts/blob/master/hosts
 #-----Test
 127.0.0.1 at.umeng.com
@@ -3778,6 +3778,7 @@
 127.0.0.1 e.uu0152q.cn
 127.0.0.1 e.uw45o.cn
 127.0.0.1 e.uwmoghx.cn
+127.0.0.1 e.uxnycjr.cn
 127.0.0.1 e.uzhaj.com
 127.0.0.1 e.v48bna.cn
 127.0.0.1 e.vaxyz.com
@@ -4298,6 +4299,7 @@
 127.0.0.1 jc.vtqifk86868.cn
 127.0.0.1 jc.xuqinqi.cn
 127.0.0.1 jd.c-ptsp.com.cn
+127.0.0.1 jd.com.pesbbw.cn
 127.0.0.1 jdg.bjygfd.com
 127.0.0.1 jdw.zjuwjdc.com
 127.0.0.1 jfot.e647ob.cn
@@ -4515,6 +4517,7 @@
 127.0.0.1 lkf1.m.sanhao3.com
 127.0.0.1 lkme.cc
 127.0.0.1 lkxanf7ad6g.zgyryt.com
+127.0.0.1 ll.pesbbw.cn
 127.0.0.1 ll.songlaoban.cn
 127.0.0.1 llk.dlingtalk.cn
 127.0.0.1 lm.souid.com
@@ -5310,6 +5313,7 @@
 127.0.0.1 m.uu0152q.cn
 127.0.0.1 m.uw45o.cn
 127.0.0.1 m.uwmoghx.cn
+127.0.0.1 m.uxnycjr.cn
 127.0.0.1 m.uzhaj.com
 127.0.0.1 m.v76rk.cn
 127.0.0.1 m.vaxyz.com
