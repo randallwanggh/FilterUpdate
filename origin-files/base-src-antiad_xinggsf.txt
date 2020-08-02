@@ -801,8 +801,10 @@ ulmdb.cn
 user.qzone.qq.com##div#idQbossHotbar.hotbar_wrap,div.icenter-right-ad,div#QM_100005_Body,div.fn-feed-mod-bd,div.ck-act,div#QM_Container_100005,div.gdtads_box,li.f-single-biz
 v.baidu.com##div[videoadv],a[href^="http://g.youxi.v.baidu."]
 v.ifeng.com##.vAdbox,div.vAdImg,div.newAdImg,div.ad300,div.ad1000,div.vPlayerAdbox,div.main+.scrollcol
-v.qq.com,sports.qq.com##+js(json-prune, ad, vinfo)
-v.qq.com,sports.qq.com##+js(json-prune,ad,errCode)
+v.qq.com##+js(json-prune,ad,adList)
+v.qq.com##+js(json-prune,ad,adLoc)
+v.qq.com##+js(nano-sib, \u5012\u8ba1\u65f6)
+v.qq.com,sports.qq.com##+js(json-prune,ad,vinfo)
 v.youku.com##.control-phonewatch,#right-title-ad-banner
 v2ex.com##.box:has(.sidebar_compliance)
 v4dwkcv.com
@@ -25606,6 +25608,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||qpljfpwdpk.com^
 ||qpokok.com^
 ||qpshvivbqpz.com^
+||qq.com/*.1.mp4?*fmt=shd^$mp4,domain=v.qq.com
 ||qq.com/games/$subdocument
 ||qq.com/js/adswf_tl_object.js$script
 ||qq0au.cn^

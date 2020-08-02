@@ -1,4 +1,4 @@
-#version=202007311813
+#version=202008011607
 #url=https://github.com/VeleSila/yhosts/blob/master/hosts
 #-----Test
 127.0.0.1 at.umeng.com
@@ -3125,6 +3125,7 @@
 127.0.0.1 c.kbf365.cn
 127.0.0.1 c.kl6636.net
 127.0.0.1 c.kuaituisss.com
+127.0.0.1 c.lalaxit.cn
 127.0.0.1 c.lalaxqt.cn
 127.0.0.1 c.lianwangtech.com
 127.0.0.1 c.lrzazjl.cn
@@ -3254,6 +3255,7 @@
 127.0.0.1 code.laojiayoufang.com
 127.0.0.1 code.ttpaper.com
 127.0.0.1 code.wantaico.com
+127.0.0.1 code.xcoffer.com
 127.0.0.1 code.zhishitie.com
 127.0.0.1 code1f.m.shushu8.com
 127.0.0.1 code1fa.m.shushu8.com
@@ -3961,6 +3963,7 @@
 127.0.0.1 eo.byjr899.top
 127.0.0.1 eo.dybx992.top
 127.0.0.1 eo.euwyc.xyz
+127.0.0.1 eo.hdschw.cn
 127.0.0.1 eo.lxujghc.cn
 127.0.0.1 eo.nu2rx.xyz
 127.0.0.1 eo.nunxi.xyz
@@ -3968,7 +3971,9 @@
 127.0.0.1 eo.sdagxz.xyz
 127.0.0.1 eo.ssdoi.com
 127.0.0.1 eo.szimic.cn
+127.0.0.1 eo.wamcjfg.cn
 127.0.0.1 eo.yhcrqzj.cn
+127.0.0.1 eo.zvygzatj.cn
 127.0.0.1 epernn.cn
 127.0.0.1 er.com.q2ws3.cn
 127.0.0.1 er.dlhygj.com
@@ -5548,6 +5553,7 @@
 127.0.0.1 mo.grqf.com.cn
 127.0.0.1 mo.gsasqa.cn
 127.0.0.1 mo.hc872.cn
+127.0.0.1 mo.hdschw.cn
 127.0.0.1 mo.keilb.xyz
 127.0.0.1 mo.lbmx.com.cn
 127.0.0.1 mo.mu5b.cn
@@ -5563,10 +5569,12 @@
 127.0.0.1 mo.shezhuang.top
 127.0.0.1 mo.szimic.cn
 127.0.0.1 mo.wajsa.com
+127.0.0.1 mo.wamcjfg.cn
 127.0.0.1 mo.yhcrqzj.cn
 127.0.0.1 mo.zdceaa.cn
 127.0.0.1 mo.zk43i.xyz
 127.0.0.1 mo.zsyse.top
+127.0.0.1 mo.zvygzatj.cn
 127.0.0.1 mob.12365chia.com
 127.0.0.1 mob.huimee.net
 127.0.0.1 mob10.cqjktj.com
@@ -5871,6 +5879,7 @@
 127.0.0.1 qweqwe.mctvhp.cn
 127.0.0.1 qzxcvb.m.zwdu.com
 127.0.0.1 r.5207470.com
+127.0.0.1 r.lzumg.xyz
 127.0.0.1 r.myadx.net
 127.0.0.1 r.zlongad.com
 127.0.0.1 r01.g1c5.com
@@ -6155,6 +6164,7 @@
 127.0.0.1 t.hljjv.top
 127.0.0.1 t.hmwebs.top
 127.0.0.1 t.iz55.com
+127.0.0.1 t.lksb.wang
 127.0.0.1 t.lzrkj.top
 127.0.0.1 t.nnccya.top
 127.0.0.1 t.mamashengqian.xyz
@@ -6313,6 +6323,7 @@
 127.0.0.1 v.heygugu.com
 127.0.0.1 v.iche88.cn
 127.0.0.1 v.jntxst.cn
+127.0.0.1 v.lalaxit.cn
 127.0.0.1 v.lalaxqt.cn
 127.0.0.1 v.lrzazjl.cn
 127.0.0.1 v.lystrw.cn
