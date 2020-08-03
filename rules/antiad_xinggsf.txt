@@ -763,7 +763,7 @@ kolinay.com
 le.com##.banner_ad,#rightBottomPop,div.banner_left,div.banner_right,[id^=pause_a_content_h5ad]
 mail.163.com,mail.126.com##.emailSuggest,#theme,.gWel-bottom
 mieyisi.com
-mydrivers.com##.duilian,div.news_info > div:first-of-type,a[href*="jd.com/"]
+mydrivers.com##.duilian,div.news_info:not(.news_blue) > div:first-of-type,a[href*="jd.com/"],div.tj_list_tu
 myhack58.com##.CMBox>.adv32
 news.163.com###js-cnxh-content~:not(#js-epTabRank)
 onlinedown.net##div.downDz>:first-child,a[href*=".9377wan.cn/"],div.downgs,div.downxzqad,div.srolltool~div,#ItemXGJC,#ItemXGXZ,#ItemXGZT,#ItemSSZT
@@ -801,8 +801,6 @@ ulmdb.cn
 user.qzone.qq.com##div#idQbossHotbar.hotbar_wrap,div.icenter-right-ad,div#QM_100005_Body,div.fn-feed-mod-bd,div.ck-act,div#QM_Container_100005,div.gdtads_box,li.f-single-biz
 v.baidu.com##div[videoadv],a[href^="http://g.youxi.v.baidu."]
 v.ifeng.com##.vAdbox,div.vAdImg,div.newAdImg,div.ad300,div.ad1000,div.vPlayerAdbox,div.main+.scrollcol
-v.qq.com##+js(json-prune,ad,adList)
-v.qq.com##+js(json-prune,ad,adLoc)
 v.qq.com##+js(nano-sib, \u5012\u8ba1\u65f6)
 v.qq.com,sports.qq.com##+js(json-prune,ad,vinfo)
 v.youku.com##.control-phonewatch,#right-title-ad-banner
@@ -27778,6 +27776,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||shjsxx.com^
 ||shkunjia.com.cn^
 ||shkywh.com^
+||shllhz.net^
 ||shlovesea.com^
 ||shmonekisot.com^
 ||sho9wbox.com^
