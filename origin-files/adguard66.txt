@@ -921,6 +921,12 @@ fofmyanmar.com##center > a[rel="noopener noreferrer"] > img
 !--- general hide --
 ##a[href^="https://adm.beimg.com/"]
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/60660
+||zavporn.net/images/9.gif
+zavporn.net##.opt
+! https://github.com/AdguardTeam/AdguardFilters/issues/60802
+mobile01.com##div[id^="_popIn_recommend"]
+mobile01.com##div[id^="dablewidget_"][data-widget_id]
 ! https://github.com/AdguardTeam/AdguardFilters/issues/60067
 minhangcidian.com##div[id^="googleAd"]
 ||icao4.com/uploads/pic/2.jpg
@@ -2872,7 +2878,7 @@ kava.ee##.kava_ad_chilli
 !---------------------------------------------------------------------
 !
 ! https://github.com/AdguardTeam/AdguardFilters/issues/60249
-||kuvake.net/js/bannerloader.js
+kuvake.net#@#.ad728x90
 kuvake.net##div[style*="min-width: 300px; max-width: 450px;"]
 ! https://github.com/AdguardTeam/AdguardFilters/issues/43726
 @@||videoplaza.tv/proxy/pulse-sdk-html*latest.min.js$domain=mtvuutiset.fi
@@ -6731,7 +6737,8 @@ naekranie.pl#%#//scriptlet('abort-current-inline-script', '$', '/loadData|halfpa
 xboxforum.pl##.adsbygoogle
 ! https://github.com/AdguardTeam/AdguardFilters/issues/36012
 ddwloclawek.pl,ddtorun.pl##.topLayer
-! https://github.com/AdguardTeam/AdguardFilters/issues/37065
+! https://github.com/AdguardTeam/AdguardFilters/issues/60807
+!+ NOT_OPTIMIZED
 wylecz.to#?#.row div[class][style*="border-bottom:"][style*="max-height:"]:has(> div[style]:contains(REKLAMA))
 ! https://github.com/AdguardTeam/AdguardFilters/issues/35408
 darkw.pl##.bladbl

@@ -85,6 +85,7 @@ cdn.braun634.com^$third-party
 @@||zoover.adtrackers.net/shared/bannerpages/darttagsbanner.aspx
 @@||zoover.bannertrack.net/shared/bannerpages/darttagsbanner.aspx
 !
+@@||raphsonbd.com^$generichide
 @@||koreanaddict.net^$generichide
 @@||theinnews.com^$generichide
 @@||vviruslove.com^$generichide
@@ -441,6 +442,7 @@ cdn.braun634.com^$third-party
 @@||live90m.blogspot.com^$generichide
 @@||alexstuff.ru^$generichide
 @@||typingtestnow.com^$generichide
+@@||helow.id^$generichide
 @@||piratedhub.com^$generichide
 @@||livenewschat.eu^$generichide
 @@||procoinadvice.com^$generichide
@@ -635,6 +637,7 @@ cdn.braun634.com^$third-party
 ! URL baits
 @@/\.com\/miads\/|\/ad\/iframe\/ad|\/adinjector_|\/adminibanner2\.|\/adsatt\.|\/footerads\.|\/framead\/ad|\/housead\/ad|\/socialads\.|_afs_ads\./$domain=kamikiyuki.com
 !
+@@||linkerload.com^$generichide
 @@||linksaya.com^$generichide
 @@||fawrye.com^$generichide
 @@||exambd.net^$generichide

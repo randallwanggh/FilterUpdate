@@ -25018,6 +25018,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||pubexchange.com^
 ||pubgears.com^
 ||pubgenius.io^
+||pubghio.fun^
 ||pubguru.com^
 ||public.app.autohome.com.cn^
 ||public.porn.fr^
