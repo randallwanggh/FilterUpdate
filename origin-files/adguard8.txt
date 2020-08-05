@@ -94,6 +94,7 @@ sodapdf.com##.be-tooltip
 !
 ! Specific sites
 !
+sobesednik.ru##.navbar.fixed-bottom
 news.naver.com###channelRecommendLayer
 levi.com##.opt-in-email-signup-drawer
 levi.com##.opt-in-email-signup-drawer ~ div.modal-backdrop
@@ -113,6 +114,7 @@ unsplash.com###app > div > div[data-test="editorial-route"] + div
 /AsyncChatWithUs.*.min.*$script,stylesheet,domain=footshop.ua
 diabetdieta.ru##.blockOverlay
 diabetdieta.ru##.subscribe-from-block-msg
+stackshare.io##[id^="HeaderNotice-"]
 ehow.com#$#.component-modal-newsletter { display: none!important; }
 ehow.com#$#body { overflow: auto !important; }
 yahoo.co.jp###Perorin
@@ -136,6 +138,7 @@ ibe.kr#$#.modal-backdrop { display: none!important; }
 ibe.kr#$#body { overflow: visible!important; }
 urbes.com.br##.modal
 navcargo.com.br###body-modal
+khersondaily.com###socialGroups
 administradores.com.br#?#.tulsa-campaign
 administradores.com.br#$?#html.om-position-popup body { overflow: auto!important; }
 pravda.if.ua##.mpp-container

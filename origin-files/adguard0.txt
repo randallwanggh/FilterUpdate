@@ -1,6 +1,10 @@
 !
 !######### Annoying elements (not ads)
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/60819
+||business-standard.com/covid-*.php
+! https://github.com/AdguardTeam/AdguardFilters/issues/60824
+tvr.by##.watermark
 ! https://github.com/AdguardTeam/AdguardFilters/issues/60787
 pomponik.pl##div.inpl-tout[data-theme]
 ! https://github.com/AdguardTeam/AdguardFilters/issues/60561
@@ -1482,6 +1486,7 @@ bournemouthecho.co.uk,eveningtimes.co.uk,greenocktelegraph.co.uk,heraldscotland.
 ! ##.subscribe
 oneplus.com,tickets.ua,woman.ru,elle.ru,marieclaire.ru,europaplus.ru,krossovki.com,belretail.by,thecollegefix.com,femmie.ru,prostofinovo.ru,mauijim.com,netpeak.net,wday.ru,buhgalteria.ru,ellegirl.ru,gameslog.ru,gizmag.com,healthhacks.ru,klerk.ru,menshealth.com,rbc.ru,snce.ru,turizm.ru,wegame.com.ua##.subscribe
 !
+officelife.media##.subscribe-plate
 pinsknews.by#?#.sidebar_list > li.widget:has(> div.textwidget > form[action] strong:contains(Подпишитесь))
 radiokp.ru##.zen-button
 brighteon.com##.bottom-banner
@@ -1695,6 +1700,11 @@ thebell.io##.subs-only__overlay
 thebell.io#$#article.subs-only { height: auto !important; overflow: visible !important; }
 thebell.io##.follow > .follow__subtitle
 thebell.io##.follow > .follow-form
+thebell.io##app-subscription-sticky-dialog
+thebell.io##app-post-subscription
+thebell.io##app-widget-subscription
+thebell.io#$#.post_subscribe { display: none !important; }
+thebell.io#$#.post_content.newsletter { max-height: none !important; }
 enginform.com##.mailing_j
 inforesist.org##.share-news
 getpocket.com###pocket-hits-container > div[class^="css-"][class*="-Chyron-Chyron-Chyron"] > div[class^="css-"][class*="-CTAContainer"]
