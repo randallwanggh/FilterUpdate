@@ -3225,6 +3225,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||adgardener.com^
 ||adgatemedia.com^
 ||adgear.com^
+||adgebra.co.in^
 ||adgebra.in^
 ||adgeiros.pw^
 ||adgent007.com^
@@ -8510,7 +8511,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||cnzzlink.com^
 ||co.dtech.baofeng.com^
 ||co.hltv.org^
-||co.in^
 ||coadvertise.com^
 ||coagricu.net^
 ||coaha.frenchgerlemanelectric.com^
@@ -16825,6 +16825,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||inukjwvwhz.com^
 ||inuvo.com^
 ||inuxu.biz^
+||inuxu.co.in^
 ||inveno.com^
 ||invention.festinolente.cl^
 ||invernetter.info^
@@ -20545,6 +20546,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||media.mykodial.com^
 ||media.net^
 ||media.netrefer.com^
+||media.onlineteachers.co.in^
 ||media.pussycash.com^
 ||media.tianjimedia.com^
 ||media01.eu^
@@ -21320,6 +21322,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||moogos.com^
 ||mookie1.com^
 ||moon-ads.com^
+||moonbit.co.in^
 ||moonicorn.network^
 ||moonify.io^
 ||moonlightingapi-ads.com^
@@ -22052,6 +22055,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||netc.sfr.fr^
 ||netcatx.com^
 ||netclickstats.com^
+||netcore.co.in^
 ||netcoresmartech.com^
 ||netcounter.de^
 ||netdebit-counter.de^
