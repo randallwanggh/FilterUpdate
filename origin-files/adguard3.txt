@@ -56,6 +56,10 @@ ignshop.hu,download.pixelexperience.org,waterdrop.com,exvital.de,mobile01.com,du
 ! ###cookie-box
 aksaelektrik.com.tr,ergo.de,fosforludusunceler.com,kirtkirtla.com,sonaktuel.com,muglaweather.com,denizcilikbilgileri.com,filmonerileri.org,wblogy.com,dnschecker.org,krombacher.de###cookie-box
 !
+nordkurier.de###nk-cookie-consent
+qp.com.tr###cerez-politikasi-top
+makfa.ru##.bottom-disclaimer
+gittigidiyor.com##section[class^="styles__PolicyAlertWrapper-"]
 nebo.app##.app-notifications
 nkolayode.com##.sticky-info-band
 m.economictimes.com##.privacy_block
@@ -2358,7 +2362,7 @@ fastcompany.com##.page-header > .notification
 this.kiji.is##.page__gdpr
 pantaflix.com##.panta-js-cookieNotificationBar
 priberam.org##.pb-cookies
-ulakci.com,mavikocaeli.com.tr,alfabank.ru,dirilispostasi.com,teknolojioku.com##.policy
+antalyahakkinda.com,ulakci.com,mavikocaeli.com.tr,alfabank.ru,dirilispostasi.com,teknolojioku.com##.policy
 roosterteeth.com##.policy-banner
 hotellook.com,kongregate.com##.policy-bar
 nazwa.pl##.policy-box
@@ -4149,6 +4153,7 @@ bmwfaq.org#?#.Notices[-ext-has='a[href="//www.bmwfaq.org/help/cookies"]']
 ! JS rules
 !
 ! tarnkappe.info#%#//scriptlet("set-constant", "CM_cookieManager.start", "noopFunc")
+ergo-impulse.de#%#//scriptlet("remove-class", "borlabs-position-fix", "body")
 tataq.com#%#//scriptlet('prevent-setTimeout', '#cookies')
 webradio.de#%#AG_onLoad(function(){setTimeout(function(){var a=document.querySelector('#uc-btn-accept-banner');a&&a.click()},2500)});
 stabila.com#%#(function(){-1==document.cookie.indexOf("cms_cookies")&&(document.cookie="cms_cookies=6; path=/;",document.cookie="cms_cookies_saved=true; path=/;",location.reload())})();

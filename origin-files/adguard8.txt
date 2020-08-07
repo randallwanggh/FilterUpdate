@@ -94,6 +94,7 @@ sodapdf.com##.be-tooltip
 !
 ! Specific sites
 !
+stackshare.io#%#//scriptlet('remove-cookie', 'pageViews')
 tvoemisto.tv##.community_promo
 sobesednik.ru##.navbar.fixed-bottom
 news.naver.com###channelRecommendLayer
@@ -139,6 +140,7 @@ ibe.kr#$#.modal-backdrop { display: none!important; }
 ibe.kr#$#body { overflow: visible!important; }
 urbes.com.br##.modal
 navcargo.com.br###body-modal
+dev.by##.subscription-popup
 khersondaily.com###socialGroups
 administradores.com.br#?#.tulsa-campaign
 administradores.com.br#$?#html.om-position-popup body { overflow: auto!important; }
@@ -1496,7 +1498,6 @@ mybroadband.co.za##.float-newsletter-bar
 mybroadband.co.za##.next-previous-article
 /tgrm.js$domain=kinocoin.online
 riamobalashiha.ru,riamo.ru##.yandex-news-promo
-kp.ru###MailSubscriptionPopupEl
 masmotors.ru###block-webform-client-block-5816.block-webform
 masmotors.ru###block-webform-client-block-7622.block-webform
 itcrumbs.ru##.check-also-right

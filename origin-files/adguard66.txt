@@ -925,6 +925,8 @@ fofmyanmar.com##center > a[rel="noopener noreferrer"] > img
 ! https://github.com/AdguardTeam/AdguardFilters/issues/60660
 ||zavporn.net/images/9.gif
 zavporn.net##.opt
+! https://github.com/AdguardTeam/AdguardFilters/issues/61007
+||hsex.men/view/img/*.gif
 ! https://github.com/AdguardTeam/AdguardFilters/issues/60802
 mobile01.com##div[id^="_popIn_recommend"]
 mobile01.com##div[id^="dablewidget_"][data-widget_id]
@@ -948,6 +950,9 @@ hxcpp13.com###player-bottom-ads
 huaban.com##div[class="pin wfc ad wft"]
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59009
 teepr.com##body .ucfad_async
+! https://github.com/AdguardTeam/AdguardFilters/issues/60974
+tw.stock.yahoo.com#?#.news > div[class="bd quote"]:has(ul > li > .geminiAd)
+tw.stock.yahoo.com###ysmcm
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59264
 !+ PLATFORM(ios, ext_android_cb)
 @@||static.youranshare.com/*/adsbygoogle_adview_pic_cpc_cpm_cpa_guanggao_gg_ads_300x250.js
@@ -3682,6 +3687,8 @@ bhaskar.com#%#var canABP = true;
 !------------------------------ Indonesian ---------------------------
 !---------------------------------------------------------------------
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/60769
+goodnewsfromindonesia.id###mybot-adcover
 ! https://github.com/AdguardTeam/AdguardFilters/issues/60909
 bioskopkeren.link#$##film { display: block !important; }
 bioskopkeren.link#$##filmoncereklam { display: none !important; }
@@ -5233,6 +5240,8 @@ dap-news.com##.ads
 !------------------------------ Korean -------------------------------
 !---------------------------------------------------------------------
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/60419
+ppss.kr##.ppss-title-banner
 ! https://github.com/AdguardTeam/AdguardFilters/issues/60583
 !+ PLATFORM(windows, mac, android)
 @@||cmt.dcnewsj.joins.com//web//reply.css$domain=dcnewsj.joins.com
