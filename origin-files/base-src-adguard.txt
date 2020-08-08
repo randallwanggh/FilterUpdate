@@ -64,6 +64,7 @@ $websocket,domain=300mbfilms.io|lib.rus.ec
 .club/rp/rp.php?site=
 .cn/?ss=
 .cn/b.gif?
+.co/gc?id=$domain=nzma.org.nz
 .com/*&refer=*&kw=*&key=*&scrWidth=*&scrHeight=*&tz=*&res=*&dev=
 .com/*/*/*/*.js$domain=cimaclub.cam|govid.co
 .com/*?*&refer=*fmovies.*&adb=
@@ -26928,6 +26929,7 @@ quora.com##.NewGridQuestionPage .linked_content
 quora.com##.OpenInAppBanner
 quora.com##.PromptsList
 quora.com##.ViewInAppLink
+quora.com##.q-box > div.qu-overflow--hidden[class*="Banner___StyledFlex-"]
 quora.com##.q-box > div[class^="CssComponent-"][style*="height: 50px;"]
 quora.com##.spacing_log_question_page_ad
 quora.com##div.Bundle:not([class*=" "])[data-clog-metadata]
@@ -44477,6 +44479,7 @@ zzz.com.ua##body > div[style="text-align:center;font-size:11px;font-family:arial
 ||g.vev.io^$third-party
 ||g00.performgroup.com/g00/$media,mp4,domain=player.performgroup.com
 ||g0ads.com^$third-party
+||g2178927685.co^$third-party
 ||g22rbb7.com^
 ||g2insights-cdn.azureedge.net/*/mng/g2insights.min.js
 ||g3j2wzmon8b.com^
