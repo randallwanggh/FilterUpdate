@@ -33734,6 +33734,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||xkyicwujsmepsh.com^
 ||xkzrbaexyrds.com^
 ||xkzzkxntmryst.com^
+||xladapi.izuiyou.com^
 ||xlbbhdarc.com^
 ||xlcun.com^
 ||xleebhxalb.com^
