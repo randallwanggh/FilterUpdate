@@ -22,6 +22,7 @@
 ||nd.demdex.net/event?d_mid=$empty,important,domain=9now.com.au
 ||adc.nine.com.au/?token=$empty,important,domain=9now.com.au
 !
+||prometeo-media-service.com/assets/pixel.gif
 ||capi.connatix.com/tr/
 ||i.milliyet.com.tr/D/j/Molatik/GoogleAnalit.js
 .co/gc?id=$domain=nzma.org.nz
@@ -1720,7 +1721,7 @@ dreamprogs.net##td[width="88"][height="31"]
 ||youtube-nocookie.com/gen_204?
 ||youtube.com/api/stats/ads?
 ||youtube.com/api/stats/qoe?
-||youtube.com/api/stats/watchtime?
+||youtube.com/api/stats/atr
 ||youtube.com/csi_204?
 ||youtube.com/gen_204
 ||youtube.com/gen_204?$~xmlhttprequest
