@@ -1,4 +1,4 @@
-#version=202008041953
+#version=202008112010
 #url=https://github.com/VeleSila/yhosts/blob/master/hosts
 #-----Test
 127.0.0.1 at.umeng.com
@@ -3251,6 +3251,7 @@
 127.0.0.1 code.33shangyou.com
 127.0.0.1 code.3shangyou.com
 127.0.0.1 code.bianxianwu.com
+127.0.0.1 code.fjhongou.com
 127.0.0.1 code.hajuwang.cn
 127.0.0.1 code.laojiayoufang.com
 127.0.0.1 code.ttpaper.com
@@ -3973,6 +3974,7 @@
 127.0.0.1 eo.ssdoi.com
 127.0.0.1 eo.syrki.xyz
 127.0.0.1 eo.szimic.cn
+127.0.0.1 eo.un060y.cn
 127.0.0.1 eo.wamcjfg.cn
 127.0.0.1 eo.yhcrqzj.cn
 127.0.0.1 eo.zvygzatj.cn
@@ -4230,6 +4232,7 @@
 127.0.0.1 img.xa9t.com
 127.0.0.1 img.xiacaidd.com
 127.0.0.1 img.xiwnu.cn
+127.0.0.1 img.xszedu.com
 127.0.0.1 img.yingshidiguo.cn
 127.0.0.1 img.yqgytx.com
 127.0.0.1 img.yuyue007.cn
@@ -5572,6 +5575,7 @@
 127.0.0.1 mo.shezhuang.top
 127.0.0.1 mo.syrki.xyz
 127.0.0.1 mo.szimic.cn
+127.0.0.1 mo.un060y.cn
 127.0.0.1 mo.wajsa.com
 127.0.0.1 mo.wamcjfg.cn
 127.0.0.1 mo.yhcrqzj.cn
@@ -5788,6 +5792,7 @@
 127.0.0.1 pibaba.com.cn
 127.0.0.1 pic.14bobo.com
 127.0.0.1 pic.by175.com
+127.0.0.1 pic.gzkyjx.com
 127.0.0.1 pic.haowj.com.cn
 127.0.0.1 pic.modpi.cn
 127.0.0.1 pic.neiyicun.net
@@ -5999,6 +6004,7 @@
 127.0.0.1 s1.qiqutt.cn
 127.0.0.1 s1.qiqutt.com
 127.0.0.1 s1.szlu-an.com
+127.0.0.1 s1.xtyzljs.cn
 127.0.0.1 s2.dnaxddnc.com
 127.0.0.1 s2.kuaibaopay.com
 127.0.0.1 s2.leshi123.cc
@@ -6082,7 +6088,9 @@
 127.0.0.1 ssh.hxlif.com
 127.0.0.1 ssh.jsyzw132.com
 127.0.0.1 ssh.lifu11.com
+127.0.0.1 ssh.q4hwkg.cn
 127.0.0.1 ssh.szxiuchang.com
+127.0.0.1 ssh.wbdcrmn.cn
 127.0.0.1 ssh.yezijizhang.com
 127.0.0.1 ssl.51lhcx.com
 127.0.0.1 ssl.aszy.club
@@ -6213,6 +6221,7 @@
 127.0.0.1 tg.bwc178.com
 127.0.0.1 tg.qilashou.com
 127.0.0.1 tgd.a1eg07.cn
+127.0.0.1 thefatherofsalmon.com
 127.0.0.1 tikn.hwgs.info
 127.0.0.1 titi.18tzx.com
 127.0.0.1 titi.qifajiang.cn
@@ -6262,6 +6271,7 @@
 127.0.0.1 u.umm6.cn
 127.0.0.1 u.yiiwoo.com
 127.0.0.1 u.xfmfqdt.cn
+127.0.0.1 u.zoulj.xyz
 127.0.0.1 u034024.nr1234.com
 127.0.0.1 u291014.nr1234.com
 127.0.0.1 u349036.ff112222.com
@@ -6279,6 +6289,7 @@
 127.0.0.1 ujm.snackmachinery.cn
 127.0.0.1 uk3oi.adgze.cn
 127.0.0.1 ulok.zutodu.cn
+127.0.0.1 um.hwszq.com
 127.0.0.1 um.tltwcn.com
 127.0.0.1 um29.com
 127.0.0.1 unhold.ldgjhd.net
@@ -6618,6 +6629,7 @@
 127.0.0.1 www.k3bos.com
 127.0.0.1 www.kaitongyewu.com
 127.0.0.1 www.kaitoupiao.com
+127.0.0.1 www.kanglingjiu.com
 127.0.0.1 www.kanshuapp.com
 127.0.0.1 www.kfdqwo.top
 127.0.0.1 www.kiaokuayoutui.com

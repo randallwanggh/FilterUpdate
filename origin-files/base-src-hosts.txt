@@ -23042,6 +23042,7 @@
 127.0.0.1 code.etracker.com
 127.0.0.1 code.fastclick.net
 127.0.0.1 code.fastclick.net
+127.0.0.1 code.fjhongou.com
 127.0.0.1 code.guomob.com
 127.0.0.1 code.hajuwang.cn
 127.0.0.1 code.hot-mob.com
@@ -29807,6 +29808,7 @@
 127.0.0.1 eo.ssdoi.com
 127.0.0.1 eo.syrki.xyz
 127.0.0.1 eo.szimic.cn
+127.0.0.1 eo.un060y.cn
 127.0.0.1 eo.wamcjfg.cn
 127.0.0.1 eo.yhcrqzj.cn
 127.0.0.1 eo.zvygzatj.cn
@@ -37319,6 +37321,7 @@
 127.0.0.1 img.xiacaidd.com
 127.0.0.1 img.xiwnu.cn
 127.0.0.1 img.xnxx.com
+127.0.0.1 img.xszedu.com
 127.0.0.1 img.xuwnz.cn
 127.0.0.1 img.yingshidiguo.cn
 127.0.0.1 img.yomereba.com
@@ -46728,6 +46731,7 @@
 127.0.0.1 mo.syrki.xyz
 127.0.0.1 mo.szimic.cn
 127.0.0.1 mo.test.haloapps.com
+127.0.0.1 mo.un060y.cn
 127.0.0.1 mo.wajsa.com
 127.0.0.1 mo.wamcjfg.cn
 127.0.0.1 mo.yhcrqzj.cn
@@ -52885,6 +52889,7 @@
 127.0.0.1 pic.eduancm.com
 127.0.0.1 pic.fastapi.net
 127.0.0.1 pic.guomob.com
+127.0.0.1 pic.gzkyjx.com
 127.0.0.1 pic.h0817.com
 127.0.0.1 pic.haowj.com.cn
 127.0.0.1 pic.jd-bbs.com
@@ -58142,6 +58147,7 @@
 127.0.0.1 s1.szlu-an.com
 127.0.0.1 s1.tansuotv.com
 127.0.0.1 s1.thecounter.com
+127.0.0.1 s1.xtyzljs.cn
 127.0.0.1 s1.yicha.jp
 127.0.0.1 s1.yzdh44.com
 127.0.0.1 s10.addthis.com
@@ -62515,7 +62521,9 @@
 127.0.0.1 ssh.jsyzw132.com
 127.0.0.1 ssh.lifu11.com
 127.0.0.1 ssh.mi61l.cn
+127.0.0.1 ssh.q4hwkg.cn
 127.0.0.1 ssh.szxiuchang.com
+127.0.0.1 ssh.wbdcrmn.cn
 127.0.0.1 ssh.yezijizhang.com
 127.0.0.1 sshowads.pubmatic.com
 127.0.0.1 ssklep.in.net
@@ -66165,6 +66173,7 @@
 127.0.0.1 theebeautyspot.co.uk
 127.0.0.1 theeldergeek.us.intellitxt.com
 127.0.0.1 theeldergeek.us.intellitxt.com
+127.0.0.1 thefatherofsalmon.com
 127.0.0.1 thefazlinazira.blogspot.com
 127.0.0.1 thefinalfantasy.us.intellitxt.com
 127.0.0.1 thefinalfantasy.us.intellitxt.com
@@ -68854,6 +68863,7 @@
 127.0.0.1 u.xfmfqdt.cn
 127.0.0.1 u.yiiwoo.com
 127.0.0.1 u.yizuya.com
+127.0.0.1 u.zoulj.xyz
 127.0.0.1 u0.extreme-dm.com
 127.0.0.1 u0.extreme-dm.com
 127.0.0.1 u0.s.minisplat.cn
@@ -69151,6 +69161,7 @@
 127.0.0.1 ultsearch.com
 127.0.0.1 ulusalofis.com
 127.0.0.1 um.hd.sohu.com
+127.0.0.1 um.hwszq.com
 127.0.0.1 um.simpli.fi
 127.0.0.1 um.simpli.fi
 127.0.0.1 um.tltwcn.com
@@ -79243,6 +79254,7 @@
 127.0.0.1 www.kancelariainnowacji.pl
 127.0.0.1 www.kancelariakufieta.pl
 127.0.0.1 www.kancelariaskawina.pl
+127.0.0.1 www.kanglingjiu.com
 127.0.0.1 www.kanjiantu.com
 127.0.0.1 www.kanshuapp.com
 127.0.0.1 www.kanze.pl
