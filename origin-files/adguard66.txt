@@ -317,6 +317,8 @@ hayastantv.co#@#.afs_ads
 !---------------------------------------------------------------------
 !------------------------------ Azerbaijani --------------------------
 !---------------------------------------------------------------------
+||code.ainsyndication.com^
+kayzen.az##.Blocksmaster
 mp3le.sende.biz##center > a[href^="https://kingads.mobi/redirect/"]
 edumap.az##.textwidget > a[href] > img
 sherg.az##.bannerler
@@ -3756,7 +3758,6 @@ oploverz.in#%#//scriptlet("abort-on-property-read", "Object.prototype.Focm")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/51614
 tokopedia.com##.success .ta-inventory[id^="promo"][ad_url]
 tokopedia.com##div[data-testid="topadsCPMWrapper"]
-tokopedia.com#?#div[class^="css-"] > a[data-testid="lnkProductContainer"]:has(> div[data-testid="divProductWrapper"] > div[class^="css-"] > div[class^="css-"] > div[class^="css-"] > img[alt="topads icon"])
 tokopedia.com#?#div[data-testid="divSRPContentProducts"] > div[class^="css-"]:has(> a[data-testid="lnkProductContainer"] > div[data-testid="divProductWrapper"] > div[class^="css-"] > div[class^="css-"] > div[class^="css-"] > img[alt="topads icon"])
 ! https://github.com/AdguardTeam/AdguardFilters/issues/51488
 seputarforex.com##.text-right[style*="font-size: 10px;"]
@@ -3988,6 +3989,7 @@ tribunnews.com##.ads__horizontal
 tribunnews.com###adspop
 tribunnews.com###wideskyscraper
 !
+semprot.com##.semprotnenenmontok_adalah_pujaan_hatiku > div[style]:not([id]):not([class])
 telset.id##.footer_sticky
 ! https://github.com/AdguardTeam/AdguardFilters/issues/40700
 @@.bid$image,domain=manhwa-manga.bid
@@ -6419,6 +6421,8 @@ innpoland.pl,mamadu.pl,dadhero.pl,natemat.pl#%#//scriptlet("prevent-eval-if", "i
 @@||video.onnetwork.tv/adblock_notify.js
 ||request.dqst.pl/v*/$xmlhttprequest
 !
+! slidety.com - antiadblock
+slidety.com##.adace-popup
 ! motocaina.pl - ads
 motocaina.pl##iframe[src^="/acme/"][src$="index.html"]
 ||motocaina.pl/acme/*/index.html$subdocument
@@ -7297,12 +7301,12 @@ www.wp.pl#$#body { overflow: visible!important; }
 ||dynacrems.wp.pl/staticad/$replace=/.+//,important
 ||dynacrems.wp.pl/script/?id=*&placement_id=$replace=/.+//,important
 ||dobreprogramy.pl/cdn/*assets/js/wpjslib-sgap.js$replace=/(display:\\s\*)none(\\s\*!important)/\$1\$2/,important
-||std.wpcdn.pl/wpjslib/wpjslib-stat.js$replace=/((display:\\s\*)none(\\s\*!important)|((\.hostname;function .\(\)|=function\(\))\{return) .===[\S]*?(\}))/\$2\$3\$4\$6/,script
-||std.wpcdn.pl/wpjslib/wpjslib-nojq.js$replace=/((display:\\s\*)none(\\s\*!important)|((\.hostname;function .\(\)|=function\(\))\{return) .===[\S]*?(\}))/\$2\$3\$4\$6/,script
-||std.wpcdn.pl/wpjslib/wpjslib-core.js$replace=/((display:\\s\*)none(\\s\*!important)|((\.hostname;function .\(\)|=function\(\))\{return) .===[\S]*?(\}))/\$2\$3\$4\$6/,script
-||wpimg.pl/a/i/stg/wpjslib_*.js$replace=/((display:\\s\*)none(\\s\*!important)|((\.hostname;function .\(\)|=function\(\))\{return) .===[\S]*?(\}))/\$2\$3\$4\$6/,script
-||std.wpcdn.pl/wpjslib/wpjslib_*.js$replace=/((display:\\s\*)none(\\s\*!important)|((\.hostname;function .\(\)|=function\(\))\{return) .===[\S]*?(\}))/\$2\$3\$4\$6/,script
-||std.wpcdn.pl/wpjslib/wpjslib-sgap.js$replace=/((display:\\s\*)none(\\s\*!important)|((\.hostname;function .\(\)|=function\(\))\{return) .===[\S]*?(\}))/\$2\$3\$4\$6/,script
+||std.wpcdn.pl/wpjslib/wpjslib-stat.js$replace=/((display:\\s\*)none(\\s\*!important)|((\.hostname;function .\(\)|=function\(\))\{return) [a-zA-Z]===[\S]*?(\}))/\$2\$3\$4\$6/,script
+||std.wpcdn.pl/wpjslib/wpjslib-nojq.js$replace=/((display:\\s\*)none(\\s\*!important)|((\.hostname;function .\(\)|=function\(\))\{return) [a-zA-Z]===[\S]*?(\}))/\$2\$3\$4\$6/,script
+||std.wpcdn.pl/wpjslib/wpjslib-core.js$replace=/((display:\\s\*)none(\\s\*!important)|((\.hostname;function .\(\)|=function\(\))\{return) [a-zA-Z]===[\S]*?(\}))/\$2\$3\$4\$6/,script
+||wpimg.pl/a/i/stg/wpjslib_*.js$replace=/((display:\\s\*)none(\\s\*!important)|((\.hostname;function .\(\)|=function\(\))\{return) [a-zA-Z]===[\S]*?(\}))/\$2\$3\$4\$6/,script
+||std.wpcdn.pl/wpjslib/wpjslib_*.js$replace=/((display:\\s\*)none(\\s\*!important)|((\.hostname;function .\(\)|=function\(\))\{return) [a-zA-Z]===[\S]*?(\}))/\$2\$3\$4\$6/,script
+||std.wpcdn.pl/wpjslib/wpjslib-sgap.js$replace=/((display:\\s\*)none(\\s\*!important)|((\.hostname;function .\(\)|=function\(\))\{return) [a-zA-Z]===[\S]*?(\}))/\$2\$3\$4\$6/,script
 !+ NOT_PLATFORM(ext_ff)
 ||wp.pl^$replace=/(^(WP\.[\s\S]*?\.bodies)=WP\.[\s\S]*?\.bodies\|\|\{\};[\s\S]*)|((display:\\s\*)none(\\s\*!important)|((\.hostname;function .\(\)|=function\(\))\{return) [a-zA-Z]===[\S]*?(\}))/\$4\$5\$6\$8/,script
 !+ PLATFORM(ext_ff)

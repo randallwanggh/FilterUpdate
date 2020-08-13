@@ -95,6 +95,8 @@ sodapdf.com##.be-tooltip
 !
 ! Specific sites
 !
+slidety.com##.g1-slideup-newsletter
+slidety.com#%#document.cookie = "g1_popup_disabled=1; path=/;";
 sneakerhead.ru##.retailrocket-popup
 dictionary.com###marketingBanner-right
 sneakerstudio.com.ua###myoverlay
@@ -147,6 +149,8 @@ hibboux.com##.fix-wapp
 senpa.io###new-panel
 ||macmost.com/wp-content/themes/*/awpop-subscribe-*.js
 ||cyprusjobcentre.com/template/*/jQuery.NagAds.min.js
+mamasepeti.com#$#.pWrapper { display: none!important; }
+mamasepeti.com#$#body { overflow: visible!important; }
 ibe.kr#$##ouibounce-modal { display: none!important; }
 ibe.kr#$#.modal-backdrop { display: none!important; }
 ibe.kr#$#body { overflow: visible!important; }
