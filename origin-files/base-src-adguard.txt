@@ -23394,6 +23394,7 @@ nhlstream.net,nbastream.net,nfl-stream.live###sidebar > #text-3
 nhs.uk###global-cookies-banner
 nhungcaunoihay.net##.text > a[href^="/away.php?file="][rel="nofollow"] > img
 ni.dk#@#a[href*=".adform.net/"]
+nianticlabs.com##ark-cookiebar
 nianticlabs.com##body > .nl-cpb
 nicematin.com##.newsletter_block
 nicequest.com##.dialog-cookies
@@ -26220,6 +26221,7 @@ porntube.com##.videoplayer.last > div.container > div.row > div > div.row > div.
 porntube.com##.webcam-shelve
 porntube.com##iframe[src^="https://as.sexad.net/"]
 porntube.com#%#window.adsEnabled = true;
+porntube.com#?#.shelve > .row-grid > div[class^="col-"]:has(> iframe[src*="external"])
 pornve.com###teaser2
 pornve.com#%#(function() { window.xRds = false; window.frg = true; window.frag = true;  })();
 pornvibe.org###menu-main-navigation-1 > li > a[target="_blank"]
@@ -28546,6 +28548,7 @@ schwaebisch-hall.de#$#.blur-screen-no-interaction { -webkit-filter: none !import
 schwaebisch-hall.de#$#.show-cookie-banner { display: none !important; }
 schwaebisch-hall.de#@#.cookie-note
 schwaebische.de###button_bar > div[data-original-title*="teilen"]
+schwaebische.de##div[class*="tc-privacy-"]
 schwaebische.de#$##button_bar > div[data-original-title*="teilen"] { position: absolute!important; left: -3000px!important; }
 schwaebische.de#?#aside > .grey[-ext-has='>div.fb-page']
 schwarzwaelder-bote.de##.social-ext
@@ -39714,6 +39717,7 @@ zzz.com.ua##body > div[style="text-align:center;font-size:11px;font-family:arial
 ||analytics.omgpop.com/log
 ||analytics.ooyala.com^
 ||analytics.plaid.com^
+||analytics.plex.tv^
 ||analytics.posttv.com^
 ||analytics.proxer.me^
 ||analytics.qoqa.ch^
@@ -44385,6 +44389,7 @@ zzz.com.ua##body > div[style="text-align:center;font-size:11px;font-family:arial
 ||focus.lv/social_*.html
 ||focusego.info^$third-party
 ||foditgoz.com^
+||fogbigcourt.com^
 ||fogl1onf.com^$third-party
 ||fokgwuoft.com^
 ||followercounter.com^$third-party
@@ -47652,6 +47657,7 @@ zzz.com.ua##body > div[style="text-align:center;font-size:11px;font-family:arial
 ||m.805zx.cn/uu.php?
 ||m.81new.com/scripts/common.js
 ||m.8800266.com.cn^$third-party
+||m.8shuku.net/wap/tj1.js
 ||m.91heima.cn^$third-party
 ||m.91xiaodu.top^$third-party
 ||m.addthisedge.com^$third-party
