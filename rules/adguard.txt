@@ -445,6 +445,7 @@ $websocket,domain=300mbfilms.io|lib.rus.ec
 /cmp/cmp.js
 /cmp/heycookie.js
 /cmp/int_cmp.
+/cmp_didomi.js
 /cmp_shim.js
 /cnil-cookies_
 /cnil.js
@@ -614,6 +615,7 @@ $websocket,domain=300mbfilms.io|lib.rus.ec
 /data/banner/*$domain=torrevi.me|torrentww.net|u-tofiles.net|u2-file.me|torrentmaps.net|toggiri.org
 /db.js?_dc=
 /di3asdadasdadas.di3asdsa.js
+/didomi.js
 /divascookies_
 /doseofporn.com\/[a-z]{0,5}[1-9]{0,5}[a-z]{0,5}[1-9][s\S]*.js/
 /dotbandeaucookie/*
@@ -11739,7 +11741,6 @@ forbes.pl##.nitro-right
 forbes.pl##div[data-run-module="local/main.stickyAloneAd"]
 forbes.pl,onet.pl,pclab.pl##.cmp-app_gdpr
 forbes.ru##.article-soc-for-mobile
-forbes.ru##.article__share
 forbes.ru##.article__subscribe
 forbes.ru##.push_back
 forbes.ru##.push_warn
@@ -16708,7 +16709,6 @@ jarock.pl##.post-container .sidebar .post-fb-box
 jarock.pl##div[class^="a-d-banner"]
 jasonsavard.com##.localAd
 jasonsavard.com,rawstory.com,zik.ua###mc_embed_signup_scroll
-jasonsavard.com,sosyalhalisaha.com,fourfourtwo.com.tr,liberation.fr,meizufans.eu##.twitter-share
 jauns.lv##.gdpr-consent
 jav-model.com,vaisex.com,javbi.com##.loading-ad
 jav-xx.com,av-uncen.com##img[src$="/gclub-ads.gif"]
@@ -17803,6 +17803,7 @@ knowyourmeme.com###ctoolbar
 knowyourmeme.com##.combo-wrapper
 knowyourmeme.com##.fb-page-like
 knowyourmeme.com##.floating-share-bar
+knowyourmeme.com##.homepage-share
 knuddels.de###cookie-accept-banner
 knuddels.de###root > div[class*="ColumnFluid"] > div[class*="ColumnFluid"] > div[class*="Column__Column"] > div[style^="background-repeat: no-repeat; opacity:"][style*="background-color: rgb"]
 knuddels.de##.Column__Column___3SsHN[style*="background-color"][style*="opacity: "]
@@ -18438,6 +18439,8 @@ lepoint.fr##.bandeau-cookies
 lepoint.fr##a[href^="https://moncompte.lepoint.fr/campagne/newsletters"]
 leporno.org/english.js
 lequipe.fr##.didomi-regular-notice
+lequipe.fr#$#div[aria-expanded="true"] { display: none !important; }
+lequipe.fr#$#html { overflow: auto !important; }
 lequipe.fr#@#.pub_300x250
 lequipe.fr#@#.pub_300x250m
 lequipe.fr#@#.pub_728x90
@@ -21600,6 +21603,8 @@ mobilescout.com##.ads.square
 mobilescout.com##.banner_list_container
 mobilescout.com##.banner_news_top_box
 mobilesyrup.com##div[class^="mobile-ads"]
+mobilevikings.be#$#.cookieWall { display: none !important; }
+mobilevikings.be#$#.no-scroll { overflow: visible !important; }
 mobileworld.it,smartworld.it,androidworld.it##.bzsocial
 mobilkulup.com##.TapatalkBanner_Container
 mobilluck.com.ua###subscripepopup
@@ -24864,7 +24869,6 @@ parliamentlive.tv#$#.modal-backdrop { display:none!important; }
 parliamentlive.tv#$#.modal-open { overflow:visible!important; }
 parliamentlive.tv#@##cookies
 parmigiani.com##.slideout-cookies
-paroles.net##.didomi-notice-popup
 particuliers.societegenerale.fr#$##n2g_box_cookie_alerte_message { display: none!important; }
 particuliers.societegenerale.fr#$#body[style="background-position: center 42px;"] { background-position: center top!important; }
 partnerize.com###cookie_opt_out_wrapper
@@ -25567,7 +25571,6 @@ playhd.stream##a[href="http://www.playhd.stream/streamhd.html"]
 playhub.com##.promo-game
 playhub.com##span[class^="ad-title-"]
 playhydrax.com,hydrax.net#%#//scriptlet("set-constant", "isClick", "true")
-playhydrax.com,hydrax.net#%#//scriptlet('prevent-window-open', '0', 'hydrax', 'trueFunc')
 playhydrax.com,hydrax.net#@#.afs_ads
 playisgame.com,playway.com###sp-cookie-consent
 playlive.net##.paper-client-privacy-agreement
@@ -30113,7 +30116,6 @@ sozosblog.com###banner-lad
 sozosblog.com###load-featured-content
 sozosblog.com###sidebar a[href="/go.php"][rel="nofollow"] > img
 sozosblog.com#%#AG_onLoad(function(){AG_each('#content-area a[href="/go.php"][rel="nofollow"]',function(el){el.removeAttribute('href');});});
-sozsepeti.com,ozgurgundemtrakya.com,bilecik11.com###social-platforms
 sp-mobile-blog.com##.widget_vk_twitter_widget
 sp.baseball.findfriends.jp##.AppInstWrap
 space.com###article-body > figure > a[target="_blank"] img
@@ -30434,6 +30436,7 @@ sportlive24.me,tutele.me,drhtv.tv$$script[tag-content="$('#ad').show();"][max-le
 sportlive24.me,tutele.me,drhtv.tv$$script[tag-content="ads_link"][max-length="2000"]
 sportmail.ru##div[id^="notification"]
 sportmail.ru#%#//scriptlet("set-constant", "Object.prototype.mimic", "undefined")
+sportmaster.ru##.sm-goods_main_details_social
 sportnews.to##span.mol-ads-label-container
 sportnieuws.nl#%#AG_onLoad(function() { setTimeout(function() { if(window.location.href.indexOf("/cookie-wall") != -1){ var el = document.querySelector('#agree_with_cookie_terms'); if(el) el.click(); }}, 300); });
 sportonline.ua###txtselect_marker
@@ -31787,7 +31790,6 @@ telerium.tv#?#body > div[id]:has(iframe[src*="rsc.cdn77.org/"])
 telerium.tv#?#body > div[id]:has(iframe[src^="//teleriumads-"])
 telerium.tv#?#body > div[id]:has(iframe[src^="https://static.tellerium.com/"])
 telestar.fr##.dfp-slot-megaban
-telestar.fr##.didomi-notice-popup
 telestar.fr##body > div[id^="detection-block"]
 teletoonplus.pl###nctopcontainer
 teletoonplus.pl##iframe#nctop
@@ -32050,6 +32052,7 @@ thechive.com##div[data-sumome-share]
 theclassicporn.com###jerrys
 theclassicporn.com##.player-container > div[id^="stop"]
 thecode.media##.post-social-links
+thecodebarbarian.com,jasonsavard.com,sosyalhalisaha.com,fourfourtwo.com.tr,liberation.fr,meizufans.eu##.twitter-share
 thecollegefix.com##.newsletter-modal
 theconversation.com##.promo > div[class^="MuiSnackbar-root-"]
 theculturetrip.com##div[class^="bannerstyled__CookieBannerWrapper-"]
@@ -33720,6 +33723,7 @@ tutorialspoint.com##.top-ad-heading
 tutorialspoint.com##.topgooglead
 tutorialsteacher.com##.header-ad-div
 tutorialsteacher.com##a[href][onclick="handleEFExtAdClick();"] > img
+tutorialsteacher.com,sozsepeti.com,ozgurgundemtrakya.com,bilecik11.com###social-platforms
 tutsplus.com##.announcement-bar
 tutsplus.com##.avert
 tutsplus.com##.avert--leaderboard
@@ -33848,7 +33852,6 @@ tvp.pl##.article__social > a[class^="article__social-"]
 tvp.pl##.gallery-content__social
 tvp.pl##.module-cookies
 tvp.pl#?#.article__left > .article__content > .article__icons:has(> .article__icons-item > .icon-small-fb)
-tvp.pl,kulturologia.ru,jolie.de,sosok.grid.id,maedchen.de,9news.com.au,timeout.ru,adme.ru,unisender.com,bt.dk,gva.be,nieuwsblad.be,novate.ru,qiez.de,rt.com,brightside.me,rt.com##.article__share
 tvp.pl,tvp.info##.facebook-paragraph
 tvp.pl,tvp.info##.social-article__social
 tvplay.tv3.lt#?##__next > div[class^="sc-"] > div[class^="sc-"]:has(> button)
@@ -40014,6 +40017,7 @@ zzz.com.ua##body > div[style="text-align:center;font-size:11px;font-family:arial
 ||api.trwl1.com/ascripts/gcrt.js
 ||api.tweetmeme.com/button.js$third-party
 ||api.twitter.com/*/count.json$third-party
+||api.twitter.com/*/jot/client_event.json
 ||api.uca.cloud.unity3d.com^
 ||api.usebutton.com^
 ||api.useinsider.com^$third-party
@@ -56501,6 +56505,7 @@ zzz.com.ua##body > div[style="text-align:center;font-size:11px;font-family:arial
 ~ok.ru##a[href^="https://connect.ok.ru/offer?url="]
 ~ok.ru##a[href^="https://ok.ru/dk?st.cmd=addShare"]
 ~ok.ru##a[href^="https://www.odnoklassniki.ru/dk?st.cmd=addShare"]
+~ok.ru##a[href^="https://www.ok.ru/dk?st.cmd=addShare"]
 ~oo-software.com###share-facebook
 ~orteil.dashnet.org###cookies
 ~parfums.ua##.social_networks
