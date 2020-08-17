@@ -95,6 +95,7 @@ sodapdf.com##.be-tooltip
 !
 ! Specific sites
 !
+instagram.com#%#//scriptlet("set-constant", "_sharedData.is_whitelisted_crawl_bot", "true")
 101.ru##.hypotheses-poll
 emtb-news.de,rennrad-news.de##.mtbn-newsletter-bar
 slidety.com##.g1-slideup-newsletter
@@ -2278,6 +2279,10 @@ com-magazin.de##w-div[role$="dialog"]
 ||sud.ua/js/jquery.arcticmodal*.min.js
 ||turkusozu.com/js/fancybox/
 /jquery.magnific-popup.min.js$domain=ufatime.ru|koreanworld.ru
+!
+chronicle.com#$#.bcpNotificationBarStickyBottom { display: none !important; }
+chronicle.com#$#html { overflow: auto !important; }
+chronicle.com#$#body { overflow: auto !important; }
 !
 roscontrol.com#$#.promo-remodal-wrapper { display: none !important; }
 roscontrol.com#$#.promo-popup-overlay { display: none !important; }

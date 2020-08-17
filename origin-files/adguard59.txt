@@ -150,11 +150,18 @@
 ||ulukaris.com^$third-party
 ||evangelineang.com^$third-party
 ||dr.atwoodubre.com^$third-party
+||allowfencelist.com^$third-party
 ||elijahlio.com^$third-party
 ||itadapi.ithome.com.tw^
+||t.njzrxx.xyz^$third-party
 !END: Chinese ad servers
 !
 !
+||vggxxhton.com^$third-party
+||sports-streams-online.com^$third-party
+||track.wg-aff.com^$document,popup
+||lmyiwaakn.com^$third-party
+||analyticsq1.com^$document,popup
 ||fogbigcourt.com^
 ||impactserving.com^$document,popup
 ||crentgate.com^$document,popup

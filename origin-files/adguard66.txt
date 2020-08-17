@@ -928,8 +928,19 @@ fofmyanmar.com##center > a[rel="noopener noreferrer"] > img
 !--- general hide --
 ##a[href^="https://adm.beimg.com/"]
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/61563
+tsubasa.im#%#//scriptlet('prevent-setInterval', 'ty_test_run_counter')
+!#if (adguard_ext_safari || adguard_app_ios || adguard_ext_android_cb)
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=tsubasa.im
+tsubasa.im#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links { display: block !important; }
+!#endif
 ! https://github.com/AdguardTeam/AdguardFilters/issues/61170
 mikanani.me##a[href][onclick*="'ad'"] > img[src^="/images/Masha/"]
+! https://github.com/AdguardTeam/AdguardFilters/issues/61417
+adrama.to#?#.post_sidebar > div.side_box:has(div[id^="mynewads_"])
+adrama.to###container > div[style*="margin-right: 2px;"][style*="width: 300px;"]
+! https://github.com/AdguardTeam/AdguardFilters/issues/61482
+||naifei.shop/static/banner/banner_mobile.jpg
 ! https://github.com/AdguardTeam/AdguardFilters/issues/60660
 ||zavporn.net/images/9.gif
 zavporn.net##.opt
@@ -961,6 +972,8 @@ teepr.com##body .ucfad_async
 ! https://github.com/AdguardTeam/AdguardFilters/issues/60974
 tw.stock.yahoo.com#?#.news > div[class="bd quote"]:has(ul > li > .geminiAd)
 tw.stock.yahoo.com###ysmcm
+tw.stock.yahoo.com##tr:has(> td[valign="top"] > .geminiAd)
+tw.stock.yahoo.com##td > div.ysm
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59264
 !+ PLATFORM(ios, ext_android_cb)
 @@||static.youranshare.com/*/adsbygoogle_adview_pic_cpc_cpm_cpa_guanggao_gg_ads_300x250.js
@@ -2540,6 +2553,9 @@ sport.cz###page .x2-are:not([id])
 ! https://github.com/AdguardTeam/AdguardFilters/issues/27138
 topserialy.to###over-playit
 ||uptopopunder.com^$popup
+! https://github.com/AdguardTeam/AdguardFilters/issues/61169
+@@||idos.idnes.cz^$csp
+@@||cz.mrezadosa.com^$domain=idos.idnes.cz
 ! https://github.com/AdguardTeam/AdguardFilters/issues/25988
 idnes.cz#$#html.klikaci-body body { background:none!important; }
 !#if (adguard_app_ios || adguard_ext_android_cb || adguard_ext_safari)
@@ -2549,6 +2565,26 @@ idnes.cz###portal > a#fellow[onmousedown] > img
 ||1gr.cz/css/idn3/reklama-
 ||mfr.cdn.dopc.cz^$subdocument,domain=idnes.cz
 !#endif
+! https://github.com/AdguardTeam/AdguardFilters/issues/20740
+rajce.idnes.cz###top-banner
+! https://github.com/AdguardTeam/AdguardFilters/issues/31512
+! https://github.com/AdguardTeam/AdguardFilters/issues/11203
+idnes.cz##table[id^="r-leaderboard"].s_branding
+! https://github.com/AdguardTeam/AdguardFilters/issues/6315
+@@||1gr.cz/reklama/banner.js?clickthru=advert|$domain=idnes.cz
+@@||idnes.cz^$generichide
+idnes.cz##[id^="r98."].r-box
+idnes.cz##div[id^="r98."][class*="touch"]
+idnes.cz##.art-full > #text-out-box + div:not([class]):not([id]) > .r-head
+! https://forum.adguard.com/index.php?threads/14098/
+xman.idnes.cz##body > div#main > table[id][class]
+xman.idnes.cz###space-g
+! https://github.com/AdguardTeam/ExperimentalFilter/issues/1232
+idnes.cz#%#Object.defineProperty(window, 'AdTrack', { get: function() { return; } });
+!
+idnes.cz###main [id^="r98."]
+idnes.cz###idnes-premium-popup
+||data.idnes.cz/nocache/DPP/dacan/
 ! https://github.com/AdguardTeam/AdguardFilters/issues/24181
 e15.cz##.ad-skyscrapper
 e15.cz##.ads
@@ -2577,8 +2613,6 @@ eurozpravy.cz##.hp_bottom_ad
 eurozpravy.cz##.hp_top > .leaders + .ad > .in > h6.title
 eurozpravy.cz##.hp_topics_aside > .ad_etarget2 + .ad > .in > h6.title
 ||eurozpravy.cz/etarget.php?
-! https://github.com/AdguardTeam/AdguardFilters/issues/20740
-rajce.idnes.cz###top-banner
 ! stredoevrogan.cz - left-over at top in article
 stredoevropan.cz##.td-header-sp-recs
 ! https://github.com/AdguardTeam/AdguardFilters/issues/20065
@@ -2642,9 +2676,6 @@ aktualne.cz##.special-obal
 ||eco.cdn.dopc.cz^$image
 ! https://github.com/AdguardTeam/AdguardFilters/issues/11585
 peugeotclub.eu#@#.reklama
-! https://github.com/AdguardTeam/AdguardFilters/issues/31512
-! https://github.com/AdguardTeam/AdguardFilters/issues/11203
-idnes.cz##table[id^="r-leaderboard"].s_branding
 ! https://github.com/AdguardTeam/AdguardFilters/issues/10776
 @@||img.blesk.cz/js/base-cz/advert.js
 @@||img.blesk.cz/static/data/blesk/reklama/advertisment.js
@@ -2684,12 +2715,6 @@ sledujufilmy.cz##.bottom-advert
 sledujufilmy.cz##.block[style="position: relative; float: right; height: 848px; margin-right: 16px;"]
 ! https://github.com/AdguardTeam/AdguardFilters/issues/6395
 @@||sledujserialy.sk/theme/js/ads.js
-! https://github.com/AdguardTeam/AdguardFilters/issues/6315
-@@||1gr.cz/reklama/banner.js?clickthru=advert|$domain=idnes.cz
-@@||idnes.cz^$generichide
-idnes.cz##[id^="r98."].r-box
-idnes.cz##div[id^="r98."][class*="touch"]
-idnes.cz##.art-full > #text-out-box + div:not([class]):not([id]) > .r-head
 ! sme.sk - adblock detection
 ||cdn.tinypass.com^$domain=sme.sk
 ! https://forum.adguard.com/index.php?threads/19077/
@@ -2701,9 +2726,6 @@ extra.cz##.main-content > div[id*="-c"]
 ||extra.cz/*._blank$script
 ||extra.cz/*&p=outstream$script
 ||extra.cz/*?test$script
-! https://forum.adguard.com/index.php?threads/14098/
-xman.idnes.cz##body > div#main > table[id][class]
-xman.idnes.cz###space-g
 ! https://forum.adguard.com/index.php?threads/10320/
 extra.cz#%#Object.defineProperty(window, 'windowWidth', { get: function() { return 300; } });
 extra.cz##.container > div[class^="ad "]
@@ -2722,8 +2744,6 @@ tvstar.ch##.ad.rectangle
 !
 bombuj.eu##div[id^="reklaama"]
 sledujserialy.sk##.w-episode-source > div[id][style^="position: absolute; top: 0"]:not([class])
-idnes.cz###main [id^="r98."]
-idnes.cz###idnes-premium-popup
 best4you.sk##a[href*="Onlinefilmy.eu"]
 best4you.sk##a[href*="tipsport.sk"]
 best4you.sk##img[src="/images/multisharesk.gif"]
@@ -2751,7 +2771,6 @@ freevideo.cz##.topstory
 forum.iphone.cz##[src^="http://forum.iphone.cz/julek/west-coast-2.jpg"]
 in-pocasi.cz##a[href^="http://go.cz.bbelements.com/"]
 rozzlobenimuzi.com##body > a
-||data.idnes.cz/nocache/DPP/dacan/
 ||egrensis.cz/images/banner/
 ||forum.iphone.cz/julek/west-coast-2.jpg$domain=forum.iphone.cz
 ||mobilmania.cz/Client.Scripts/Controls.Google.Tracker.js
@@ -2762,8 +2781,6 @@ rozzlobenimuzi.com##body > a
 !------------------
 ! http://forum.adguard.com/showthread.php?10082
 auto.cz#%#Object.defineProperty(window, 'abOpenHelp', { get: function() { return function() { }; } });
-! https://github.com/AdguardTeam/ExperimentalFilter/issues/1232
-idnes.cz#%#Object.defineProperty(window, 'AdTrack', { get: function() { return; } });
 !
 mobilmania.cz#%#AG_onLoad(function() { window.VIDEO_AD_FORCE_YT = true; });
 !------------------

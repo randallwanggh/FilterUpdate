@@ -56,6 +56,10 @@ ignshop.hu,download.pixelexperience.org,waterdrop.com,exvital.de,mobile01.com,du
 ! ###cookie-box
 bilgilobi.com,aksaelektrik.com.tr,ergo.de,fosforludusunceler.com,kirtkirtla.com,sonaktuel.com,muglaweather.com,denizcilikbilgileri.com,filmonerileri.org,wblogy.com,dnschecker.org,krombacher.de###cookie-box
 !
+lenta.com##.cookie-usage-notice
+anzahcraft.de##.notices--floating
+biobellinda.com.tr##.kvk-cookie
+e-sansiro.com###cerekKullanimUyari
 mobilevikings.be#$#.cookieWall { display: none !important; }
 mobilevikings.be#$#.no-scroll { overflow: visible !important; }
 schwaebische.de##div[class*="tc-privacy-"]
@@ -88,6 +92,7 @@ qp.com.tr###cerez-politikasi-top
 makfa.ru##.bottom-disclaimer
 gittigidiyor.com##section[class^="styles__PolicyAlertWrapper-"]
 nebo.app##.app-notifications
+lordiz.com###rb-cookie
 nkolayode.com##.sticky-info-band
 m.economictimes.com##.privacy_block
 ||economictimes.indiatimes.com/gdpr_consent.cms
@@ -3336,7 +3341,7 @@ i.ua##.alarm
 transip.eu,transip.nl##.alert--cookie
 virusscan.jotti.org##.alert-dismissable
 hashflare.io##.alert-dismissible
-015.by,0312.ua,032.ua,0332.ua,0342.ua,0352.ua,0362.ua,0372.ua,0382.ua,0412.ua,04141.com.ua,0432.ua,04563.com.ua,04597.com.ua,04598.com.ua,0462.ua,0472.ua,048.ua,04868.com.ua,0512.com.ua,05136.com.ua,05161.com.ua,0522.ua,0532.ua,05366.com.ua,0542.ua,05447.com.ua,0552.ua,056.ua,0564.ua,0566.com.ua,0569.com.ua,057.ua,061.ua,06153.com.ua,0619.com.ua,0623.com.ua,06236.com.ua,06237.com.ua,06239.com.ua,06242.ua,06252.com.ua,06267.com.ua,06272.com.ua,06274.com.ua,06277.com.ua,0629.com.ua,0642.ua,06452.com.ua,1rnd.ru,3652.ru,3654.ru,3849.com.ua,44.ua,4594.com.ua,5692.com.ua,62.ua,6262.com.ua,6264.com.ua,65.media,7232.kz,8422city.ru,8692.ru,anapa.life,angarsk38.ru,bazhopol.ru,city01.am,city41.ru,citydomodedovo.ru,go01.ru,go11.kz,go212.by,go26.ru,go31.ru,go61.ru,godublin.info,golondon.info,gorod3466.ru,gorodarmavir.ru,gorodpushkin.ru,inaktau.kz,inalmaty.kz,inastana.kz,inatyrau.kz,infolyubertsy.ru,inform69.ru,vilniuje.info##.alert-info
+015.by,0312.ua,032.ua,0332.ua,0342.ua,0352.ua,0362.ua,0372.ua,0382.ua,0412.ua,04141.com.ua,0432.ua,04563.com.ua,04597.com.ua,04598.com.ua,0462.ua,0472.ua,048.ua,04868.com.ua,0512.com.ua,05136.com.ua,05161.com.ua,0522.ua,0532.ua,05366.com.ua,0542.ua,05447.com.ua,0552.ua,056.ua,0564.ua,0566.com.ua,0569.com.ua,057.ua,061.ua,06153.com.ua,0619.com.ua,0623.com.ua,06236.com.ua,06237.com.ua,06239.com.ua,06242.ua,06252.com.ua,06267.com.ua,06272.com.ua,06274.com.ua,06277.com.ua,0629.com.ua,0642.ua,06452.com.ua,1rnd.ru,3652.ru,3654.ru,3849.com.ua,44.ua,4594.com.ua,5692.com.ua,62.ua,6262.com.ua,6264.com.ua,65.media,7232.kz,8422city.ru,8692.ru,anapa.life,angarsk38.ru,bazhopol.ru,city41.ru,citydomodedovo.ru,go01.ru,go212.by,go26.ru,go31.ru,go61.ru,godublin.info,golondon.info,gorod3466.ru,gorodarmavir.ru,gorodpushkin.ru,inaktau.kz,inalmaty.kz,inastana.kz,inatyrau.kz,infolyubertsy.ru,inform69.ru,vilniuje.info##.alert-info
 visitnorway.com##.alert-wrapper-cookie
 aklamio.com,kras.nl##.alert.cookie
 lonelyplanet.com##.alert.is-visible
@@ -3716,6 +3721,10 @@ wykop.pl#$#.type-permanent+#nav { top: 0!important; }
 ||static.canal-plus.net/gitlab/infoslegales/production/cnil_top.js
 ||tol.postnl.nl/toestemming
 ||unsertirol24.com/analytics/analytics_cookie.js
+!
+construction21.org#$##cookiesdirective { display: none !important; }
+construction21.org#$#.ext-el-mask { display: none !important; }
+construction21.org#$#body { overflow: auto !important; }
 !
 coolblue.nl#$#body > div[class="modal-box modal-box--medium js-modal-box"] { display: none !important; }
 coolblue.nl#$#.cookie-notification:not(body) { display: none !important; }
@@ -4407,6 +4416,7 @@ cubbiescrib.com#%#AG_onLoad(function() { setTimeout(function() { if(document.get
 si.com#%#AG_onLoad(function() { setTimeout(function() { if(document.getElementsByClassName("gdpr")[0].isvisible = true) { document.cookie = "euConsent=true"; location.reload(); }; }, 1000); });
 bt.dk#%#document.cookie = "CookieConsent=1";
 myprivacy.medialaan.be#%#AG_onLoad(function() { setTimeout(function() { document.getElementsByClassName("form__button-group")[0].submit(); }, 300); });
+myprivacy.dpgmedia.be#%#AG_onLoad(function() { setTimeout(function() { document.getElementsByClassName("form__button-group")[0].submit(); }, 300); });
 evaair.com#%#document.cookie = "_EVAcookieaccept=Y";
 hbvl.be#%#document.cookie = "C_05 = {%22C%22:%221.0%22%2C%22ID%22:%229dee0a48-e1b7-475f-9456-da27157e009e%22%2C%22P%22:%22' + location.href + '%22%2C%22T%22:%222018-08-04T17:54:39.929Z%22%2C%22V%22:%22Y%22%2C%22F%22:1}; path=/; domain=.hbvl.be";
 standaard.be#%#document.cookie = "C_05 = {%22C%22:%221.0%22%2C%22ID%22:%229dee0a48-e1b7-475f-9456-da27157e009e%22%2C%22P%22:%22' + location.href + '%22%2C%22T%22:%222018-08-04T17:54:39.929Z%22%2C%22V%22:%22Y%22%2C%22F%22:1}; path=/; domain=.standaard.be";
@@ -4478,6 +4488,10 @@ trouw.nl#%#AG_onLoad(function() { var check = document.getElementsByClassName('s
 vi.nl#%#AG_onLoad(function() { if(window.location.href.indexOf("cookies") != -1){document.getElementsByClassName('btn')[0].click();} });
 volkskrant.nl#%#AG_onLoad(function() { setTimeout(function() {if(document.getElementsByClassName("modal-overlay")[0].isvisible = true){document.getElementsByClassName("button button--accept")[0].click();}}, 300); });
 ziekenhuis.nl#%#AG_onLoad(function() { setTimeout(function() {var check = document.getElementsByClassName('cookiewall')[0]; if (check){document.cookie = "acceptcookies=true"; location.reload();}; }, 300); });
+!
+! HTML rules
+!
+m-timesofindia-com.cdn.ampproject.org$$amp-consent
 !
 ! Replace rules
 !
