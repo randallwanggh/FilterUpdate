@@ -6016,6 +6016,7 @@
 127.0.0.1 ad.tbn.ru
 127.0.0.1 ad.technoramedia.com
 127.0.0.1 ad.technoratimedia.com
+127.0.0.1 ad.tencentmusic.com
 127.0.0.1 ad.terra.doubleclick.net
 127.0.0.1 ad.terra.doubleclick.net
 127.0.0.1 ad.test.ximalaya.com
@@ -17252,7 +17253,6 @@
 127.0.0.1 bdplus.baidu.com
 127.0.0.1 bdplus.baidu.com
 127.0.0.1 bds.hainan.net
-127.0.0.1 bds.snssdk.com
 127.0.0.1 bds.soarfi.cn
 127.0.0.1 bdsearch.2345.com
 127.0.0.1 bdsmcompany.com
@@ -38590,7 +38590,6 @@
 127.0.0.1 is-tracking-pixel-api-prod.appspot.com
 127.0.0.1 is.casalemedia.com
 127.0.0.1 is.sh
-127.0.0.1 is.snssdk.com #(极个别卡启动不√这条)
 127.0.0.1 is.yllix.com
 127.0.0.1 is2.websearch.com
 127.0.0.1 is2.websearch.com
@@ -59374,7 +59373,6 @@
 127.0.0.1 sdf.jiupinshan.cn
 127.0.0.1 sdf.liaotian4.com
 127.0.0.1 sdfaswaed2.nokiadns.com
-127.0.0.1 sdfp.snssdk.com
 127.0.0.1 sdg.fwtrck.com
 127.0.0.1 sdk-03.iad.appboy.com
 127.0.0.1 sdk-ab-config.aiclk.com

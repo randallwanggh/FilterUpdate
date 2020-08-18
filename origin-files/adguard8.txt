@@ -288,6 +288,7 @@ wakacje.pl#?#body > div[class*=" "]:has(> div[class*=" "] > div[height="auto"] >
 cryptopotato.com##.moOptinForm
 duzcetv.com##.wpicon
 webgradients.com##.newpromo-banner
+hrodna.life##.download-pwa-box
 rb.ru##.popup-subscribe-shadow
 pb.pl###PB_bottom_promo
 pb.pl###subscriptionBox
@@ -2279,6 +2280,10 @@ com-magazin.de##w-div[role$="dialog"]
 ||sud.ua/js/jquery.arcticmodal*.min.js
 ||turkusozu.com/js/fancybox/
 /jquery.magnific-popup.min.js$domain=ufatime.ru|koreanworld.ru
+!
+yofreesamples.com#$##subscribe-dialog { display: none !important; }
+yofreesamples.com#$##subscribe-dialog ~ div.modal-backdrop { display: none !important; }
+yofreesamples.com#$#body { overflow: auto !important; }
 !
 chronicle.com#$#.bcpNotificationBarStickyBottom { display: none !important; }
 chronicle.com#$#html { overflow: auto !important; }

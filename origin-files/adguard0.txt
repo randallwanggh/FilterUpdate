@@ -1,6 +1,10 @@
 !
 !######### Annoying elements (not ads)
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/61638
+||cd.connatix.com^$domain=thegatewaypundit.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/61601
+amp.rbc.ru##.article__infographic-stub
 ! https://github.com/AdguardTeam/AdguardFilters/issues/61211
 e-yasamrehberi.com#$?#iframe[src^="https://www.obilet.com/widget/"] { remove: true; }
 ! https://github.com/AdguardTeam/AdguardFilters/issues/60819
@@ -833,8 +837,6 @@ gmx.net###topper
 ! https://github.com/AdguardTeam/AdguardFilters/issues/8738
 megatrack.top#?##sidebar1-wrap > div.section:has( > div.secondaryContent > h3:contains(Радио Online))
 ||radioroks.ua^$domain=megatrack.top
-! https://github.com/AdguardTeam/AdguardFilters/issues/8826
-@@||hentai2read.com/wp-content/themes/Hentai2R/assets/js/showAds.js
 ! https://github.com/AdguardTeam/AdguardFilters/issues/8817
 revolutions.pw###timer
 revolutions.pw#$##example { display: block !important; }
@@ -1484,6 +1486,13 @@ bournemouthecho.co.uk,eveningtimes.co.uk,greenocktelegraph.co.uk,heraldscotland.
 ! ##.subscribe
 oneplus.com,tickets.ua,woman.ru,elle.ru,marieclaire.ru,europaplus.ru,krossovki.com,belretail.by,thecollegefix.com,femmie.ru,prostofinovo.ru,mauijim.com,netpeak.net,wday.ru,buhgalteria.ru,ellegirl.ru,gameslog.ru,gizmag.com,healthhacks.ru,klerk.ru,menshealth.com,rbc.ru,snce.ru,turizm.ru,wegame.com.ua##.subscribe
 !
+istories.media##.subscr
+tasteandtellblog.com###oc_acf_cta-2
+tasteandtellblog.com##.subscribe_widget
+thegatewaypundit.com##.email-list-subscribe
+belta.by##.bans
+||chimpstatic.com^$domain=xakep.ru
+blog.mozilla.org###newsletter-subscribe
 marieclaire.ua##.subscribe
 cbc.ca##.newsletterWidget
 parfums.ua##.js-subscription_block

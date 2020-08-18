@@ -154,10 +154,14 @@
 ||elijahlio.com^$third-party
 ||itadapi.ithome.com.tw^
 ||t.njzrxx.xyz^$third-party
+||f.zgbmw.com.cn^$third-party
+||83.locksmaker.com.cn^$third-party
 !END: Chinese ad servers
 !
 !
+||mowyappedbibs.com^$third-party
 ||vggxxhton.com^$third-party
+||doflygonan.com^$third-party
 ||sports-streams-online.com^$third-party
 ||track.wg-aff.com^$document,popup
 ||lmyiwaakn.com^$third-party

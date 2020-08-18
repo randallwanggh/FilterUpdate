@@ -22,6 +22,7 @@
 ||nd.demdex.net/event?d_mid=$empty,important,domain=9now.com.au
 ||adc.nine.com.au/?token=$empty,important,domain=9now.com.au
 !
+||app.convertkit.com/forms/*/visit
 ||chronicle.com/_track
 ||construction21.org/ga.js
 ||marsflag.com/mf2file/site/ext/tr.js
@@ -76,7 +77,7 @@ android-tools.ru###text-8
 ||cs.digitalbox.ru/pixeljs
 ||zaycev.net/clickmeter_
 ||cdnst.zaycev.net/static/*/countersm.js
-||highwebmedia.com/CACHE/js/output.92c98302d256.js
+||highwebmedia.com/CACHE/js/output.ed5f5a28fb27.js
 ||foodclub.ru/bitrix/tmp/fd_tmb/f.php
 ||bloomberg.com/*/init.js
 ||bursadabugun.com/haber/imp-
