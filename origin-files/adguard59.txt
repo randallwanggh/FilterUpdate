@@ -158,7 +158,15 @@
 ||83.locksmaker.com.cn^$third-party
 !END: Chinese ad servers
 !
+!! https://a.bestcontentitem.top/warp/*?r=
 !
+||a.bestcontentitem.top^$third-party
+||wvahelphpfnhyx.com^$third-party
+||sub.xxx-porn-tube.com^
+||ileokscsawzzrh.com^$third-party
+||a.bestcontentproject.top^$third-party
+||futilereposerefreshments.com^$third-party
+||offshoretolerantbenignity.com^$third-party
 ||mowyappedbibs.com^$third-party
 ||vggxxhton.com^$third-party
 ||doflygonan.com^$third-party

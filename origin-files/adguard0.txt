@@ -1207,6 +1207,7 @@ sports.ru##.news-item__sources
 m.sports.ru##.b-news-sources
 m.sports.ru##.b-tag-social
 ! остальное:
+!+ NOT_OPTIMIZED
 m.sports.ru##div.b-tag-lenta__items > div > aside.b-tag-social-sub
 !
 ! sports.ru - END
@@ -1486,6 +1487,9 @@ bournemouthecho.co.uk,eveningtimes.co.uk,greenocktelegraph.co.uk,heraldscotland.
 ! ##.subscribe
 oneplus.com,tickets.ua,woman.ru,elle.ru,marieclaire.ru,europaplus.ru,krossovki.com,belretail.by,thecollegefix.com,femmie.ru,prostofinovo.ru,mauijim.com,netpeak.net,wday.ru,buhgalteria.ru,ellegirl.ru,gameslog.ru,gizmag.com,healthhacks.ru,klerk.ru,menshealth.com,rbc.ru,snce.ru,turizm.ru,wegame.com.ua##.subscribe
 !
+vitaexpress.ru###subscribtion-form
+mk.ru##.article__subscription
+dafideff.com##.widget-content > div.follow-by-email-inner > ul.list-inline ~ *
 istories.media##.subscr
 tasteandtellblog.com###oc_acf_cta-2
 tasteandtellblog.com##.subscribe_widget
@@ -1512,6 +1516,7 @@ mmo13.ru##.promo.youtube
 lidl.de##.lidl-insider-floor-ad
 lidl.de##.btn--newsletter
 proekt.media##.tile--subscribe
+yeniwindows.com#?#.connect-widget-form > form[action]:has(> input[value="Subscribe"])
 proekt.media#?#div[data-ui-id="post"] > div.stk-grid:has(> div > div > div > h4:contains(Подпишитесь))
 vice.com##.user-newsletter-signup
 thenewstack.io##.newsletter-sign-up-block
