@@ -30,6 +30,8 @@ video.gjirafa.com#%#AG_defineProperty('originVideo.requestA.Id', { value: "0" })
 !------------------------------ Arabian ------------------------------
 !---------------------------------------------------------------------
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/61808
+akwam.net##.ads
 ! https://github.com/AdguardTeam/AdguardFilters/issues/61456
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=filgoal.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59718
@@ -928,6 +930,8 @@ fofmyanmar.com##center > a[rel="noopener noreferrer"] > img
 !--- general hide --
 ##a[href^="https://adm.beimg.com/"]
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/61787
+v.pptv.com###video-download-game
 ! https://github.com/AdguardTeam/AdguardFilters/issues/61633
 /tuuu.me\/\d*.gif/$domain=91ron.org
 ||tuuu.me/gg*.js
