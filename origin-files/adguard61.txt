@@ -445,6 +445,16 @@ rumahit.id#%#//scriptlet("abort-current-inline-script", "document.createElement"
 !
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/61650
+@@||linkvertise.com/assets/ads.js
+! https://github.com/AdguardTeam/AdguardFilters/issues/61964
+forums.catholic.com###main > div[style="position:fixed;top:0;left:0;width:100vw;height:100vh;background-color:rgba(0,0,0,0.8);z-index:99999;"]
+! forums.catholic.com#@#.google-adsense
+! forums.catholic.com#@#.adsbygoogle
+! @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=forums.catholic.com
+forums.catholic.com#%#//scriptlet("prevent-setTimeout", "innerHTML.replace")
+! https://github.com/AdguardTeam/AdguardFilters/issues/61965
+@@||tricksplit.io/adblock.js
 ! https://github.com/AdguardTeam/AdguardFilters/issues/61829
 coolsoft.altervista.org#%#//scriptlet('prevent-setTimeout', 'let _')
 !#if (adguard_app_ios || adguard_ext_android_cb)
@@ -683,8 +693,8 @@ truyentranhaudio.com#$##wrapfabtest { height: 1px!important; }
 @@||nuestroespacioweb.com/js/adframe.js$domain=beelink.in
 beelink.in#%#//scriptlet("set-constant", "adblockEnabled", "false")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/58386
-||gstatic.com/firebasejs/*/firebase-app.js
-||gstatic.com/firebasejs/*/firebase-messaging.js
+||gstatic.com/firebasejs/*/firebase-app.js$domain=smallseotools.com
+||gstatic.com/firebasejs/*/firebase-messaging.js$domain=smallseotools.com
 smallseotools.com##div[id^="ha_dont_try_"]
 smallseotools.com#%#//scriptlet("set-constant", "adblock", "false")
 smallseotools.com#%#//scriptlet('prevent-setTimeout', 'childElementCount')

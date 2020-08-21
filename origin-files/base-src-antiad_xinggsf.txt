@@ -11092,7 +11092,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||dtxngr.com^
 ||dtzads.com^
 ||dtzysm.com^
-||du.163.com^
 ||du.jd.com^
 ||du01z5hhojprz.cloudfront.net^
 ||du1.bbdj.com^

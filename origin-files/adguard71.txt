@@ -232,6 +232,10 @@ xxxparodyhd.net,movgotv.com,123kmovies.net,123movies.*,bluemovies.co,f5movies.to
 !
 !
 !
+||cdn.kaotic.com/thumbs^$domain=crazyshit.com
+tricksplit.io##._3BMpPnQaZ5MP5I-53RsBtc
+tricksplit.io##._1nc49dfhfhsYbvUzZhVOfm
+sofascore.com##.ad-unit__text
 jigidi.com##.au-base
 scash.xyz##iframe[src^="//www.b4f.site/"]
 scash.xyz##iframe[style^="width:300px; height:250px;"]
@@ -395,7 +399,6 @@ livenewschat.eu###secondary > aside[id^="custom_html-"]
 golfroyale.io###adFooterContainer
 imore.com##p > a[href^="/e?link="][href*="offer"][target="_blank"].norewrite > img
 imore.com##p > a[href^="/e?link="][href*="offer"][target="_blank"].norewrite + span[style^="text-align: center; padding: 2px; display"]
-wabetainfo.com##.adsTextHeader
 thepostmillennial.com##.commercial
 getcomics.info##.advanced_floating_content
 danishfamilysearch.com##div[id^="ContentPlaceHolder1_div_annonce"]

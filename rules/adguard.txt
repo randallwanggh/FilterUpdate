@@ -7488,6 +7488,8 @@ crazymailing.com##.ext-info-bar
 crazymailing.com##.fb_block
 crazymailing.com#$#body.download-pl { padding-top: 0!important; }
 crazyshit.com#%#AG_abortInlineScript(/ppu_main/, 'encodeURIComponent');
+crazyshit.com#?#.side_box:has(> .row > .tile > a[href*="out.php?"])
+crazyshit.com#?#.side_box:has(> .trevda)
 createyourlife.com.ua#?#.single-blog-content > div[style]:has(> h4:contains(Поделиться))
 creative-beast.com##div.mo-has-name-email.moModal
 creative-tools.de###sidebar > .widget_monarchwidget
@@ -9358,12 +9360,14 @@ dunyavegercekler.com##.right-social-wrapper
 dunyavegercekler.com##.social-wrapper > :not([class="font-size"])
 duodada.com##.row > div[class] > div.page-header ~ div[style^="width:100%;"]
 duodada.com#$#body { padding-top: 0!important; }
+duolingo.com##._1UOwI._3bfsh
 duolingo.com##._1e7JD
 duolingo.com#?##root > div > div > span > div > div > div:has(> div > span > span > a[href="/privacy"])
 duolingo.com#?##root div[data-test="player-end-carousel"] > div[class]:has(> div[class] a[href*="-disable-my-ad-blocker-"][target="_blank"])
 duolingo.com#?#body > div[id="root"] > div:not([class]) > div[class^="_"] > div:not([class]) > div[class^="_"] > div[class^="_"]:has(> div[class^="_"] > div[class*=" _"] > h2 + div[class^="_"]:contains(Duolingo Plus))
 duolingo.com#?#div[class^="_"] > div[class*=" _"]:has( > div[class^="_"] > div[class*=" _"] > div[class^="_"]:contains(Duolingo Plus))
 duolingo.com#?#div[class^="_"]:has(> div[class^="_"] > a[href*="How-can-I-disable-my-ad-blocker-to-support-Duolingo"])
+duolingo.com#@#.adsbygoogle
 duowan.com###doc > div[style*="width:998px;height:90px;overflow:hidden;border"]
 duowan.com##.dw-mini-popup-wrap
 duplichecker.com###cookie_directive_container
@@ -11937,6 +11941,8 @@ forums.androidcentral.com##.adunit
 forums.androidcentral.com##.homeforums > div.forumbit_nopost + div[align="center"]
 forums.androidcentral.com##.mn_postbit > .row > .mn_deals__widget
 forums.androidcentral.com##.threadbit + li.ui-body-null
+forums.catholic.com###main > div[style="position:fixed;top:0;left:0;width:100vw;height:100vh;background-color:rgba(0,0,0,0.8);z-index:99999;"]
+forums.catholic.com#%#//scriptlet("prevent-setTimeout", "innerHTML.replace")
 forums.crackberry.com##.mn_deals__widget
 forums.flyer.co.uk##.custom_html-2
 forums.flyer.co.uk##.custom_html-3
@@ -29893,6 +29899,7 @@ socratify.net##.js-img-share
 socratify.net##a[href^="https://socratify.net/action/share"]
 sodapdf.com##.be-tooltip
 soeren-hentzschel.at###storage-notice
+sofascore.com##.ad-unit__text
 sofeminine.co.uk##.af-share
 sofeminine.co.uk##.af-social-btns
 sofonesia.com###popDiv
@@ -33444,6 +33451,9 @@ tribunnewswiki.com###adsoutofpage-premiumTopframe
 tribunnewswiki.com,tribunnews.com###anchorads
 trickscrunch.com,tricksnation.com,themefire.net,themeslide.com##.mts-cl-overlap-box
 trickscrunch.com,tricksnation.com,themeslide.com##.mts-cl-overlap-box
+tricksplit.io##._1WFOVxzGRMuYJNrV60dtbj > ._1WFOVxzGRMuYJNrV60dtbj
+tricksplit.io##._1nc49dfhfhsYbvUzZhVOfm
+tricksplit.io##._3BMpPnQaZ5MP5I-53RsBtc
 tricksplit.io#%#//scriptlet("abort-on-property-read", "adBlockDetected")
 trickswire.com#$#.mts-cl-overlap-mode > .mts-cl-blur-area { filter: none!important; }
 trickswire.com#$#.mts-cl-overlap-mode > .mts-cl-blur-area { filter: none!important; }
@@ -34850,6 +34860,7 @@ venea.net##.ag_banner
 venea.net##.ag_content
 venea.net#%#AG_setConstant('ab.isTrig', 'false');
 veneapp.com,wstream.to,zobacz.ws$$script[data-cfasync="false"][tag-content="Privet darkv"][min-length="1000"][max-length="3000"]
+venge.io/905193.json$replace=/"name":"Support"\,"tags":\["DesktopOnly"]\,"enabled":true\,/"name":"Support"\,"tags":\["DesktopOnly"]\,"enabled":false\,/,domain=venge.io
 ventax.net#%#//scriptlet("set-constant", "PopUP", "noopFunc")
 ventax.net#%#AG_setConstant('PopUP', 'noopFunc');
 ventax.net,shrtwin.com,voxc.org###tw-target-text
@@ -35680,7 +35691,6 @@ w3schools.com#$##tryitLeaderboard ~ .trytopnav { top: 0!important; }
 w3schools.com#?##right > .sidesection:has(> .sharethis)
 w4files.pw##div[align="center"] > a[href="/button/download.php"]
 waaboom.com,healthymaster.xyz#%#//scriptlet("adjust-setInterval", "wpsafe-generate", "", "0.02")
-wabetainfo.com##.adsTextHeader
 wabetainfo.com#$##wrapfabtest { height: 1px!important; }
 wabetainfo.com#@#.adBanner
 waerfa.com##section > div.article-gg
@@ -41403,6 +41413,7 @@ zzz.com.ua##body > div[style="text-align:center;font-size:11px;font-family:arial
 ||c.vrvm.com^
 ||c.wort-suche.com^
 ||c.x.oanda.com^
+||c0.adalyser.com^
 ||c0.froala.com/i?
 ||c00.adobe.com^$empty
 ||c03jij5q.website^
@@ -41649,6 +41660,7 @@ zzz.com.ua##body > div[style="text-align:center;font-size:11px;font-family:arial
 ||cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js
 ||cdn.jsdelivr.net/npm/yandex-metrica-watch/watch.js
 ||cdn.jwplayer.com/players/*.js$domain=imfdb.org
+||cdn.kaotic.com/thumbs^$domain=crazyshit.com
 ||cdn.kidoz.net^$app=com.PSVStudio.HippoDentist
 ||cdn.krible.com^$third-party
 ||cdn.letreach.com^$third-party
@@ -45654,8 +45666,8 @@ zzz.com.ua##body > div[style="text-align:center;font-size:11px;font-family:arial
 ||gsmtop.net^
 ||gsspat.jp^$third-party
 ||gssprt.jp^$third-party
-||gstatic.com/firebasejs/*/firebase-app.js
-||gstatic.com/firebasejs/*/firebase-messaging.js
+||gstatic.com/firebasejs/*/firebase-app.js$domain=smallseotools.com
+||gstatic.com/firebasejs/*/firebase-messaging.js$domain=smallseotools.com
 ||gstatic.com/firebasejs/*/firebase-messaging.js$domain=ukranews.com|comments.ua|meduza.io|coub.com|porno90.me|cnnamador.com|giallozafferano.it|wcostream.com|fptplay.vn|jooble.org|mobile01.com|myinstants.com|pdalife.ru|rg.ru|m.iguides.ru|donanimhaber.com|profile.ru|womanhit.ru|news.noteru.com|narodna-pravda.ua
 ||gstatic.com/firebasejs/*/firebase.js$domain=novayagazeta.ru|comments.ua|kinosimka.net
 ||gstatic.com/gen_204?
@@ -49696,6 +49708,7 @@ zzz.com.ua##body > div[style="text-align:center;font-size:11px;font-family:arial
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=amni8.com,script,redirect=googlesyndication-adsbygoogle,important
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=animesanka.com,empty
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=diynetwork.com,empty,important
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=duolingo.com,redirect=nooptext,important
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=igniel.com,empty,important
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=nv.ua,empty
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=skylinewebcams.com,important
@@ -56567,7 +56580,6 @@ zzz.com.ua##body > div[style="text-align:center;font-size:11px;font-family:arial
 ~forcemajeure.com,~facebook.com##a[href^="https://www.facebook.com/sharer/sharer.php"]
 ~fotografwdrodze.pl,~raiffeisen-media.ru##.social_facebook
 ~freepresets.com##.fb-like
-~freepresets.com,~deutsche-wirtschafts-nachrichten.de,~tiendichshop.vn##.fb-page
 ~friendfeed.com##a[href^="http://www.friendfeed.com/share?"]
 ~frontierleague.com,~clientsfromhell.net##.socialbuttons
 ~fstoppers.com##.sticky-shares
@@ -56580,6 +56592,7 @@ zzz.com.ua##body > div[style="text-align:center;font-size:11px;font-family:arial
 ~getpocket.com##a[href^="https://getpocket.com/edit?url="]
 ~getpocket.com##a[href^="https://getpocket.com/save?url="]
 ~gidasanayim.com,~leitesculinaria.com,~androidpolice.com,~tokyohive.com,~teknolojioku.com,~entrepreneur.com,~weather.com,~t3n.de##.icon-google-plus
+~gofugyourself.com,~meditopia.com,~nippononline.ru,~onitsukatiger.com,~symfonycasts.com,~blog.avast.com,~slovnyk.ua,~obserwatorgospodarczy.pl,~militarytimes.com,~adn.com,~programmingwithmosh.com,~ctc.ru,~theweathernetwork.com,~gardenista.com,~kino.de,~theatlantic.com,~cont.ws,~ispo.com,~petri.com,~howtogeek.com,~diatribe.org,~acura.com,~avito.ru,~gamingbolt.com,~vanion.eu,~willdev.in,~am-play.de##.social-icons
 ~google.com##a[href^="http://www.google.com/bookmarks/mark?"]
 ~google.com##a[href^="https://plusone.google.com/_/+1/confirm?"]
 ~google.com##a[href^="https://www.google.com/bookmarks/mark?"]
@@ -56644,7 +56657,6 @@ zzz.com.ua##body > div[style="text-align:center;font-size:11px;font-family:arial
 ~maxconsole.com,~anwalt.de##.fa-linkedin-square
 ~mcgodwin.com,~hellomagazine.com,~heise.de##.socialmedia
 ~medialeaks.ru##.social-widgets
-~meditopia.com,~nippononline.ru,~onitsukatiger.com,~symfonycasts.com,~blog.avast.com,~slovnyk.ua,~obserwatorgospodarczy.pl,~militarytimes.com,~adn.com,~programmingwithmosh.com,~ctc.ru,~theweathernetwork.com,~gardenista.com,~kino.de,~theatlantic.com,~cont.ws,~ispo.com,~petri.com,~howtogeek.com,~diatribe.org,~acura.com,~avito.ru,~gamingbolt.com,~vanion.eu,~willdev.in,~am-play.de##.social-icons
 ~megogo.ru,~sewingadvisor.ru,~footshop.ua,~robobloq.store,~goldapple.ru,~sostav.ru,~metrothegame.com,~the-flow.ru,~zen.yandex.by,~zen.yandex.com,~zen.yandex.kz,~zen.yandex.ru,~zen.yandex.ua,~megogo.net,~cybersport.ru,~taplink.cc,~eska.pl,~aftnet.be,~chaturbate.com,~iguides.ru##.socials
 ~minutouno.com,~facebook.com##a[href^="https://www.facebook.com/dialog/feed?"]
 ~minutouno.com,~forcemajeure.com,~twitter.com##a[href^="https://twitter.com/intent/tweet?"]
@@ -56674,6 +56686,7 @@ zzz.com.ua##body > div[style="text-align:center;font-size:11px;font-family:arial
 ~ok.ru##a[href^="https://www.ok.ru/dk?st.cmd=addShare"]
 ~oo-software.com###share-facebook
 ~orteil.dashnet.org###cookies
+~pajarito.de,~freepresets.com,~deutsche-wirtschafts-nachrichten.de,~tiendichshop.vn##.fb-page
 ~parfums.ua##.social_networks
 ~philosophia-perennis.com##.et_social_pinterest
 ~pinterest.com##a[href^="//pinterest.com/pin/create/"]
