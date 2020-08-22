@@ -1,4 +1,4 @@
-#version=202008112010
+#version=202008211921
 #url=https://github.com/VeleSila/yhosts/blob/master/hosts
 #-----Test
 127.0.0.1 at.umeng.com
@@ -19,6 +19,7 @@
 127.0.0.1 ggx.cmvideo.cn
 127.0.0.1 ad.cmvideo.cn
 127.0.0.1 ggic.cmvideo.cn
+127.0.0.1 sdk.adtiming.com
 #-----Test End
 127.0.0.1 ereg.adobe.com
 127.0.0.1 hlrcv.stage.adobe.com
@@ -1546,6 +1547,7 @@
 127.0.0.1 imgad.thepaper.cn
 127.0.0.1 imgadpai.thepaper.cn
 127.0.0.1 ad.toutiao.com
+127.0.0.1 api-access.pangolin-sdk-toutiao.com
 127.0.0.1 dm.toutiao.com
 127.0.0.1 analytics.snssdk.com
 127.0.0.1 temai.snssdk.com
@@ -3125,6 +3127,7 @@
 127.0.0.1 c.kbf365.cn
 127.0.0.1 c.kl6636.net
 127.0.0.1 c.kuaituisss.com
+127.0.0.1 c.l0yjow.cn
 127.0.0.1 c.lalaxit.cn
 127.0.0.1 c.lalaxqt.cn
 127.0.0.1 c.lianwangtech.com
@@ -3373,6 +3376,7 @@
 127.0.0.1 down.bugeyu.com
 127.0.0.1 down.xiazaiyuan.net
 127.0.0.1 download.350.com
+127.0.0.1 dq.baomihua.com
 127.0.0.1 drdj.m.gxwztv.com
 127.0.0.1 drsw.m.yuyouge.com
 127.0.0.1 druic.mytxt.cc
@@ -3955,6 +3959,8 @@
 127.0.0.1 eed.ntjrh.com
 127.0.0.1 eei.lobbycafe.cn
 127.0.0.1 eer.zhthf.com
+127.0.0.1 efe25.t7wl8.cn
+127.0.0.1 efo25978.eeo1h1.cn
 127.0.0.1 eg.gitpapa.com
 127.0.0.1 ehdj.njguluyu.cn
 127.0.0.1 ekfe.idanmei.cn
@@ -3964,6 +3970,7 @@
 127.0.0.1 eo.6sq7c.xyz
 127.0.0.1 eo.byjr899.top
 127.0.0.1 eo.dybx992.top
+127.0.0.1 eo.eeo1h1.cn
 127.0.0.1 eo.euwyc.xyz
 127.0.0.1 eo.hdschw.cn
 127.0.0.1 eo.lxujghc.cn
@@ -3976,6 +3983,7 @@
 127.0.0.1 eo.szimic.cn
 127.0.0.1 eo.un060y.cn
 127.0.0.1 eo.wamcjfg.cn
+127.0.0.1 eo.xnwuf.xyz
 127.0.0.1 eo.yhcrqzj.cn
 127.0.0.1 eo.zvygzatj.cn
 127.0.0.1 epernn.cn
@@ -4040,7 +4048,6 @@
 127.0.0.1 fpb.mn586.com
 127.0.0.1 fpbbdx1.51240.com
 127.0.0.1 fpbjiansuo.mn586.com
-127.0.0.1 fpdownload.macromedia.com
 127.0.0.1 fsjsp.com
 127.0.0.1 fuk.xckxjtbg.com
 127.0.0.1 fw.zhuaji.org
@@ -4119,6 +4126,7 @@
 127.0.0.1 h.txt2017.com
 127.0.0.1 h.wpjly.cn
 127.0.0.1 h.wr2t6b.cn
+127.0.0.1 h.zmohe.xyz
 127.0.0.1 h0.hucdn.com
 127.0.0.1 h1.18sd.cn
 127.0.0.1 h2.18sd.cn
@@ -4182,6 +4190,7 @@
 127.0.0.1 if.yyjsbz.cn
 127.0.0.1 ig.nukefans.net
 127.0.0.1 ihl3ga.hepengshan.cn
+127.0.0.1 ii.ntped.xyz
 127.0.0.1 ii.u1e9.cn
 127.0.0.1 iiid.bluescream.cn
 127.0.0.1 ijdl.hbyongwan.cn
@@ -5523,8 +5532,10 @@
 127.0.0.1 mdzvoi.cn
 127.0.0.1 mf01.zybang.com
 127.0.0.1 mf02.zybang.com
+127.0.0.1 mf35.t7wl8.cn
 127.0.0.1 mfcvxw.cn
 127.0.0.1 mfkn.71mxc6.cn
+127.0.0.1 mfo25978.eeo1h1.cn
 127.0.0.1 mh1.zhengdongwuye.cn
 127.0.0.1 mhwozc.cn
 127.0.0.1 miaobeichina.com
@@ -5555,6 +5566,7 @@
 127.0.0.1 mo.dfnbyn.top
 127.0.0.1 mo.drzd9.cn
 127.0.0.1 mo.dybx992.top
+127.0.0.1 mo.eeo1h1.cn
 127.0.0.1 mo.euwyc.xyz
 127.0.0.1 mo.grqf.com.cn
 127.0.0.1 mo.gsasqa.cn
@@ -5578,6 +5590,7 @@
 127.0.0.1 mo.un060y.cn
 127.0.0.1 mo.wajsa.com
 127.0.0.1 mo.wamcjfg.cn
+127.0.0.1 mo.xnwuf.xyz
 127.0.0.1 mo.yhcrqzj.cn
 127.0.0.1 mo.zdceaa.cn
 127.0.0.1 mo.zk43i.xyz
@@ -5825,6 +5838,7 @@
 127.0.0.1 pork.2tumeng.com
 127.0.0.1 postut.cn
 127.0.0.1 povbdf.cn
+127.0.0.1 pp.lbsjrw.cn
 127.0.0.1 pp.sxjkc.cn
 127.0.0.1 pp.xjuygf.xyz
 127.0.0.1 pp2.dhzw.org
@@ -6067,6 +6081,7 @@
 127.0.0.1 sm2.todgo.com
 127.0.0.1 smucdn.com
 127.0.0.1 snw5.jkjjkj.top
+127.0.0.1 so.tsscnw.cn
 127.0.0.1 sod.onelink.me
 127.0.0.1 soft.chaomeng8.com
 127.0.0.1 sohu.husenfood.com
@@ -6323,6 +6338,7 @@
 127.0.0.1 uxek.85nv96.cn
 127.0.0.1 uzi66.jozee.cn
 127.0.0.1 uzixia.zwdu.com
+127.0.0.1 v.510vud.cn
 127.0.0.1 v.6dvip.com
 127.0.0.1 v.76768hwj.cn
 127.0.0.1 v.8yrn.cn
@@ -6338,6 +6354,7 @@
 127.0.0.1 v.heygugu.com
 127.0.0.1 v.iche88.cn
 127.0.0.1 v.jntxst.cn
+127.0.0.1 v.l0yjow.cn
 127.0.0.1 v.lalaxit.cn
 127.0.0.1 v.lalaxqt.cn
 127.0.0.1 v.lrzazjl.cn

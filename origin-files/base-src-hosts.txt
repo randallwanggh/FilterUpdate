@@ -13669,6 +13669,7 @@
 127.0.0.1 api-06.com
 127.0.0.1 api-07.com
 127.0.0.1 api-08.com
+127.0.0.1 api-access.pangolin-sdk-toutiao.com
 127.0.0.1 api-ad.kajicam.com
 127.0.0.1 api-analytics-bootstrap.metaps.com
 127.0.0.1 api-analytics.metaps.com
@@ -19179,6 +19180,7 @@
 127.0.0.1 c.kuaituisss.com
 127.0.0.1 c.kuwo.cn
 127.0.0.1 c.l.qq.com
+127.0.0.1 c.l0yjow.cn
 127.0.0.1 c.lalaxit.cn
 127.0.0.1 c.lalaxqt.cn
 127.0.0.1 c.latam.msn.com
@@ -27498,6 +27500,7 @@
 127.0.0.1 dpvchos.qqyy.com
 127.0.0.1 dpvcimg.qqyy.com
 127.0.0.1 dpx.airpr.com
+127.0.0.1 dq.baomihua.com
 127.0.0.1 dq95d35.com
 127.0.0.1 dqna.fuseplatform.net
 127.0.0.1 dqs001.adtech.de
@@ -29142,6 +29145,7 @@
 127.0.0.1 efanguide.us.intellitxt.com
 127.0.0.1 efashionsolutions.122.2o7.net
 127.0.0.1 efashionsolutions.122.2o7.net
+127.0.0.1 efe25.t7wl8.cn
 127.0.0.1 efeducation.d1.sc.omtrdc.net
 127.0.0.1 efetiva.net.br
 127.0.0.1 eff.inte.sogou.com
@@ -29153,6 +29157,7 @@
 127.0.0.1 efficaciouscactus.com
 127.0.0.1 efluxmedia.uk.intellitxt.com
 127.0.0.1 efluxmedia.uk.intellitxt.com
+127.0.0.1 efo25978.eeo1h1.cn
 127.0.0.1 eforsa.pl
 127.0.0.1 eforu.com
 127.0.0.1 efreedom.net
@@ -29762,6 +29767,7 @@
 127.0.0.1 eo.6sq7c.xyz
 127.0.0.1 eo.byjr899.top
 127.0.0.1 eo.dybx992.top
+127.0.0.1 eo.eeo1h1.cn
 127.0.0.1 eo.euwyc.xyz
 127.0.0.1 eo.hdschw.cn
 127.0.0.1 eo.lxujghc.cn
@@ -29775,6 +29781,7 @@
 127.0.0.1 eo.szimic.cn
 127.0.0.1 eo.un060y.cn
 127.0.0.1 eo.wamcjfg.cn
+127.0.0.1 eo.xnwuf.xyz
 127.0.0.1 eo.yhcrqzj.cn
 127.0.0.1 eo.zvygzatj.cn
 127.0.0.1 eol1.egyptonline.com
@@ -32057,7 +32064,6 @@
 127.0.0.1 fpctraffic.com
 127.0.0.1 fpctraffic2.com
 127.0.0.1 fpctraffic2.com
-127.0.0.1 fpdownload.macromedia.com
 127.0.0.1 fpjs.io
 127.0.0.1 fptad.com
 127.0.0.1 fptest.fraudmetrix.cn
@@ -34699,6 +34705,7 @@
 127.0.0.1 h.zedo.com
 127.0.0.1 h.zedo.com
 127.0.0.1 h.zeroredirect.com
+127.0.0.1 h.zmohe.xyz
 127.0.0.1 h0.hucdn.com
 127.0.0.1 h01.hotrank.com.tw
 127.0.0.1 h01.hxsame.hexun.com
@@ -36785,6 +36792,7 @@
 127.0.0.1 ihm01.ct2.comclick.com
 127.0.0.1 ihracat.myq-see.com
 127.0.0.1 ihydroflaskshop.com
+127.0.0.1 ii.ntped.xyz
 127.0.0.1 ii.u1e9.cn
 127.0.0.1 iicdn.com
 127.0.0.1 iid-d.openx.net
@@ -46221,6 +46229,7 @@
 127.0.0.1 mf.sitescout.com
 127.0.0.1 mf01.zybang.com
 127.0.0.1 mf02.zybang.com
+127.0.0.1 mf35.t7wl8.cn
 127.0.0.1 mfad.inskinad.com
 127.0.0.1 mfadsrvr.com
 127.0.0.1 mfcvxw.cn
@@ -46228,6 +46237,7 @@
 127.0.0.1 mfio.cf
 127.0.0.1 mfjegjqb.com
 127.0.0.1 mfkn.71mxc6.cn
+127.0.0.1 mfo25978.eeo1h1.cn
 127.0.0.1 mfp.deliver.ifeng.com
 127.0.0.1 mfr.a2dfp.net
 127.0.0.1 mfr.a2dfp.net
@@ -46847,6 +46857,7 @@
 127.0.0.1 mo.dfnbyn.top
 127.0.0.1 mo.drzd9.cn
 127.0.0.1 mo.dybx992.top
+127.0.0.1 mo.eeo1h1.cn
 127.0.0.1 mo.euwyc.xyz
 127.0.0.1 mo.grqf.com.cn
 127.0.0.1 mo.gsasqa.cn
@@ -46878,6 +46889,7 @@
 127.0.0.1 mo.un060y.cn
 127.0.0.1 mo.wajsa.com
 127.0.0.1 mo.wamcjfg.cn
+127.0.0.1 mo.xnwuf.xyz
 127.0.0.1 mo.yhcrqzj.cn
 127.0.0.1 mo.zdceaa.cn
 127.0.0.1 mo.zk43i.xyz
@@ -54365,6 +54377,7 @@
 127.0.0.1 pozytywnerodzicielstwo.pl
 127.0.0.1 pozytywneswiry.pl
 127.0.0.1 pp.free.fr
+127.0.0.1 pp.lbsjrw.cn
 127.0.0.1 pp.lp4.io
 127.0.0.1 pp.sxjkc.cn
 127.0.0.1 pp.xjuygf.xyz
@@ -61921,6 +61934,7 @@
 127.0.0.1 snxiu415.com
 127.0.0.1 so.2mdn.net
 127.0.0.1 so.menwww.com
+127.0.0.1 so.tsscnw.cn
 127.0.0.1 soagd.in.net
 127.0.0.1 soap.iovation.com
 127.0.0.1 sobar.baidu.com
@@ -70146,6 +70160,7 @@
 127.0.0.1 v-sence.gentags.net
 127.0.0.1 v-wrd.com
 127.0.0.1 v.37uta.cn
+127.0.0.1 v.510vud.cn
 127.0.0.1 v.6dvip.com
 127.0.0.1 v.6dvip.com
 127.0.0.1 v.76768hwj.cn
@@ -70193,6 +70208,7 @@
 127.0.0.1 v.irs01.com
 127.0.0.1 v.jntxst.cn
 127.0.0.1 v.l.youku.com
+127.0.0.1 v.l0yjow.cn
 127.0.0.1 v.ladicdn.com
 127.0.0.1 v.lalaxit.cn
 127.0.0.1 v.lalaxqt.cn

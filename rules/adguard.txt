@@ -22191,6 +22191,7 @@ msn.com###cookiebanner
 msn.com###eubanner
 msn.com###main > div.stripecontainer[aria-label="promotions"]
 msn.com###main > div[aria-label^="microsoft store"][data-section-id="stripe.msstore"]
+msn.com###onetrust-consent-sdk
 msn.com###smartbanner
 msn.com###taboola-above-homepage-thumbnails
 msn.com###taboola-below-article-thumbnails-card-layout-short
