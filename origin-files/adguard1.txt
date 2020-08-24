@@ -73,9 +73,12 @@ rp5.ru,rp5.ua,rp5.by,rp5.kz,rp5.co.uk#$?##content > div > div[id]:has(> ins.adsb
 @@||adservice.google.*/adsid/integrator.js$domain=m.rp5.ru|m.rp5.ua|m.rp5.by|m.rp5.kz|m.rp5.co.uk
 !#endif
 !
-! rambler with side-projects: wmj.ru,passion.ru,eda.ru,quto.ru,rns.online,championat.com,gazeta.ru,lenta.ru
+! rambler with side-projects: autorambler.ru,wmj.ru,passion.ru,eda.ru,quto.ru,rns.online,championat.com,gazeta.ru,lenta.ru
 !+ NOT_PLATFORM(windows, mac, android)
-wmj.ru,motor.ru,passion.ru,quto.ru,eda.ru,rns.online,championat.com,gazeta.ru,lenta.ru,rambler.ru#%#//scriptlet("set-constant", "Object.prototype.insertBannerContent", "undefined")
+autorambler.ru,wmj.ru,motor.ru,passion.ru,quto.ru,eda.ru,rns.online,championat.com,gazeta.ru,lenta.ru,rambler.ru#%#//scriptlet("set-constant", "Object.prototype.insertBannerContent", "undefined")
+! rambler.ru - leftovers on the main page
+www.rambler.ru#?#main header ~ div div[class]:has(> div[class] > div[id] > script:contains(/^if\s?\(!window\..*{"status":/))
+www.rambler.ru#?#main header ~ div div[class]:has(> div[class] > div[id]:empty)
 ! Check, if these sites work fine with scriptlet: mail.rambler.ru, kino.rambler.ru, weather.rambler.ru, comments.rambler.ru, kassa.rambler.ru, horoscopes.rambler.ru
 !
 !--- Sourcepoint ---
@@ -230,6 +233,7 @@ digitaltrends.com#@#.text_ads_2
 ! @@||ad.doubleclick.net/ddm/adj^$domain=editorial.rottentomatoes.com
 !
 ||rhetoricalloss.com^$third-party
+||stalesummer.com^$third-party
 ||firstfrogs.com^$third-party
 ||additionant.com^$third-party
 ||enviousshape.com^$third-party
@@ -332,6 +336,9 @@ abc.es,abcnyheter.no,accuweather.com,avsforum.com,bellinghamherald.com,blic.rs,b
 !
 venge.io/905193.json$replace=/"name":"Support"\,"tags":\["DesktopOnly"]\,"enabled":true\,/"name":"Support"\,"tags":\["DesktopOnly"]\,"enabled":false\,/,domain=venge.io
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=duolingo.com,redirect=nooptext,important
+abazero.com#$#.mfp-bg { display: none!important; }
+abazero.com#$#.mfp-wrap { display: none!important; }
+abazero.com#$#html { overflow: visible!important; }
 duolingo.com#@#.adsbygoogle
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=duolingo.com
 proboards.com##div[id$="-banner"]
@@ -533,7 +540,6 @@ gelbooru.com##div[style*="padding: 10px;"][style*="dashed #333;"]
 denik.cz#$#.ads-box.reklama-box { display: block!important; }
 ||cxense.com^$domain=denik.cz
 ||googletagmanager.com/gtm.js$domain=saveur.com|denik.cz|ign.com
-@@||nyafilmer.lol/ads.js
 washingtonpost.com#@#.AD_area
 washingtonpost.com#@#.ADBox
 washingtonpost.com$$script[wildcard="*TWP.abchecker*_0x*"][min-length="25000"][max-length="35000"]
@@ -1251,7 +1257,7 @@ t-online.de#%#window.IM = [1,2,3];
 @@||wapbestmovie.biz/ads/advertising.js
 @@||p*.drtst.com/templates/drtuber/js/advertisement.js
 inpixme.pw,revolutions.pw#%#AG_abortInlineScript(/adsbygoogle/, 'Math.floor');
-pixiz.com###adblock-box
+bloggif.com,pixiz.com###adblock-box
 @@||geo.de^$generichide
 @@||sunbtc.space/application/views/script/advert.js
 pastenow.ru###google-block
