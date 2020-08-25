@@ -94,8 +94,11 @@ sodapdf.com##.be-tooltip
 !
 ! Specific sites
 !
+tvr.by###flybox
+gruppal.com###mailal
 thetechsutra.com#$#.cp-modal-popup-container { display: none !important; }
 thetechsutra.com#$#html { overflow: auto !important; }
+||cdn.toontrack.com/wp-content/plugins/tt-popup/
 instagram.com#%#//scriptlet("set-constant", "_sharedData.is_whitelisted_crawl_bot", "true")
 abazero.com###wpd-bubble-wrapper
 101.ru##.hypotheses-poll
@@ -106,6 +109,8 @@ storry.tv#$#body { overflow: visible!important; }
 emtb-news.de,rennrad-news.de##.mtbn-newsletter-bar
 slidety.com##.g1-slideup-newsletter
 slidety.com#%#document.cookie = "g1_popup_disabled=1; path=/;";
+muratlihizmetgazetesi.com#$#.fancybox-container { display: none !important; }
+muratlihizmetgazetesi.com#$#body { overflow: visible !important; }
 sneakerhead.ru##.retailrocket-popup
 dictionary.com###marketingBanner-right
 mshowto.org##.content-row > .more-in-category
@@ -1267,6 +1272,9 @@ cam4.com###Cam4DialogContainer
 espaebook.org###simplemodal-containter-share
 espaebook.org###simplemodal-overlay[style^="opacity: 0.95;"]
 mobile.de##.oo_feedback_float
+byjus.com#$##register-modal-widget { display: none !important; }
+byjus.com#$#.modal-backdrop { display: none !important; }
+byjus.com#$#body { overflow: visible !important; padding-right: 0 !important; }
 hagebau.de#$#.modal-open { overflow:visible!important; }
 hagebau.de#$#.home > .modal.show { display:none!important; }
 hagebau.de#$#.modal-backdrop { display:none!important; }

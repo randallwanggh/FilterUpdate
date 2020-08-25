@@ -36,6 +36,7 @@ adme.ru#?##root div.g-recaptcha + div[class] div[class]:has(> a[href^="https://p
 aura.top#?#.sidebar-nav > li.sidebar-nav-item-small-link:has(> a[href^="https://redirect.appmetrica.yandex.com/serve/"])
 !#endif
 !
+tvr.by##.middle-banner-row
 makeup.com.ua##.pwa-notice
 tw.stock.yahoo.com##a[href="https://yahoomode.tumblr.com/yahooapp/#stock"] > img
 go2bus.ru###banner-for-mobile
@@ -699,9 +700,12 @@ retrip.jp,rtrp.jp#$#header-induction {display: none !important; }
 retrip.jp,rtrp.jp#$##page { padding-top: 0 !important; }
 retrip.jp,rtrp.jp#$#header.ng-scope { height: 45px !important; }
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/62101
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59635
 ! https://github.com/AdguardTeam/AdguardFilters/issues/58693
+!+ NOT_OPTIMIZED
 eracom.com.tw,nexttv.com.tw#$#.download-tip { display: none!important; }
+!+ NOT_OPTIMIZED
 eracom.com.tw,nexttv.com.tw#%#//scriptlet("remove-attr", "style", ".download-tip ~ .article[style^='padding-top:'][style*='!important;']")
 !
 mobile.reuters.com#$#.header-main { margin-top: 0 !important; }

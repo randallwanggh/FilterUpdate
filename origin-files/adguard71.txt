@@ -23,12 +23,12 @@ gelbooru.com#@#span[class]:last-child > a img[src]
 google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,google.ba,google.be,google.bf,google.bg,google.bi,google.bj,google.bs,google.bt,google.by,google.ca,google.cat,google.cd,google.cf,google.cg,google.ch,google.ci,google.cl,google.cm,google.cn,google.co.ao,google.co.bw,google.co.ck,google.co.cr,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.ls,google.co.ma,google.co.mz,google.co.nz,google.co.th,google.co.tz,google.co.ug,google.co.uk,google.co.uz,google.co.ve,google.co.vi,google.co.za,google.co.zm,google.co.zw,google.com,google.com.af,google.com.ag,google.com.ai,google.com.ar,google.com.au,google.com.bd,google.com.bh,google.com.bn,google.com.bo,google.com.br,google.com.bz,google.com.co,google.com.cu,google.com.cy,google.com.do,google.com.ec,google.com.eg,google.com.et,google.com.fj,google.com.gh,google.com.gi,google.com.gt,google.com.hk,google.com.jm,google.com.kh,google.com.kw,google.com.lb,google.com.ly,google.com.mm,google.com.mt,google.com.mx,google.com.my,google.com.na,google.com.nf,google.com.ng,google.com.ni,google.com.np,google.com.om,google.com.pa,google.com.pe,google.com.pg,google.com.ph,google.com.pk,google.com.pr,google.com.py,google.com.qa,google.com.sa,google.com.sb,google.com.sg,google.com.sl,google.com.sv,google.com.tj,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vc,google.com.vn,google.cv,google.cz,google.de,google.dj,google.dk,google.dm,google.dz,google.ee,google.es,google.fi,google.fm,google.fr,google.ga,google.ge,google.gg,google.gl,google.gm,google.gp,google.gr,google.gy,google.hn,google.hr,google.ht,google.hu,google.ie,google.im,google.iq,google.is,google.it,google.je,google.jo,google.kg,google.ki,google.kz,google.la,google.li,google.lk,google.lt,google.lu,google.lv,google.md,google.me,google.mg,google.mk,google.ml,google.mn,google.ms,google.mu,google.mv,google.mw,google.ne,google.nl,google.no,google.nr,google.nu,google.pl,google.pn,google.ps,google.pt,google.ro,google.rs,google.ru,google.rw,google.sc,google.se,google.sh,google.si,google.sk,google.sm,google.sn,google.so,google.sr,google.st,google.td,google.tg,google.tk,google.tl,google.tm,google.tn,google.to,google.tt,google.vg,google.vu,google.ws###taw #tvcap ._hsi.mnr-c
 !
 ! ExoClick
-/backend_loader.php$domain=beeg.com|croea.com|hipornvideo.com|imagepearl.com|imagetwist.com|img24.org|imgskull.com|kporno.com|pandamovie.net|picfox.org|picshick.com|picturelol.com|pornleech.com|pornorip.biz|porntube.com|pron.tv|prostoporno.me|prostoporno.tv|yourporn.sexy
-/bl.php$domain=nopeporn.com|101xxx.xyz|xxxarray.com|veu.xxx|sexytrunk.com|xxxbanjo.com|beeg.com|croea.com|hipornvideo.com|imagepearl.com|imagetwist.com|img24.org|imgskull.com|kporno.com|pandamovie.net|picfox.org|picshick.com|picturelol.com|pornleech.com|pornorip.biz|porntube.com|pron.tv|prostoporno.me|prostoporno.tv|yourporn.sexy|sunporno.com|chaostube.net
-/fl.js$domain=nopeporn.com|101xxx.xyz|xxxarray.com|veu.xxx|oralhoes.com|sexytrunk.com|xxxbanjo.com|beeg.com|croea.com|hipornvideo.com|imagepearl.com|imagetwist.com|img24.org|imgskull.com|kporno.com|pandamovie.net|picfox.org|picshick.com|picturelol.com|pornleech.com|pornorip.biz|porntube.com|pron.tv|prostoporno.me|prostoporno.tv|yourporn.sexy|24video.adult|24video.in|peretrah.com|pornognomik.com|sizke.com|imagecrest.com|yoerotica.com|imgtaxi.com|chaostube.net
-/floa.js$domain=ah-me.com|beeg.com|croea.com|hipornvideo.com|imagepearl.com|imagetwist.com|img24.org|imgskull.com|kporno.com|pandamovie.net|picfox.org|picshick.com|picturelol.com|pornleech.com|pornorip.biz|porntube.com|pron.tv|prostoporno.me|prostoporno.tv|yourporn.sexy
-/frontend_loader$domain=beeg.com|croea.com|hipornvideo.com|imagepearl.com|imagetwist.com|img24.org|imgskull.com|kporno.com|pandamovie.net|picfox.org|picshick.com|picturelol.com|pornleech.com|pornorip.biz|porntube.com|pron.tv|prostoporno.me|prostoporno.tv|yourporn.sexy
-/fros_los.js$domain=beeg.com|croea.com|hipornvideo.com|imagepearl.com|imagetwist.com|img24.org|imgskull.com|kporno.com|pandamovie.net|picfox.org|picshick.com|picturelol.com|pornleech.com|pornorip.biz|porntube.com|pron.tv|prostoporno.me|prostoporno.tv|yourporn.sexy
+/backend_loader.php$domain=beeg.com|croea.com|hipornvideo.com|imagepearl.com|imagetwist.com|img24.org|imgskull.com|kporno.com|pandamovie.net|picfox.org|picshick.com|picturelol.com|pornleech.com|pornorip.biz|porntube.com|pron.tv|yourporn.sexy
+/bl.php$domain=nopeporn.com|101xxx.xyz|xxxarray.com|veu.xxx|sexytrunk.com|xxxbanjo.com|beeg.com|croea.com|hipornvideo.com|imagepearl.com|imagetwist.com|img24.org|imgskull.com|kporno.com|pandamovie.net|picfox.org|picshick.com|picturelol.com|pornleech.com|pornorip.biz|porntube.com|pron.tv|yourporn.sexy|sunporno.com|chaostube.net
+/fl.js$domain=nopeporn.com|101xxx.xyz|xxxarray.com|veu.xxx|oralhoes.com|sexytrunk.com|xxxbanjo.com|beeg.com|croea.com|hipornvideo.com|imagepearl.com|imagetwist.com|img24.org|imgskull.com|kporno.com|pandamovie.net|picfox.org|picshick.com|picturelol.com|pornleech.com|pornorip.biz|porntube.com|pron.tv|yourporn.sexy|24video.adult|24video.in|peretrah.com|pornognomik.com|sizke.com|imagecrest.com|yoerotica.com|imgtaxi.com|chaostube.net
+/floa.js$domain=ah-me.com|beeg.com|croea.com|hipornvideo.com|imagepearl.com|imagetwist.com|img24.org|imgskull.com|kporno.com|pandamovie.net|picfox.org|picshick.com|picturelol.com|pornleech.com|pornorip.biz|porntube.com|pron.tv|yourporn.sexy
+/frontend_loader$domain=beeg.com|croea.com|hipornvideo.com|imagepearl.com|imagetwist.com|img24.org|imgskull.com|kporno.com|pandamovie.net|picfox.org|picshick.com|picturelol.com|pornleech.com|pornorip.biz|porntube.com|pron.tv|yourporn.sexy
+/fros_los.js$domain=beeg.com|croea.com|hipornvideo.com|imagepearl.com|imagetwist.com|img24.org|imgskull.com|kporno.com|pandamovie.net|picfox.org|picshick.com|picturelol.com|pornleech.com|pornorip.biz|porntube.com|pron.tv|yourporn.sexy
 /efldr.js$domain=pornhd.com
 /ebldr.php$domain=pornhd.com
 /exbl.js$domain=fantasti.cc
@@ -222,18 +222,23 @@ youtube-nocookie.com,youtube.com#%#//scriptlet("json-prune", "adPlacements playe
 @@||youtube.com/get_video_info*&el=editpage
 @@||youtube.com/get_video_info?*embedded$~third-party,other
 !
-! For URL shorteners or simple sites with frequently changed ad servers.
-! Incorrectly blocked domains can be excluded usig regex
-/^(?!.*(google\.com|gstatic\.com|googleapis\.com|recaptcha\.net|cdn\.ampproject\.org|fluidplayer\.com|facebook\.net|fbcdn\.net|cloudflare\.com|ebacdn\.com|vk\.com|jquery\.com|jsdelivr\.net|yastatic\.net|yandex\.net|ytimg\.com|fontawesome\.com|dmca\.com|disqus\.com|vidazoo\.com|disquscdn\.com|jwpcdn\.com|shrink\.pe|zencdn\.net|unpkg\.com|github\.io|ulogin\.ru|player)).*$/$third-party,script,domain=ouofly.com|stfly.me|dz4win.com|bolssc.com|genpas.icu|canyoublockit.com|aii.sh|uptoshort.com|gsurl.in|oncehelp.com|adslinkfly.online|loveheaven.net|extramovies.casa|asianclub.nl|file-up.org|kshow123.net|short.articlix.com|dlapk4all.com|cryptoads.space|profitlink.info|shorthitz.com|putlocker.digital|pimpandhost.com|pornpapa.com|shorthub.co|xxxfiles.com|pornone.com|rawdex.net|hiperdex.com|ask4movie.co|scash.xyz|animekayo.com|animekaizoku.com
-!
 ! Fake buttons on pirate video services
 ! '##.mvic-btn > a.btn-successful'
 xxxparodyhd.net,movgotv.com,123kmovies.net,123movies.*,bluemovies.co,f5movies.top,fmoviez.org,freeomovie.info,gofilms4u.co,gomoviec.com,gomovies.ltd,gomovieshd.be,hindilinks4u.co,hollymoviehd.com,movi.pk,moviesahd.com,my123movies.org,novamovie.net,openloadmovies.stream,pandavideo.pw,prmovies.co,putlocker.*,putlockerslinks.com,rdxhd.cool,streamporn.pw,streamup.pro,the123movies.com,xopenload.me##.mvic-btn > a.btn-successful
 ! '##.mvic-btn'
 123movies.*,123movieshd.ws,123moviestube.io,gomovies.cool,gomovies.la,putlockersnewsite2018.com,watch5s.is,z123movies4u.com##.mvic-btn
 !
+! For URL shorteners or simple sites with frequently changed ad servers.
+! Incorrectly blocked domains can be excluded usig regex
+/^(?!.*(google\.com|gstatic\.com|googleapis\.com|recaptcha\.net|cdn\.ampproject\.org|fluidplayer\.com|facebook\.net|fbcdn\.net|cloudflare\.com|ebacdn\.com|vk\.com|jquery\.com|jsdelivr\.net|yastatic\.net|yandex\.net|ytimg\.com|fontawesome\.com|dmca\.com|disqus\.com|vidazoo\.com|disquscdn\.com|jwpcdn\.com|shrink\.pe|zencdn\.net|unpkg\.com|github\.io|ulogin\.ru|player)).*$/$third-party,script,domain=ouofly.com|stfly.me|dz4win.com|bolssc.com|genpas.icu|canyoublockit.com|aii.sh|uptoshort.com|gsurl.in|oncehelp.com|adslinkfly.online|loveheaven.net|extramovies.casa|asianclub.nl|file-up.org|kshow123.net|short.articlix.com|dlapk4all.com|cryptoads.space|profitlink.info|shorthitz.com|putlocker.digital|pimpandhost.com|pornpapa.com|shorthub.co|xxxfiles.com|pornone.com|rawdex.net|hiperdex.com|ask4movie.co|scash.xyz|animekayo.com|animekaizoku.com|xorgasmo.com
 !
 !
+!
+||txxx.com/lifematters/
+loveheaven.net##.chapter-content > img.chapter-img ~ center
+loveheaven.net##.chapter-content > img.chapter-img +br + br + br + h3 > font[color="white"]
+loveheaven.net##center > a[target="_blank"] > img
+abbaspc.net##.entry-content center > button
 netflav.com##.ads_video_overlay_mobile
 ||avple.video/asset/bann.js
 barstoolsports.com##.freestarAd__container
@@ -601,7 +606,7 @@ larvelfaucet.com###bottomRightFloatingAd
 linksly.co##div[aria-label="Close Ads"]
 himovies.to###overlay-container
 ky3.com##body .arc-ad
-glitched.online##a[href^="https://bit.ly/"] > img
+boxlink.us,glitched.online##a[href^="https://bit.ly/"] > img
 glitched.online##.elementor-widget-sidebar > .elementor-widget-container > #text-7
 glitched.online##.elementor-widget-sidebar > .elementor-widget-container > #text-8
 glitched.online##.elementor-widget-sidebar > .elementor-widget-container > #text-9
@@ -923,7 +928,7 @@ rozfly.com##.separator > a[href]
 fossbytes.com##a[href^="https://www.linkev.com/order?a_fid="][target="_blank"] > img
 tomsguide.com##.hawk-widget[data-model-name]
 shorthitz.com,dl.ocanoke.com,afly.us##.box-main > .blog-item
-anitube.biz,elsfile.org,m4ufree.yt,9movies.yt,ask4movie.co,watchsomuch.org,kisstvshow.to,downloadhub.fans,thewatchcartoononline.tv##iframe[data-glx][style*="z-index"]
+watchmovies7.com.pk,anitube.biz,elsfile.org,m4ufree.yt,9movies.yt,ask4movie.co,watchsomuch.org,kisstvshow.to,downloadhub.fans,thewatchcartoononline.tv##iframe[data-glx][style*="z-index"]
 bitconews.net###modalin
 bitconews.net###btn-cerrar
 bleepingcomputer.com##.cz-sponsorposts
@@ -3106,11 +3111,12 @@ girlsofdesire.org##div[style="margin: 0 auto;font-size: 0px;  height: 255px;"]
 girlsofdesire.org##a[href^="http://refer.ccbill.com/"]
 ||girlsofdesire.org/php/*_fl.js
 ||movies123.pics/addons/partners/
-movies123.pics,gomovies.bid,solarmovie.fun##div[id] > .close.ico
-movies123.pics,gomovies.bid,solarmovie.fun##div[id] > .close.ico + a[href="/user/profile/premium-membership"]
+putlocker.style,movies123.pics,gomovies.bid,solarmovie.fun##div[id] > .close.ico
+putlocker.style,movies123.pics,gomovies.bid,solarmovie.fun##div[id] > .close.ico + a[href="/user/profile/premium-membership"]
 fmovies.gallery,movies123.pro,123movies.gallery,01fmovies.com,gomovies.tube,123movies.domains##div[style="display: block;"] > .close.ico
 fmovies.gallery,movies123.pro,123movies.gallery,01fmovies.com,gomovies.tube,123movies.domains##div[style="display: block;"] > .close.ico + a[href="/user/profile/premium-membership"]
-movies123.pics,gomovies.bid,fmovies.gallery,movies123.pro,123movies.gallery,01fmovies.com,01fmovies.com,gomovies.tube,123movies.domains##a[href="/user/profile/premium-membership"] > img
+putlocker.style,movies123.pics,gomovies.bid,fmovies.gallery,movies123.pro,123movies.gallery,01fmovies.com,01fmovies.com,gomovies.tube,123movies.domains##a[href="/user/profile/premium-membership"] > img
+putlocker.style##.jw-logo[style^="background-image: url("][style*="/addons/"]
 movies123.pics##.jw-logo[style^="background-image: url(\"https://movies123.pics/addons/"]
 gomovies.bid##.jw-logo[style^="background-image: url(\"https://gomovies.bid/addons/"]
 fmovies.gallery##.jw-logo-top-left[style^="background-image: url(\"https://fmovies.gallery/addons/"]
