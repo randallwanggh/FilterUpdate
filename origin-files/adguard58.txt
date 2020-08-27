@@ -5,10 +5,22 @@
 ||rover.ebay.$image,object,script,badfilter
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/62277
+!+ PLATFORM(ios, ext_android_cb, ext_safari)
+@@||google-analytics.com/analytics.js$domain=gaypornmasters.com 
+! https://github.com/AdguardTeam/AdguardFilters/issues/62436
+!+ PLATFORM(ios, ext_android_cb, ext_safari)
+@@||google-analytics.com/analytics.js$domain=programmiedovetrovarli.it
 ! https://github.com/AdguardTeam/AdguardFilters/issues/62271
 !#if (adguard_ext_safari || adguard_app_ios || adguard_ext_android_cb)
 @@||cdn.blueconic.net/chronicle.js$domain=chronicle.com
 @@||chronicle.blueconic.net/*/json$domain=chronicle.com
+!#endif
+! https://github.com/AdguardTeam/AdguardFilters/issues/59888
+!#if (adguard_app_android || adguard_app_ios || adguard_ext_android_cb)
+@@||googletagmanager.com/gtm.js$domain=mediamarkt.be|mediamarkt.ch
+@@||google-analytics.com/analytics.js$domain=mediamarkt.be|mediamarkt.ch
+@@||google-analytics.com/plugins/ua/ec.js$domain=mediamarkt.be|mediamarkt.ch
 !#endif
 ! seattletimes.com - fixing long loading
 @@||googletagmanager.com/gtm.js$domain=seattletimes.com
@@ -1250,8 +1262,8 @@ kizi.com#%#window.google_trackConversion = function() {};
 @@||google-analytics.com/analytics.js$domain=anadolu.edu.tr
 ! pcworld.com and kabel.canaldigital.no - websites are empty/grey for a while, similiar issue to this - https://forum.adguard.com/index.php?threads/resolved-piriform-com.23539/
 @@||google-analytics.com/analytics.js$domain=pcworld.com
-||googletagmanager.com/gtm.js$domain=kabel.canaldigital.no,empty,important
-||tags.tiqcdn.com/utag/telenor/telenor.no/prod/utag.*js$domain=kabel.canaldigital.no,empty,important
+||googletagmanager.com/gtm.js$script,redirect=noopjs,domain=kabel.canaldigital.no,important
+||tags.tiqcdn.com/utag/telenor/telenor.no/prod/utag.*js$script,redirect=noopjs,domain=kabel.canaldigital.no,important
 ! https://github.com/AdguardTeam/AdguardFilters/issues/9283
 @@||analytics.edgekey.net/html5/akamaihtml5-min.js$domain=nhk.or.jp
 ! https://github.com/AdguardTeam/AdguardFilters/issues/9192

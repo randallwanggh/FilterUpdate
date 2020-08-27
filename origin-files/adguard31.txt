@@ -18,6 +18,7 @@
 ||graph.facebook.com^$app=com.booking
 !
 ! Blocking Facebook mobile ads
+||graph.facebook.com^$app=com.amber.launcher
 ||graph.facebook.com^$app=intelligems.torrdroid
 ||graph.facebook.com^$app=com.thinkyeah.galleryvault
 ||graph.facebook.com^$app=com.hdwallpaper.wallpaper
@@ -260,12 +261,17 @@
 ||graph.facebook.com^$app=com.quoord.tapatalkpro.activity
 ||graph.facebook.com^$app=com.teeonsoft.ztorrent
 !
+!
+! https://github.com/AdguardTeam/AdguardFilters/issues/62310
+||d1f4dp0syfp2oq.cloudfront.net^$app=com.amber.launcher
+!
 ||a.*.com^$app=com.cerminara.yazzy
 ||com.europosit.polygon2d.coloringpuzzle^$app=com.cisana.guidatv
 !
 ! Viber
 ||ads.viber.com^
 ||ads-d.viber.com^
+||ads.aws.viber.com^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/61569
 ||afreecatv.com/data/af_app_ad_mobile.js
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59674

@@ -85,6 +85,7 @@ cdn.braun634.com^$third-party
 @@||zoover.adtrackers.net/shared/bannerpages/darttagsbanner.aspx
 @@||zoover.bannertrack.net/shared/bannerpages/darttagsbanner.aspx
 !
+@@||csgo-ranks.com^$generichide
 @@||angeloyeo.github.io^$generichide
 @@||glinks.co^$generichide
 @@||gobrowse.net^$generichide
@@ -651,6 +652,7 @@ cdn.braun634.com^$third-party
 ! URL baits
 @@/\.com\/miads\/|\/ad\/iframe\/ad|\/adinjector_|\/adminibanner2\.|\/adsatt\.|\/footerads\.|\/framead\/ad|\/housead\/ad|\/socialads\.|_afs_ads\./$domain=kamikiyuki.com
 !
+@@||goossh.com^$generichide
 @@||4horlover.com^$generichide
 @@||dafideff.com^$generichide
 @@||moneywar2.blogspot.com^$generichide
@@ -1100,6 +1102,18 @@ infranken.de,nachrichten.at,np-coburg.de,frankenpost.de,insuedthueringen.de,augs
 ! https://github.com/AdguardTeam/AdguardFilters/issues/47876
 topbusiness24.ru,mydomsam.ru,hubuhu.ru,moysadinfo.ru,mybusinessplus.ru,dukand.ru,mydizayn.ru,polzadom.ru,umnodachnik.ru,delnyesovety.ru,soverhenie.ru,mirinteresa.ru,uskorit.ru,dskyar.ru,biscand.ru,smartid24.ru,stroysaminfo.ru,topsovety.ru,sotsvetiya.ru,imdaily.ru,turizmnaok.ru,zdorovyobrazzhizni.ru,kinomann.ru,techinfolife.ru,dommoysad.ru,rteinfo.ru,psisovety.ru,kvilit.ru,speshit.ru,ollss.ru#@#.ad-placement
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/62277
+@@||gaypornmasters.com^$generichide
+@@||contextual.media.net/dmedianet.js$domain=gaypornmasters.com
+@@||gaypornmasters.com/wp-content/plugins/ad-inserter/*/*.js
+@@||gaypornmasters.com/wp-content/plugins/ad-inserter/images/ads.png
+@@||ib.adnxs.com^$image,domain=gaypornmasters.com
+@@||router.infolinks.com/dyn/apn-usync$image,domain=gaypornmasters.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/62436
+@@||programmiedovetrovarli.it^$generichide
+@@||contextual.media.net/dmedianet.js$domain=programmiedovetrovarli.it
+! https://github.com/AdguardTeam/AdguardFilters/issues/62371
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=audiotag.info
 ! https://github.com/AdguardTeam/AdguardFilters/issues/61339
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=premid.app
 ! https://github.com/AdguardTeam/AdguardFilters/issues/61263
@@ -2467,6 +2481,8 @@ m.sports.ru##iframe[src^="http://www.sports.ru/desktop/special/"]
 !
 ! White list. Fixing content blocking API issues.
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/61453
+@@||adguard.com/*/blog/
 ! https://github.com/AdguardTeam/AdguardFilters/issues/57915
 @@||switching.software/replace/google-analytics/
 ! https://github.com/AdguardTeam/AdguardFilters/issues/57812

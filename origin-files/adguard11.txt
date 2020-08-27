@@ -41,6 +41,10 @@ realty.yandex.ru##.Offer__taxiBannerContainer
 @@||yastatic.net/daas/atom.js$domain=mail.yandex.by|mail.yandex.kz|mail.yandex.ru|mail.yandex.ua|mail.yandex.com|mail.yandex.com.tr
 !-----------------------------------------------
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/62307
+elnortedecastilla.es#$#.ev-open-modal-notifier-all { display: none !important; }
+elnortedecastilla.es#$#.ev-open-modal-notifier-all ~ div.modal-backdrop { display: none !important; }
+elnortedecastilla.es#$#body { overflow: auto !important; }
 ! tut.by
 tutby.*,tut.by##a[href^="https://huawei.tut.by"]
 tutby.*,tut.by##.rubric-brand
@@ -485,12 +489,16 @@ theultralinx.com##.m-brand-engagement
 darlingtonandstocktontimes.co.uk##body > #piano-message
 ! https://github.com/AdguardTeam/AdguardFilters/issues/11944
 price.ru##.b-announce-queries__body
+!
 ! https://github.com/AdguardTeam/AdguardFilters/issues/39476
-mail.yahoo.com#?##messageListContainer > div > div[class]:contains(popular videos on Yahoo)
-mail.yahoo.com#?#div[data-test-id="efv-subheader"]:has(> span:contains(popular videos on Yahoo))
 mail.yahoo.com##div[style="width:640px;height:360px"][id="video-player"]
 mail.yahoo.com##div[data-test-id="video-container"]
 ||s.yimg.com/rx/builds/*/iframe-controller-page.html$domain=mail.yahoo.com
+! legacy interface 'mail.yahoo.com/b/folders/2'
+mail.yahoo.com#?#div[style="width:640px;height:360px"][id="video-player"]:upward(div:not([class]))
+! new interface 'mail.yahoo.com/d/folders/2'
+mail.yahoo.com#?#div[data-test-id="efv-header"] > div[data-test-id="efv-subheader"]:matches-css(font-size:13px)
+!
 ! https://github.com/AdguardTeam/AdguardFilters/issues/11061
 kinonews.ru##div[style="width:1010px;margin:0 auto;"] > table[style="width:100%;"]
 ! https://github.com/AdguardTeam/AdguardFilters/issues/10746
@@ -600,6 +608,8 @@ experts-exchange.com##.ctaSolutionStickyWrapper
 ! Working rule, but JS: is.alicdn.com#%#if (typeof localStorage != 'undefined' && localStorage.setItem) { localStorage.setItem('2', '"{\"2USD_coupon_popup\":1}"'); }
 aliexpress.ru,aliexpress.com#$?##newuser-activity-config { remove: true; }
 !
+wired.com##div[data-impression-name="paywall-bar-failsafe"]
+wired.com##.consumer-marketing-unit--cm-footer
 thenewstack.io##.sponsored-feed
 m.blog.naver.com##.btm_banner
 wap.business-standard.com###popup123
