@@ -52,9 +52,11 @@ independent.co.uk,komputerswiat.pl,dobreprogramy.pl,amp.pcwelt.de,tomshardware.c
 ! ##.inline-ad-container
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##.inline-ad-container
 !
+league-funny.com##div[id^="div-gpt-ad-"]
 scmp.com##.article-list__inline-ad
 scmp.com##.advert
 scmp.com##.details__topics-ad
+m.search.naver.com##li[data-pwr-ad-url]
 dcard.tw##div[style="height: 250px; width: auto;"]
 dcard.tw##div[style="height:250px;width:auto"]
 yan.vn##.AdsAppend

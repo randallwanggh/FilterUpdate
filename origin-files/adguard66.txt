@@ -930,6 +930,8 @@ fofmyanmar.com##center > a[rel="noopener noreferrer"] > img
 !--- general hide --
 ##a[href^="https://adm.beimg.com/"]
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/62449
+manhuaren.com###lb-win
 ! https://github.com/AdguardTeam/AdguardFilters/issues/62199
 ithome.com#?#.t-b.sel > ul.nl > li:has(> a[href*="/lapin."])
 ! https://github.com/AdguardTeam/AdguardFilters/issues/61686
@@ -4427,6 +4429,17 @@ krucil.net##img[width="900"][height="50"]
 !---------------------------------------------------------------------
 !------------------------------ Hebrew -------------------------------
 !---------------------------------------------------------------------
+! https://github.com/AdguardTeam/AdguardFilters/issues/62416
+||walla.co.il/js/walla.js
+!+ NOT_PLATFORM(ext_ublock)
+walla.co.il#@%#//scriptlet('ubo-aopw.js', 'upManager')
+!+ NOT_PLATFORM(ext_ublock)
+walla.co.il#@%#//scriptlet('ubo-acis.js', 'btoa', 'upManager')
+!+ NOT_PLATFORM(windows, mac, android)
+walla.co.il#%#//scriptlet('abort-on-property-read', 'googletag.defineSlot')
+! For some reason scriptlet doesn't work with apps
+!+ PLATFORM(windows, mac, android)
+walla.co.il#%#AG_abortOnPropertyRead('googletag.defineSlot');
 ! https://github.com/AdguardTeam/AdguardFilters/issues/60889
 ynet.co.il##.marketingRecommended
 !+ NOT_PLATFORM(ext_ublock)
@@ -5277,6 +5290,8 @@ dap-news.com##.ads
 !------------------------------ Korean -------------------------------
 !---------------------------------------------------------------------
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/62411
+jusoyo.com##.basic-banner-gallery
 ! https://github.com/AdguardTeam/AdguardFilters/issues/61718
 ||funbe.store/bann/
 ! https://github.com/AdguardTeam/AdguardFilters/issues/60419
@@ -5396,8 +5411,8 @@ cnews.beyondpost.co.kr##div[style="width:640px;height:250px;margin:0px auto;marg
 torrentmax.net##.subject-txt-info > a[href][target="_blank"][style^="text-decoration:"]
 torrentmax.net##.container-line-main-m > .container-top >.container-top-content > a[href][target="_blank"] > img
 torrentmax.net##.container-line-main-m > .container-top >.container-top-main > div[class$="-mode"] > a[href][target="_blank"] > img
-! https://github.com/AdguardTeam/AdguardFilters/issues/51899
-torrentqq22.com##.at-banner
+! https://github.com/AdguardTeam/AdguardFilters/issues/62488
+torrentqq48.com##.at-banner
 ! https://github.com/AdguardTeam/AdguardFilters/issues/51482
 torrevi.me,torrentww.net,u-tofiles.net,u2-file.me,torrentmaps.net,toggiri.org##.banner
 /data/banner/*$domain=torrevi.me|torrentww.net|u-tofiles.net|u2-file.me|torrentmaps.net|toggiri.org

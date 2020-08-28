@@ -180,7 +180,7 @@ ww.9to5google.com,ww.9to5mac.com,ww.9to5toys.com,ww.dronedj.com,ww.electrek.co##
 !
 ! common names
 ! ##.banner
-cut.my.id,zagl.info,photoeditor.com,9c717baaf805a8436afd7912039e826c.link,uflash.tv,boxlink.us,shortbitsfree.net,hellomagazine.com,adsme.cc,clickurls.site,planetanime.co,rocketfiles.com,pornwhite.com,aplayer2.me,viralizeit.net,sex3.com,softonic.com,3pornstarmovies.com,govtsmartjob.com,cutearn.ca,dfporn.net,cll.press,hellporno.net,youramateurporn.com,getlink.pw,embedtvseries.com,keygames.com,uclick.in,flv2mp3.by,doodhwali.com,smutindia.com,dvdcover.com,xxxadultphoto.com,gabicoins.com,qpdownload.com,windows10portal.com,2conv.com,javcloud.com,underhentai.net,cutwin.com,hqasiananal.com,bradsknutson.com,flv2mp3.org,subscene.com,yourlink.in,iplayer.pw,qpornx.com,sofifa.com,jawcloud.co,indiansgetfucked.com,medi-bayreuth.de,oxforddictionaries.com,tube18.sex##.banner
+printscreenshot.com,cut.my.id,zagl.info,photoeditor.com,9c717baaf805a8436afd7912039e826c.link,uflash.tv,boxlink.us,shortbitsfree.net,hellomagazine.com,adsme.cc,clickurls.site,planetanime.co,rocketfiles.com,pornwhite.com,aplayer2.me,viralizeit.net,sex3.com,softonic.com,3pornstarmovies.com,govtsmartjob.com,cutearn.ca,dfporn.net,cll.press,hellporno.net,youramateurporn.com,getlink.pw,embedtvseries.com,keygames.com,uclick.in,flv2mp3.by,doodhwali.com,smutindia.com,dvdcover.com,xxxadultphoto.com,gabicoins.com,qpdownload.com,windows10portal.com,2conv.com,javcloud.com,underhentai.net,cutwin.com,hqasiananal.com,bradsknutson.com,flv2mp3.org,subscene.com,yourlink.in,iplayer.pw,qpornx.com,sofifa.com,jawcloud.co,indiansgetfucked.com,medi-bayreuth.de,oxforddictionaries.com,tube18.sex##.banner
 ! ##.ad
 citra-emu.org,ipaddress.com,mobafire.com,movieweb.com,ndtv.com,owfire.com,samistream.com,trafficland.com,forvo.com,apornotube.net,instadp.com,stream365.xyz,bab.la,elophant.com,ibrodtv.net,thurrott.com,mtlblog.com,accuweather.com,narcity.com,mywebtimes.com,cellz.io,livescore.com,xcafe.com,ancient.eu,gradesaver.com,nytimes.com,nytimes3xbfgragh.onion,tempostorm.com,defensesystems.com,whatsmydns.net,newatlas.com,gtplanet.net,investopedia.com,mangafox.la,sexhoundlinks.com,ibc.org,dcode.fr,pinkvilla.com,greasyfork.org,ranker.com,curiouscat.me,pornhd.com,history.com,icefilms.info,saavn.com,msn.com,www-technologyreview-com.cdn.ampproject.org,bombhopper.io,worms.lol,satelite.io,javascripttutorial.net,jungle.lol,1v1.lol,tricksplit.io,filehippo.com,supersextube.pro,zipi.com,nejm.org,ertyu.org,howchoo.com,dvdsreleasedates.com,unicode-search.net##.ad
 ! ##.banner-inner
@@ -234,6 +234,14 @@ xxxparodyhd.net,movgotv.com,123kmovies.net,123movies.*,bluemovies.co,f5movies.to
 !
 !
 !
+lexico.com##.banbox
+lexico.com##.banbox-mini
+gocomics.com##.gc-deck--is-ad
+||youtube-video.download/bn.php
+||youtube-video.download/y-vd.php
+wlnk.ec##center > a[href][target="_blank"] > img
+shrinke.me,unishort.com##.expop
+movies07.co##.sidebar > ul > #custom_html-3
 timesofindia.indiatimes.com##div[style="min-height:250px; display:block!important"]
 autoevolution.com##.ad_adc
 autoevolution.com###swipebox-right::before
@@ -948,7 +956,7 @@ rozfly.com##.separator > a[href]
 fossbytes.com##a[href^="https://www.linkev.com/order?a_fid="][target="_blank"] > img
 tomsguide.com##.hawk-widget[data-model-name]
 shorthitz.com,dl.ocanoke.com,afly.us##.box-main > .blog-item
-mangasee123.com,watchmovies7.com.pk,anitube.biz,elsfile.org,m4ufree.yt,9movies.yt,ask4movie.co,watchsomuch.org,kisstvshow.to,downloadhub.fans,thewatchcartoononline.tv##iframe[data-glx][style*="z-index"]
+bacakomik.co,mangasee123.com,watchmovies7.com.pk,anitube.biz,elsfile.org,m4ufree.yt,9movies.yt,ask4movie.co,watchsomuch.org,kisstvshow.to,downloadhub.fans,thewatchcartoononline.tv##iframe[data-glx][style*="z-index"]
 bitconews.net###modalin
 bitconews.net###btn-cerrar
 bleepingcomputer.com##.cz-sponsorposts
@@ -1778,7 +1786,6 @@ ur-files.com##.blockdowright > center > a[href] > img
 1ink.cc##body > div[id^="Ad"][style^="position:fixed;"]
 wallpaperwaifu.com###elementor-popup-modal-250
 wallpaperwaifu.com##.pt-cv-page > .pt-cv-content-item[data-pid^="ad-"]
-unishort.com##.expop
 vidoza.net,vidoza.org##.prevent-first-click
 mydirtyhobby.to##.col-md-4 > .well.tt-body
 ||mydirtyhobby.to/banner/$image
@@ -8022,7 +8029,7 @@ golderotica.com##body > div#topbar
 8teenxxx.com###footerad4
 8teenxxx.com###player_adv_start
 ||8teenxxx.com/adboom.php
-indiansexxxtube.com###topBanner
+printscreenshot.com,indiansexxxtube.com###topBanner
 ||img.indiansexxxtube.com:8080/graphics/igfv.jpg
 sex.com###ad-div
 clashroyalearena.com##a[href="https://brawlstarsup.com/"][rel="nofollow external"]
@@ -9425,7 +9432,7 @@ iwatchgameofthrones.net##.adclose-btn
 ndtv.com##.adcont
 newstracklive.com##.addBox
 fapjournal.com##.ads-video-page
-pinkvilla.com,fapjournal.com,javengsub.com,youramateurporn.com,indiansexvideos.porn,onle.co,dausel.co,dotpelangi.xyz,yesnetwork.com,indiatoday.in,vidcloud.icu,mangafox.cc,mangafull.net,appvn.com,hentaihaven.org,h2mp3.com,livetvcafe.me,photagram.net,tapas.io,freefrontend.com,ally.sh,myplaycity.com,cafemovie.me,mercadojobs.com,thepiratebay.org,sgxnifty.org,justmp4.com,cyberscoop.com,stream-mydirtyhobby.biz,filmcomment.com,youngpornvideos.com,eventcinemas.com.au,findyourlucky.com,iwannawatch.to,linuxmint.com,mobafire.com,themepack.me##.ads
+youtube-video.download,pinkvilla.com,fapjournal.com,javengsub.com,youramateurporn.com,indiansexvideos.porn,onle.co,dausel.co,dotpelangi.xyz,yesnetwork.com,indiatoday.in,vidcloud.icu,mangafox.cc,mangafull.net,appvn.com,hentaihaven.org,h2mp3.com,livetvcafe.me,photagram.net,tapas.io,freefrontend.com,ally.sh,myplaycity.com,cafemovie.me,mercadojobs.com,thepiratebay.org,sgxnifty.org,justmp4.com,cyberscoop.com,stream-mydirtyhobby.biz,filmcomment.com,youngpornvideos.com,eventcinemas.com.au,findyourlucky.com,iwannawatch.to,linuxmint.com,mobafire.com,themepack.me##.ads
 google.ae,google.at,google.be,google.by,google.ca,google.ch,google.cl,google.cn,google.co.id,google.co.in,google.co.jp,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.bd,google.com.br,google.com.co,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.ng,google.com.pe,google.com.ph,google.com.pk,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.vn,google.de,google.dk,google.ee,google.es,google.fr,google.gr,google.hu,google.ie,google.it,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk,google.tn##.ads-ad
 heroesfire.com,mobafire.com,pgfire.net,vaingloryfire.com##.ads-narrow
 uploadocean.com##.ads_big
