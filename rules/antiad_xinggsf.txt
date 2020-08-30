@@ -5054,6 +5054,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||apprupt.com^
 ||appsdk.tanv.com^
 ||appsflyer.com^
+||appsmall.mobi^
 ||appsupdate.sinaapp.com^
 ||appsupport.qq.com^
 ||appsupport.stargame.com^
@@ -5675,6 +5676,8 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||babsedrinhi.info^
 ||babsitlehaphow.com^
 ||babyboomboomads.com^
+||babybubble.cn^
+||babymoment.net^
 ||backbeatmedia.com^
 ||backlink-test.de^
 ||backlink-umsonst.de^
@@ -8499,6 +8502,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||cnt1.net^
 ||cnt2.stroeerdp.de^
 ||cntdy.mobi^
+||cntingyun.com^
 ||cntr.lookmovie.ag^
 ||cntrafficpro.com^
 ||cntvxymwesggem.com^
@@ -8950,6 +8954,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||coolguang.com^
 ||coollcloud.com^
 ||coolnay.com^
+||coolppa.cn^
 ||coolsite.club^
 ||cooltool.cc^
 ||cooltui.com^
@@ -10139,7 +10144,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||dc.tremormedia.com^
 ||dc.vmoters.com^
 ||dc08i221b0n8a.cloudfront.net^
-||dc1.networkbench.com^
 ||dc121677.com^
 ||dc5k8fg5ioc8s.cloudfront.net^
 ||dc8na2hxrj29i.cloudfront.net^
@@ -11698,6 +11702,8 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||effectivelyreport.com^
 ||effectivemeasure.net^
 ||effiliates.cn^
+||effirst.cn^
+||effirst.com^
 ||effixtile-inceive.com^
 ||efhlntnvpzi.com^
 ||efhseqgqgl.com^
@@ -15035,6 +15041,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||hduic.com^
 ||hdweds.cn^
 ||hdysed.com^
+||hdyzx.cn^
 ||hdzkjv.cn^
 ||he2d.com^
 ||he7ll.com^
@@ -16052,6 +16059,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||idio.co^
 ||idm-su.baidu.com^
 ||idm.bce.baidu.com^
+||idmchina.net^
 ||idmfdmoli.com^
 ||idntfy.ru^
 ||idoc58.com^
@@ -19908,7 +19916,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||m.tcenn.com^
 ||m.tdiea.com^
 ||m.trb.com^
-||m.uc123.com^
 ||m.uczzd.cn^
 ||m.uocb.cn^
 ||m.uw45o.cn^
@@ -20762,6 +20769,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||mining.best^
 ||mining711.com^
 ||mininghub.club^
+||minippa.cn^
 ||minisite.letv.com^
 ||minisite.vidown.cn^
 ||minisplat.cn^
@@ -21883,6 +21891,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||netvigie.com^
 ||network.aufeminin.com^
 ||networkad.net^
+||networkbench.com^
 ||networkedblogs.com^
 ||networkice.com^
 ||networkmanag.com^
@@ -22949,6 +22958,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||ope.tanx.com^
 ||opehs.tanx.com^
 ||open-adx.com^
+||open-uc.cn^
 ||open.delivery.net^
 ||open.mkt1397.com^
 ||open.oneplus.net^
@@ -29918,8 +29928,12 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||tingyunfenxi.com^
 ||tinker.com^
 ||tinkerta.com^
+||tinya1.cn^
+||tinyap2.cn^
 ||tinyclues.com^
 ||tinycounter.com^
+||tinypap.cn^
+||tinyppa.cn^
 ||tinystat.ir^
 ||tinyweene.com^
 ||tiojk.com^
@@ -30909,6 +30923,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||tzmfunsnqkwlp.com^
 ||tztcvkhqrzjt.com^
 ||u-ad.info^
+||u-mob.cn^
 ||u-on.eu^
 ||u-x.jd.com^
 ||u.801t.com^
@@ -30920,8 +30935,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||u.l.qq.com^
 ||u.oppomobile.com^
 ||u.raidmedia.com.cn^
-||u.uc123.com^
-||u.ucfly.com^
 ||u.yizuya.com^
 ||u.zuoyesou.com^
 ||u07k3pqfw5jh.com^
@@ -30973,6 +30986,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||ubercpm.com^
 ||ubertags.com^
 ||ubertracking.info^
+||ubibibi.com^
 ||ubiquitousyard.com^
 ||ubm.fangtoo.com^
 ||ubmcmm.baidustatic.com/
@@ -30990,6 +31004,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||uc*.atobo.com^
 ||uc.xiansuper.com^
 ||uc.zhuici.com^
+||uc123.com^
 ||uc138.com^
 ||uc4a.cn^
 ||uc610.com^
@@ -30999,8 +31014,10 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||ucaluco.com^
 ||ucbaba.top^
 ||uccmprpzju.com^
+||ucdesk.cn^
 ||ucdn.website^
 ||ucfeed.ru^
+||ucfly.com^
 ||uchaoqiang.top^
 ||uchij.com^
 ||uciservice.com^
@@ -31018,6 +31035,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||uctrac.com^
 ||ucvqmvg.cn^
 ||ucvrtwfh.com^
+||ucweb.cn^
 ||ucweb.com^
 ||ucxgfoqrbk.com^
 ||ucxgg.com^
@@ -31060,6 +31078,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||uezychzvo.com^
 ||ufeuyyfoguo.com^
 ||uffpsmfefu.com^
+||uflowx.com^
 ||ufmmtncv.com^
 ||ufoukolt.com^
 ||ufow9xfashbm.com^
@@ -33708,6 +33727,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||xiaohui2.cn^
 ||xiaoling.ixiunv.com^
 ||xiaomeihq.info^
+||xiaomengquan.cn^
 ||xiaomiaoquan.com^
 ||xiaomiir.yaokantv.com^
 ||xiaopangtao.com^
@@ -33863,6 +33883,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||xmnmeu.cn^
 ||xmnnurmdrjmd.com^
 ||xmpush.xiaomi.com^
+||xmq123.cn^
 ||xmr.co^
 ||xmr.cool^
 ||xmrepair.com^
