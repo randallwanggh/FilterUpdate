@@ -1385,7 +1385,8 @@ realty.yandex.by,realty.yandex.kz,realty.yandex.ru,realty.yandex.ua##.popup__und
 translate.yandex.by,translate.yandex.com,ceviri.yandex.com.tr,translate.yandex.fr,translate.yandex.kz,translate.yandex.ru,translate.yandex.ua##.footer-line_promo
 !
 ! Yandex.Zen
-zen.yandex.by,zen.yandex.com,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua##.article__content div.call-to-action-bar
+zen.yandex.by,zen.yandex.com,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua##.app-button
+zen.yandex.by,zen.yandex.com,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua##.call-to-action-bar
 zen.yandex.by,zen.yandex.com,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua###yabro-strip-element
 zen.yandex.by,zen.yandex.com,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua##.article-footer__subscribe
 ! Yandex.Health
@@ -1496,12 +1497,16 @@ bournemouthecho.co.uk,eveningtimes.co.uk,greenocktelegraph.co.uk,heraldscotland.
 ! ##.subscribe
 oneplus.com,tickets.ua,woman.ru,elle.ru,marieclaire.ru,europaplus.ru,krossovki.com,belretail.by,thecollegefix.com,femmie.ru,prostofinovo.ru,mauijim.com,netpeak.net,wday.ru,buhgalteria.ru,ellegirl.ru,gameslog.ru,gizmag.com,healthhacks.ru,klerk.ru,menshealth.com,rbc.ru,snce.ru,turizm.ru,wegame.com.ua##.subscribe
 !
+adidas.com.tr##div[class^="footer_newsletter"]
+jv.ru##.signupnewsletter
 androidgreek.com##.sidebar-container > #custom_html-19
 iz.ru##.news-google
 mvs.gov.ua##.subscribe
 kp.ru,kp.by,kp.kg,kp.kz,kp.md##div[class*="styled__Subscribe-"]
 allconnect.com##div[data-preamp="footer-email-capture"]
 i-m-i.ru#?#div[type="article"] ~ div[class]:has(> div > div > form:contains(Подписаться))
+pult.ru##div[id^="subscription"]
+pult.ru##.s-main-news-subscribe
 afanasy.biz##.subscribe-block
 readovka.news##.block-community-zen
 officedepot.co.cr##.footer-newsletter
@@ -1588,7 +1593,7 @@ daan.dev##.halfway-post.widget-area
 investors.com##.subscribe-widget
 theguardian.com##.email-sub__iframe
 adme.ru##div[data-test-id="subscription-block"]
-burakyeni.com##form[action="https://feedburner.google.com/fb/a/mailverify"]
+downloadhub.host,burakyeni.com##form[action="https://feedburner.google.com/fb/a/mailverify"]
 tvanouvelles.ca###covid_infolettre
 zona.media##.js-subscribe
 zona.media##.tools__container
