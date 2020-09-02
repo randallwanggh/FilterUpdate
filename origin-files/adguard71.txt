@@ -202,6 +202,18 @@ xxxparodyhd.net,movgotv.com,123kmovies.net,123movies.*,bluemovies.co,f5movies.to
 !
 !
 !
+milesplit.com##.leaderboard
+livelaw.in##.modal_wrapper_frame
+livelaw.in##div[data-category="banner_ad"]
+vecdn.pw##.boxof
+2ix2.com##div[class^="bireklamsu"]
+autotrader.co.uk##.gpt-billboard
+mydrive.ch###sidebar > div.softronics
+||imhentai.com/js/acrfqesqit.php
+longfiles.com##p > a[href*="/vip.php"][rel="nofollow"] > img
+player.tubeqd.tv###preroll
+tubeqd.tv##div[style^="height: 250px;overflow: hidden;"]
+indiatoday.in##.inline-story-add
 ||webnovelonline.com/static/media/banner_
 collectionofbestporn.com###lower-ads
 porn00.org##.block-video > div.table
@@ -217,12 +229,17 @@ mirrorace.*##.vpn-download
 ||ytboob.com/long-limit-$script
 ||impactserving.com/preroll.engine$xmlhttprequest,redirect=nooptext
 ||twinrdsrv.com/preroll.engine$xmlhttprequest,redirect=nooptext
+filessharing.net##a[href^="https://xexpertxsoftwarex.com/"]
 tubepornclassic.com##.video-page__adv
 3dmodelshare.org##.post > div.single-box
 3dmodelshare.org##.homeadv > span
 3dmodelshare.org##.widget_anthemes_300px
+zlink.xyz##ins[class^="bmadblock-"]
 mp4cloud.net##.video-overlay
 mp4cloud.net##.overlay-container
+ad-doge.com###ctl00_PageMainContent_balancesChartDiv12
+||ad-doge.com/Images/b_ads/
+ad-doge.com##ins[class^="bmadblock-"]
 ||shrinkme.io/js/full-page-script.js
 indiatimes.com##.vidad
 lexico.com##.banbox
@@ -248,7 +265,6 @@ typingclub.com##div[id^="adslot_"]
 file-upload.net##.mod_picture > div[style="font-size:11px;color:#a3a3a3;float:right;"]
 /owa.MailBoot~MessageAdList.json$domain=outlook.live.com
 outlook.live.com##div[role="region"][data-max-height] > div.threeColItemViewSenderImageOn + div div:empty
-cut.my.id##iframe[src^="https://www.b4f.site/"]
 ||faxfossil.com^$popup,domain=hubfiles.ws
 ||gobrowse.net/glx_*.js
 ||lnfcdn.getsurl.com/js/was2.js
@@ -598,6 +614,9 @@ swordz.io##div[style="width:300; height: 250; background-color: #000"]
 disasterscans.com##div[id^="media_image-"].no-icon.heading-style-1
 9tsu.net##.ads-system
 pcworld.com###amazon-bottom-widget
+shiachat.com##body > div#ipsLayout_header + center
+||shiachat.com/forum/uploads/monthly_*/shiamatch.gif.*.gif
+||shiachat.com/forum/uploads/monthly_*/*_alaligemsa.gif.*.gif
 foes.io###adParent
 agma.io###advertDialog1
 agma.io###adWrapper300x250
@@ -656,7 +675,7 @@ lopteup.vip##.page-download > center
 lopteup.vip##.margin-top-3 > .panel-body > center
 greasyfork.org##.ad-entry
 ||b4f.site^$domain=shorter.fun
-shorter.fun##iframe[src^="https://www.b4f.site/"]
+zlink.xyz,cut.my.id,shorter.fun##iframe[src^="https://www.b4f.site/"]
 sythe.org##div[style="width: 100%; display: block; text-align: center;"] > a > video
 ||i.imgur.com/DKoVO5Z.mp4$domain=sythe.org
 sythe.org###topad
@@ -1365,7 +1384,6 @@ miohentai.com###sidebar-right > div.related-post > div.related-post-header ~ div
 ||hentaicloud.com/cornergirls.js
 naughtyhentai.com##.videoarea > div.video + div[class] a[target="_blank"] > img
 luscious.net##.ad_lead
-grammaire.reverso.net###ads
 yourupload.com##.kado-button
 yourupload.com##.roms-get-button
 ||newepisodes.co/atag.js
@@ -5426,7 +5444,7 @@ bro.adca.st##.load-more
 hardsextube.com##.video-thumbnail-placeholder
 hardsextube.com##.pre-play
 gr8forte.org###in-video
-themeslide.com,prajwaldesai.com,onlinefreecourse.net##div[data-adid]
+cgtips.org,themeslide.com,prajwaldesai.com,onlinefreecourse.net##div[data-adid]
 hotmovs.com##a[alt*="ad spot"]
 ||imgazure.com/888_super.php^
 ||imgazure.com/sro/editorship.php
@@ -9068,7 +9086,7 @@ edmunds.com###adhesion-container
 max-deportv.info,multiup.org###admvpu
 ubuntumaniac.com###adpost2
 icefilms.info###adrightside
-9hentai.com,emb.apl4.me,aplayer2.me,sportslogos.net,cyrobo.com,lavamovies.se,aliez.me,aliez.tv,hdcast.org,ip-address.org,lshstreams.com###ads
+emb.apl14.me,grammaire.reverso.net,9hentai.com,emb.apl4.me,aplayer2.me,sportslogos.net,cyrobo.com,lavamovies.se,aliez.me,aliez.tv,hdcast.org,ip-address.org,lshstreams.com###ads
 youjav.me###adsborder
 arenavision.in,deportesmax.com,elgoles.net,elgoles2017.blogspot.com,elgoles2017.blogspot.com.au,k2deporte.xyz,max-deportv.info,maxdeportv.net,mitierratvco2.com,pasiondeport2.blogspot.com,pasiondeport2.blogspot.com.au,pasiondeport2.blogspot.de,portalzuca25.ucoz.com,starshd.xyz,zonasports.to###adsdiv
 gowatchseries.to###adsl

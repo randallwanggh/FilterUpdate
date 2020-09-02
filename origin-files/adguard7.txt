@@ -18,9 +18,13 @@ amp-reddit-com.cdn.ampproject.org##.AppSelectorModal__body
 reddit.com#$#.XPromoPopup { display: none!important; }
 reddit.com#$#body.scroll-disabled { overflow: visible!important; position: static!important; }
 !
+livelaw.in###playstore_items_links
 ||getnada.com/google_play_banner.
 midomi.com##div[style] > div[class^="Banner_snackBar_"]
 mozilla.org##.mobile-download-buttons-wrapper
+raysigorta.com.tr#$#.modal-backdrop { display: none!important; }
+raysigorta.com.tr#$#.modal { display: none!important; }
+raysigorta.com.tr#$#body { overflow: visible!important; }
 ifeng.com###qrCode
 obi.ru#$#.off-canvas-outer>#Main-Content { padding-top: 85px !important; }
 dict.hinkhoj.com##.new_app_ne_div
@@ -891,8 +895,6 @@ finanzen.net#%#document.cookie="sb-closed=true; path=/;";
 !
 !--- Rules with Hints
 !
-!+ PLATFORM(android, ios, ext_android_cb)
-temp-mail.org##.smartbanner
 ! Suppressing PWA "Add To Home screen" annoyance
 ! Limit it to mobile versions only
 ! causes some issues: https://github.com/AdguardTeam/AdguardForMac/issues/550
@@ -966,4 +968,9 @@ kicker.de#@##smartbanner.ios
 kicker.de#@##smartbanner.android
 edeka.de#@##smartbanner.ios
 edeka.de#@##smartbanner.android
+!#endif
+!
+!#if (adguard_app_android || adguard_app_ios || adguard_ext_android_cb)
+cnbcindonesia.com##.smartbanner_new
+temp-mail.org##.smartbanner
 !#endif

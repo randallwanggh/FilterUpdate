@@ -1262,7 +1262,7 @@ nfmovies.com#@##adleft
 nfmovies.com#$##adright { position: absolute!important; left: -3000px!important; }
 nfmovies.com#$##adleft { position: absolute!important; left: -3000px!important; }
 nfmovies.com#$#img[src^="/pic/tu/"] { visibility: hidden!important; }
-@@||nfmovies.com/pic/tu/$image
+! @@||nfmovies.com/pic/tu/$image
 nfmovies.com#%#//scriptlet("set-constant", "inited", "true")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/46343
 v.shensgo.com##body > div[id][class*="animated"][style*="position"][style*="z-index"]
@@ -5295,6 +5295,8 @@ dap-news.com##.ads
 !------------------------------ Korean -------------------------------
 !---------------------------------------------------------------------
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/62883
+||manatoki*.*/data/banner/
 ! https://github.com/AdguardTeam/AdguardFilters/issues/62734
 krposts.com#$?#iframe[name]:not([class]):not([id]):not([src])[style^="display:"] { remove: true; }
 krposts.com$$script[wildcard="*track*atob*ShadowRoot*"][min-length="5000"][max-length="10000"]
@@ -6372,7 +6374,7 @@ dlfox.com##.under_phone_banner_link
 dlfox.com##a[href^="https://www.dlfox.com/adspage"] > img
 ! https://github.com/AdguardTeam/AdguardFilters/issues/37023
 soft98.ir##[class^="adx"]
-||kaprila.com/a/show.js
+||kaprila.com^$third-party
 ! https://github.com/AdguardTeam/AdguardFilters/issues/33437
 khabaronline.ir##section.box.ads
 ! https://github.com/AdguardTeam/AdguardFilters/issues/28759
@@ -6489,6 +6491,8 @@ innpoland.pl,mamadu.pl,dadhero.pl,natemat.pl#%#//scriptlet("prevent-eval-if", "i
 @@||video.onnetwork.tv/adblock_notify.js
 ||request.dqst.pl/v*/$xmlhttprequest
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/62824
+dzienniknarodowy.pl#$#.adsbygoogle { position: absolute!important; left: -3000px!important; }
 ! https://github.com/AdguardTeam/AdguardFilters/issues/62749
 wykop.pl#%#//scriptlet('remove-class', 'screening', 'body.screening')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/62158

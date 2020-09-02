@@ -89,6 +89,7 @@ cdn.braun634.com^$third-party
 @@||satoshiquiz.com^$generichide
 @@||super-ethanol.com^$generichide
 @@||royalkom.com^$generichide
+@@||filessharing.net^$generichide
 @@||mp4cloud.net^$generichide
 @@||streamanime.xyz^$generichide
 @@||vidlii.com^$generichide
@@ -659,6 +660,10 @@ cdn.braun634.com^$third-party
 ! URL baits
 @@/\.com\/miads\/|\/ad\/iframe\/ad|\/adinjector_|\/adminibanner2\.|\/adsatt\.|\/footerads\.|\/framead\/ad|\/housead\/ad|\/socialads\.|_afs_ads\./$domain=kamikiyuki.com
 !
+@@||polim-tv.blogspot.com^$generichide
+@@||kabel-tv-plus.blogspot.com^$generichide
+@@||uk-vision.blogspot.com^$generichide
+@@||cgtips.org^$generichide
 @@||tutoganga.blogspot.com^$generichide
 @@||3dmodelshare.org^$generichide
 @@||sshagan.net^$generichide

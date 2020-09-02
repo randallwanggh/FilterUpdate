@@ -1,9 +1,6 @@
 !
 !######### Annoying elements (not ads)
 !
-! https://github.com/DandelionSprout/adfilt/issues/63#issuecomment-683449454
-cnn.com##.el__leafmedia--featured-video-collection
-||cnn.com/*/featured-video-collection-player.min.js
 ! https://github.com/AdguardTeam/AdguardFilters/issues/55081#issuecomment-625748051
 ! http://forum.ru-board.com/topic.cgi?forum=2&topic=5372&start=520#14
 tutby.*,tut.by##.b-sbscr
@@ -1497,6 +1494,10 @@ bournemouthecho.co.uk,eveningtimes.co.uk,greenocktelegraph.co.uk,heraldscotland.
 ! ##.subscribe
 oneplus.com,tickets.ua,woman.ru,elle.ru,marieclaire.ru,europaplus.ru,krossovki.com,belretail.by,thecollegefix.com,femmie.ru,prostofinovo.ru,mauijim.com,netpeak.net,wday.ru,buhgalteria.ru,ellegirl.ru,gameslog.ru,gizmag.com,healthhacks.ru,klerk.ru,menshealth.com,rbc.ru,snce.ru,turizm.ru,wegame.com.ua##.subscribe
 !
+dmitripavlutin.com#?#article > div:has(> div > form[name="mc-embedded-subscribe-form"])
+dmitripavlutin.com#?#main ~ aside > div > div:has(> form[name="mc-embedded-subscribe-form"])
+mtb-news.de##.mtbn-newsletter-bar
+kp.ru##.page-footer_subscribe
 tochka.net##.subscribe_widget
 adidas.com.tr##div[class^="footer_newsletter"]
 jv.ru##.signupnewsletter

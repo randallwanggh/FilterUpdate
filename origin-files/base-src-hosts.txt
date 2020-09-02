@@ -6895,6 +6895,7 @@
 127.0.0.1 adlantic.nl
 127.0.0.1 adlantis.jp
 127.0.0.1 adlaunch.moji.com
+127.0.0.1 adlaunch.qingting.fm
 127.0.0.1 adledge.com
 127.0.0.1 adlegend.com
 127.0.0.1 adlev.neodatagroup.com
@@ -24597,6 +24598,7 @@
 127.0.0.1 cs.yieldoptimizer.com
 127.0.0.1 cs02-pps-drcn.dbankcdn.com
 127.0.0.1 cs1g.com
+127.0.0.1 cs6.cnzz.com
 127.0.0.1 cs6hm.com
 127.0.0.1 csakneked.info
 127.0.0.1 csbew.com
@@ -44716,7 +44718,6 @@
 127.0.0.1 mba-online.petrovka.info
 127.0.0.1 mbank.hit.gemius.pl
 127.0.0.1 mbank.hit.gemius.pl
-127.0.0.1 mbd.baidu.com
 127.0.0.1 mbd.weathercn.com
 127.0.0.1 mbdlog.iqiyi.com
 127.0.0.1 mbe-cdn-staging.fyber.com
@@ -51243,6 +51244,9 @@
 127.0.0.1 ots.optimize.webtrends.com
 127.0.0.1 ots.optimize.webtrends.com
 127.0.0.1 otsserver.com
+127.0.0.1 ott.da.mgtv.com
+127.0.0.1 ott2.da.mgtv.com
+127.0.0.1 ott3.da.mgtv.com
 127.0.0.1 ottacknet.112.2o7.net
 127.0.0.1 ottacknet.112.2o7.net
 127.0.0.1 ottdailytidingscom.112.2o7.net
@@ -63898,6 +63902,7 @@
 127.0.0.1 stevemadsklep.pl
 127.0.0.1 steverenton.com
 127.0.0.1 stevija.pl
+127.0.0.1 stg-data.ads.heytapmobi.com
 127.0.0.1 stg.widget.crowdignite.com
 127.0.0.1 stg.widget.crowdignite.com
 127.0.0.1 stiad.eclick.vn
@@ -87135,6 +87140,7 @@
 127.0.0.1 ymtracking.com
 127.0.0.1 ymxpb.com
 127.0.0.1 yn.001fzc.com
+127.0.0.1 ynet.da.mgtv.com
 127.0.0.1 ynud.heizundg.cn
 127.0.0.1 ynuf.aliapp.org
 127.0.0.1 ynwqls.com

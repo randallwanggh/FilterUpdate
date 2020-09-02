@@ -20131,7 +20131,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||mandearersi.club^
 ||manfys.com^
 ||mangoads.net^
-||manhuachi.com^
 ||mannusinglygues.info^
 ||manparis.cn^
 ||mantedtonisms.info^
