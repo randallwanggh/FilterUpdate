@@ -3345,6 +3345,7 @@
 127.0.0.1 5ebec5.r.axf8.net
 127.0.0.1 5ebec5.r.axf8.net
 127.0.0.1 5eyz.flzee.com
+127.0.0.1 5f3c395.ccm19.de
 127.0.0.1 5finder.com
 127.0.0.1 5forex.ru
 127.0.0.1 5frjkvw2w3wv6dnv.onion
@@ -4060,6 +4061,7 @@
 127.0.0.1 a.prisacom.com
 127.0.0.1 a.pub.network
 127.0.0.1 a.pub.network
+127.0.0.1 a.qchannel03.cn
 127.0.0.1 a.qiao024.com
 127.0.0.1 a.r10.mopub.com
 127.0.0.1 a.rad.live.com
@@ -10860,6 +10862,7 @@
 127.0.0.1 adstatic.ameba.jp
 127.0.0.1 adstats.adviva.net
 127.0.0.1 adstats.adviva.net
+127.0.0.1 adstats.tencentmusic.com
 127.0.0.1 adstax-match.adrtx.net
 127.0.0.1 adstest.reklamstore.com
 127.0.0.1 adstest.reklamstore.com
@@ -13798,6 +13801,7 @@
 127.0.0.1 api.dsp.batmobi.net
 127.0.0.1 api.dsp.yhd.com
 127.0.0.1 api.e-cg.cn
+127.0.0.1 api.e.kuaishou.com
 127.0.0.1 api.e.mi.com
 127.0.0.1 api.eqmob.com
 127.0.0.1 api.ero-advertising.com
@@ -14187,6 +14191,7 @@
 127.0.0.1 api2.branch.io
 127.0.0.1 api2.chartbeat.com
 127.0.0.1 api2.dating.com
+127.0.0.1 api2.e.kuaishou.com
 127.0.0.1 api2.murdoog.com
 127.0.0.1 api2.okanjo.com
 127.0.0.1 api2.play.cn
@@ -14607,6 +14612,7 @@
 127.0.0.1 appengage-video-staging.fyber.com
 127.0.0.1 appengage-video.fyber.com
 127.0.0.1 appengage-video.sponsorpay.com
+127.0.0.1 apperr.log.mgtv.com
 127.0.0.1 appetizers.appsee.com
 127.0.0.1 appevents.impactradius.com
 127.0.0.1 appfireworks.com
@@ -17314,6 +17320,7 @@
 127.0.0.1 betanews.us.intellitxt.com
 127.0.0.1 betareportcentral.doubleclick.net
 127.0.0.1 betclic.com
+127.0.0.1 betgorebysson.club
 127.0.0.1 betheprime2.live
 127.0.0.1 betpromo247.com
 127.0.0.1 betrad.com
@@ -18297,6 +18304,7 @@
 127.0.0.1 browsercollector.oneapm.com
 127.0.0.1 browsergames2018.com
 127.0.0.1 browsergames2019.com
+127.0.0.1 browserkernel.baidu.com
 127.0.0.1 browsermetrix.segrocers.com
 127.0.0.1 browsermine.com
 127.0.0.1 browserprotecter.com
@@ -20351,6 +20359,7 @@
 127.0.0.1 cdn.bttrack.com
 127.0.0.1 cdn.buysellads.com
 127.0.0.1 cdn.buysellads.com
+127.0.0.1 cdn.c-i.as
 127.0.0.1 cdn.c-team.jp
 127.0.0.1 cdn.caprofitx.com
 127.0.0.1 cdn.carbonads.com
@@ -20372,6 +20381,7 @@
 127.0.0.1 cdn.cmop.mgtv.com
 127.0.0.1 cdn.cmop.mgtv.com
 127.0.0.1 cdn.cmp.advertising.com
+127.0.0.1 cdn.cohesionapps.com
 127.0.0.1 cdn.coinad.com
 127.0.0.1 cdn.comedia.coccoc.com
 127.0.0.1 cdn.conative.de
@@ -21062,10 +21072,7 @@
 127.0.0.1 cdnmedia.xyz
 127.0.0.1 cdnmedia.xyz
 127.0.0.1 cdno.ayads.co
-127.0.0.1 cdnp0.stackassets.com
-127.0.0.1 cdnp1.stackassets.com
 127.0.0.1 cdnp1.yieldoptimizer.com
-127.0.0.1 cdnp3.stackassets.com
 127.0.0.1 cdnpa.hyperpromote.com
 127.0.0.1 cdnpa.hyperpromote.com
 127.0.0.1 cdnproviders.net
@@ -25633,6 +25640,7 @@
 127.0.0.1 datacollect9.abtasty.com
 127.0.0.1 dataexchange.inmobi.com
 127.0.0.1 dataf.ads.oppomobile.com
+127.0.0.1 dataflow.biliapi.com
 127.0.0.1 datahub.adalliance.io
 127.0.0.1 datahub.serving-sys.com
 127.0.0.1 datam01.adlooxtracking.com
@@ -26980,6 +26988,7 @@
 127.0.0.1 dolodos.top
 127.0.0.1 dolohen.com
 127.0.0.1 dolohen.com
+127.0.0.1 dolphin-center.adsame.com
 127.0.0.1 dolphin.adsame.com
 127.0.0.1 dolphin.deliver.ifeng.com
 127.0.0.1 dolphin.ftimg.net
@@ -27747,6 +27756,7 @@
 127.0.0.1 dzyne.net
 127.0.0.1 dzz.wankeedu.com
 127.0.0.1 dzzrenjanin.rs
+127.0.0.1 e-10399.adzerk.net
 127.0.0.1 e-2dj6wfk4ehd5afq.stats.esomniture.com
 127.0.0.1 e-2dj6wfk4ggdzkbo.stats.esomniture.com
 127.0.0.1 e-2dj6wfk4gkcpiep.stats.esomniture.com
@@ -31353,7 +31363,6 @@
 127.0.0.1 firebasedynamiclinks-ipv4.googleapis.com
 127.0.0.1 firebaselogging-pa.googleapis.com
 127.0.0.1 firebaselogging.googleapis.com
-127.0.0.1 firebaseremoteconfig.googleapis.com
 127.0.0.1 firebid.pl
 127.0.0.1 firecash.org
 127.0.0.1 firecpa.com
@@ -32942,6 +32951,7 @@
 127.0.0.1 ge-0-0-43-crs1.sc9.admob.com
 127.0.0.1 gearwom.de
 127.0.0.1 gebadu.com
+127.0.0.1 gecko-hl.snssdk.com
 127.0.0.1 geede.info
 127.0.0.1 geek.us.intellitxt.com
 127.0.0.1 geek.us.intellitxt.com
@@ -37861,6 +37871,7 @@
 127.0.0.1 inomag.pl
 127.0.0.1 inovscope.pt
 127.0.0.1 inp0st-aplikacja.com
+127.0.0.1 inpagepush.com
 127.0.0.1 inpagevideo.nl
 127.0.0.1 inpost-app.me
 127.0.0.1 inpost-kod.com
@@ -38312,7 +38323,6 @@
 127.0.0.1 ipv4.gdt.qq.com
 127.0.0.1 ipv4alt.antibot.cloud
 127.0.0.1 ipv4main.antibot.cloud
-127.0.0.1 ipv4only.arpa
 127.0.0.1 ipv6-wildcard.applovin.com.edgekey.net
 127.0.0.1 ipv6.adrta.com
 127.0.0.1 ipw.metadsp.co.uk
@@ -42341,6 +42351,7 @@
 127.0.0.1 loopme.biz
 127.0.0.1 loopme.com
 127.0.0.1 loopme.me
+127.0.0.1 lootvalley.com
 127.0.0.1 lop.com
 127.0.0.1 lopecik.pl
 127.0.0.1 lopon.pl
@@ -46405,6 +46416,7 @@
 127.0.0.1 mini.jijiplayer.com
 127.0.0.1 mini.videostrip.com
 127.0.0.1 mini2015.qq.com
+127.0.0.1 miniapp.bilibili.com
 127.0.0.1 miniapp.qiluyidian.mobi
 127.0.0.1 minidcsc.kugou.com
 127.0.0.1 minigameplanet.com
@@ -47429,6 +47441,7 @@
 127.0.0.1 msg.71.am
 127.0.0.1 msg.cn.miaozhen.com
 127.0.0.1 msg.cocamobile.com
+127.0.0.1 msg.douyu.com
 127.0.0.1 msg.eclicks.cn
 127.0.0.1 msg.ettoday.net
 127.0.0.1 msg.iqiyi.com
@@ -49848,6 +49861,7 @@
 127.0.0.1 nutnet.ir
 127.0.0.1 nutrired.org
 127.0.0.1 nuttyorganization.com
+127.0.0.1 nuvuneu.com
 127.0.0.1 nuwagi.com
 127.0.0.1 nuwerk.monsterboard.nl
 127.0.0.1 nv-ad-hcm.24hstatic.com
@@ -50386,6 +50400,7 @@
 127.0.0.1 offerfactory.click
 127.0.0.1 offerforge.com
 127.0.0.1 offerfusion.com
+127.0.0.1 offerimage.com
 127.0.0.1 offermatica.com
 127.0.0.1 offerreality.com
 127.0.0.1 offers.affiliatetraction.com
@@ -50900,6 +50915,7 @@
 127.0.0.1 onscroll.com
 127.0.0.1 onshowit.com
 127.0.0.1 onsitegold.com
+127.0.0.1 onstunkyr.com
 127.0.0.1 onthe.io
 127.0.0.1 ontheflix.us.intellitxt.com
 127.0.0.1 ontheflix.us.intellitxt.com
@@ -52442,7 +52458,6 @@
 127.0.0.1 pctracking.net
 127.0.0.1 pctuzing.php5.cz
 127.0.0.1 pcvideoaliyun.titan.mgtv.com
-127.0.0.1 pcvideoyd.titan.mgtv.com
 127.0.0.1 pcw.uk.intellitxt.com
 127.0.0.1 pcw.uk.intellitxt.com
 127.0.0.1 pcweb-v1.log.mgtv.com
@@ -54559,6 +54574,7 @@
 127.0.0.1 prod.apptimize.com
 127.0.0.1 prod.letswinstuff.com
 127.0.0.1 prod.linkitox.com
+127.0.0.1 prod.outbrain.map.fastlylb.net
 127.0.0.1 prod.perf-serving.com
 127.0.0.1 prod.spotify.map.fastly.net
 127.0.0.1 prod.spotify.map.fastlylb.net
@@ -57563,6 +57579,7 @@
 127.0.0.1 rtb8.adscience.nl
 127.0.0.1 rtb9.adscience.nl
 127.0.0.1 rtbadzesto.com
+127.0.0.1 rtbapi.douyucdn.cn
 127.0.0.1 rtbcc.fyber.com
 127.0.0.1 rtbcdn.doubleverify.com
 127.0.0.1 rtbcdn.doubleverify.com
@@ -57636,6 +57653,7 @@
 127.0.0.1 ru.gwallet.com
 127.0.0.1 ru.mst.dns-cloud.net
 127.0.0.1 ru.redtram.com
+127.0.0.1 ru.republer.com
 127.0.0.1 ru.theswiftones.com
 127.0.0.1 ru.track.uc.cn
 127.0.0.1 ru.velti.com
@@ -61867,6 +61885,7 @@
 127.0.0.1 sofeminine.uk.intellitxt.com
 127.0.0.1 sofeminine.uk.intellitxt.com
 127.0.0.1 sofia.trustx.org
+127.0.0.1 sofire.baidu.com
 127.0.0.1 sofmap.112.2o7.net
 127.0.0.1 soft.chaomeng8.com
 127.0.0.1 soft.data.weather.360.cn
@@ -63292,6 +63311,7 @@
 127.0.0.1 static.amplitude.com
 127.0.0.1 static.ampxchange.com
 127.0.0.1 static.ampxchange.com
+127.0.0.1 static.anleger-reports.de
 127.0.0.1 static.anquan.org
 127.0.0.1 static.apester.com
 127.0.0.1 static.app.m.letv.com
@@ -65294,6 +65314,7 @@
 127.0.0.1 t5.trackalyzer.com
 127.0.0.1 t500track29.com
 127.0.0.1 t6.51maiwanju.com
+127.0.0.1 t6.a.market.xiaomi.com
 127.0.0.1 t6.baidu.com
 127.0.0.1 t6.trackalyzer.com
 127.0.0.1 t6.trackalyzer.com
@@ -65707,6 +65728,7 @@
 127.0.0.1 tcad.wedolook.com
 127.0.0.1 tcadops.ca
 127.0.0.1 tcads.net
+127.0.0.1 tcbox.baidu.com
 127.0.0.1 tcc.conative.de
 127.0.0.1 tcgtrkr.com
 127.0.0.1 tcgtrkr.com
@@ -88441,6 +88463,7 @@
 127.0.0.1 zwwa.h2pzh.cn
 127.0.0.1 zwxrhsxa.goghh.top
 127.0.0.1 zx.baosmx.com
+127.0.0.1 zx.da.mgtv.com
 127.0.0.1 zx.docin.com
 127.0.0.1 zxa4kxw2nvox.com
 127.0.0.1 zxcs.ggwan.com
