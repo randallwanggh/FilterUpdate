@@ -59,8 +59,6 @@ bilgilobi.com,aksaelektrik.com.tr,ergo.de,fosforludusunceler.com,kirtkirtla.com,
 interpals.net#$#body { overflow: visible !important; }
 interpals.net#$#body div.fc-ab-root { display: none !important; }
 !
-google.de#$##lb { display: none !important; }
-google.de#$#html { overflow: visible !important; }
 mediafire.com#$#.fc-consent-root { display: none !important; }
 mediafire.com#$#body { overflow: visible !important; }
 uaudio.de###cookie-disclaimer-new
@@ -823,7 +821,6 @@ biosis.com.tr,incehesap.com##.cerez-politikasi-container
 blockchain.com##div[class^="GdprBanner_"]
 change.org###app > header.table-row > div[role="alert"][class^="sc-"]
 tweaktown.com##.cookie-prompt
-fandom.com##.wds-banner-notification__container
 660citynews.com##.rdm-daac-notice-template
 projekt-gesund-leben.de##[class^="pixelmate-"]
 elopage.com##.consent-management-simple

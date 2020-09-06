@@ -10919,7 +10919,6 @@ fanatik.com.tr##.data-policy
 fancentro.com##.consent-message
 fancentro.com#$##sticky-header-wrapper { height: 0!important; }
 fandom.com##.featured-video__wrapper
-fandom.com##.wds-banner-notification__container
 fandom.com##div[class^="aff-unit"]
 fandom.com#$#.global-navigation-mobile-wrapper { top: 0!important; }
 fandom.com#$#.smart-banner { display: none!important; }
@@ -11264,6 +11263,7 @@ filecrypt.co##.bams
 filecrypt.co##.container > .buttons > span > button[onclick]
 filecrypt.co#$#.support_2 > i[onclick*="this;openLink"] { position: absolute!important; left: -3000px!important; }
 filecrypt.co#%#AG_defineProperty('_popsThisDay', {value: "999"});
+filecrypt.co#%#AG_setConstant('YPOP','noopFunc');
 filecrypt.co#?##cform > .protection div > ul > li:has(> .bims > div[onclick])
 filecrypt.co#?#form > .window.protection > div ul > li:has(> .bams)
 filedir.com##.content_right > ul > .si_li[style^="padding:"]
@@ -13875,8 +13875,6 @@ google.com##kno-share-button
 google.com#?#header[id="hdr"] ~ div#main > div[class="ZINbbc xpd O9g5cc uUPGi"]:has(> div > a[href*="/aclk?"][data-al])
 google.com,google.ru##body > table[width="100%"][style^="border: 1px solid #"]
 google.de##.amp-wp-article-content > div.instream-wrap > .instream-container
-google.de#$##lb { display: none !important; }
-google.de#$#html { overflow: visible !important; }
 google.de,spiegel.de,www-spiegel-de.cdn.ampproject.org##amp-fx-flying-carpet[height="300px"][style*="height:"][style*="300px;"]
 google.de,spiegel.de,www-spiegel-de.cdn.ampproject.org##amp-layout[width="300"][style*="height:"][style*="266px"]
 google.de,sueddeutsche.de##amp-ad + div[class^="css-"]
@@ -36165,6 +36163,7 @@ walla.co.il##div.center-bottom[data-slot-name="nickbar_phone"]
 walla.co.il##div[class^="ads-image-link"]
 walla.co.il##iframe[src^="//walla.yad2.co.il/xml_yad2/dinamic_banner_"]
 walla.co.il#%#//scriptlet("abort-on-property-read", "googletag")
+walla.co.il#%#//scriptlet("json-prune", "data", "loaderVer")
 walla.co.il#%#AG_abortInlineScript(/TextDecoder/, 'atob');
 walla.co.il#%#window.atob = function() { };
 walla.co.il#@%#//scriptlet('ubo-acis.js', 'btoa', 'upManager')
@@ -55970,7 +55969,9 @@ zzz.com.ua##body > div[style="text-align:center;font-size:11px;font-family:arial
 ||wakapita.com^
 ||walasearch.com^
 ||walgreens.sc.omtrdc.net^
+||walla.co.il/cdn/swordfish.js
 ||walla.co.il/js/walla.js
+||walla.co.il/p.php
 ||wallpaperstudio10.com/cdn-cgi/apps/head/*.js
 ||walterfootball.com/images/draftkingsad.jpg
 ||wandara113.xyz^$third-party
