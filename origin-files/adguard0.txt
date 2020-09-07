@@ -1435,6 +1435,7 @@ money.yandex.ru##.promo-header
 ! START: mail.ru
 !
 ! Main page - self promo
+mail.ru##a[href^="https://r.mail.ru/n329873000?"]
 mail.ru##.bubble-home__content
 mail.ru##.bubble-home
 mail.ru##.grid__header > div.toolbar
@@ -1505,6 +1506,7 @@ dmitripavlutin.com#?#main ~ aside > div > div:has(> form[name="mc-embedded-subsc
 mtb-news.de##.mtbn-newsletter-bar
 kp.ru##.page-footer_subscribe
 tochka.net##.subscribe_widget
+sostav.ua##.tgzen
 adidas.com.tr##div[class^="footer_newsletter"]
 blog.remarkable.com#?#.screenContent > div.js-collectionStream > div.streamItem:has(> div.u-marginAuto > div.u-marginAuto > div.u-marginBottom20 > a[href="https://mailchi.mp/mail.remarkable.com/subscribe_to_newsletter"])
 remarkable.com#?#main > div[style] > article[class^="business-module"]:has(> div[class^="business-module"] > h2:contains(Stay in the loop))
@@ -1522,6 +1524,7 @@ readovka.news##.block-community-zen
 officedepot.co.cr##.footer-newsletter
 ouest-france.fr##.bloc-newsletter
 trendus.com###SideBar-Newsletter
+portal.lviv.ua##.subscribe_social
 engadget.com##div[data-component="NewsletterCard"]
 engadget.com#?#ul[data-component="LatestStream"] > li:has(> div[data-component="NewsletterCard"])
 newsandstar.co.uk###newsletter-interstitial

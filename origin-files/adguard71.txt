@@ -207,6 +207,15 @@ xxxparodyhd.net,movgotv.com,123kmovies.net,123movies.*,bluemovies.co,f5movies.to
 !
 !
 !
+kissasian.sh##iframe[src^="/Ads/"]
+wjunction.com##a[href="http://katfile.com/make-money.html"]
+teamos-hkrg.com##.sponsors__lead
+||imgur.com/q04jCOV.gif$domain=wjunction.com
+pornwatchers.com##.stage-promo
+||entaiarena.com/curly-mode-$script
+||saradahentai.com/sparkling-band-$script
+freepik.com##div[data-id^="div-gpt-ad-"]
+vaughn.live##.MvnAbvsLowerThirdWrapper
 cointelegraph.com##a[href^="javascript:void(0);"][data-link] img
 usaudiomart.com##.featad
 gizguide.com##a[href^="spr.ly/"][target^="_blank"]
@@ -237,6 +246,7 @@ anysex.com##.naf_dd
 texteditor.co###adHeading
 texteditor.co##.topBanner
 operanewsapp.com###detail-bottom-ad
+||streamporn.pw/adult/wp-content/themes/PsyPlay/billo.
 ||ukfucking.com/fr.js
 ||ukfucking.com/v.js
 ukfucking.com##.im-show
@@ -1367,6 +1377,7 @@ faupto.com##body > .bg-dark.fixed-a
 imdb.com###placeholderImageLinearGradient
 ||xxxextreme.org/Gfr4jkFh.
 ||vipergirls.to/files/se.gif
+paisdelosjuegos.com.co###rest-content > div[class*="advertisement-"]
 vipergirls.to##div[align="center"] > a[href^="https://vipergirls.to/go/"] > img
 desimartini.com##.bor_bot > div[style="background-color: #f5f5f5; min-height: 110px; padding: 10px 0 10px 0;"]:empty
 getpocket.com##.syndication-ad
@@ -3456,7 +3467,7 @@ freeteenporn.xxx##.thumb-banner
 freeteenporn.xxx##.video-banner
 ||freeteenporn.xxx/js/script.js
 software-on.com##._ning_cont > ._ning_inner
-streamz.*,nullpk.com,mitly.us,merdekaid.online,software-on.com##a[href^="http://deloplen.com/"]
+vidlink.org,streamz.*,nullpk.com,mitly.us,merdekaid.online,software-on.com##a[href^="http://deloplen.com/"]
 switch-xci.com##.code-block-4 > div[style="text-align:center;font-family:Tahoma;"]:not([class]):not([id])
 thepiratebayorg.org##center > a[href][target="_blank"][rel="nofollow"] > img
 ||thepiratebayorg.org/images/
@@ -6530,6 +6541,7 @@ mymovieraven.pro###MainContent_Adsection
 newmoviezion.pro,mymovieraven.pro##a.LolElement[style*="background-color:red;"][href="#"]
 spacemov.io##a[href^="http://www.movie4all.co"]
 spacemov.io##.popover
+mamalisa.com##div[class] > div[style$="padding-top:1em;font-size:.85em;"]
 vexmovies.org##a[href^="http://bit.ly"] > img
 ||vexmovies.org/wp-content/uploads/2017/12/Stream-Movie.png
 123moviesflix.com##a[href^="https://123moviesflix.com/downloadprocess.php"]

@@ -6,6 +6,7 @@
 ! Chinese adservers (for future AdGuard Chinese filter)
 !START: Chinese ad servers
 ||tngmn.com^$third-party
+||kgnpwdf.cn^$third-party
 ||rz261.cn^$third-party
 ||mq.d6s3mov.cn^$third-party
 ||yitai001.com^$third-party
@@ -160,6 +161,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||graniteacquitcharacteristic.com^
 ||bestcontentoperation.top^$third-party
 ||balebunsob.com^
 ||fggwavfjucnyw.com^$third-party
@@ -169,7 +171,9 @@
 ||reoxclick.com^$third-party
 ||nothingarbourdough.com^
 ||exchangedaudacious.com^
+||popcornews.me^$third-party
 ||r023m83skv5v.com^$third-party
+||p9oqu.com^$third-party
 ||invitesuperstitiousadmire.com^$third-party
 ||y3k7rqxsh55c.com^
 ||mopedisods.com^

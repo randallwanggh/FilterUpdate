@@ -75,8 +75,7 @@ rp5.ru,rp5.ua,rp5.by,rp5.kz,rp5.co.uk#$?##content > div > div[id]:has(> ins.adsb
 !
 ! rambler with side-projects: autorambler.ru,wmj.ru,passion.ru,eda.ru,quto.ru,rns.online,championat.com,gazeta.ru,lenta.ru
 !#if (!adguard_app_windows && !adguard_app_mac && !adguard_app_android)
-autorambler.ru,wmj.ru,motor.ru,passion.ru,quto.ru,eda.ru,rns.online,championat.com,gazeta.ru,lenta.ru#%#//scriptlet("set-constant", "Object.prototype.insertBannerContent", "undefined")
-rambler.ru#%#//scriptlet("set-constant", "Object.prototype.getUrls", "undefined")
+letidor.ru,autorambler.ru,wmj.ru,motor.ru,passion.ru,quto.ru,eda.ru,rns.online,championat.com,gazeta.ru,lenta.ru,rambler.ru#%#//scriptlet("set-constant", "Object.prototype.placeNode", "undefined")
 !#endif
 ! rambler.ru - leftovers on the main page
 www.rambler.ru#?#main header ~ div div[class]:has(> div[class] > div[id] > script:contains(/^if\s?\(!window\..*{"status":/))
@@ -342,6 +341,7 @@ livejournal.com,tecmundo.com.br,rap.ru,abcnyheter.no##.fc-ab-root
 !
 @@||ebay-kleinanzeigen.de/static/js/belen/tracking/adblock-detection/prebid*.js
 @@||ebay-kleinanzeigen.de/static/js/belen/tracking/adblock-detection/advertising*.js
+alpinforum.com##.page-body > div[id][style*="position: fixed"][style*="z-index: 1;"]
 nu.nl##.toast.adblocker
 nu.nl#%#//scriptlet("set-constant", "isAdBlockEnabled", "false")
 ||nexus.ensighten.com/hearst/*.js$domain=kcra.com
@@ -403,6 +403,7 @@ evades.io#%#//scriptlet("set-constant", "adBlockerDetected", "false")
 redtube.com###ab_banner
 sokakyemekleri.com##.blocker-notice
 creatur.io#%#//scriptlet("set-constant", "canRunAds", "true")
+soft98.ir##body > div.toast
 @@||wikihow.com/_ads/ads.js
 @@||squadd.io/ads.js
 @@||ligainsider.de/public/desktop/js/dfp.js
@@ -1716,8 +1717,10 @@ it-actual.ru#%#AG_setConstant('window.alert', 'undefined');
 ||static.cdnslate.com/etc/designs/slate/js/plus-upsell-adblock.js
 techsolutiontips.com#%#window.google_jobrunner = function() { };
 !#safari_cb_affinity(general)
+bikemania.org#@#.adg_row
 @@||coop-land.ru/templates/*/js/adfox/admixer.js
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mazmorra.io
+@@||uchords.net/ads.js
 @@/googleads.g.doubleclick.net/[a-z0-9]*$/$xmlhttprequest,domain=sovetromantica.com
 topcashback.com#@#.afs_ads
 delfi.ee#@#.ad-banner

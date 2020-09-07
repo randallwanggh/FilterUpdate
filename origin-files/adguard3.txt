@@ -59,6 +59,7 @@ bilgilobi.com,aksaelektrik.com.tr,ergo.de,fosforludusunceler.com,kirtkirtla.com,
 interpals.net#$#body { overflow: visible !important; }
 interpals.net#$#body div.fc-ab-root { display: none !important; }
 !
+meteomedia.com##div[class^="cookieBar_"]
 mediafire.com#$#.fc-consent-root { display: none !important; }
 mediafire.com#$#body { overflow: visible !important; }
 uaudio.de###cookie-disclaimer-new
@@ -354,7 +355,6 @@ disneyworld.eu###cookiesPolicyMessageLayout
 ||netmoms.de/content/themes/twentyfifteen/app/scripts/vendor/spmsg-*.js
 trendsmap.com##.header-message
 smartshop.hu,ikea-family.info##.cdk-overlay-container
-newpharma.fr,newpharma.be,newpharma.de,newpharma.nl,newpharma.at,apo24.ch##.cookie-policy-popup
 yuzde100yerli.com##.pum-theme-cookiepolicy
 interviewer.tns-sifo.se##.smb-cookies-consent
 picapoint.de##.cookie--banner-wrapper
@@ -1386,7 +1386,7 @@ tim.com.br##.tim-gcc-notification
 open.spotify.com#$#.Root > div > div[class][aria-live="polite"] { display: none!important; }
 open.spotify.com#$#.Root__top-container--has-notice-bar { padding-top: 0!important; }
 open.spotify.com#$#.Root__top-container--has-notice-bar .SearchInputBox--feedback-bar { top: 0!important; }
-audemarspiguet.com,press.lv##.cookie-policy-popup
+zara.com,newpharma.fr,newpharma.be,newpharma.de,newpharma.nl,newpharma.at,apo24.ch,audemarspiguet.com,press.lv##.cookie-policy-popup
 dm.hu##div[data-dmid="cookiebar"]
 scania.com##.c-cookie-message
 aboutyou.hu##div[data-test-id="CookieBanner"]
@@ -1605,7 +1605,7 @@ minitool.com##.bottom-cookie-wrap
 likeni.ru##.bottom-popup
 android-hilfe.de##.bottomFixer .DismissParent
 calkalasutasayrani.com##.bs-example-modal-lg
-cgtips.org,nereye.com.tr,coursedrive.org,economiasc.com,windows101tricks.com,software-on.com,adslayuda.com,enterinit.com,howtofixwindows.com,konupara.com,prajwaldesai.com,hackintosh.computer,derstarih.com,letsgetapps.co,linehaber.com.tr,pcbilimi.com,zillowtech.com##.bs-wrap-gdpr-law
+wpgurme.com,cgtips.org,nereye.com.tr,coursedrive.org,economiasc.com,windows101tricks.com,software-on.com,adslayuda.com,enterinit.com,howtofixwindows.com,konupara.com,prajwaldesai.com,hackintosh.computer,derstarih.com,letsgetapps.co,linehaber.com.tr,pcbilimi.com,zillowtech.com##.bs-wrap-gdpr-law
 boerse-stuttgart.de##.bsg-cookie-layer
 logistics.dhl.ru,fitness24seven.com,logistics.dhl##.c-cookie-disclaimer
 237solution.net,bibleserver.com,history.vn.ua,iseyskyr.com##.cc-container
@@ -1780,7 +1780,7 @@ fotoparadies.de,cewe.de##.sg-cw-cookie
 geoportal.gov.pl##.showme.cookies
 loggly.com##.site-header > section.promotion
 bitcatcha.com##.site-notification
-kantarsifo.se,premiumcamps.info,romdb.geeklogger.com##.sliding-popup-top
+usenix.org,kantarsifo.se,premiumcamps.info,romdb.geeklogger.com##.sliding-popup-top
 spravy.pravda.sk##.sticky-cookies
 maximum.com.tr##.sticky_cookie_warning
 bizhint.net##.subscribe-popup
@@ -3235,7 +3235,7 @@ lavozdealmeria.es###cookiepolitica
 advancedtomato.com###cookieprivacy-bar
 livelib.ru,nabory.kprm.gov.pl###cookies-agree
 emerald.com,clevershuttle.de,myefe.ru###cookies-consent
-godmode-trader.de###cookies-container
+m.zara.com,godmode-trader.de###cookies-container
 sevenonemedia.de###cookies-dialog
 moj-posao.net###cookies-directive
 iprima.cz###cookies-info
@@ -4258,6 +4258,7 @@ bmwfaq.org#?#.Notices[-ext-has='a[href="//www.bmwfaq.org/help/cookies"]']
 !
 ! JS rules
 !
+politainment.no#%#document.cookie = "complianz_consent_status=allow; path=/;";
 sourcepoint.n-tv.de#%#AG_onLoad(function(){if(!document.cookie.includes("euconsent-v2")){var g=new MutationObserver(function(){var b=document.querySelector('a[href="\$\$\$\$:1597073585586"]'),c=document.querySelector('.page-action'),d=document.querySelector('.accepted'),f=document.querySelector('button[aria-label="Auswahl speichern"]');b&&b.click();c[0]&&c[0].click();d&&d.click();f&&f.click()});g.observe(document,{childList:!0,subtree:!0});setTimeout(function(){g.disconnect()},1E4)}});
 gamestar.de#%#AG_onLoad(function(){if(!document.cookie.includes("euconsent-v2")){var b=new MutationObserver(function(){if("object"===typeof Didomi){var a,c=document.querySelector('#cmp-modal > #cmp-container a.btn[href*="acceptCmp"]');c&&(null===(a=Didomi)||void 0===a?0:a.setUserAgreeToAll)&&(b.disconnect(),c.click())}});b.observe(document,{childList:!0,subtree:!0});setTimeout(function(){b.disconnect()},1E4)}});
 digitalfoundry.net#%#AG_onLoad(function(){if(-1==document.cookie.indexOf("OptanonAlertBoxClosed")){var a=new MutationObserver(function(){var b=document.querySelector(".optanon-alert-box-wrapper"),c=document.querySelector("button.accept-cookies-button");b&&c&&(a.disconnect(),c.click(),b.style="display: none !important;")});a.observe(document,{childList:!0,subtree:!0});setTimeout(function(){a.disconnect()},1E4)}});
