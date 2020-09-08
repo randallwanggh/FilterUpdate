@@ -1497,6 +1497,11 @@ bournemouthecho.co.uk,eveningtimes.co.uk,greenocktelegraph.co.uk,heraldscotland.
 ! ##.subscribe
 oneplus.com,tickets.ua,woman.ru,elle.ru,marieclaire.ru,europaplus.ru,krossovki.com,belretail.by,thecollegefix.com,femmie.ru,prostofinovo.ru,mauijim.com,netpeak.net,wday.ru,buhgalteria.ru,ellegirl.ru,gameslog.ru,gizmag.com,healthhacks.ru,klerk.ru,menshealth.com,rbc.ru,snce.ru,turizm.ru,wegame.com.ua##.subscribe
 !
+pikabu.ru##.email-block
+myks.com.ua##.social-statistics-widget
+pekarstas.com##div[class^="share-block"]
+core77.com##div#full_bottom_pop
+k1news.ru##.yand
 buffalonews.com###paywall-footer
 bloombergquint.com##div[class^="subscription-"]
 pdfdrive.com###subscribebox-cats
@@ -2914,6 +2919,7 @@ warezcrack.net#$#.onp-sl-content > [data-lock-id^="onpLock"] { display: block!im
 windowstechblog.nl#$#.onp-sl-blur-area[style="filter: blur(5px);"] { filter: none!important; }
 windowstechblog.nl#%#AG_onLoad(function() { window.bizpanda = {}; });
 !
+pixivision.net##._floated-bottom-bar
 news18.com##.newftrshare-fixed
 news18.com##.story-social-share-fix
 eteknix.com###main > div[align="center"] > a[href^="http://bit.ly/"] > img
