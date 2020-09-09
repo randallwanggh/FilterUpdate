@@ -54,11 +54,22 @@ allianz.de,easybib.com,st.com,mauijim.com,citationmachine.net,idevice.ro,tagheue
 ! ##div[aria-label="cookieconsent"]
 ignshop.hu,download.pixelexperience.org,waterdrop.com,exvital.de,mobile01.com,duckduckgo.merchmadeeasy.com,bear-family.com,r-pur.com,wstream.video##div[aria-label="cookieconsent"]
 ! ###cookie-box
-buneymis.net,teknoxhaber.com,bilgilobi.com,aksaelektrik.com.tr,ergo.de,fosforludusunceler.com,kirtkirtla.com,sonaktuel.com,muglaweather.com,denizcilikbilgileri.com,filmonerileri.org,wblogy.com,dnschecker.org,krombacher.de###cookie-box
+ultrabilgi.com,buneymis.net,teknoxhaber.com,bilgilobi.com,aksaelektrik.com.tr,ergo.de,fosforludusunceler.com,kirtkirtla.com,sonaktuel.com,muglaweather.com,denizcilikbilgileri.com,filmonerileri.org,wblogy.com,dnschecker.org,krombacher.de###cookie-box
 ! 'contributor.google.com' cookie consent
-interpals.net,mediafire.com,feber.se,overclock.net,phonearena.com,skyscrapercity.com,mtb-news.de,geekwire.com,interpals.net,bimmerfest.com,accuweather.com#$#body div.fc-consent-root { display: none !important; }
-interpals.net,mediafire.com,feber.se,overclock.net,phonearena.com,skyscrapercity.com,mtb-news.de,geekwire.com,interpals.net,bimmerfest.com,accuweather.com#$#body { overflow: visible !important; }
+interpals.net,mediafire.com,feber.se,overclock.net,phonearena.com,skyscrapercity.com,mtb-news.de,geekwire.com,bimmerfest.com,accuweather.com#$#body div.fc-consent-root { display: none !important; }
+interpals.net,mediafire.com,feber.se,overclock.net,phonearena.com,skyscrapercity.com,mtb-news.de,geekwire.com,bimmerfest.com,accuweather.com#$#body { overflow: visible !important; }
+! Sourcepoint cookie consent
+theguardian.com#$#div[id^="sp_message_container_"] { display: none!important; }
+techadvisor.co.uk,forum.notebookreview.com,computerworld.com,skysports.com#$#div[id^="sp_message_"] { display:none!important; }
+techadvisor.co.uk,forum.notebookreview.com,computerworld.com,skysports.com#$#div[class^="sp_veil"] { display:none!important; }
+techadvisor.co.uk,forum.notebookreview.com,computerworld.com,skysports.com#$#body { overflow:visible!important; }
+volkskrant.nl,trouw.nl,parool.nl,theguardian.com,techadvisor.co.uk,forum.notebookreview.com,computerworld.com,skysports.com#$#html.sp-message-open { overflow:visible!important; position:static!important; }
 !
+ozmenpc.com##.cookie-agreement-module
+hostettler.com##.cookie-bar-notification
+web.dev#?#.web-snackbar__surface:has(> .web-snackbar__actions > a[href="https://policies.google.com/technologies/cookies"])
+rec.uk.com##.bar[data-behaviour="cookie-consent"]
+kfc.ru##._3l3oK3nIbn
 catsbest.de#$##cookieNotice { display: none !important; }
 catsbest.de#$##blockBody { filter: blur(0px) !important; }
 online.business.ru##.savecook
@@ -309,8 +320,6 @@ wkv.com###priv-notice-container
 dreamcruiseline.com##.gdpr-banner-wrapper
 femina.in##body > .blocked
 aksa.com,dsmart.com.tr##.kvkk
-theguardian.com#$#html.sp-message-open { overflow:visible!important; position:static!important; }
-theguardian.com#$#div[id^="sp_message_container_"] { display: none!important; }
 gulfnews.com##.gn-cookies-warning
 generasimaju.co.id###cookiesAcceptanceWrapper
 hse.ru##.gdpr_bar
@@ -381,7 +390,7 @@ diggysadventure.com###gdpr-modal
 diggysadventure.com###gdpr-modal-backdrop
 tproger.ru###cookie-notice-wrapper
 103.ua,relax.by##.CookiesNotification
-otomatikbes.info###pop-capsul
+tsb.org.tr,otomatikbes.info###pop-capsul
 liquidtelecom.com###lqt-cookie-app
 singtel.com##.ux-consent-banner
 store.my.games##.ph-cookies
@@ -1432,7 +1441,7 @@ audiarena.hu###awe_cookie
 d16.pl,akilliphone.com,wochenanzeiger-muenchen.de###band-cookies
 nationalfm.ro###bar-cookies
 britishcouncil.org.tr,britishcouncil.org###bc-cookie-banner
-deponda.com,yonkamuzikmarket.com,krisjoycosmetics.com,e-sansiro.com,cagri.com,bambi.com.tr,1001fidan.com,yolcudanalin.com.tr,eyupsabrituncer.com,platin.com.tr,dermokozmetik.com###cerekKullanimUyari
+saten.com,modamizbir.com,deponda.com,yonkamuzikmarket.com,krisjoycosmetics.com,e-sansiro.com,cagri.com,bambi.com.tr,1001fidan.com,yolcudanalin.com.tr,eyupsabrituncer.com,platin.com.tr,dermokozmetik.com###cerekKullanimUyari
 allecodes.de###closeGdprContent
 computerweekly.com###cmp-banner
 dccomics.com###consent-modal
@@ -2845,7 +2854,7 @@ libertylondon.com##.cookie-disclaimer-message
 finder.com##.cookie-footer-bar
 eurogamer.net,eurogamer.pt,metabomb.net,nintendolife.com,usgamer.net,vg247.com##.cookie-gdpr
 ikea.com##.cookie-info__panel
-vakifemeklilik.com.tr,nofluffjobs.com##.cookie-information
+turkiyehayatemeklilik.com.tr,vakifemeklilik.com.tr,nofluffjobs.com##.cookie-information
 dmax.com.tr,gq.com.tr,tlctv.com.tr,vogue.com.tr##.cookie-item
 de-mail.info,gmx.net,web.de##.cookie-lasche
 iloft.it##.cookie-law-policy
@@ -4008,12 +4017,6 @@ airlinepilotforums.com#$#html { overflow-x: visible!important; overflow-y: visib
 airlinepilotforums.com#$#.ibeugdpr-banner { display: none!important; } 
 airlinepilotforums.com#$#.ibeugdpr-overlay  { display: none!important; } 
 !#endif
-! https://github.com/AdguardTeam/AdguardFilters/issues/38215
-! https://github.com/AdguardTeam/AdguardFilters/issues/36359
-techadvisor.co.uk,forum.notebookreview.com,computerworld.com,skysports.com#$#div[id^="sp_message_"] { display:none!important; }
-techadvisor.co.uk,forum.notebookreview.com,computerworld.com,skysports.com#$#div[class^="sp_veil"] { display:none!important; }
-techadvisor.co.uk,forum.notebookreview.com,computerworld.com,skysports.com#$#body { overflow:visible!important; }
-techadvisor.co.uk,forum.notebookreview.com,computerworld.com,skysports.com#$#html.sp-message-open { overflow:visible!important; position:static!important; }
 !
 calvinklein.be#$#body { overflow: visible!important; }
 calvinklein.be#$#.cookie-notice { display: none !important; }
@@ -4169,6 +4172,8 @@ teleperformance.com#$#.row.OpacityTotal { opacity: unset!important; }
 !+ NOT_PLATFORM(windows, mac, android)
 maisonapart.com#$?#html[-ext-has="body"] { margin-top: auto!important; }
 !
+jobs.ch#?#div[class*="CookieBanner__"]:only-child:upward(1)
+medvestnik.ru#?#body div#cookies-policy
 konzolstudio.hu#$?#.fancybox-overlay:has(> div.cookiesplus-modal) { display: none !important; }
 erdinger.de#$?#body > div.overlay:has(> div.cookie-consent-dialog) { display: none!important; }
 waitomo.com#$?##cookieConsentBanner { remove: true; }
@@ -4261,6 +4266,9 @@ bmwfaq.org#?#.Notices[-ext-has='a[href="//www.bmwfaq.org/help/cookies"]']
 !
 ! JS rules
 !
+yourstory.com#%#document.cookie = "alreadyVisited=true; path=/;";
+jobs.ch#%#document.cookie = "cookie_disclaimer_dismissed=true; path=/;";
+cdn.privacy-mgmt.com#%#AG_onLoad(function(){var c=/^https?:\/\/(www\.)?(volkskrant\.nl|trouw\.nl|parool\.nl)\//.test(document.referrer);if(window.self!==window.top&&c){var a=new MutationObserver(function(){var b=document.querySelector('button.message-button[title="Ja, prima"]');b&&(a.disconnect(),b.click())});a.observe(document,{childList:!0,subtree:!0});setTimeout(function(){a.disconnect()},1E4)}});
 independent.co.uk#%#AG_onLoad(function() { setTimeout(function() { var el = document.querySelector('button[mode="primary"]'); el&&el.click(); }, 2500); });
 pixivision.net#%#document.cookie = "privacy_policy_agreement=2; path=/";
 cdn.privacy-mgmt.com#%#AG_onLoad(function(){if(window.self!==window.top&&document.referrer.startsWith("https://ekstrabladet.dk/")){var a=new MutationObserver(function(){var b=document.querySelector('button.message-button[path="[0,3,3]"]');b&&(a.disconnect(),b.click())});a.observe(document,{childList:!0,subtree:!0});setTimeout(function(){a.disconnect()},1E4)}});

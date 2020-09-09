@@ -1,4 +1,4 @@
-#version=202008211921
+#version=2020009082010
 #url=https://github.com/VeleSila/yhosts/blob/master/hosts
 #-----Test
 127.0.0.1 at.umeng.com
@@ -703,6 +703,7 @@
 127.0.0.1 xd.mediav.com
 127.0.0.1 xdssp.mediav.com
 127.0.0.1 acdn.adnxs.com
+127.0.0.1 ib.adnxs.com
 127.0.0.1 nym2-tr.adnxs.com
 127.0.0.1 sin1-ib.adnxs.com
 127.0.0.1 vcdn.adnxs.com
@@ -3039,8 +3040,10 @@
 127.0.0.1 b17.lynow.cn
 127.0.0.1 b17.wenjutv.com
 127.0.0.1 b3.jandan.net
+127.0.0.1 b3.jiasudu666.com
 127.0.0.1 b4xuj.zzhhts.com
 127.0.0.1 ba.fqzds.com
+127.0.0.1 ba.n3wz6.cn
 127.0.0.1 baby.yf898.com
 127.0.0.1 bad.maienyanjing.cn
 127.0.0.1 bad1.51gxqm.com
@@ -3081,6 +3084,7 @@
 127.0.0.1 bds.hainan.net
 127.0.0.1 bfr.chinaweian.com
 127.0.0.1 bgkh.zcpap.cn
+127.0.0.1 bhgjeg42572.dcghp.top
 127.0.0.1 bhjac.azvub.cn
 127.0.0.1 biq.keefung-zs.com
 127.0.0.1 bjedpt.com
@@ -3109,6 +3113,7 @@
 127.0.0.1 c.cyhx98.com
 127.0.0.1 c.cyto-biotherapy.com
 127.0.0.1 c.danangmo.cn
+127.0.0.1 c.dcghp.top
 127.0.0.1 c.dcgwnhk.cn
 127.0.0.1 c.dengbaozx.cn
 127.0.0.1 c.dhsfcw.cn
@@ -3137,6 +3142,7 @@
 127.0.0.1 c.mkmp365.com
 127.0.0.1 c.mnjkw.cn
 127.0.0.1 c.mobishu.com
+127.0.0.1 c.nanjinglongyu.com
 127.0.0.1 c.ningbojipiao.com
 127.0.0.1 c.ntrdjsjl.com
 127.0.0.1 c.ns8d.com
@@ -3296,6 +3302,7 @@
 127.0.0.1 d.danangmo.cn
 127.0.0.1 d.hzblic.com
 127.0.0.1 d.jjyx.com
+127.0.0.1 d.lionettrip.xyz
 127.0.0.1 d.lqrzc.com
 127.0.0.1 d.nnightkil.com
 127.0.0.1 d.rexuebi.com
@@ -3661,6 +3668,7 @@
 127.0.0.1 e.kwjkd.com
 127.0.0.1 e.kwp79i.cn
 127.0.0.1 e.kxhie.com
+127.0.0.1 e.kyyqhpi.cn
 127.0.0.1 e.kzwsh.cn
 127.0.0.1 e.l93stb.cn
 127.0.0.1 e.lancedu.com
@@ -3771,6 +3779,7 @@
 127.0.0.1 e.tchep.com
 127.0.0.1 e.tdoup.com
 127.0.0.1 e.tdtsd.com
+127.0.0.1 e.thxsqei.cn
 127.0.0.1 e.tiantianedu.net
 127.0.0.1 e.tick0.com
 127.0.0.1 e.tingniubi.cn
@@ -3971,8 +3980,11 @@
 127.0.0.1 eo.byjr899.top
 127.0.0.1 eo.dybx992.top
 127.0.0.1 eo.eeo1h1.cn
+127.0.0.1 eo.energy-tmr.cn
+127.0.0.1 eo.erkesi.cn
 127.0.0.1 eo.euwyc.xyz
 127.0.0.1 eo.hdschw.cn
+127.0.0.1 eo.llqd5.cn
 127.0.0.1 eo.lxujghc.cn
 127.0.0.1 eo.nu2rx.xyz
 127.0.0.1 eo.nunxi.xyz
@@ -3985,6 +3997,7 @@
 127.0.0.1 eo.wamcjfg.cn
 127.0.0.1 eo.xnwuf.xyz
 127.0.0.1 eo.yhcrqzj.cn
+127.0.0.1 eo.yun-pdm2000.cn
 127.0.0.1 eo.zvygzatj.cn
 127.0.0.1 epernn.cn
 127.0.0.1 er.com.q2ws3.cn
@@ -4003,11 +4016,13 @@
 127.0.0.1 f.dianwenwang.com
 127.0.0.1 f.f70123.com
 127.0.0.1 f.fj95560.com
+127.0.0.1 f.gxrwc.xyz
 127.0.0.1 f.haoxinjaju.com
 127.0.0.1 f.hongm.com
 127.0.0.1 f.mzw000.com
 127.0.0.1 f.qcwzx.net.cn
 127.0.0.1 f.rhovlnd.cn
+127.0.0.1 f.sqsfkyy.com.cn
 127.0.0.1 f.yijikm.com
 127.0.0.1 f.yueyetiyu.com
 127.0.0.1 f1.luoshenbest.cn
@@ -4041,6 +4056,7 @@
 127.0.0.1 fjdvzx.cn
 127.0.0.1 flux.faloo.com
 127.0.0.1 flv.ytshuirun.com
+127.0.0.1 fn.sdduofen.com.cn
 127.0.0.1 fp-it.fengkongcloud.com
 127.0.0.1 fpag.w48ge.cn
 127.0.0.1 fpb.docin.com
@@ -4155,6 +4171,7 @@
 127.0.0.1 hm.baidu.com.jnsiematcnc.com
 127.0.0.1 hm.baidu.com.zzsdtzb.com
 127.0.0.1 hm.cdiah.com
+127.0.0.1 hm.shuixyh.com
 127.0.0.1 hm.ubiej.com
 127.0.0.1 hoisin.coocaatv.com
 127.0.0.1 hpco.6fai2.cn
@@ -4300,6 +4317,7 @@
 127.0.0.1 j2.979067.com
 127.0.0.1 j3.dthznc.com
 127.0.0.1 j520s.gzcl999.cn
+127.0.0.1 ja.x9wj2.cn
 127.0.0.1 jah.4py3oe.cn
 127.0.0.1 jan19.zhiyueit.com
 127.0.0.1 jb.mbaidu.top
@@ -5092,6 +5110,7 @@
 127.0.0.1 m.kwjkd.com
 127.0.0.1 m.kxhie.com
 127.0.0.1 m.kyxnz.cn
+127.0.0.1 m.kyyqhpi.cn
 127.0.0.1 m.kzqcs.com
 127.0.0.1 m.l620e.cn
 127.0.0.1 m.l93stb.cn
@@ -5311,6 +5330,7 @@
 127.0.0.1 m.tenh2.cn
 127.0.0.1 m.tfeic.com
 127.0.0.1 m.themee.cn
+127.0.0.1 m.thxsqei.cn
 127.0.0.1 m.tiantianedu.net
 127.0.0.1 m.tiaopimiao.net
 127.0.0.1 m.tick0.com
@@ -5514,6 +5534,7 @@
 127.0.0.1 m.zuopp.com
 127.0.0.1 m.zvfuka.cn
 127.0.0.1 m1.asklib.com
+127.0.0.1 m1.jiasudu666.com
 127.0.0.1 m195.zzcm5.com
 127.0.0.1 m2u.376710.com
 127.0.0.1 m3.aigou023.com
@@ -5530,6 +5551,7 @@
 127.0.0.1 md.tvzhe.com
 127.0.0.1 md.iz3h6.cn
 127.0.0.1 mdzvoi.cn
+127.0.0.1 me.com.x9wj2.cn
 127.0.0.1 mf01.zybang.com
 127.0.0.1 mf02.zybang.com
 127.0.0.1 mf35.t7wl8.cn
@@ -5567,6 +5589,8 @@
 127.0.0.1 mo.drzd9.cn
 127.0.0.1 mo.dybx992.top
 127.0.0.1 mo.eeo1h1.cn
+127.0.0.1 mo.energy-tmr.cn
+127.0.0.1 mo.erkesi.cn
 127.0.0.1 mo.euwyc.xyz
 127.0.0.1 mo.grqf.com.cn
 127.0.0.1 mo.gsasqa.cn
@@ -5574,6 +5598,7 @@
 127.0.0.1 mo.hdschw.cn
 127.0.0.1 mo.keilb.xyz
 127.0.0.1 mo.lbmx.com.cn
+127.0.0.1 mo.llqd5.cn
 127.0.0.1 mo.mu5b.cn
 127.0.0.1 mo.nunxi.xyz
 127.0.0.1 mo.oneshouyou.cn
@@ -5592,6 +5617,7 @@
 127.0.0.1 mo.wamcjfg.cn
 127.0.0.1 mo.xnwuf.xyz
 127.0.0.1 mo.yhcrqzj.cn
+127.0.0.1 mo.yun-pdm2000.cn
 127.0.0.1 mo.zdceaa.cn
 127.0.0.1 mo.zk43i.xyz
 127.0.0.1 mo.zsyse.top
@@ -5720,6 +5746,7 @@
 127.0.0.1 p.9wotuan.com
 127.0.0.1 p.bjdianyue.com
 127.0.0.1 p.bnuni.com
+127.0.0.1 p.eaglesh.cn
 127.0.0.1 p.kf3msfm.com
 127.0.0.1 p.m5bn.com
 127.0.0.1 p.mendoc.cn
@@ -6079,6 +6106,7 @@
 127.0.0.1 slb.upshengyi.com
 127.0.0.1 sm1.todgo.com
 127.0.0.1 sm2.todgo.com
+127.0.0.1 smartad.10010.com
 127.0.0.1 smucdn.com
 127.0.0.1 snw5.jkjjkj.top
 127.0.0.1 so.tsscnw.cn
@@ -6220,6 +6248,7 @@
 127.0.0.1 t3.wubiinlee.com
 127.0.0.1 t75.qyqc4s.com
 127.0.0.1 t8ac8a8f8.jingfeed.com
+127.0.0.1 ta.dogyqw.cn
 127.0.0.1 tb.code.twyxi.com
 127.0.0.1 tbax.woyvk.cn
 127.0.0.1 tben.nnchangyi.com
@@ -6258,6 +6287,7 @@
 127.0.0.1 touy.deryakose.com
 127.0.0.1 tp.2u8t.cn
 127.0.0.1 tqd.ntpddq.com
+127.0.0.1 tr.d5wy3.cn
 127.0.0.1 trafficfactory.biz
 127.0.0.1 ts.hivecn.cn
 127.0.0.1 tt.douyaobuy.com
@@ -6338,6 +6368,7 @@
 127.0.0.1 uxek.85nv96.cn
 127.0.0.1 uzi66.jozee.cn
 127.0.0.1 uzixia.zwdu.com
+127.0.0.1 v.1jnh85.cn
 127.0.0.1 v.510vud.cn
 127.0.0.1 v.6dvip.com
 127.0.0.1 v.76768hwj.cn
@@ -6359,6 +6390,7 @@
 127.0.0.1 v.lalaxqt.cn
 127.0.0.1 v.lrzazjl.cn
 127.0.0.1 v.lystrw.cn
+127.0.0.1 v.nanjinglongyu.com
 127.0.0.1 v.oq68.com
 127.0.0.1 v.originz.cn
 127.0.0.1 v.qhruixin.cn
@@ -6366,6 +6398,7 @@
 127.0.0.1 v.rxconkz.cn
 127.0.0.1 v.sixiuwl.cn
 127.0.0.1 v.szpaopao.com
+127.0.0.1 v.tgslww.cn
 127.0.0.1 v.xinshide.cn
 127.0.0.1 v.xiuzhenjewelry.cn
 127.0.0.1 v.xrooxeo.cn
@@ -8531,7 +8564,10 @@
 127.0.0.1 api.appsflyer.com
 127.0.0.1 events.appsflyer.com
 127.0.0.1 hq.appsflyer.com
+127.0.0.1 inapps.appsflyer.com
+127.0.0.1 launches.appsflyer.com
 127.0.0.1 stats.appsflyer.com
+127.0.0.1 sdk.appsflyer.com
 127.0.0.1 t.appsflyer.com
 127.0.0.1 track.appsflyer.com
 127.0.0.1 www.appsflyer.com
@@ -9218,3 +9254,4 @@
 127.0.0.1 statistics.liusha.info
 127.0.0.1 template.liusha.info
 127.0.0.1 j.credit.wwz114.cn
+127.0.0.1 y.one.impact-ad.net

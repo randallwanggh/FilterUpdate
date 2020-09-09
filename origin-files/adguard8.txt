@@ -95,6 +95,9 @@ sodapdf.com##.be-tooltip
 !
 ! Specific sites
 !
+petroturk.com##.sgpb-popup-overlay
+petroturk.com##.sgpb-popup-dialog-main-div-wrapper
+gorodkiev.com.ua###fb-box-background
 cabinetdoorsnmore.com##.noty_theme__semanticui
 youtube.com#?#ytd-popup-container > paper-dialog:has(> yt-upsell-dialog-renderer > #dialog > #content > yt-formatted-string > a[href^="https://support.google.com/youtube/?p=sign_in"])
 anket.memurlar.net##a[onclick^="gtag("] > img
@@ -105,7 +108,6 @@ pdfdrive.com#$#body { overflow: visible !important; padding-right: 0 !important;
 smallseotools.com###bio_ep
 smallseotools.com###bio_ep_bg
 prokazan.ru###telegram_subscription
-e.mail.ru,octavius.mail.ru##.notify-stack
 ||aykiri.com.tr/template/js/jquery.modal.js
 dreamstime.com#%#//scriptlet("prevent-setTimeout", "SignUPPopup_load", "5000")
 wagwalking.com##.ReactModal__Overlay--after-open
@@ -389,7 +391,7 @@ thecollegefix.com##.newsletter-modal
 australianfrequentflyer.com.au##div[class="cp-slidein-body cp-optin  "]
 sputnik-abkhazia.ru##.global-fade
 sputnik-abkhazia.ru##.window-push
-web.dev##web-actions[actions="share|subscribe"]
+web.dev##.w-actions__fab--subscribe
 fullizlet.com###footersabit
 davidicke.com###rf-countdown
 justnutritive.com##.prom-container
@@ -606,7 +608,7 @@ profesor10demates.com###elementor-popup-modal-5929
 kocaelihaberci.com###emanset
 taz.de##div[id^="tzi-paywahl-"]
 pickpoint.ru##.a-popup
-buneymis.net,teknoxhaber.com,kirtkirtla.com,sonaktuel.com,muglaweather.com,oyuncukuru.org##.more-in-category
+ultrabilgi.com,buneymis.net,teknoxhaber.com,kirtkirtla.com,sonaktuel.com,muglaweather.com,oyuncukuru.org##.more-in-category
 103.194.171.75,idtube.me##.overlay.bm
 creative-beast.com##div.mo-has-name-email.moModal
 systweak.com###SubscribePopUpBox
@@ -1242,7 +1244,7 @@ racketboy.com###rb-newsletter
 newsday.com#$#body.modal-open { overflow: visible!important; }
 newsday.com#$#body.modal-open .modal-scrollable { display: none!important; }
 newsday.com#$#body.modal-open .modal-scrollable + .connext-modal-backdrop { display: none!important; }
-manatoki73.net,e-files.net,torrevi.me,torrentww.net,toggiri.org,torrentmaps.net,u2-file.me,manamoa.net,manamoa50.net###hd_pop
+manatoki102.net,e-files.net,torrevi.me,torrentww.net,toggiri.org,torrentmaps.net,u2-file.me,manamoa.net,manamoa50.net###hd_pop
 life-reactor.com##.telegram_channel
 filmes-torrent-baixar.blogspot.com###fundopop
 filmesonlinex.co##.ArevicoModal
