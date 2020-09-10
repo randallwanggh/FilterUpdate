@@ -148,7 +148,7 @@ kiss-anime.ws##script[id^="BB_SLOT_"] ~ div[id][style^="overflow: hidden; width:
 !
 ! common names
 ! ##.banner
-xfantazy.com,printscreenshot.com,cut.my.id,zagl.info,photoeditor.com,9c717baaf805a8436afd7912039e826c.link,uflash.tv,boxlink.us,shortbitsfree.net,hellomagazine.com,adsme.cc,clickurls.site,planetanime.co,rocketfiles.com,pornwhite.com,aplayer2.me,viralizeit.net,sex3.com,softonic.com,3pornstarmovies.com,govtsmartjob.com,cutearn.ca,dfporn.net,cll.press,hellporno.net,youramateurporn.com,getlink.pw,embedtvseries.com,keygames.com,uclick.in,flv2mp3.by,doodhwali.com,smutindia.com,dvdcover.com,xxxadultphoto.com,gabicoins.com,qpdownload.com,windows10portal.com,2conv.com,javcloud.com,underhentai.net,cutwin.com,hqasiananal.com,bradsknutson.com,flv2mp3.org,subscene.com,yourlink.in,iplayer.pw,qpornx.com,sofifa.com,jawcloud.co,indiansgetfucked.com,medi-bayreuth.de,oxforddictionaries.com,tube18.sex##.banner
+abdeo8.com,xfantazy.com,printscreenshot.com,cut.my.id,zagl.info,photoeditor.com,9c717baaf805a8436afd7912039e826c.link,uflash.tv,boxlink.us,shortbitsfree.net,hellomagazine.com,adsme.cc,clickurls.site,planetanime.co,rocketfiles.com,pornwhite.com,aplayer2.me,viralizeit.net,sex3.com,softonic.com,3pornstarmovies.com,govtsmartjob.com,cutearn.ca,dfporn.net,cll.press,hellporno.net,youramateurporn.com,getlink.pw,embedtvseries.com,keygames.com,uclick.in,flv2mp3.by,doodhwali.com,smutindia.com,dvdcover.com,xxxadultphoto.com,gabicoins.com,qpdownload.com,windows10portal.com,2conv.com,javcloud.com,underhentai.net,cutwin.com,hqasiananal.com,bradsknutson.com,flv2mp3.org,subscene.com,yourlink.in,iplayer.pw,qpornx.com,sofifa.com,jawcloud.co,indiansgetfucked.com,medi-bayreuth.de,oxforddictionaries.com,tube18.sex##.banner
 ! ##.ad
 citra-emu.org,ipaddress.com,mobafire.com,movieweb.com,ndtv.com,owfire.com,samistream.com,trafficland.com,forvo.com,apornotube.net,instadp.com,stream365.xyz,bab.la,elophant.com,ibrodtv.net,thurrott.com,mtlblog.com,accuweather.com,narcity.com,mywebtimes.com,cellz.io,livescore.com,xcafe.com,ancient.eu,gradesaver.com,nytimes.com,nytimes3xbfgragh.onion,tempostorm.com,defensesystems.com,whatsmydns.net,newatlas.com,gtplanet.net,investopedia.com,mangafox.la,sexhoundlinks.com,ibc.org,dcode.fr,pinkvilla.com,greasyfork.org,ranker.com,curiouscat.me,pornhd.com,history.com,icefilms.info,saavn.com,msn.com,www-technologyreview-com.cdn.ampproject.org,bombhopper.io,worms.lol,satelite.io,javascripttutorial.net,jungle.lol,1v1.lol,tricksplit.io,filehippo.com,supersextube.pro,zipi.com,nejm.org,ertyu.org,howchoo.com,dvdsreleasedates.com,unicode-search.net##.ad
 ! ##.banner-inner
@@ -207,6 +207,17 @@ xxxparodyhd.net,movgotv.com,123kmovies.net,123movies.*,bluemovies.co,f5movies.to
 !
 !
 !
+||iamzlnk.me/themes/bootstrap/img/bravebanner.png
+||play-asia.com^$domain=iamzlnk.me
+||tweetycoin.com^$domain=1ink.cc
+tweetycoin.com##td > a[target="_blank"] > img
+tweetycoin.com##center > a[target="_blank"] > img
+temp-mail.org##.headerSeoLink
+clk.ink##iframe[src*="/ads/"]
+clk.ink##div[id^="adm-container-"] ~ iframe
+clk.ink##div[data-captcha-enable] > div[id^="google-captcha-"]
+||clk.ink/ads/
+||kissanime.nz/api/pop.php
 gadgets.ndtv.com##.__wdgt_rhs_kpc
 ||newalbumreleases.siteunblocked.info^$script
 indiabet.com##.bs-callout-ad
@@ -229,6 +240,7 @@ pixiv.net##iframe[src^="https://pixon.ads-pixiv.net/"]
 lookcam.pt,lookcam.it,lookcam.fr,lookcam.de,lookcam.es,lookcam.ru,lookcam.com,lookcam.pl##.prefix-adlabel
 kissasian.sh##iframe[src^="/Ads/"]
 wjunction.com##a[href="http://katfile.com/make-money.html"]
+wjunction.com##.message--post + div[style="margin: 30px; text-align: center;"] > a[href][target] > img
 teamos-hkrg.com##.sponsors__lead
 ||imgur.com/q04jCOV.gif$domain=wjunction.com
 pornwatchers.com##.stage-promo
@@ -1043,7 +1055,7 @@ rozfly.com##.separator > a[href]
 fossbytes.com##a[href^="https://www.linkev.com/order?a_fid="][target="_blank"] > img
 tomsguide.com##.hawk-widget[data-model-name]
 shorthitz.com,dl.ocanoke.com,afly.us##.box-main > .blog-item
-bacakomik.co,mangasee123.com,watchmovies7.com.pk,anitube.biz,elsfile.org,m4ufree.yt,9movies.yt,ask4movie.co,watchsomuch.org,kisstvshow.to,downloadhub.fans,thewatchcartoononline.tv##iframe[data-glx][style*="z-index"]
+bagas31.info,bacakomik.co,mangasee123.com,watchmovies7.com.pk,anitube.biz,elsfile.org,m4ufree.yt,9movies.yt,ask4movie.co,watchsomuch.org,kisstvshow.to,downloadhub.fans,thewatchcartoononline.tv##iframe[data-glx][style*="z-index"]
 bitconews.net###modalin
 bitconews.net###btn-cerrar
 bleepingcomputer.com##.cz-sponsorposts

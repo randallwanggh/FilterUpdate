@@ -2314,7 +2314,6 @@
 127.0.0.1 18teengirl.com
 127.0.0.1 18xtube.com
 127.0.0.1 1901.nordstrom.com
-127.0.0.1 1901.nordstrom.com
 127.0.0.1 190107.engine.mobileapptracking.com
 127.0.0.1 190115.engine.mobileapptracking.com
 127.0.0.1 19034.engine.mobileapptracking.com
@@ -5405,7 +5404,6 @@
 127.0.0.1 ad.imediaaudiences.com
 127.0.0.1 ad.imp.joins.com
 127.0.0.1 ad.impresionesweb.com
-127.0.0.1 ad.impresionesweb.com
 127.0.0.1 ad.impressbm.co.jp
 127.0.0.1 ad.in.doubleclick.net
 127.0.0.1 ad.in.doubleclick.net
@@ -5918,7 +5916,6 @@
 127.0.0.1 ad10.checkm8.com
 127.0.0.1 ad10.focalink.com
 127.0.0.1 ad10.play3.de
-127.0.0.1 ad10.play3.de
 127.0.0.1 ad10.speedbit.com
 127.0.0.1 ad10.speedbit.com
 127.0.0.1 ad101com.adbureau.net
@@ -6165,7 +6162,6 @@
 127.0.0.1 ad4game.com
 127.0.0.1 ad4mat-3cab.kxcdn.com
 127.0.0.1 ad4mat.com
-127.0.0.1 ad4mat.de
 127.0.0.1 ad4mat.de
 127.0.0.1 ad4mat.net
 127.0.0.1 ad4partners.com
@@ -7019,7 +7015,6 @@
 127.0.0.1 admeld.com
 127.0.0.1 admeme.net
 127.0.0.1 admention.adspirit.de
-127.0.0.1 admention.adspirit.de
 127.0.0.1 admeridianads.com
 127.0.0.1 admerize.be
 127.0.0.1 admeta.com
@@ -7749,7 +7744,6 @@
 127.0.0.1 ads.auctioncity.co.nz
 127.0.0.1 ads.auctions.yahoo.com
 127.0.0.1 ads.augusta.com
-127.0.0.1 ads.autoscout24.com
 127.0.0.1 ads.autoscout24.com
 127.0.0.1 ads.autotrader.com
 127.0.0.1 ads.autotrader.com
@@ -9084,7 +9078,6 @@
 127.0.0.1 ads.sabah.com.tr
 127.0.0.1 ads.sacbee.com
 127.0.0.1 ads.sagabg.net
-127.0.0.1 ads.sagabg.net
 127.0.0.1 ads.samba.tv
 127.0.0.1 ads.samsungads.com
 127.0.0.1 ads.satyamonline.com
@@ -9308,7 +9301,6 @@
 127.0.0.1 ads.tracking202.com
 127.0.0.1 ads.tracking202.com
 127.0.0.1 ads.trackitdown.net
-127.0.0.1 ads.tradeads.eu
 127.0.0.1 ads.tradeads.eu
 127.0.0.1 ads.traderonline.com
 127.0.0.1 ads.traffichaus.com
@@ -10772,7 +10764,6 @@
 127.0.0.1 adstat.cp11.ott.cibntv.net
 127.0.0.1 adstatic.ameba.jp
 127.0.0.1 adstats.adviva.net
-127.0.0.1 adstats.adviva.net
 127.0.0.1 adstats.tencentmusic.com
 127.0.0.1 adstax-match.adrtx.net
 127.0.0.1 adstest.reklamstore.com
@@ -11209,7 +11200,6 @@
 127.0.0.1 advertnative.com
 127.0.0.1 advertpro.investorvillage.com
 127.0.0.1 advertpro.sitepoint.com
-127.0.0.1 advertpro.sitepoint.com
 127.0.0.1 advertpro.ya.com
 127.0.0.1 advertpro.ya.com
 127.0.0.1 adverts.creativemark.co.uk
@@ -11254,7 +11244,6 @@
 127.0.0.1 advnet.xyz
 127.0.0.1 advnt.com
 127.0.0.1 advolution.de
-127.0.0.1 advombat.ru
 127.0.0.1 advombat.ru
 127.0.0.1 advpic.yicha.jp
 127.0.0.1 advplace.com
@@ -11329,7 +11318,6 @@
 127.0.0.1 adx.adnxs.com
 127.0.0.1 adx.adrenalinesk.sk
 127.0.0.1 adx.ads.oppomobile.com
-127.0.0.1 adx.adspirit.de
 127.0.0.1 adx.adspirit.de
 127.0.0.1 adx.adxglobal.com
 127.0.0.1 adx.agrantsem.com
@@ -12305,7 +12293,6 @@
 127.0.0.1 alyssamilano.ca.tt
 127.0.0.1 alyssamilano.home.sapo.pt
 127.0.0.1 am-concepts.ca
-127.0.0.1 am-display.com
 127.0.0.1 am-display.com
 127.0.0.1 am-med.com
 127.0.0.1 am-pops.xml.adx1.com
@@ -15052,6 +15039,7 @@
 127.0.0.1 asg11.casalemedia.com
 127.0.0.1 asg12.casalemedia.com
 127.0.0.1 asg13.casalemedia.com
+127.0.0.1 asgclickpop.com
 127.0.0.1 asgh65tfsdxz.appspot.com
 127.0.0.1 ash-lb2.cxense.com
 127.0.0.1 ash-lb3.cxense.com
@@ -17620,6 +17608,7 @@
 127.0.0.1 block.sw1block.com
 127.0.0.1 block.sw1block.com
 127.0.0.1 blockadblock.com
+127.0.0.1 blockadsnot.com
 127.0.0.1 blockchainjoblist.com
 127.0.0.1 blockme.ug
 127.0.0.1 blockmetrics.com
@@ -20087,7 +20076,6 @@
 127.0.0.1 cdn.adsolutions.nl
 127.0.0.1 cdn.adsoptimal.com
 127.0.0.1 cdn.adspirit.de
-127.0.0.1 cdn.adspirit.de
 127.0.0.1 cdn.adsplay.xyz
 127.0.0.1 cdn.adsrvmedia.net
 127.0.0.1 cdn.adsrvmedia.net
@@ -20214,7 +20202,6 @@
 127.0.0.1 cdn.carbonads.com
 127.0.0.1 cdn.castoola.com
 127.0.0.1 cdn.celtra.com
-127.0.0.1 cdn.chitika.net
 127.0.0.1 cdn.chitika.net
 127.0.0.1 cdn.cityads.com
 127.0.0.1 cdn.ckstatic.com
@@ -22655,7 +22642,6 @@
 127.0.0.1 code.hajuwang.cn
 127.0.0.1 code.hot-mob.com
 127.0.0.1 code.impresionesweb.com
-127.0.0.1 code.impresionesweb.com
 127.0.0.1 code.kejet.com
 127.0.0.1 code.laojiayoufang.com
 127.0.0.1 code.metalocator.com
@@ -22686,7 +22672,6 @@
 127.0.0.1 code2.adtlgc.com
 127.0.0.1 code3.adtlgc.com
 127.0.0.1 codead.impresionesweb.com
-127.0.0.1 codead.impresionesweb.com
 127.0.0.1 codeadnetwork.com
 127.0.0.1 codeads.com
 127.0.0.1 codeads.com
@@ -22697,7 +22682,6 @@
 127.0.0.1 codeine.ourtablets.com
 127.0.0.1 codejumps.com
 127.0.0.1 codelta.es
-127.0.0.1 codenew.impresionesweb.com
 127.0.0.1 codenew.impresionesweb.com
 127.0.0.1 codenow.cn
 127.0.0.1 codeotel.com
@@ -23578,7 +23562,6 @@
 127.0.0.1 count.west263.com
 127.0.0.1 count.wk2.com
 127.0.0.1 count.xhit.com
-127.0.0.1 count.yandeg.ru
 127.0.0.1 count.yandeg.ru
 127.0.0.1 count1.51yes.com
 127.0.0.1 count10.51yes.com
@@ -25516,7 +25499,6 @@
 127.0.0.1 dawstaw.cba.pl
 127.0.0.1 daxioma.com
 127.0.0.1 daylogs.com
-127.0.0.1 daylogs.com
 127.0.0.1 dayu.ywccy.com
 127.0.0.1 db.adjust.io
 127.0.0.1 db.cjtcc.cn
@@ -26651,6 +26633,7 @@
 127.0.0.1 dnads.directnic.com
 127.0.0.1 dnetshelter3.d.chango.com
 127.0.0.1 dnetshelter3.d.chango.com
+127.0.0.1 dnhfi5nn2dt67.cloudfront.net
 127.0.0.1 dni.agcdn.com
 127.0.0.1 dni.agcdn.com
 127.0.0.1 dnirownosci.pl
@@ -29380,7 +29363,6 @@
 127.0.0.1 epro.sogou.com
 127.0.0.1 epro.sohu.com
 127.0.0.1 eps-analyzer.de
-127.0.0.1 eps-analyzer.de
 127.0.0.1 epsilon.iad-03.braze.com
 127.0.0.1 epson-printer-ink.beesearch.info
 127.0.0.1 eq.10jqka.com.cn
@@ -31370,8 +31352,6 @@
 127.0.0.1 fmpub.net
 127.0.0.1 fms.ipinyou.com
 127.0.0.1 fms2.eyewonder.speedera.net
-127.0.0.1 fms2.eyewonder.speedera.net
-127.0.0.1 fms2.pointroll.speedera.net
 127.0.0.1 fms2.pointroll.speedera.net
 127.0.0.1 fmsads.com
 127.0.0.1 fmsads.com
@@ -31404,7 +31384,6 @@
 127.0.0.1 folder.adfuture.cn
 127.0.0.1 folder.adsunflower.com
 127.0.0.1 folder.advmob.cn
-127.0.0.1 folkd.put.omnimon.de
 127.0.0.1 folkd.put.omnimon.de
 127.0.0.1 follow.vnay.vn
 127.0.0.1 followergods.com
@@ -32896,7 +32875,6 @@
 127.0.0.1 get-sensation.blogspot.com
 127.0.0.1 get.hitbox.com
 127.0.0.1 get.keywordsconnect.com
-127.0.0.1 get.mirando.de
 127.0.0.1 get.mirando.de
 127.0.0.1 get.mobu.jp
 127.0.0.1 get.mobu.jp.eimg.jp
@@ -35978,7 +35956,6 @@
 127.0.0.1 iamnotageek.us.intellitxt.com
 127.0.0.1 iapclick.gowadogo.com
 127.0.0.1 iapserver.avosapps.us
-127.0.0.1 ias.avidmedia.net
 127.0.0.1 ias.avidmedia.net
 127.0.0.1 ias.hitbox.com
 127.0.0.1 ias.rakuten.co.jp
@@ -39203,7 +39180,6 @@
 127.0.0.1 js.smartredirect.de
 127.0.0.1 js.smartredirect.de
 127.0.0.1 js.smi2.ru
-127.0.0.1 js.smi2.ru
 127.0.0.1 js.soduso.cc
 127.0.0.1 js.softreklam.com
 127.0.0.1 js.soonyou123.com
@@ -40976,7 +40952,6 @@
 127.0.0.1 liders.biz
 127.0.0.1 lidi.pl
 127.0.0.1 lidlretargeting.adspirit.de
-127.0.0.1 lidlretargeting.adspirit.de
 127.0.0.1 lidoraggiodisole.it
 127.0.0.1 lie2anyone.com
 127.0.0.1 lie2anyone.com
@@ -41047,7 +41022,6 @@
 127.0.0.1 lilovakia.info
 127.0.0.1 lilyclan-warriors.blogspot.com
 127.0.0.1 lilytailsblog.blogspot.com
-127.0.0.1 limg.adspirit.de
 127.0.0.1 limg.adspirit.de
 127.0.0.1 limkon.com
 127.0.0.1 lin31.metriweb.be
@@ -44216,7 +44190,6 @@
 127.0.0.1 marketing.criteo.com
 127.0.0.1 marketing.dable.io
 127.0.0.1 marketing.doubleclickindustries.com
-127.0.0.1 marketing.doubleclickindustries.com
 127.0.0.1 marketing.etouch.cn
 127.0.0.1 marketing.hearstmagazines.nl
 127.0.0.1 marketing.net.brillen.de
@@ -45648,8 +45621,6 @@
 127.0.0.1 metrics.which.co.uk
 127.0.0.1 metrics.whitepages.com
 127.0.0.1 metrics.windowsitpro.com
-127.0.0.1 metrics.windowsitpro.com
-127.0.0.1 metrics.winsupersite.com
 127.0.0.1 metrics.winsupersite.com
 127.0.0.1 metrics.womansday.com
 127.0.0.1 metrics.worldmarket.com
@@ -47711,7 +47682,6 @@
 127.0.0.1 n2019cov.000webhostapp.com
 127.0.0.1 n2050.com
 127.0.0.1 n214adserv.com
-127.0.0.1 n214adserv.com
 127.0.0.1 n24se.nuggad.net
 127.0.0.1 n24se.nuggad.net
 127.0.0.1 n259adserv.com
@@ -48363,7 +48333,6 @@
 127.0.0.1 network-ca.247realmedia.com
 127.0.0.1 network-system-status.com
 127.0.0.1 network-tracking.kwizzad.com
-127.0.0.1 network.adsmarket.com
 127.0.0.1 network.adsmarket.com
 127.0.0.1 network.advertise.com
 127.0.0.1 network.advertise.com
@@ -50299,8 +50268,11 @@
 127.0.0.1 onclasrv.com
 127.0.0.1 onclickads.net
 127.0.0.1 onclickads.net
+127.0.0.1 onclickalgo.com
 127.0.0.1 onclickbright.com
+127.0.0.1 onclickgenius.com
 127.0.0.1 onclickmega.com
+127.0.0.1 onclickperformance.com
 127.0.0.1 onclickprediction.com
 127.0.0.1 onclickpredictiv.com
 127.0.0.1 onclicksuper.com
@@ -50562,7 +50534,6 @@
 127.0.0.1 openads.friendfinder.com
 127.0.0.1 openads.hiphopsite.com
 127.0.0.1 openads.hiphopsite.com
-127.0.0.1 openads.motorrad-net.at
 127.0.0.1 openads.motorrad-net.at
 127.0.0.1 openads.nightlifemagazine.ca
 127.0.0.1 openads.org
@@ -55923,7 +55894,6 @@
 127.0.0.1 redirect.xmlheads.com
 127.0.0.1 redirect2719.ws
 127.0.0.1 redirectcpv.com
-127.0.0.1 redirectcpv.com
 127.0.0.1 redirecting.pl
 127.0.0.1 redirectingat.com  #[SkimLinks]
 127.0.0.1 redirectingat.com #[SkimLinks]
@@ -56489,7 +56459,6 @@
 127.0.0.1 richmedia.pushwoosh.com
 127.0.0.1 richmedia.yimg.com
 127.0.0.1 richmedia.yimg.com
-127.0.0.1 richmedia247.com
 127.0.0.1 richmedia247.com
 127.0.0.1 richpays.com
 127.0.0.1 richstring.com
@@ -58560,7 +58529,6 @@
 127.0.0.1 scadxrtb.lfstmedia.com
 127.0.0.1 scaleway.ovh
 127.0.0.1 scambiobanner.altervista.org
-127.0.0.1 scambiobanner.altervista.org
 127.0.0.1 scambiobanner.aruba.it
 127.0.0.1 scan.antispyware-free-scanner.com
 127.0.0.1 scaner-figy.tk
@@ -58716,7 +58684,6 @@
 127.0.0.1 scripts.adrcdn.com
 127.0.0.1 scripts.affiliatefuture.com
 127.0.0.1 scripts.agilone.com
-127.0.0.1 scripts.chitika.net
 127.0.0.1 scripts.chitika.net
 127.0.0.1 scripts.demandbase.com
 127.0.0.1 scripts.donglogs.com
@@ -62869,7 +62836,6 @@
 127.0.0.1 static.onlinevenditatio.space
 127.0.0.1 static.opda.com
 127.0.0.1 static.openads.motorrad-net.at
-127.0.0.1 static.openads.motorrad-net.at
 127.0.0.1 static.oroll.com
 127.0.0.1 static.parkingpanel.com
 127.0.0.1 static.parkingpanel.com
@@ -63321,7 +63287,6 @@
 127.0.0.1 stats.vulture.com
 127.0.0.1 stats.vulture.com
 127.0.0.1 stats.warenform.de  #[Piwik.Analytics]
-127.0.0.1 stats.warenform.de #[Piwik.Analytics]
 127.0.0.1 stats.watchmygf.com
 127.0.0.1 stats.watchmygf.com
 127.0.0.1 stats.web1tv.de
@@ -64970,7 +64935,6 @@
 127.0.0.1 target.e-generator.com
 127.0.0.1 target.e-generator.com
 127.0.0.1 target.net.finam.ru
-127.0.0.1 target.net.finam.ru
 127.0.0.1 target.smi2.net
 127.0.0.1 target.smi2.net
 127.0.0.1 target.smi2.ru
@@ -65026,7 +64990,6 @@
 127.0.0.1 taxel.jp
 127.0.0.1 taxi-petr.by
 127.0.0.1 taxpos.com
-127.0.0.1 taz.adspirit.de
 127.0.0.1 taz.adspirit.de
 127.0.0.1 tb.code.twyxi.com
 127.0.0.1 tb.de17a.com
@@ -65472,7 +65435,6 @@
 127.0.0.1 test.new.api.ad.xiaomi.com
 127.0.0.1 test.ott.youku.com
 127.0.0.1 test.surepush.cn
-127.0.0.1 test.wiredminds.de
 127.0.0.1 test.wiredminds.de
 127.0.0.1 test.zeus.ad.xiaomi.com
 127.0.0.1 test2014.adview.cn
@@ -68991,7 +68953,6 @@
 127.0.0.1 uranus.sogou.com
 127.0.0.1 uranus.sohu.com
 127.0.0.1 urban.adspirit.de
-127.0.0.1 urban.adspirit.de
 127.0.0.1 urbanityadnetwork.com
 127.0.0.1 urbanmedia-d.openx.net
 127.0.0.1 urbanprizedub.racing
@@ -71721,7 +71682,6 @@
 127.0.0.1 wgie.0z5jn.cn
 127.0.0.1 wgo.mmstat.com
 127.0.0.1 wh.motorpresse-statistik.de
-127.0.0.1 wh.motorpresse-statistik.de
 127.0.0.1 whabi.csheaven.com
 127.0.0.1 whaleads.com
 127.0.0.1 whalecashads.com
@@ -71931,7 +71891,6 @@
 127.0.0.1 winadiscount.com
 127.0.0.1 winads.cn
 127.0.0.1 winappcenter.total-secure.info
-127.0.0.1 winappcenter.total-secure.info
 127.0.0.1 winaproduct.com
 127.0.0.1 wincert.us.intellitxt.com
 127.0.0.1 wincert.us.intellitxt.com
@@ -72069,7 +72028,6 @@
 127.0.0.1 wlneteller.adsrv.eacdn.com
 127.0.0.1 wlt-ads-purify-media.adspirit.info
 127.0.0.1 wm-goldenclick.ru
-127.0.0.1 wm-goldenclick.ru
 127.0.0.1 wm.20150.net
 127.0.0.1 wm.69shi.cn
 127.0.0.1 wm.baidu.cn
@@ -72083,13 +72041,11 @@
 127.0.0.1 wm.mtree.com
 127.0.0.1 wm.mtree.com
 127.0.0.1 wm.wiredminds.de
-127.0.0.1 wm.wiredminds.de
 127.0.0.1 wm.xunlaile.com
 127.0.0.1 wm.yololike.space
 127.0.0.1 wm5fixsite.us.intellitxt.com
 127.0.0.1 wm5fixsite.us.intellitxt.com
 127.0.0.1 wmadv.go2cloud.org
-127.0.0.1 wmapp.wiredminds.de
 127.0.0.1 wmapp.wiredminds.de
 127.0.0.1 wmcdn.qtmojo.cn
 127.0.0.1 wmcs.pl
@@ -72672,7 +72628,6 @@
 127.0.0.1 ww57.smartadserver.com
 127.0.0.1 ww6.adm-cnzz.net
 127.0.0.1 ww6.adm-cnzz.net
-127.0.0.1 ww62.hsn.com
 127.0.0.1 ww62.hsn.com
 127.0.0.1 ww62.smartadserver.com
 127.0.0.1 ww62.smartadserver.com
@@ -73901,7 +73856,6 @@
 127.0.0.1 www.adtrade.net
 127.0.0.1 www.adtrader.com
 127.0.0.1 www.adtraff.ru
-127.0.0.1 www.adtraff.ru
 127.0.0.1 www.adtrix.com
 127.0.0.1 www.adturtle.biz
 127.0.0.1 www.adult-top-list.com
@@ -74901,7 +74855,6 @@
 127.0.0.1 www.bitprofit.brokerselection.pro
 127.0.0.1 www.bitraffic.com
 127.0.0.1 www.bitspresentdownload.com  #[Riskware/PUP]
-127.0.0.1 www.bitspresentdownload.com #[Riskware/PUP]
 127.0.0.1 www.bitsumactivationserver.com
 127.0.0.1 www.bittersweetparis.com
 127.0.0.1 www.bitworldfx.com
@@ -74948,7 +74901,6 @@
 127.0.0.1 www.blog.roboinside.me
 127.0.0.1 www.blogads.com
 127.0.0.1 www.blogads.com
-127.0.0.1 www.blogads.de
 127.0.0.1 www.blogads.de
 127.0.0.1 www.blogcatalog.com
 127.0.0.1 www.blogcatalog.com
@@ -78271,7 +78223,6 @@
 127.0.0.1 www.hitslink.com
 127.0.0.1 www.hitstats.co.uk
 127.0.0.1 www.hittracker.org
-127.0.0.1 www.hittracker.org
 127.0.0.1 www.hitvisit.com
 127.0.0.1 www.hjaoopoa.top
 127.0.0.1 www.hjkl888.com
@@ -79683,7 +79634,6 @@
 127.0.0.1 www.locked3.com
 127.0.0.1 www.loggerx.com
 127.0.0.1 www.loggerx.com
-127.0.0.1 www.logging.to
 127.0.0.1 www.logging.to
 127.0.0.1 www.login-bnpparibas.at
 127.0.0.1 www.login-chat.website
@@ -82909,7 +82859,6 @@
 127.0.0.1 www.site-id.nl
 127.0.0.1 www.site-id.nl
 127.0.0.1 www.sitecounter.be
-127.0.0.1 www.sitecounter.be
 127.0.0.1 www.sitegiant.info
 127.0.0.1 www.sitemaji.com
 127.0.0.1 www.sitepalace.com
@@ -83146,7 +83095,6 @@
 127.0.0.1 www.spkoszewo.strefa.pl
 127.0.0.1 www.splac-dlug.com
 127.0.0.1 www.splem.net
-127.0.0.1 www.splem.net
 127.0.0.1 www.splot.org.pl
 127.0.0.1 www.splubotyn.pl
 127.0.0.1 www.spluczto.pl
@@ -83283,7 +83231,6 @@
 127.0.0.1 www.stats.net
 127.0.0.1 www.stats.net
 127.0.0.1 www.stats.speedclicks.ero-advertising.com
-127.0.0.1 www.stats4free.de
 127.0.0.1 www.stats4free.de
 127.0.0.1 www.statsession.com
 127.0.0.1 www.statsforads.com
@@ -84774,7 +84721,6 @@
 127.0.0.1 www.wegetpaid.net
 127.0.0.1 www.weiguizhizuo.com
 127.0.0.1 www.weiluyan.cn
-127.0.0.1 www.weitclick.de
 127.0.0.1 www.weitclick.de
 127.0.0.1 www.weknow.ac
 127.0.0.1 www.wellphyto.com

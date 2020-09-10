@@ -1436,6 +1436,7 @@ money.yandex.ru##.promo-header
 ! START: mail.ru
 !
 ! Main page - self promo
+mail.ru#?#.pulse-lenta div[class*="_"] > div > div[class*=" "]:has(> div[class] > a[href^="https://pulse.mail.ru/"][target="_blank"] > div[class] span[class]:contains(Промо))
 mail.ru##a[href^="https://r.mail.ru/n329873000?"]
 mail.ru##.bubble-home__content
 mail.ru##.bubble-home
@@ -1496,8 +1497,14 @@ kcra.com,whathifi.com,futurestud.io,slate.com,businessinsider.de,fastcompany.com
 ! ##.cta-component-full-width
 bournemouthecho.co.uk,eveningtimes.co.uk,greenocktelegraph.co.uk,heraldscotland.com,swindonadvertiser.co.uk,wiltshiretimes.co.uk##.cta-component-full-width
 ! ##.subscribe
-castorama.ru,guzellikbulvari.com,marieclaire.ua,mvs.gov.ua,gadgets.ndtv.com,oneplus.com,tickets.ua,woman.ru,elle.ru,marieclaire.ru,europaplus.ru,krossovki.com,belretail.by,thecollegefix.com,femmie.ru,prostofinovo.ru,mauijim.com,netpeak.net,wday.ru,buhgalteria.ru,ellegirl.ru,gameslog.ru,gizmag.com,healthhacks.ru,klerk.ru,menshealth.com,rbc.ru,snce.ru,turizm.ru,wegame.com.ua##.subscribe
+atorus.ru,castorama.ru,guzellikbulvari.com,marieclaire.ua,mvs.gov.ua,gadgets.ndtv.com,oneplus.com,tickets.ua,woman.ru,elle.ru,marieclaire.ru,europaplus.ru,krossovki.com,belretail.by,thecollegefix.com,femmie.ru,prostofinovo.ru,mauijim.com,netpeak.net,wday.ru,buhgalteria.ru,ellegirl.ru,gameslog.ru,gizmag.com,healthhacks.ru,klerk.ru,menshealth.com,rbc.ru,snce.ru,turizm.ru,wegame.com.ua##.subscribe
 !
+||currenttime.tv/a/signup-sidebar-widget/
+currenttime.tv##.banner
+proagro.com.ua##table[style="border:1px solid #d0d0d0;"]
+gazetadopovo.com.br##.container > div.c-botao-flutuante:has(> a.btn-flutuante-newsletter)
+gazetadopovo.com.br##.box-promo-newsletter
+gazetadopovo.com.br###end-post > div.c-box-news
 360tv.ru##amp-img[alt="google_news_image"]
 360tv.ru$$amp-img[alt="google_news_image"]
 okido.com##.woocommerce-store-notice
@@ -2614,7 +2621,7 @@ grafixfather.com##.su-button-center > a:not([href*="anonymz.com"])
 seonews.ru##.sub-mailing-bg
 ndtv.com##.sub_newsletter
 incrussia.ru##.subs
-rockstargame.su##.subs-form
+tripoli.land,rockstargame.su##.subs-form
 buyon.ru##.subscribe-b
 vogue.ru,hyperhost.ua,pravda.ru,reverso.net,vokrug.tv##.subscribe-block
 rabota.ru##.subscribe-block__inner
