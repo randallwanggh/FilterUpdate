@@ -65,6 +65,7 @@ techadvisor.co.uk,forum.notebookreview.com,computerworld.com,skysports.com#$#div
 techadvisor.co.uk,forum.notebookreview.com,computerworld.com,skysports.com#$#body { overflow:visible!important; }
 volkskrant.nl,trouw.nl,parool.nl,theguardian.com,techadvisor.co.uk,forum.notebookreview.com,computerworld.com,skysports.com#$#html.sp-message-open { overflow:visible!important; position:static!important; }
 !
+sigortammax.com##.snackbar-container
 ||urachhaus.de/out/urachhaus/src/js/libs/jquery.cookie.min.js
 obi.de##.colorbox-cookiepolicy
 ozmenpc.com##.cookie-agreement-module
@@ -1053,7 +1054,7 @@ olb.de##.mod-cookiewarning
 dzbank.de##.MCookieQuestionBox
 thalia.de#$#consent-banner { display: none !important; }
 thalia.de#$#body { overflow: visible !important; }
-fliegenmacher.com##.pum-overlay[data-popmake*="cookies"]
+educba.com,fliegenmacher.com##.pum-overlay[data-popmake*="cookies"]
 ||conrad.de/etc.clientlibs/ccp-sites/components/structure/cookie-notification/clientlibs.*.js
 brilledirekt.de##.cookiebox-wrapper
 lego.com###kids-legal-overlay
@@ -2418,7 +2419,7 @@ bitdefender.ru##.mtsnb
 mtvuutiset.fi##.mtvcookienotificationscontainer
 wifire.ru##.nbn-cookie-info
 nationalgeographic.fr##.ng-cookie-footer
-forum.smartsworld.ru##.notice-content
+snbforums.com,forum.smartsworld.ru##.notice-content
 armedangels.de##.notice-home
 safezone.cc##.notices--bottom_fixer
 free.kaspersky.com##.notification-bar.bottom
@@ -3257,6 +3258,7 @@ geotargetly.com,cert.pl,eset.com###cookies-popup
 editus.lu,lyricstraining.com###cookies-use
 xvideos.com,tvplusnewtab.com,xnxx.com###cookies-use-alert
 delivery.dhl.com###cookiesAlertPanel
+sued.aldi-liefert.de##.modal-backdrop
 bricoleurdudimanche.com###cookiesPopin
 burton.fr###cookiesReglement
 bershka.com,massimodutti.com,stradivarius.com###cookiesWarn

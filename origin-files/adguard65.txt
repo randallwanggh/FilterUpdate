@@ -123,6 +123,7 @@ myviptuto.com#?#.articles > article.grid-25.np-mobile:has(> .epcl-banner)
 primewire.li#?#.choose_tabs > .actual_tab > .movie_version:has(> tbody > tr > td > span > a[href^="/links/sponsored/"])
 ! https://github.com/AdguardTeam/AdguardFilters/issues/56778
 !#if (adguard_app_windows || adguard_app_mac || adguard_app_android)
+mail.yahoo.com#?#div[data-test-id="video-container"] 
 mail.yahoo.com#?#a[href^="https://beap.gemini.yahoo.com/mbclk?"][target="_blank"]
 mail.yahoo.com#?#a[data-test-id="pencil-ad-messageList"]
 !#endif
@@ -452,6 +453,7 @@ rinmarugames.com#?#body > div[align="center"] > #maindiv:has(> #newrinmarugamesd
 ipornia.com#$?#.cj-foot { remove: true; }
 ! https://github.com/AdguardTeam/AdguardFilters/issues/41095
 mumbaimirror.indiatimes.com#?#.home-widgets > ul > li > div[class*=" "]:has(> div > div > a[onclick])
+!+ NOT_OPTIMIZED
 mumbaimirror.indiatimes.com#?##content > div[class*=" "]:has(> div > div > a[onclick])
 mumbaimirror.indiatimes.com#?#.latestCmmtData > .mrtoday > div[class*=" "]:has(> div > div > a[onclick])
 ! https://github.com/AdguardTeam/AdguardFilters/issues/40963
@@ -462,7 +464,7 @@ imgtaxi.com#?#.sidebar > h3:has( > a:contains(Recommended))
 ! https://forum.adguard.com/index.php?threads/35054/
 mi-globe.com#?#.widget_custom_html:has(> div.custom-html-widget > span[id^="ezoic-pub-ad-"])
 ! /links/popad - popups '#$?#form[action$="/links/popad"] { remove: true; }'
-gibit.xyz,zlink.xyz,pkr.pw,cut.my.id,dz4win.com,asupload.com,shortearn.in,stfly.me,fun4earn.xyz,shorthitz.com,linkshorten.xyz,btc2019.tk,cut4fun.com,mitly.us,afly.us,links.studyiqhub.com,rifurl.com,ushrt.me,theblogcash.in,shrt10.com,s-short.co,adclic.pro,uii.io,uiz.app,onelink.pw,adlinkcash.com,newstakindia.in,unionx.in,linksbuddy.com,shortearn.eu,express-cut.ovh,cashearn.eu,vivads.net,reportkernel.com,urlcloud.us,coin.mg,shrinkurl.org,lkop.me,jibfly.com,egovtjob.in,shrtfly.net,smwebs.xyz,clx.icu,uiz.io,adbl.me,stfly.io,royalown.review,komiupdates.xyz#$?#form[action$="/links/popad"] { remove: true; }
+xz2.xyz,doctor-groups.com,gibit.xyz,zlink.xyz,pkr.pw,cut.my.id,dz4win.com,asupload.com,shortearn.in,stfly.me,fun4earn.xyz,shorthitz.com,linkshorten.xyz,btc2019.tk,cut4fun.com,mitly.us,afly.us,links.studyiqhub.com,rifurl.com,ushrt.me,theblogcash.in,shrt10.com,s-short.co,adclic.pro,uii.io,uiz.app,onelink.pw,adlinkcash.com,newstakindia.in,unionx.in,linksbuddy.com,shortearn.eu,express-cut.ovh,cashearn.eu,vivads.net,reportkernel.com,urlcloud.us,coin.mg,shrinkurl.org,lkop.me,jibfly.com,egovtjob.in,shrtfly.net,smwebs.xyz,clx.icu,uiz.io,adbl.me,stfly.io,royalown.review,komiupdates.xyz#$?#form[action$="/links/popad"] { remove: true; }
 ! lifehacker.com - left-over at article end
 lifehacker.com#?#body > div > div[class^="sc-"]:has( > .ad-container)
 ! https://github.com/AdguardTeam/AdguardFilters/issues/40149
