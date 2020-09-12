@@ -1222,7 +1222,9 @@ $websocket,domain=300mbfilms.io|lib.rus.ec
 101android.ru#?#body > iframe:matches-css(width: 360px)
 101xp.com,mavikadin.com##.news-social
 103.194.171.75,idtube.me##.overlay.bm
-103.ua,relax.by##.CookiesNotification
+103.by##.AppBanner
+103.by,103.ua,relax.by##.CookiesNotification
+103.by,1plus1.video,1plus1.ua##.AppPopup
 104.155.51.226:443$network
 104.com.tw###login_box ul.products_list > li > a[href^="https://goo.gl/"][onmousedown^="adc"]
 104.com.tw###right_box_ad
@@ -1483,7 +1485,6 @@ $websocket,domain=300mbfilms.io|lib.rus.ec
 1plus1.video#$#.cookies { display: none!important; }
 1plus1.video#$#.header { top: 0!important; }
 1plus1.video#$#body { padding-top: 0!important; }
-1plus1.video,1plus1.ua##.AppPopup
 1prime.ru##.push-confirm
 1prime.ru##div[class^="subscription-block"]
 1putlocker.io,123movies.is##.content-kuss
@@ -7885,6 +7886,8 @@ cybernews.com##.dialog-lightbox-widget
 cybernews.com##.jnews-cookie-law-policy
 cyberscoop.com###welcomeadMask
 cyberscoop.com##a[href^="https://www.addtoany.com/add_to/"]
+cybersport.ru##.article__sharing
+cybersport.ru##.article__yandex-zen
 cyclingnews.com##.dfp-plugin-advert
 cyclingnews.com##.global-banner
 cyclingnews.com,edmdl.com,sat1.de,kabeleins.de,prosieben.de,investopedia.com,chip.de##.share-buttons
@@ -8491,6 +8494,7 @@ depokpos.com###secondary div[id^="text-"] a[href][rel="noopener noreferrer"] > i
 depokpos.com##.newkarma-core-floatbanner
 depokpos.com##.newkarma-core-topbanner
 depokpos.com##div[class^="gmr-social-share"] > ul.gmr-socialicon-share > li:not(.comment-icon)
+depor.com##.ad-amp-movil
 depor.com##a[data-social="share-more"]
 deportesmax.com##p[class$="Estilo11"]
 deportesmax.com,max-deportv.info,maxdeportv.net##iframe[src$="m300.php"]
@@ -11092,6 +11096,7 @@ faucetpay.io##.sponsored-light
 faucetpay.io##a[href^="https://faucetpay.io/advertise/"][target="_blank"]
 faucetpay.io##a[href^="https://faucetpay.io/page/view-banner-ad"]
 faupto.com##body > .bg-dark.fixed-a
+faupto.com#%#//scriptlet("abort-current-inline-script", "$", "disable AdBlock")
 faupto.com#%#//scriptlet("abort-on-property-read", "disableButtonTimer")
 faupto.com#%#//scriptlet("set-constant", "show_ads_gr8_lite", "true")
 faupto.com#@##ad-banner
@@ -11533,6 +11538,12 @@ finam.ru##.subScribeModalWrapper
 finam.ru##div[id*="socnet-btns"]
 finance.ifeng.com##div[class="slideImg-lGG7Uta-"]
 finance.rambler.ru###rambler-share-2
+finance.rambler.ru##.read-also__lentainform
+finance.rambler.ru#%#//scriptlet('hide-in-shadow-dom', '.social--top')
+finance.rambler.ru#%#//scriptlet('hide-in-shadow-dom', 'body > div.social')
+finance.rambler.ru$$div[class="read-also__lentainform"]
+finance.rambler.ru,travel.rambler.ru##.social--top
+finance.rambler.ru,travel.rambler.ru##body > div.social
 finance.sina.cn##.article-sax
 finance.sina.cn##aside#actionTop + .m-client-call
 finance.ua##.b-socialpane
@@ -11643,6 +11654,8 @@ firstpost.com##.add_placeholder_300_250
 firstpost.com##.add_placeholder_300_600
 firstpost.com##.fixBtm
 firstpost.com##.social_sharing_panel
+firstr0w.eu###sunInCenter
+firstr0w.eu#$##sunInCenter + .cover { position: absolute!important; left: -2000px!important; } 
 firstrowus1.eu#%#(function() { var w_open = window.open, regex = /adk2x/; window.open = function(a, b) { if (typeof a !== 'string' || !regex.test(a)) { w_open(a, b); } }; })();
 firstrowus1.eu#%#Object.defineProperty(window, 'mainCheck', { get: function() { return {}; } });
 fis-ski.com#%#document.cookie = "cookieDisclaimer=approved; path=/;";
@@ -13377,7 +13390,6 @@ getgreenshot.org##.body-content+div[class^="ga-"]
 getgreenshot.org##.logo+nav > div[class^="ga-"]
 gethatch.com##.consently-bar
 getindiansex.com###divtime
-getintopc.com#%#AG_onLoad(function(){if(location.pathname.includes("/wait-for-resource/")){var a=new MutationObserver(function(){var b=document.querySelectorAll('iframe[id^="aswift_"]:not([src]), iframe[id^="google_ads_iframe_"]:not([src])');0<b.length&&(b.forEach(function(c){c.setAttribute("src","googleads.g.doubleclick.net/")}),a.disconnect())});a.observe(document,{childList:!0,subtree:!0});setTimeout(function(){a.disconnect()},5E3)}});
 getitfree.cn##.top-footer > .call-action-unlogged
 getitfree.cn#%#//scriptlet("abort-current-inline-script", "document.getElementById", "/!document\.getElementById\([\s\S]*?\.style\.display=/")
 getlink.pw#%#AG_onLoad(function() { setTimeout(function() { $("#go-popup").remove(); }, 300); });
@@ -30222,9 +30234,12 @@ smallpdf.com##body > div#app > div[class]:has(> div > div > img[alt="Chrome"])
 smallseotools.com###bio_ep
 smallseotools.com###bio_ep_bg
 smallseotools.com##.category_box > .hone_a_box
+smallseotools.com##.ha_love_wraper
+smallseotools.com##.love_code
 smallseotools.com##.top_b_home
 smallseotools.com##div[id^="stop_it_"]
 smallseotools.com#%#//scriptlet("prevent-setInterval", "isAdBlockActive")
+smallseotools.com#?#footer > div:has(> form > div.lang_subscribe)
 smallstep.com###clym-widget-privacy-frame
 smart.com###cp-dialog
 smart.com###cp-overlay
@@ -30578,7 +30593,7 @@ solverbook.com#?#.social > table:has(> tbody > tr > td:contains(Понравил
 solvettube.com#?##sidebar > .blocks > li.block:has(>.block-content > [class^="box textwidget "][class*="uson"])
 solvetube.site###ai-adb-message
 solvetube.site###ai-adb-overlay
-solvetube.site#%#AG_onLoad(function(){if(location.pathname.includes("/video-guide-for-setup-installation/")){var a=new MutationObserver(function(){var b=document.querySelectorAll('iframe[id^="aswift_"]:not([src]), iframe[id^="google_ads_iframe_"]:not([src])');0<b.length&&(b.forEach(function(c){c.setAttribute("src","googleads.g.doubleclick.net/")}),a.disconnect())});a.observe(document,{childList:!0,subtree:!0});setTimeout(function(){a.disconnect()},5E3)}});
+solvetube.site,getintopc.com#%#AG_onLoad(function(){if(location.pathname.includes("/wait-for-resource/")||location.pathname.includes("/video-guide-for-setup-installation/")){var e=function(a){for(var b="",c=0;c<a;c++)b+="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789".charAt(Math.floor(62*Math.random()));return b},f=function(a,b){a=Math.ceil(a);b=Math.floor(b);return Math.floor(Math.random()*(b-a+1))+a},d=new MutationObserver(function(){var a=document.querySelector("ins.adsbygoogle[data-ad-client]");if(a)var b=a.getAttribute("data-ad-client");a=document.querySelectorAll('iframe[id^="aswift_"]:not([src]), iframe[id^="google_ads_iframe_"]:not([src])');0<a.length&&(a.forEach(function(c){c.setAttribute("src","googleads.g.doubleclick.net/pagead/ads?client="+b+e(f(1E3,1500)))}),d.disconnect())});d.observe(document,{childList:!0,subtree:!0});setTimeout(function(){d.disconnect()},5E3)}});
 sombex.com#%#AG_abortInlineScript(/adblock-blocker-overlay/, 'document.getElementById');
 somenotes247.blogspot.com#@#.vertical-ads
 sometag.com##div[class^="some-adv"]
@@ -33926,8 +33941,6 @@ travel-star.jp##ul.p-articleShareList > li:not([class$="--pocket"]):not([class$=
 travel.rakuten.co.jp###appDlBn
 travel.rakuten.co.jp###footerBannerAppDL
 travel.rakuten.co.jp##.downloads-in
-travel.rambler.ru##.social--top
-travel.rambler.ru##body > div.social
 travel.spot-app.jp##.post-meta.bottom > .loop-share-num > [class^="bg-"]
 travel.spot-app.jp##.post-meta.under-title > .loop-share-num
 travelask.ru###facebook-popup
@@ -35364,6 +35377,7 @@ v8movie.com##.ads-center
 v8movie.com##div[id^="banner-"]
 vacation-et.work##.sns-group-viral
 vademec.ru##.detail_news_subsr
+vagalume.com.br###shareLyrics
 vaillant.be#%#//scriptlet("set-constant", "Object.prototype.cookiewarning", "noopFunc")
 vaillant.be#@##cookiewarning
 vaillant.de#?#body > .modal:has(> .modal__content > div > #cookiewarning)
@@ -38806,6 +38820,7 @@ zo.ee#$##rf { position: absolute!important; left: -3000px!important; }
 zobacz.ws#%#//scriptlet("abort-on-property-read", "mdpDeBlocker")
 zobakit.com##.subcribe-box
 zomart.ru##.page-product__socials
+zomato.com###root > div.jnxZPg
 zomato.com##.gdbr_banner_wrapper
 zombie-film.club#%#//scriptlet("remove-class", "isBranding", "body")
 zona-games.net#%#AG_onLoad(function(){setTimeout(function(){if("object"===typeof megabux&&"[object String]"===Object.prototype.toString.call(megabux.link)){try{new URL(megabux.link);var a=!0}catch(b){a=!1}if(a)try{window.location=megabux.link}catch(b){}}},500)});
@@ -55720,6 +55735,7 @@ zzz.com.ua##body > div[style="text-align:center;font-size:11px;font-family:arial
 ||tracker.cpapath.com^
 ||tracker.departapp.com/api/collect?
 ||tracker.downdetector.com^
+||tracker.durasite.net^
 ||tracker.giftd.ru^$third-party
 ||tracker.jawcloud.co^
 ||tracker.joost.com^
