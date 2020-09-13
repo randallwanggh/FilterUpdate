@@ -5958,6 +5958,7 @@
 127.0.0.1 ad17.focalink.com
 127.0.0.1 ad17digital.checkm8.com
 127.0.0.1 ad18.ad-srv.net
+127.0.0.1 ad18.biz
 127.0.0.1 ad18.checkm8.com
 127.0.0.1 ad18.focalink.com
 127.0.0.1 ad18digital.checkm8.com
@@ -10560,6 +10561,7 @@
 127.0.0.1 adserwer.o2.pl
 127.0.0.1 adseu.novem.pl
 127.0.0.1 adseu.novem.pl
+127.0.0.1 adsexpert.net
 127.0.0.1 adsfac.eu
 127.0.0.1 adsfac.eu
 127.0.0.1 adsfac.net
@@ -12580,6 +12582,7 @@
 127.0.0.1 analxxxclipsyjh.dnset.com
 127.0.0.1 analy.qq.com
 127.0.0.1 analysis.fc2.com
+127.0.0.1 analysis.ifahc.com
 127.0.0.1 analysis.ligatus.com
 127.0.0.1 analysis.lionmobi.com
 127.0.0.1 analysis.polarisoffice.com
@@ -19437,6 +19440,7 @@
 127.0.0.1 calodobowe-wiadomosci-pl.eu
 127.0.0.1 calopenupdate.comm.miui.com
 127.0.0.1 calouskype.over-blog.com
+127.0.0.1 calvappa.me
 127.0.0.1 calworthingtonford.com
 127.0.0.1 caly-film-online.pl
 127.0.0.1 calyfilm-onlinepl.over-blog.com
@@ -21724,6 +21728,7 @@
 127.0.0.1 click.dtiserv2.com
 127.0.0.1 click.duga.jp
 127.0.0.1 click.e.juiceplus.com
+127.0.0.1 click.expmediadirect.coms92.cnzz.com
 127.0.0.1 click.fivemtn.com
 127.0.0.1 click.fool.com
 127.0.0.1 click.fout.jp
@@ -36357,6 +36362,7 @@
 127.0.0.1 ikunselt.com
 127.0.0.1 il-vpn.taboola.com
 127.0.0.1 il.5.p2l.info
+127.0.0.1 il05pzhujicf.com
 127.0.0.1 ilb.pns.kt.com
 127.0.0.1 ilbanner.com
 127.0.0.1 ildexremusli.tk
@@ -38467,6 +38473,7 @@
 127.0.0.1 javbox777.com
 127.0.0.1 javbox888.com
 127.0.0.1 javbox999.com
+127.0.0.1 javbusxx.com
 127.0.0.1 javhd.com
 127.0.0.1 javiermiguez.com
 127.0.0.1 jazzlambasi.blogspot.com
@@ -40345,6 +40352,7 @@
 127.0.0.1 kxmav2.com
 127.0.0.1 kxrzz.superpromo.7112531.com
 127.0.0.1 ky.5.p2l.info
+127.0.0.1 ky.g66667777.com
 127.0.0.1 kyric.com
 127.0.0.1 kyrsu.frost-electric-supply.com
 127.0.0.1 kz.adriver.ru
@@ -40352,6 +40360,7 @@
 127.0.0.1 kz.tns-counter.ru
 127.0.0.1 kzni.jwhfn.cn
 127.0.0.1 kzprojekt.pl
+127.0.0.1 l-ring.msedge.net
 127.0.0.1 l-sspcash.adxcore.com
 127.0.0.1 l-v1.presage.io
 127.0.0.1 l-v1.prod.cloud.ogury.io
@@ -58159,7 +58168,6 @@
 127.0.0.1 s91.cnzz.com
 127.0.0.1 s91.cnzz.com
 127.0.0.1 s92.cnzz.com
-127.0.0.1 s92.cnzz.com
 127.0.0.1 s93.cnzz.com
 127.0.0.1 s93.cnzz.com
 127.0.0.1 s94.cnzz.com
@@ -68339,6 +68347,7 @@
 127.0.0.1 u.xfmfqdt.cn
 127.0.0.1 u.yiiwoo.com
 127.0.0.1 u.yizuya.com
+127.0.0.1 u.zhugeio888.com
 127.0.0.1 u.zoulj.xyz
 127.0.0.1 u0.extreme-dm.com
 127.0.0.1 u0.extreme-dm.com
@@ -69271,6 +69280,7 @@
 127.0.0.1 utdifguizdidiz.ru
 127.0.0.1 utenti.lycos.it
 127.0.0.1 utf1.liehuo.net
+127.0.0.1 uthorner.info
 127.0.0.1 util.nphoto.net
 127.0.0.1 utilistom.info
 127.0.0.1 utility.baidu.cn
@@ -80784,6 +80794,7 @@
 127.0.0.1 www.oainternet.com
 127.0.0.1 www.oata.ero-advertising.com
 127.0.0.1 www.oazaborek.pl
+127.0.0.1 www.ob47.com
 127.0.0.1 www.oberzapodorzechem.pl
 127.0.0.1 www.obesitycheck.com
 127.0.0.1 www.obeyter.com
@@ -83553,6 +83564,7 @@
 127.0.0.1 www.tavelscape.com
 127.0.0.1 www.tbk-app.com
 127.0.0.1 www.tbntechnology.pl
+127.0.0.1 www.tbvip19.com
 127.0.0.1 www.tchmielewski.pl
 127.0.0.1 www.tcimg.com
 127.0.0.1 www.tcm.optica.ero-advertising.com
@@ -85163,6 +85175,7 @@
 127.0.0.1 www.y2608.com
 127.0.0.1 www.y4681.6128786.com
 127.0.0.1 www.y7e.us
+127.0.0.1 www.yabovip2030.com
 127.0.0.1 www.yahu24.com
 127.0.0.1 www.yan008.com
 127.0.0.1 www.yarlnk.com
@@ -86548,6 +86561,7 @@
 127.0.0.1 xtruh.uranus.sogou.com
 127.0.0.1 xtsk.6yush.cn
 127.0.0.1 xtzxmy.com
+127.0.0.1 xunkaixin.xyz
 127.0.0.1 xunlei.adx.admaster.com.cn
 127.0.0.1 xv9xm6zxb8.com
 127.0.0.1 xvideosharing.site
