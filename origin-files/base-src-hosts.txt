@@ -5289,6 +5289,7 @@
 127.0.0.1 ad.exosrv.com
 127.0.0.1 ad.exyws.org
 127.0.0.1 ad.favod.net
+127.0.0.1 ad.feedbag.co.kr
 127.0.0.1 ad.fi.doubleclick.net
 127.0.0.1 ad.fi.doubleclick.net
 127.0.0.1 ad.filmweb.pl

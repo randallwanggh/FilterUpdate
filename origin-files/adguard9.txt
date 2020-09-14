@@ -34,6 +34,7 @@ macwelt.de,pcwelt.de#%#AG_setConstant('firebase.messaging', 'noopFunc');
 .name/?pu=$script,third-party
 !
 ! /pnsw_init.js
+||webpushr.com^$third-party
 ||js.pusher.com^$third-party
 ||push-free.com^$third-party
 ||pushprofit.net^$third-party
@@ -557,6 +558,8 @@ aol.com#$#.banner-active { margin-top: 0 !important; }
 !
 ! Fixing the issues
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/63800
+@@||js.pusher.com/*/pusher.min.js$domain=bringatrailer.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/63418
 @@||secure.esputnik.com^$domain=commited.tech
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59806

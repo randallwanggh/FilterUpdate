@@ -95,6 +95,7 @@ sodapdf.com##.be-tooltip
 !
 ! Specific sites
 !
+writingexplained.org##.formkit-overlay
 getitfree.cn##.top-footer > .call-action-unlogged
 agrovesti.net##.rstboxSubscribeAcy
 propozitsiya.com##div[id^="block-drupal-package-block-popup-banner-"]
@@ -1063,8 +1064,8 @@ myjane.ru##.popup-thirdclick
 fmovies.cab##.feedback-icon
 gmod.fusion-rp.ru##.u-bottomFixer
 fremdwort.de###openModal
-itemci.com#$#body { oberflow: visible!important; }
-itemci.com#$#html { oberflow: visible!important; }
+itemci.com#$#body { overflow: visible!important; }
+itemci.com#$#html { overflow: visible!important; }
 itemci.com#$#.fancybox-overlay { display: none!important; }
 baltimoresun.com##.trb_bnn
 ||theintercept.com/api/tinypass.min.js
