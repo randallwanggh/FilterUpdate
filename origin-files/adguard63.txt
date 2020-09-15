@@ -85,6 +85,7 @@ cdn.braun634.com^$third-party
 @@||zoover.adtrackers.net/shared/bannerpages/darttagsbanner.aspx
 @@||zoover.bannertrack.net/shared/bannerpages/darttagsbanner.aspx
 !
+@@||filedown.org^$generichide
 @@||best-shopme.com^$generichide
 @@||swift4claim.com^$generichide
 @@||doctor-groups.com^$generichide
@@ -2502,6 +2503,8 @@ m.sports.ru##iframe[src^="http://www.sports.ru/desktop/special/"]
 !
 ! White list. Fixing content blocking API issues.
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/63683
+@@||aachener-nachrichten.de/advertorials/
 ! https://github.com/AdguardTeam/AdguardFilters/issues/62995
 @@||ftc.gov/tips-advice/
 ! https://github.com/AdguardTeam/AdguardFilters/issues/61453

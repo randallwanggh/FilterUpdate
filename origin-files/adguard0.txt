@@ -1506,6 +1506,12 @@ bournemouthecho.co.uk,eveningtimes.co.uk,greenocktelegraph.co.uk,heraldscotland.
 ! ##.subscribe
 atorus.ru,castorama.ru,guzellikbulvari.com,marieclaire.ua,mvs.gov.ua,gadgets.ndtv.com,oneplus.com,tickets.ua,woman.ru,elle.ru,marieclaire.ru,europaplus.ru,krossovki.com,belretail.by,thecollegefix.com,femmie.ru,prostofinovo.ru,mauijim.com,netpeak.net,wday.ru,buhgalteria.ru,ellegirl.ru,gameslog.ru,gizmag.com,healthhacks.ru,klerk.ru,menshealth.com,rbc.ru,snce.ru,turizm.ru,wegame.com.ua##.subscribe
 !
+trouw.nl###ANON_USER_NCB_BOTTOM_BAR_M1_B
+parool.nl###ANON_USER_NCB_BOTTOM_BAR_M1_A
+parool.nl##iframe[src="https://www.parool.nl/marketing/parent-check/nieuwsbrief-app-parool.html"]
+legionathletics.com###oneweek-sidebar
+legionathletics.com##.opt-in
+legionathletics.com##.post-container > div#sign-up
 ||currenttime.tv/a/signup-sidebar-widget/
 currenttime.tv##.banner
 smallseotools.com#?#footer > div:has(> form > div.lang_subscribe)
@@ -1531,6 +1537,8 @@ dmitripavlutin.com#?#main ~ aside > div > div:has(> form[name="mc-embedded-subsc
 mtb-news.de##.mtbn-newsletter-bar
 kp.ru##.page-footer_subscribe
 hindustantimes.com##.storyArea > div.storyDetail + div.subscribe-update
+m.hindustantimes.com#$#body { overflow-y: visible !important; }
+m.hindustantimes.com#$#.skippablePop { display: none !important; }
 tochka.net##.subscribe_widget
 sostav.ua##.tgzen
 adidas.com.tr##div[class^="footer_newsletter"]
@@ -1760,7 +1768,7 @@ vedomosti.ru##.subscription-email
 rushop.lg.com##body > div[id="wrapper"] + section.subsub
 meduza.io##.GDPRPanel-root
 meduza.io##.MaterialPanel-root
-meduza.io#?#.GeneralMaterial-article > figure.EmbedBlock-cc:has(> div.EmbedBlock-object > div.EmbedBlock-wrapper > div.EmbedBlock-objectWrap > iframe[src^="https://meduza.io/digests/"])
+meduza.io#?#figure.EmbedBlock-cc:has(> div.EmbedBlock-object > div.EmbedBlock-wrapper > div.EmbedBlock-objectWrap > iframe[src^="https://meduza.io/digests/"])
 meduza.io##.Section-isBrief_subscription
 meduza.io##.BriefSubscription-root
 meduza.io##.Material-subscribe

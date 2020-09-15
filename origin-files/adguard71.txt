@@ -198,7 +198,7 @@ xxxparodyhd.net,movgotv.com,123kmovies.net,123movies.*,bluemovies.co,f5movies.to
 !
 ! For URL shorteners or simple sites with frequently changed ad servers.
 ! Incorrectly blocked domains can be excluded usig regex
-/^(?!.*(google\.com|gstatic\.com|googleapis\.com|recaptcha\.net|cdn\.ampproject\.org|fluidplayer\.com|facebook\.net|fbcdn\.net|cloudflare\.com|ebacdn\.com|vk\.com|jquery\.com|jsdelivr\.net|yastatic\.net|yandex\.net|ytimg\.com|fontawesome\.com|dmca\.com|disqus\.com|twitter\.com|vidazoo\.com|disquscdn\.com|jwpcdn\.com|shrink\.pe|zencdn\.net|unpkg\.com|github\.io|ulogin\.ru|bootstrapcdn\.com|player)).*$/$third-party,script,domain=gibit.xyz|btcdot.xyz|iir.ai|shrinkbtc.cc|todaynewspk.win|cut.my.id|ouofly.com|stfly.me|dz4win.com|bolssc.com|genpas.icu|canyoublockit.com|aii.sh|uptoshort.com|gsurl.in|oncehelp.com|adslinkfly.online|loveheaven.net|extramovies.casa|asianclub.nl|file-up.org|kshow123.net|short.articlix.com|dlapk4all.com|cryptoads.space|profitlink.info|shorthitz.com|putlocker.digital|pimpandhost.com|pornpapa.com|shorthub.co|xxxfiles.com|pornone.com|rawdex.net|hiperdex.com|ask4movie.co|scash.xyz|animekayo.com|animekaizoku.com|xorgasmo.com|mitly.us
+/^(?!.*(google\.com|gstatic\.com|googleapis\.com|recaptcha\.net|cdn\.ampproject\.org|fluidplayer\.com|facebook\.net|fbcdn\.net|cloudflare\.com|ebacdn\.com|vk\.com|jquery\.com|jsdelivr\.net|yastatic\.net|yandex\.net|ytimg\.com|fontawesome\.com|dmca\.com|disqus\.com|twitter\.com|vidazoo\.com|disquscdn\.com|jwpcdn\.com|shrink\.pe|zencdn\.net|unpkg\.com|github\.io|ulogin\.ru|bootstrapcdn\.com|player)).*$/$third-party,script,domain=shorten.sh|gibit.xyz|btcdot.xyz|iir.ai|shrinkbtc.cc|todaynewspk.win|cut.my.id|ouofly.com|stfly.me|dz4win.com|bolssc.com|genpas.icu|canyoublockit.com|aii.sh|uptoshort.com|gsurl.in|oncehelp.com|adslinkfly.online|loveheaven.net|extramovies.casa|asianclub.nl|file-up.org|kshow123.net|short.articlix.com|dlapk4all.com|cryptoads.space|profitlink.info|shorthitz.com|putlocker.digital|pimpandhost.com|pornpapa.com|shorthub.co|xxxfiles.com|pornone.com|rawdex.net|hiperdex.com|ask4movie.co|scash.xyz|animekayo.com|animekaizoku.com|xorgasmo.com|mitly.us
 !
 ! For Safari ('{,}' is not supported in regex rules)
 ! URLs like that: https://r023m83skv5v.com/c5/d1/c7/c5d1c7fa34676226827685638cd1efb7.js
@@ -207,6 +207,16 @@ xxxparodyhd.net,movgotv.com,123kmovies.net,123movies.*,bluemovies.co,f5movies.to
 !
 !
 !
+||stream.directmoviedl.com/popembed.php
+stream.directmoviedl.com##iframe[src="https://stream.directmoviedl.com/popembed.php"]
+swisscows.com##.banners-wrap
+swisscows.com##.web-results > .item.sales
+swisscows.com##.cloud-wrapper > .cloud > a[href^="https://swisscows.com/api/"][target="_blank"].tile--image
+swisscows.com##.cloud-container > .cloud > a[href^="http://www.smartredirect.de/redir/clickGate.php"]
+||streamsport.pro/ads/
+androidpolice.com##.ains-18
+spanishdict.com##div[id^="adSide"]
+spanishdict.com###adTopLarge-container
 secrant.com##.divHLeaderFull
 secrant.com##.lowLead
 calculateaspectratio.com##.waldo
@@ -312,6 +322,8 @@ operanewsapp.com###detail-bottom-ad
 ||streamporn.pw/adult/wp-content/themes/PsyPlay/billo.
 ||ukfucking.com/fr.js
 ||ukfucking.com/v.js
+||media.complex.com/common/cmnUNT.js
+||media.complex.com/common/cmnUNTmobile.js
 ukfucking.com##.im-show
 dailymail.co.uk##.ad-wrapper
 news18.com##.article-mad
@@ -632,8 +644,8 @@ scrims.io###scrims-io_300x250
 dizzytroopers.io###banner-cont
 dizzytroopers.io###box-banner-cont
 striketactics.net###unit_a_cont
-speed-down.org##div[style="width:336px; height:280px; background-color:#ffffff; text-align:center"]
-speed-down.org##center > div[style="width:336px; height:280px"]
+filedown.org,speed-down.org##div[style="width:336px; height:280px; background-color:#ffffff; text-align:center"]
+filedown.org,speed-down.org##center > div[style="width:336px; height:280px"]
 speed-down.org##a[href^="https://speed-down.org/download"]
 speed-down.org##.captcha > .download-option-btn > .btn-success:not(.downloadbtn):not([style])
 raaaaft.io##.dialog-ad-container
@@ -758,7 +770,7 @@ larvelfaucet.com##.close-ad
 larvelfaucet.com###bottomRightFloatingAd
 linksly.co##div[aria-label="Close Ads"]
 himovies.to###overlay-container
-ky3.com##body .arc-ad
+alaskasnewssource.com,ky3.com##body .arc-ad
 boxlink.us,glitched.online##a[href^="https://bit.ly/"] > img
 glitched.online##.elementor-widget-sidebar > .elementor-widget-container > #text-7
 glitched.online##.elementor-widget-sidebar > .elementor-widget-container > #text-8
@@ -1047,7 +1059,7 @@ check-host.net##.mrkzchadcont
 /script/compatibility.js$domain=kropic.com
 ||pornhat.com/nbb/*.php
 ||douploads.net/sw_newone.js
-easyplayer.cc###layer1
+streamsport.pro,easyplayer.cc###layer1
 apk.support##.googleadv
 ||torrentproject.cc/1.js
 ||torrentproject.cc/r/?md5=$subdocument
@@ -1286,7 +1298,6 @@ uptodown.com###content_lower_ad
 bustybloom.com###maincol > #nat_top
 bustybloom.com##.post-table > .partner.post.candy 
 ||bustybloom.com/images/bustybloom.com/istripper/
-||media.complex.com/common/cmnUNT.js$domain=knowyourmeme.com
 musescore.com##.js-page header[class] > div > section[class^="_"]
 javhub.net###ui-block > div.form-group + div.container + div[class]
 urlgalleries.net###ifrm
@@ -3002,6 +3013,7 @@ allcelebs.club##a[href^="http://www.searchcelebrityhd.com/"]
 ettv.to##.vp_ab
 ettv.to##.imdb > div[class^="download_liinks"]
 looper.com##.recommended-heading
+||xxxdessert.com/tube/player/html.php?aid=pause_html&video_id=*&*referer=
 ||imgmercy.com/folo.js
 ||phillip-mellody.me/team.js
 ||phillip-mellody.me/img/download-now.gif
@@ -6780,7 +6792,6 @@ slipstick.com##.sidebar section[id^="custom_html-"] a > img:not([alt*="donation"
 ||lshunter.net/ls/player.php?id=
 ||assia.tv/css/jquerymin16.js
 ||0eb.net/js/script-*.js
-mntvlive.com##.bannerfloat
 lshunter.net,lshunter-iframe.com##a[href^="/redirect_bet.php"]
 lshunter.net,lshunter-iframe.com##a[href^="http://refparer.xyz/L?tag="][href*="&ad="][rel="nofollow"]
 lshunter.net##[id^="player_event"]
@@ -8703,7 +8714,7 @@ lingolia.com##.adv-header
 poe.trade###contentstart > .large-12 > #topone
 poe.trade##.search-results-block > .centered
 zoomtv.me##[style="position:absolute;width:300px;height:250px;right:0;left:250px;top:50px;z-index:999999;background-color:#FFF;display:block;"]
-fir3.net,todaynewspk.win,dz4link.com,vinaurl.in,megaurl.xyz,megalink.pro,newsbaxs.com,megaurl.in,aii.sh,ckk.ai,vipleague.me##a[href][target="_blank"] > img
+streamsport.pro,fir3.net,todaynewspk.win,dz4link.com,vinaurl.in,megaurl.xyz,megalink.pro,newsbaxs.com,megaurl.in,aii.sh,ckk.ai,vipleague.me##a[href][target="_blank"] > img
 grunge.com##.google-ad-placeholder
 narcity.com##.awrapper
 androidcentral.com###mbn_common_footer
@@ -8976,7 +8987,6 @@ hentaidude.com,vevosex.com###videoOverAd
 ||widget.crowdynews.com^$domain=forums.hardwarezone.com.sg
 ||jetload.tv/js/news-cr.js
 veecast.net###table1
-sportstvstream.me##.bannerfloat
 vipleague.ws##.embed-responsive > iframe#player + div
 vipleague.ws##a[href^="http://www.downloadplayer.info"]
 mockupworld.co##.ABD_display_wrapper
@@ -9588,7 +9598,7 @@ paycalculator.com.au##.banner72890
 avast.com##.banner__inner
 fshare.vn##.banner_left
 fshare.vn##.banner_right
-funhdtv.com,liveonlinetv247.info,sportp2p.in##.bannerfloat
+streamsport.pro,mntvlive.com,sportstvstream.me,funhdtv.com,liveonlinetv247.info,sportp2p.in##.bannerfloat
 appvn.com##.bannergroup
 pornburst.xxx,worldofmods.com,vibexxx.com,wantedbabes.com,wonderopolis.org,thehackernews.com,amaturetube.net,xxxadultphoto.com,teenfuckhd.com,hdxxx.me,mumbrella.com.au##.banners
 vikiporn.com##.banners-area
