@@ -265,7 +265,7 @@ macwelt.de,pcwelt.de#%#AG_setConstant('firebase.messaging', 'noopFunc');
 ||cdn.subscribers.com^$third-party
 !
 ||ria.ru/js/firebase/firebase-messaging.js
-||gstatic.com/firebasejs/*/firebase.js$domain=novayagazeta.ru|comments.ua|kinosimka.net|ilan365.net
+||gstatic.com/firebasejs/*/firebase.js$domain=novayagazeta.ru|comments.ua|kinosimka.net|ilan365.net|cnbcindonesia.com
 ||gstatic.com/firebasejs/*/firebase-messaging.js$domain=ukranews.com|comments.ua|meduza.io|coub.com|porno90.me|cnnamador.com|giallozafferano.it|wcostream.com|fptplay.vn|jooble.org|mobile01.com|myinstants.com|pdalife.ru|rg.ru|m.iguides.ru|donanimhaber.com|profile.ru|womanhit.ru|news.noteru.com|narodna-pravda.ua|newstm.in|sabah.com.tr|dreamstime.com
 !
 onet.pl##.notificationPrompt
@@ -559,6 +559,8 @@ aol.com#$#.banner-active { margin-top: 0 !important; }
 !
 ! Fixing the issues
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/63782
+@@||js.pusher.com/*/pusher.min.js$domain=tastebuds.fm
 ! https://github.com/AdguardTeam/AdguardFilters/issues/63800
 @@||js.pusher.com/*/pusher.min.js$domain=bringatrailer.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/63418

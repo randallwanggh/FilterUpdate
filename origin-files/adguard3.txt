@@ -63,8 +63,10 @@ theguardian.com#$#div[id^="sp_message_container_"] { display: none!important; }
 techadvisor.co.uk,forum.notebookreview.com,computerworld.com,skysports.com#$#div[id^="sp_message_"] { display:none!important; }
 techadvisor.co.uk,forum.notebookreview.com,computerworld.com,skysports.com#$#div[class^="sp_veil"] { display:none!important; }
 techadvisor.co.uk,forum.notebookreview.com,computerworld.com,skysports.com#$#body { overflow:visible!important; }
-volkskrant.nl,trouw.nl,parool.nl,theguardian.com,techadvisor.co.uk,forum.notebookreview.com,computerworld.com,skysports.com#$#html.sp-message-open { overflow:visible!important; position:static!important; }
+demorgen.be,volkskrant.nl,trouw.nl,parool.nl,theguardian.com,techadvisor.co.uk,forum.notebookreview.com,computerworld.com,skysports.com#$#html.sp-message-open { overflow:visible!important; position:static!important; }
 !
+0rechner.de#$##cookieconsentmodal { display: none !important; }
+blog.psyalter.ru##.thb-cookie-bar
 gamestar.de#$#.modal-open { overflow: visible !important; }
 gamestar.de#$##cmp-modal { display: none !important; }
 gamestar.de#$#.modal-backdrop { display:none !important; }
@@ -1628,7 +1630,7 @@ partitionwizard.com,minitool.com##.bottom-cookie-wrap
 likeni.ru##.bottom-popup
 android-hilfe.de##.bottomFixer .DismissParent
 calkalasutasayrani.com##.bs-example-modal-lg
-wpgurme.com,cgtips.org,nereye.com.tr,coursedrive.org,economiasc.com,windows101tricks.com,software-on.com,adslayuda.com,enterinit.com,howtofixwindows.com,konupara.com,prajwaldesai.com,hackintosh.computer,derstarih.com,letsgetapps.co,linehaber.com.tr,pcbilimi.com,zillowtech.com##.bs-wrap-gdpr-law
+ogrenio.com,wpgurme.com,cgtips.org,nereye.com.tr,coursedrive.org,economiasc.com,windows101tricks.com,software-on.com,adslayuda.com,enterinit.com,howtofixwindows.com,konupara.com,prajwaldesai.com,hackintosh.computer,derstarih.com,letsgetapps.co,linehaber.com.tr,pcbilimi.com,zillowtech.com##.bs-wrap-gdpr-law
 boerse-stuttgart.de##.bsg-cookie-layer
 logistics.dhl.ru,fitness24seven.com,logistics.dhl##.c-cookie-disclaimer
 237solution.net,bibleserver.com,history.vn.ua,iseyskyr.com##.cc-container
@@ -2060,7 +2062,7 @@ openspeedtest.com###cookieconsent
 unexplained-mysteries.com###cookieconsentbox
 frankenpost.de,np-coburg.de###cookiehinweis-wrapper
 microstore.hu###cookielawdiv
-radbag.de###cookienotification-block
+shop.sarar.com,radbag.de###cookienotification-block
 biedronka.pl###cookiepopupdiv
 finanztreff.de###cookiereminder
 lamarinaresort.com###cookies-advice
@@ -4278,10 +4280,11 @@ bmwfaq.org#?#.Notices[-ext-has='a[href="//www.bmwfaq.org/help/cookies"]']
 !
 ! JS rules
 !
+roompot.nl#%#//scriptlet('set-cookie', 'roompot_visited', 'true')
 cmp-cdn.golem.de#%#AG_onLoad(function(){if(window.location.href.includes("consentUUID")){var g=new MutationObserver(function(){var b=document.querySelector('button[aria-label="Zustimmen"]');b&&b.click();});g.observe(document,{childList:!0,subtree:!0});setTimeout(function(){g.disconnect()},1E4)}});
 yourstory.com#%#document.cookie = "alreadyVisited=true; path=/;";
 jobs.ch#%#document.cookie = "cookie_disclaimer_dismissed=true; path=/;";
-cdn.privacy-mgmt.com#%#AG_onLoad(function(){var c=/^https?:\/\/(www\.)?(volkskrant\.nl|trouw\.nl|parool\.nl)\//.test(document.referrer);if(window.self!==window.top&&c){var a=new MutationObserver(function(){var b=document.querySelector('button.message-button[title="Ja, prima"]');b&&(a.disconnect(),b.click())});a.observe(document,{childList:!0,subtree:!0});setTimeout(function(){a.disconnect()},1E4)}});
+cdn.privacy-mgmt.com#%#AG_onLoad(function(){var e=/^https?:\/\/(www\.)?(volkskrant\.nl|trouw\.nl|parool\.nl|demorgen\.be)\//.test(document.referrer);if(window.self!==window.top&&e){var b=new MutationObserver(function(){var c=document.querySelector('button.message-button[title="Ja, prima"]'),d=document.querySelector('button.message-button[title="Akkoord"]'),a;c?a=c:d&&(a=d);a&&(b.disconnect(),a.click())});b.observe(document,{childList:!0,subtree:!0});setTimeout(function(){b.disconnect()},1E4)}});
 independent.co.uk#%#AG_onLoad(function() { setTimeout(function() { var el = document.querySelector('button[mode="primary"]'); el&&el.click(); }, 2500); });
 pixivision.net#%#document.cookie = "privacy_policy_agreement=2; path=/";
 cdn.privacy-mgmt.com#%#AG_onLoad(function(){if(window.self!==window.top&&document.referrer.startsWith("https://ekstrabladet.dk/")){var a=new MutationObserver(function(){var b=document.querySelector('button.message-button[path="[0,3,3]"]');b&&(a.disconnect(),b.click())});a.observe(document,{childList:!0,subtree:!0});setTimeout(function(){a.disconnect()},1E4)}});
@@ -4451,12 +4454,11 @@ tumblr.com#%#AG_onLoad(function() { setTimeout(function() {if(window.location.hr
 new.de#%#document.cookie = "cookie-info-hidden=true; path=/";
 moniteurautomobile.be#%#AG_onLoad(function() { if (document.cookie.indexOf('gdpr-compliance-content') == -1) { document.cookie = "gdpr-compliance-content=1"; location.reload(); } });
 linkedin.com#%#if (typeof localStorage != 'undefined' && localStorage.setItem) { localStorage.setItem('visited', 'true'); }
-music.yandex.kz#%#if (typeof localStorage != 'undefined' && localStorage.setItem) { localStorage.setItem('gdpr-welcome', '{"0":0}'); }
 chordify.net#%#document.cookie = 'CONSENT={"essential":true,"youtube":true,"ads_personalized":false,"share":false,"emails_personalized":false,"facebook":null}; path=/;';
 tmgonlinemedia.nl#%#AG_onLoad(function() { setTimeout(function() { var CCcheck = document.getElementsByClassName('CookiesOK')[0]; if (CCcheck){CCcheck.click(); }; }, 300); });
 ndcmediagroep.nl#%#AG_onLoad(function() { setTimeout(function() { var el = document.querySelector('input[type="submit"][value="Ja, ik ga akkoord"]'); if(el) el.click(); }, 300); });
 decathlon.hu#%#document.cookie="COOKIE_BANNER=Y; path=/;";
-music.yandex.ua#%#if (typeof localStorage != 'undefined' && localStorage.setItem) { localStorage.setItem('gdpr-welcome', '{"0":0}'); } 
+music.yandex.com,music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua#%#if (typeof localStorage != 'undefined' && localStorage.setItem) { localStorage.setItem('gdpr-welcome', '{"0":0}'); }
 dokterdokter.nl#%#AG_onLoad(function() { var el=document.querySelector('a.button[href*="acceptCookies=true"]'); if(el) el.click(); });
 ebonus.gg#%#document.cookie = "gdpr=consented; path=/;";
 peugeot-motocycles.com#%#document.cookie = "seenCookieBanner=true";
