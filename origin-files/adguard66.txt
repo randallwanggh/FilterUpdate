@@ -1512,7 +1512,7 @@ t66y.com##.sptable_do_not_remove
 !+ PLATFORM(windows, mac, android)
 t66y.com#%#AG_onLoad(function(){var a=document.querySelector(".tpc_content img");if(a){a=a.attributes;for(var c=0;c<a.length;c++)if(a[c].name.match("ess-data")){var b=a[c].name;break}}$("img["+b+"]").each(function(){0<$(this).attr(b).indexOf("sinaimg")&&$(this).attr(b,$(this).attr(b).replace(/https:/,"http:"));$(this).attr("src",$(this).attr(b));$(this).css("cursor","pointer");$(this).click(function(){window.open($(this).attr("src"));return!1})})});
 !+ NOT_PLATFORM(windows, mac, android)
-t66y.com#%#AG_onLoad(function(){var a=document.querySelector(".tpc_content img");if(a){a=a.attributes;for(var b=0;b<a.length;b++)if(!a[b].name.startsWith("data-link")&&!a[b].name.match(/data-.?(h|i|s)|(a|o|f|b|c|d|\d)s\d?-data/)&&!a[b].value.match(/:\/\/[\s\S]*?a\.?d?\/.?.?bl0ck.jpg/i)){var c=a[b].name;break}}$("img["+c+"]").each(function(){0<$(this).attr(c).indexOf("sinaimg")&&$(this).attr(c,$(this).attr(c).replace(/https:/,"http:"));$(this).attr("src",$(this).attr(c));$(this).css("cursor","pointer");$(this).click(function(){window.open($(this).attr("src"));return!1})})});
+t66y.com#%#AG_onLoad(function(){var a=document.querySelector(".tpc_content img");if(a){a=a.attributes;for(var b=0;b<a.length;b++)if(!a[b].name.startsWith("data-link")&&!a[b].name.match(/data-.?(h|i|s)|(a|o|f|b|c|d|\d)s?\d?-data/)&&!a[b].value.match(/:\/\/[\s\S]*?a\.?d?\/.?.?bl(0|o)ck\.jpg/i)){var c=a[b].name;break}}$("img["+c+"]").each(function(){0<$(this).attr(c).indexOf("sinaimg")&&$(this).attr(c,$(this).attr(c).replace(/https:/,"http:"));$(this).attr("src",$(this).attr(c));$(this).css("cursor","pointer");$(this).click(function(){window.open($(this).attr("src"));return!1})})});
 !+ NOT_PLATFORM(windows, mac, android, ext_chromium, ext_edge)
 t66y.com#$?#.sptable_do_not_remove { visibility: hidden !important; }
 ||alicdn.com^$domain=t66y.com
@@ -2417,6 +2417,8 @@ mob.hr##.side_banner
 !------------------------------ Czech and Slovakian ------------------
 !---------------------------------------------------------------------
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/63885
+||photos.iboys.com/live/ads/
 ! https://github.com/AdguardTeam/AdguardFilters/issues/63502
 ||televizeseznam.cz/*&source=*&videoFormats=*&zoneId$replace=/(<VAST[\s\S]*?>)[\s\S]*<\/VAST>/\$1<\/VAST>/,xmlhttprequest
 ! https://github.com/AdguardTeam/AdguardFilters/issues/62926
@@ -5569,8 +5571,8 @@ avsee07.tv,avsee06.tv##img[align][height="100%"]
 thebell.co.kr##.bannerBox > div[class^="FLOAT_AD"]
 ! daumd02.net - ads
 ||daumd02.net/_img/ad/
-! toonsarang.fyi - ads
-||iu.toonsarang.fyi/*.gif
+! toonsarang.* - ads
+||iu.toonsarang.*/*.gif
 ! copytoon57.com - ads
 ||iu.copytoon57.com/*.gif
 ! https://github.com/AdguardTeam/AdguardFilters/issues/45619
@@ -5609,6 +5611,7 @@ postpop.tistory.com#$##adblocktestdiv { height: 1px!important; }
 ! https://github.com/AdguardTeam/AdguardFilters/issues/43222
 ||adserver.rockwell.kakao.com/adserver/api/v*/vast?data=*&format=json$replace=/(\{"ad":\[\{)[\s\S]*(\}\])/\$1\$2/,domain=kakaotv.daum.net|play-tv.kakao.com|tv.kakao.com|media.daum.net|v.daum.net|entertain.daum.net|gallery.v.daum.net|namu.wiki
 ||adserver.rockwell.kakao.com/adserver/api/v*/vast?data=*&format=xml$replace=/(<VAST[\s\S]*?>)[\s\S]*<\/VAST>/\$1<\/VAST>/,domain=kakaotv.daum.net|play-tv.kakao.com|tv.kakao.com|media.daum.net|v.daum.net|entertain.daum.net|gallery.v.daum.net|namu.wiki
+||daumcdn.net/*/creative/*.mp4.kakaoad.$media,domain=kakaotv.daum.net|play-tv.kakao.com|tv.kakao.com|media.daum.net|v.daum.net|entertain.daum.net|gallery.v.daum.net|namu.wiki
 ||spotv.dl.cdn.cloudn.co.kr/*.mp4$redirect=noopmp4-1s,domain=kakaotv.daum.net|play-tv.kakao.com|tv.kakao.com|media.daum.net|v.daum.net|entertain.daum.net|gallery.v.daum.net|namu.wiki
 @@||adserver.rockwell.kakao.com/crossdomain.xml
 @@||adserver.rockwell.kakao.com/adserver/api/v*/vmap$domain=daumcdn.net|kakaotv.daum.net|play-tv.kakao.com|tv.kakao.com|media.daum.net|v.daum.net|entertain.daum.net|gallery.v.daum.net|namu.wiki

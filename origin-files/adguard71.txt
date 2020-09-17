@@ -215,6 +215,10 @@ superfastvideos.xyz,supervideogameshd.com,cricfree.live,cricfree.stream,livestre
 cast4u.tv,euro16.live,footdirect24.com,freesoccer.in,hdcast.info,hdmyt.info,hentai-id.tv,lshstreams.com###floatLayer2
 !
 !
+scotsman.com##.dmpu-item
+sbs.com.au##div[id^="adcta-"]
+||duplichecker.com/g32dj22^
+duplichecker.com##div[class^="axcd"].text-center
 shrinkme.in##.box-main > #countdown ~ h3
 shrinkme.in##.col-md-12 > #link-view ~ h3
 ||stream.directmoviedl.com/popembed.php
@@ -1106,7 +1110,7 @@ rozfly.com##.separator > a[href]
 fossbytes.com##a[href^="https://www.linkev.com/order?a_fid="][target="_blank"] > img
 tomsguide.com##.hawk-widget[data-model-name]
 shorthitz.com,dl.ocanoke.com,afly.us##.box-main > .blog-item
-soccerstreams.net,bagas31.info,bacakomik.co,mangasee123.com,watchmovies7.com.pk,anitube.biz,elsfile.org,m4ufree.yt,9movies.yt,ask4movie.co,watchsomuch.org,kisstvshow.to,downloadhub.fans,thewatchcartoononline.tv##iframe[data-glx][style*="z-index"]
+monoschinos.com,soccerstreams.net,bagas31.info,bacakomik.co,mangasee123.com,watchmovies7.com.pk,anitube.biz,elsfile.org,m4ufree.yt,9movies.yt,ask4movie.co,watchsomuch.org,kisstvshow.to,downloadhub.fans,thewatchcartoononline.tv##iframe[data-glx][style*="z-index"]
 bitconews.net###modalin
 bitconews.net###btn-cerrar
 bleepingcomputer.com##.cz-sponsorposts

@@ -6341,6 +6341,7 @@
 127.0.0.1 adcdn.33universal.com
 127.0.0.1 adcdn.goo.ne.jp
 127.0.0.1 adcdn.goo.ne.jp
+127.0.0.1 adcdn.tencentmusic.com
 127.0.0.1 adcel.vrvm.com
 127.0.0.1 adcell.de
 127.0.0.1 adcenter.mdf.se
@@ -6517,6 +6518,7 @@
 127.0.0.1 adexp.liftoff.io
 127.0.0.1 adexpansion.com
 127.0.0.1 adexpert.ad4989.co.kr
+127.0.0.1 adexpo.tencentmusic.com
 127.0.0.1 adexpose.com
 127.0.0.1 adexprt.com
 127.0.0.1 adexprt.me
@@ -11144,6 +11146,7 @@
 127.0.0.1 advertmarket.com
 127.0.0.1 advertmedia.de
 127.0.0.1 advertnative.com
+127.0.0.1 advertpay-vip-ssl.xunlei.com
 127.0.0.1 advertpro.investorvillage.com
 127.0.0.1 advertpro.sitepoint.com
 127.0.0.1 advertpro.ya.com
@@ -13150,6 +13153,7 @@
 127.0.0.1 anzugreifen8.live
 127.0.0.1 anzugreifen9.live
 127.0.0.1 aoc.teleaudio.pl
+127.0.0.1 aod-image.baidu.com
 127.0.0.1 aoe.aacdn.jp
 127.0.0.1 aoindustries.com.com
 127.0.0.1 aol-match.dotomi.com
@@ -13373,6 +13377,7 @@
 127.0.0.1 api-logsink-prod.zedge.io
 127.0.0.1 api-luckycoinsdk.doglobal.net
 127.0.0.1 api-master.netsparkmobile.com
+127.0.0.1 api-mcp.adsp.xunlei.com
 127.0.0.1 api-owr-bootstrap.metaps.net
 127.0.0.1 api-ping.intercom.io
 127.0.0.1 api-product.kameleoon.com
@@ -13603,6 +13608,7 @@
 127.0.0.1 api.destinationrewards.com
 127.0.0.1 api.device.xiaomi.net
 127.0.0.1 api.dewmobile.net
+127.0.0.1 api.df.mob.com
 127.0.0.1 api.dianru.com
 127.0.0.1 api.digicert.com
 127.0.0.1 api.domob.cn
@@ -15586,6 +15592,7 @@
 127.0.0.1 azz.badazz.org
 127.0.0.1 azzd.co.kr
 127.0.0.1 b-1st.com
+127.0.0.1 b-gi.getui.com
 127.0.0.1 b-trk10.com
 127.0.0.1 b.53yao.com
 127.0.0.1 b.6sc.co  #[WebBug]
@@ -15857,6 +15864,7 @@
 127.0.0.1 baidua1.cardbaobao.com
 127.0.0.1 baidua2.cardbaobao.com
 127.0.0.1 baiduccdn1.com
+127.0.0.1 baiducdncmn-gd.inter.iqiyi.com
 127.0.0.1 baiducdncmn.inter.iqiyi.com
 127.0.0.1 baiducom.bj.bcebos.com
 127.0.0.1 baidustatic.com
@@ -16682,6 +16690,7 @@
 127.0.0.1 bd4.chuiyue.com
 127.0.0.1 bdapi.ads.oppomobile.com
 127.0.0.1 bdb.oewabox.at
+127.0.0.1 bdcdncmn-gd.inter.71edge.com
 127.0.0.1 bdcode.2345.com
 127.0.0.1 bdcode.qinglm.com
 127.0.0.1 bdd.hainan.net
@@ -16720,6 +16729,7 @@
 127.0.0.1 bdplus.baidu.com
 127.0.0.1 bdplus.baidu.com
 127.0.0.1 bds.hainan.net
+127.0.0.1 bds.snssdk.com
 127.0.0.1 bds.soarfi.cn
 127.0.0.1 bdsearch.2345.com
 127.0.0.1 bdsmcompany.com
@@ -18713,6 +18723,7 @@
 127.0.0.1 c.kbf365.cn
 127.0.0.1 c.kl6636.net
 127.0.0.1 c.ktxtr.com
+127.0.0.1 c.kuaiduizuoye.com
 127.0.0.1 c.kuaituisss.com
 127.0.0.1 c.kuwo.cn
 127.0.0.1 c.l.qq.com
@@ -30509,6 +30520,7 @@
 127.0.0.1 fee-hydrocodone.bebto.com
 127.0.0.1 feebleshock.com
 127.0.0.1 feed-back.com.tr
+127.0.0.1 feed-image.baidu.com
 127.0.0.1 feed.4wnet.com
 127.0.0.1 feed.adnow.com
 127.0.0.1 feed.baidu.com
@@ -34254,6 +34266,7 @@
 127.0.0.1 hd-online.skyrock.com
 127.0.0.1 hd-static-2.youxuanmeijia.cn
 127.0.0.1 hd.admicro.vn
+127.0.0.1 hd.hupu.com
 127.0.0.1 hd.jiedaibao.com
 127.0.0.1 hd.lanhai365.net.cn
 127.0.0.1 hd.videos.co.pl
@@ -34515,6 +34528,7 @@
 127.0.0.1 highwinds.cdneval.adnxs.com
 127.0.0.1 higo.net
 127.0.0.1 hihumi.biz
+127.0.0.1 hijack.baidu.com
 127.0.0.1 hikesearch.net
 127.0.0.1 hilantius.info
 127.0.0.1 hilariouszinc.com
@@ -36088,6 +36102,7 @@
 127.0.0.1 il05pzhujicf.com
 127.0.0.1 ilb.pns.kt.com
 127.0.0.1 ilbanner.com
+127.0.0.1 ilce.alicdn.com
 127.0.0.1 ildexremusli.tk
 127.0.0.1 ilead.itrack.it
 127.0.0.1 ilearnex.pl
@@ -39502,6 +39517,7 @@
 127.0.0.1 kenareh-gostare-aras.ir
 127.0.0.1 kendinibil.blog
 127.0.0.1 kentsucks.youcanoptout.com
+127.0.0.1 kepler.jd.com
 127.0.0.1 kepzavar.info
 127.0.0.1 keqi7dh3df.com
 127.0.0.1 keqiang.pro
@@ -39523,6 +39539,7 @@
 127.0.0.1 key.personali.com
 127.0.0.1 keybank.112.2o7.net
 127.0.0.1 keybinary.com
+127.0.0.1 keybut.com
 127.0.0.1 keydot.net
 127.0.0.1 keykong.eu
 127.0.0.1 keymaker.go.sonobi.com
@@ -42240,6 +42257,7 @@
 127.0.0.1 m.czxjx.cn
 127.0.0.1 m.d1wn3.cn
 127.0.0.1 m.d6s2pn5t.cn
+127.0.0.1 m.da.mgtv.com
 127.0.0.1 m.dailiq.cn
 127.0.0.1 m.daishuxy.com
 127.0.0.1 m.dante2007.com
@@ -44093,6 +44111,7 @@
 127.0.0.1 mazowskagazeta.pl
 127.0.0.1 mazowszejednorozec.pl
 127.0.0.1 mazu.3g.qq.com
+127.0.0.1 mazu.m.qq.com
 127.0.0.1 mb-cdn.stocard.de
 127.0.0.1 mb-click.jp
 127.0.0.1 mb.5.p2l.info
@@ -44196,6 +44215,7 @@
 127.0.0.1 mcopolice.com
 127.0.0.1 mcore.vcgame.cn
 127.0.0.1 mcs.eyereturn.com
+127.0.0.1 mcs.snssdk.com
 127.0.0.1 mcsgroup.co
 127.0.0.1 mcsoft365.com
 127.0.0.1 mcsvc.dynatrace.com
@@ -45635,6 +45655,7 @@
 127.0.0.1 ministerio-publi.info
 127.0.0.1 minmin96.xyz
 127.0.0.1 minormeeting.com
+127.0.0.1 minorshort.weixin.qq.com
 127.0.0.1 minr.pw
 127.0.0.1 mintegral.com
 127.0.0.1 mintj.com
@@ -46817,6 +46838,7 @@
 127.0.0.1 mtrx.go.sonobi.com
 127.0.0.1 mtrx.go.sonobi.com
 127.0.0.1 mtsas.freehost.pl
+127.0.0.1 mtt.eve.mdt.qq.com
 127.0.0.1 mttag.com
 127.0.0.1 mttwtrack.com
 127.0.0.1 mtty-cdn.mtty.xin
@@ -50325,6 +50347,7 @@
 127.0.0.1 orango.redirectme.net
 127.0.0.1 oranla.info
 127.0.0.1 orbidder.otto.de
+127.0.0.1 orbit.jd.com
 127.0.0.1 orbiyz.com
 127.0.0.1 orbowlada.strefa.pl
 127.0.0.1 orca.qubitproducts.com
@@ -54293,6 +54316,7 @@
 127.0.0.1 push.mobilefonex.com
 127.0.0.1 push.music.baidu.com
 127.0.0.1 push.oncustomer.asia
+127.0.0.1 push.pgl.qq.com
 127.0.0.1 push.poptm.com
 127.0.0.1 push.poptm.com
 127.0.0.1 push.res.meizu.com
@@ -56061,6 +56085,7 @@
 127.0.0.1 rmgserving.com
 127.0.0.1 rmm1u.checkm8.com
 127.0.0.1 rmoeu.mercury.sogou.com
+127.0.0.1 rmpad.imtt.qq.com
 127.0.0.1 rmq.tokyofunkowildvaley.ru
 127.0.0.1 rms.admeta.com
 127.0.0.1 rmsi.nuggad.net
@@ -57082,6 +57107,7 @@
 127.0.0.1 s1.iigushi.com
 127.0.0.1 s1.inviziads.com
 127.0.0.1 s1.inviziads.com
+127.0.0.1 s1.irs03.com
 127.0.0.1 s1.kuaibaopay.com
 127.0.0.1 s1.kuaibaopay.com
 127.0.0.1 s1.kutongji.com
@@ -58250,6 +58276,7 @@
 127.0.0.1 sdf.jiupinshan.cn
 127.0.0.1 sdf.liaotian4.com
 127.0.0.1 sdfaswaed2.nokiadns.com
+127.0.0.1 sdfp.snssdk.com
 127.0.0.1 sdg.fwtrck.com
 127.0.0.1 sdk-03.iad.appboy.com
 127.0.0.1 sdk-ab-config.aiclk.com
@@ -59560,6 +59587,7 @@
 127.0.0.1 shell.xhhow4.com
 127.0.0.1 shellstore.info
 127.0.0.1 shembefoundation.com
+127.0.0.1 shence.hupu.com
 127.0.0.1 shenghuo.xiaomi.com
 127.0.0.1 sher.index.hu
 127.0.0.1 sherkatkonandeh.com
@@ -64684,6 +64712,7 @@
 127.0.0.1 test-wiki.fyber.com
 127.0.0.1 test.ad.cmvideo.cn
 127.0.0.1 test.ad.xiaomi.com
+127.0.0.1 test.adsp.xunlei.com
 127.0.0.1 test.ark.letv.com
 127.0.0.1 test.com
 127.0.0.1 test.coremetrics.com
@@ -69807,6 +69836,7 @@
 127.0.0.1 vs-api.voodoo-tech.io
 127.0.0.1 vs.asianave.com
 127.0.0.1 vs.asianave.com
+127.0.0.1 vs.biz.weibo.com
 127.0.0.1 vs.blackplanet.com
 127.0.0.1 vs.blackplanet.com
 127.0.0.1 vs.dmtracker.com
@@ -70393,6 +70423,7 @@
 127.0.0.1 wass.ihsmarkit.com
 127.0.0.1 wastn.cn
 127.0.0.1 watch-this.live
+127.0.0.1 watch.advertising.speed.cdn.vip.xunlei.com
 127.0.0.1 watch.eidison.net
 127.0.0.1 watch24.com
 127.0.0.1 watch9.com
@@ -85455,6 +85486,7 @@
 127.0.0.1 xkygmtrrjalx.com
 127.0.0.1 xl-trk.com
 127.0.0.1 xl-trk.com
+127.0.0.1 xladapi.izuiyou.com
 127.0.0.1 xld.caicool.co
 127.0.0.1 xlisting.jp
 127.0.0.1 xlivedoor.com

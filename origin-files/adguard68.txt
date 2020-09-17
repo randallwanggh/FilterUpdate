@@ -124,7 +124,7 @@ fitgirlrepacks.co,skymovieshd.one,series24hr.com,albvid.com,b4ucast.me,playerhos
 streamhoe.online#%#!function(a,b){function c(i,j){return"function"!=typeof i||-1===i.toString().indexOf(j)}a=document.addEventListener,document.addEventListener=function(){c(arguments[1],"['inXP']")&&a.apply(document,arguments)},b=window.setInterval,window.setInterval=function(){return c(arguments[0],"popunder")?b.apply(window,arguments):void 0},AG_defineProperty("onbeforeunload",{beforeSet:function(j){return c(j,"location.href=options.url")?j:null}})}();
 europixhd.pro,9xmovies.baby,vidhd.net,shahid4u.net,linksupto.me,put-locker.com,javhub.pro,ssrmovies.win,gdriveplayer.*,vidsrc.me,getpronews.com,mkvhub.net,a2zapk.com,vidload.net,cima4u.tv,gomoviesfree.page,gomo.to,kissmanga.com#%#//scriptlet("abort-on-property-write", "glxopen")
 javdoe.tv,budcenter.site,movies07.co,playtube.ws,genpas.icu,upstream.to,tii.ai,iir.ai,hhkungfu.tv,playhydrax.com,hydrax.net,indiaboat.art,get-to.link,ouo.press,ouo.io,xstreamcdn.com,fbbcdn.xyz#%#//scriptlet("abort-on-property-read", "AaDetector")
-animeshd.online,streamsport.pro,soccerstreams.net,123mkv.*,bagas31.info,akwam.net,vidstream.*,file-upload.com,bacakomik.co,mangasee123.com,watchmovies7.com.pk,moviesjoy.net,anitube.biz,japscan.co,dramacool9.co,downloadhub.*,videomega.co,gdriveplayer.me,vidsrc.me,palsweet.live,pluslive.live,skymovieshd.*,europixhd.io#%#//scriptlet("abort-on-property-write", "GLX_GLOBAL_UUID_RESULT")
+monoschinos.com,animeshd.online,streamsport.pro,soccerstreams.net,123mkv.*,bagas31.info,akwam.net,vidstream.*,file-upload.com,bacakomik.co,mangasee123.com,watchmovies7.com.pk,moviesjoy.net,anitube.biz,japscan.co,dramacool9.co,downloadhub.*,videomega.co,gdriveplayer.me,vidsrc.me,palsweet.live,pluslive.live,skymovieshd.*,europixhd.io#%#//scriptlet("abort-on-property-write", "GLX_GLOBAL_UUID_RESULT")
 !
 ! A popunder script that generates cookies with name 'glx_pp'
 !+ NOT_PLATFORM(windows, mac, android)
@@ -204,7 +204,7 @@ javmvp.com,31vakti-cdn.*,zidiplay.com,vfilmesonline.net,fcdn.stream,playvideo.be
 ! '#%#//scriptlet("abort-current-inline-script", "decodeURI", "4zz.")'
 clik.pw,tokyomotion.net,abcvideo.cc,sxyprn.com,birdurls.com,oload.party#%#//scriptlet("abort-current-inline-script", "decodeURI", "4zz.")
 ! '#%#//scriptlet("abort-on-property-read", "runAdblock")'
-picbaron.com,imgbaron.com,onlystream.tv,yst.am,ouo.press,newepisodes.co,limetorrents.info,mp4upload.com,beinmatch.tv,openloadmovies.ws,yts.mx,yts.lt#%#//scriptlet("abort-on-property-read", "runAdblock")
+c-ut.com,picbaron.com,imgbaron.com,onlystream.tv,yst.am,ouo.press,newepisodes.co,limetorrents.info,mp4upload.com,beinmatch.tv,openloadmovies.ws,yts.mx,yts.lt#%#//scriptlet("abort-on-property-read", "runAdblock")
 ! END: Popular clickunders
 !
 ! Ads by Galaksion
@@ -214,6 +214,11 @@ kissmanga.com,getpronews.com,akltu.com,shorten.sh,9xmovies.app,toonily.com,kimin
 !
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/64069
+dr-farfar.net#%#//scriptlet("prevent-window-open", "1", "dr-farfar.com/ads")
+c-ut.com#%#//scriptlet("prevent-window-open")
+! https://github.com/AdguardTeam/AdguardFilters/issues/64050
+toroox.com#%#//scriptlet("prevent-window-open")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/63747
 rubtech.xyz#%#//scriptlet("prevent-window-open")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/63808
@@ -837,12 +842,14 @@ pervclips.com#%#//scriptlet("abort-on-property-read", "customScript")
 ! newstakindia.in - popups
 newstakindia.in$$meta[http-equiv="refresh"]
 newstakindia.in#%#//scriptlet("prevent-window-open")
+! https://github.com/AdguardTeam/AdguardFilters/issues/64004
 ! https://github.com/AdguardTeam/AdguardFilters/issues/51036
 ! https://github.com/AdguardTeam/AdguardFilters/issues/49480
 ! https://github.com/AdguardTeam/AdguardFilters/issues/48843
 22pixx.xyz#%#//scriptlet("abort-on-property-read", "loadm")
 22pixx.xyz#%#//scriptlet("remove-attr", "target", "#continuetoimage > a[href][target='_blank'][onclick*='loadimg']")
-22pixx.xyz#%#//scriptlet("remove-attr", "target|onclick", "#continuetoimage > a[href][target='_blank']:not([onclick*='loadimg'])")
+22pixx.xyz#%#//scriptlet("remove-attr", "target|onclick", "#continuetoimage > a[href][target='_blank']:not([onclick*='loadimg']):not([onclick*='show'])")
+22pixx.xyz#%#//scriptlet("remove-attr", "target|href", "#continuetoimage > a[href][target='_blank'][onclick*='lshow()']")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/48573#issuecomment-579085015
 cam4.com#%#//scriptlet("set-constant", "window.open", "noopFunc")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/48839
