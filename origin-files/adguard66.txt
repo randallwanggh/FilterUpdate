@@ -30,6 +30,12 @@ video.gjirafa.com#%#AG_defineProperty('originVideo.requestA.Id', { value: "0" })
 !------------------------------ Arabian ------------------------------
 !---------------------------------------------------------------------
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/64113
+allkaicerteam.com###sidebar3 > #HTML19
+allkaicerteam.com#%#//scriptlet("abort-current-inline-script", "document.createElement", "adblock")
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,xmlhttprequest,redirect=nooptext,domain=allkaicerteam.com
+!+ PLATFORM(ios, ext_android_cb, ext_safari)
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=allkaicerteam.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/61808
 akwam.net##.ads
 ! https://github.com/AdguardTeam/AdguardFilters/issues/61456
@@ -2417,6 +2423,9 @@ mob.hr##.side_banner
 !------------------------------ Czech and Slovakian ------------------
 !---------------------------------------------------------------------
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/63995
+techfocus.cz###leader_place
+techfocus.cz##.text > div[style="width:520px; margin-left:-30px; margin-bottom:20px;"]
 ! https://github.com/AdguardTeam/AdguardFilters/issues/63885
 ||photos.iboys.com/live/ads/
 ! https://github.com/AdguardTeam/AdguardFilters/issues/63502
@@ -5327,6 +5336,21 @@ dap-news.com##.ads
 !------------------------------ Korean -------------------------------
 !---------------------------------------------------------------------
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/64042
+! wtwt34.com - domains are switched regularly
+||imgcloud3.net/16000/jelly.gif
+||imgcloud3.net/16000/netmable4.gif
+||imgcloud3.net/16000/nocaw5.gif
+||imgcloud3.net/16000/major.gif
+||imgcloud3.net/16000/bell.gif
+||imgcloud3.net/16000/meal.gif
+||imgcloud3.net/16000/spinwt.gif
+||imgcloud3.net/16000/tenw.gif
+||imgcloud3.net/16000/winwt1.gif
+||imgcloud3.net/16000/meal908.gif
+! https://github.com/AdguardTeam/AdguardFilters/issues/64052
+||etoland.co.kr/data/file0207/etomall/3531478097_amELib5r_KakaoTalk_20200903_143519184_02.jpg
+etoland.co.kr##body > aside[class^="back_aside"]
 ! https://github.com/AdguardTeam/AdguardFilters/issues/62883
 ||manatoki*.*/data/banner/
 ! https://github.com/AdguardTeam/AdguardFilters/issues/62734

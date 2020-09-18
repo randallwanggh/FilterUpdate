@@ -214,6 +214,8 @@ kissmanga.com,getpronews.com,akltu.com,shorten.sh,9xmovies.app,toonily.com,kimin
 !
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/64099
+url.namaidani.com#%#//scriptlet("prevent-window-open")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/64069
 dr-farfar.net#%#//scriptlet("prevent-window-open", "1", "dr-farfar.com/ads")
 c-ut.com#%#//scriptlet("prevent-window-open")
@@ -2748,6 +2750,8 @@ mobilapk.com#%#AG_onLoad(function() { setTimeout(function() {document.getElement
 !-------CSS---------
 !-------------------
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/64090
+mokkaofficial.com#$#.adsbygoogle { position: absolute!important; left: -3000px!important; }
 ! https://github.com/AdguardTeam/AdguardFilters/issues/63804
 notube.net#$##download2-add { display: none !important; }
 notube.net#$#download2 { display: inline-block !important; }
