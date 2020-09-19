@@ -10568,6 +10568,7 @@
 127.0.0.1 adsmart.yicha.cn
 127.0.0.1 adsmetadata.startappservice.com
 127.0.0.1 adsmind.apdcdn.tc.qq.com
+127.0.0.1 adsmind.gdtimg.com
 127.0.0.1 adsmis.duxiaoman.com
 127.0.0.1 adsmo.ru
 127.0.0.1 adsmobi.com
@@ -18630,6 +18631,7 @@
 127.0.0.1 c.chango.com
 127.0.0.1 c.channeltraffic.net
 127.0.0.1 c.channeltraffic.net
+127.0.0.1 c.chaochao132.xyz
 127.0.0.1 c.cintnetworks.com
 127.0.0.1 c.cl.msn.com
 127.0.0.1 c.cliop.com
@@ -24698,6 +24700,7 @@
 127.0.0.1 d.g.mi.com
 127.0.0.1 d.gdt.qq.com
 127.0.0.1 d.getaccss.com
+127.0.0.1 d.haiyong33.cn
 127.0.0.1 d.hgame.com
 127.0.0.1 d.href.asia
 127.0.0.1 d.hzblic.com
@@ -29114,10 +29117,12 @@
 127.0.0.1 eo.euwyc.xyz
 127.0.0.1 eo.hdschw.cn
 127.0.0.1 eo.llqd5.cn
+127.0.0.1 eo.lulunote.cn
 127.0.0.1 eo.lxujghc.cn
 127.0.0.1 eo.nftqkq.cn
 127.0.0.1 eo.nu2rx.xyz
 127.0.0.1 eo.nunxi.xyz
+127.0.0.1 eo.ohthub.com.cn
 127.0.0.1 eo.ou6d.cn
 127.0.0.1 eo.sdagxz.xyz
 127.0.0.1 eo.ssdoi.com
@@ -31803,6 +31808,7 @@
 127.0.0.1 g-wizzads.net
 127.0.0.1 g.163.com
 127.0.0.1 g.163.com
+127.0.0.1 g.315jg.net
 127.0.0.1 g.3gl.net
 127.0.0.1 g.3gl.net
 127.0.0.1 g.51network.com
@@ -34490,6 +34496,7 @@
 127.0.0.1 hganny.com
 127.0.0.1 hgc-cf-cache-1.svonm.com
 127.0.0.1 hghit.com
+127.0.0.1 hgra.ukmaaub.cn
 127.0.0.1 hgtzz.com
 127.0.0.1 hgw6700.com
 127.0.0.1 hh-btr.com
@@ -36548,6 +36555,7 @@
 127.0.0.1 img.mobon.net
 127.0.0.1 img.mobusi.com
 127.0.0.1 img.momode.net
+127.0.0.1 img.mosflower.cn
 127.0.0.1 img.mrep.kr
 127.0.0.1 img.msgtag.com
 127.0.0.1 img.msgtag.com
@@ -45926,10 +45934,12 @@
 127.0.0.1 mo.l29qi.xyz
 127.0.0.1 mo.lbmx.com.cn
 127.0.0.1 mo.llqd5.cn
+127.0.0.1 mo.lulunote.cn
 127.0.0.1 mo.mktrkn.cn
 127.0.0.1 mo.mptckm.cn
 127.0.0.1 mo.mu5b.cn
 127.0.0.1 mo.nunxi.xyz
+127.0.0.1 mo.ohthub.com.cn
 127.0.0.1 mo.oneshouyou.cn
 127.0.0.1 mo.osvp2.cn
 127.0.0.1 mo.ot1n.cn

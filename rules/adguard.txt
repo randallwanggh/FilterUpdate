@@ -446,6 +446,7 @@ $websocket,domain=300mbfilms.io|lib.rus.ec
 /cipr-cookie-opt-out/*
 /clarity-*.js
 /click_metrics-jquery.js
+/cloud_theme/build/js/script.min.php$domain=clik.pw|shurt.pw
 /cls_report?
 /cmp/cmp.*.js
 /cmp/cmp.js
@@ -4525,6 +4526,7 @@ baidu.com###main > div[lgoinprompt="prompt"]
 baidu.com###search-appPromote
 baidu.com##.bds-list-ads
 baidu.com##.ec_wise_ad
+baidu.com##.navs-bottom-bar[style="margin-top: 10px; height: 0px;"]
 baidu.com#$##content_left > div[style*="display:block !important;"]:not(.result) { position: absolute!important; left: -4000px!important; }
 baidu.com#@##results > div[class]:not(.result):not(.result-op):not(.sp-rslt-bar)
 baikal-daily.ru#$##bdModal { display: none!important; }
@@ -5676,6 +5678,11 @@ bongda365.tv##div[class^="ballon-"]
 bongdaplus.vn###ad-in-page
 bongdaplus.vn##iframe[src^="http://demo.klick.vn:"]
 bongino.com##div[style^="margin:"] > .ai-attributes
+bonobono.com,curbsideclassic.com,wpgutenberg.top,3dmodelshare.org,turkishfoodchef.com,itechua.com,blowxtube.com,orhanbhr.com,testosterontr.com,criptomonedaseico.com,appsfullversion.com,downloadsachmienphi.com,fimico.de,manhuaplus.com,canyoublockit.com,48idol.tv,freeallcourse.com,congressoemfoco.uol.com.br,dogalvadi.com,kompukter.ru,paragezegeni.com,gatevidyalay.com,corgit.xyz,freefincal.com,dsogaming.com,bordoklavyeli.net,newonce.net,gpcoder.com,androidexplained.com,borodavsem.ru,czechavfree.com,karaokes.com.ar,kulturalnemedia.pl,magazeta.com,mur.tv,o365info.com,proswift.ru,sovetolog.com,tehnobzor.ru,thelongdark.ru,thewindowsclub.thewindowsclubco.netdna-cdn.com,windowstechblog.nl,xiaomitech.net#%#//scriptlet("abort-on-property-read", "anOptions")
+bonobono.com,curbsideclassic.com,wpgutenberg.top,3dmodelshare.org,turkishfoodchef.com,itechua.com,blowxtube.com,orhanbhr.com,testosterontr.com,criptomonedaseico.com,appsfullversion.com,downloadsachmienphi.com,fimico.de,manhuaplus.com,canyoublockit.com,48idol.tv,freeallcourse.com,congressoemfoco.uol.com.br,dogalvadi.com,kompukter.ru,paragezegeni.com,gatevidyalay.com,corgit.xyz,freefincal.com,dsogaming.com,bordoklavyeli.net,newonce.net,gpcoder.com,androidexplained.com,borodavsem.ru,czechavfree.com,karaokes.com.ar,kulturalnemedia.pl,magazeta.com,mur.tv,o365info.com,proswift.ru,sovetolog.com,tehnobzor.ru,thelongdark.ru,thewindowsclub.thewindowsclubco.netdna-cdn.com,windowstechblog.nl,xiaomitech.net#@##adsense
+bonobono.com,curbsideclassic.com,wpgutenberg.top,3dmodelshare.org,turkishfoodchef.com,itechua.com,blowxtube.com,orhanbhr.com,testosterontr.com,criptomonedaseico.com,appsfullversion.com,downloadsachmienphi.com,fimico.de,manhuaplus.com,canyoublockit.com,48idol.tv,freeallcourse.com,congressoemfoco.uol.com.br,dogalvadi.com,kompukter.ru,paragezegeni.com,gatevidyalay.com,corgit.xyz,freefincal.com,dsogaming.com,bordoklavyeli.net,newonce.net,gpcoder.com,androidexplained.com,borodavsem.ru,czechavfree.com,karaokes.com.ar,kulturalnemedia.pl,magazeta.com,mur.tv,o365info.com,proswift.ru,sovetolog.com,tehnobzor.ru,thelongdark.ru,thewindowsclub.thewindowsclubco.netdna-cdn.com,windowstechblog.nl,xiaomitech.net#@#.an-advert-banner
+bonobono.com,curbsideclassic.com,wpgutenberg.top,3dmodelshare.org,turkishfoodchef.com,itechua.com,blowxtube.com,orhanbhr.com,testosterontr.com,criptomonedaseico.com,appsfullversion.com,downloadsachmienphi.com,fimico.de,manhuaplus.com,canyoublockit.com,48idol.tv,freeallcourse.com,congressoemfoco.uol.com.br,dogalvadi.com,kompukter.ru,paragezegeni.com,gatevidyalay.com,corgit.xyz,freefincal.com,dsogaming.com,bordoklavyeli.net,newonce.net,gpcoder.com,androidexplained.com,borodavsem.ru,czechavfree.com,karaokes.com.ar,kulturalnemedia.pl,magazeta.com,mur.tv,o365info.com,proswift.ru,sovetolog.com,tehnobzor.ru,thelongdark.ru,thewindowsclub.thewindowsclubco.netdna-cdn.com,windowstechblog.nl,xiaomitech.net#@#.an-sponsored
+bonobono.com,curbsideclassic.com,wpgutenberg.top,3dmodelshare.org,turkishfoodchef.com,itechua.com,blowxtube.com,orhanbhr.com,testosterontr.com,criptomonedaseico.com,appsfullversion.com,downloadsachmienphi.com,fimico.de,manhuaplus.com,canyoublockit.com,48idol.tv,freeallcourse.com,congressoemfoco.uol.com.br,dogalvadi.com,kompukter.ru,paragezegeni.com,gatevidyalay.com,corgit.xyz,freefincal.com,dsogaming.com,bordoklavyeli.net,newonce.net,gpcoder.com,androidexplained.com,borodavsem.ru,czechavfree.com,karaokes.com.ar,kulturalnemedia.pl,magazeta.com,mur.tv,o365info.com,proswift.ru,sovetolog.com,tehnobzor.ru,thelongdark.ru,thewindowsclub.thewindowsclubco.netdna-cdn.com,windowstechblog.nl,xiaomitech.net$$script[tag-content="anOptionAdsSelectors"][max-length="4000"]
 bonprix.de##div[id^="cookie-bar-"]
 bonprix.ua#$#body > div#newsletter-subscribe { display: none!important; }
 bonprix.ua#$#body > div.modal-backdrop { display: none!important; }
@@ -7862,11 +7869,6 @@ cumlouder.com##body > div.related-sites + div[class]
 cumple.xyz#%#//scriptlet("abort-on-property-read", "adblockmesaj")
 cuptv.com###ads_tag
 curbsideclassic.com#?#.sidebar > ul > li:has(> div.textwidget > p > a[href="https://www.curbsideclassic.com/email-subscription/"])
-curbsideclassic.com,wpgutenberg.top,3dmodelshare.org,turkishfoodchef.com,itechua.com,blowxtube.com,orhanbhr.com,testosterontr.com,criptomonedaseico.com,appsfullversion.com,downloadsachmienphi.com,fimico.de,manhuaplus.com,canyoublockit.com,48idol.tv,freeallcourse.com,congressoemfoco.uol.com.br,dogalvadi.com,kompukter.ru,paragezegeni.com,gatevidyalay.com,corgit.xyz,freefincal.com,dsogaming.com,bordoklavyeli.net,newonce.net,gpcoder.com,androidexplained.com,borodavsem.ru,czechavfree.com,karaokes.com.ar,kulturalnemedia.pl,magazeta.com,mur.tv,o365info.com,proswift.ru,sovetolog.com,tehnobzor.ru,thelongdark.ru,thewindowsclub.thewindowsclubco.netdna-cdn.com,windowstechblog.nl,xiaomitech.net#%#//scriptlet("abort-on-property-read", "anOptions")
-curbsideclassic.com,wpgutenberg.top,3dmodelshare.org,turkishfoodchef.com,itechua.com,blowxtube.com,orhanbhr.com,testosterontr.com,criptomonedaseico.com,appsfullversion.com,downloadsachmienphi.com,fimico.de,manhuaplus.com,canyoublockit.com,48idol.tv,freeallcourse.com,congressoemfoco.uol.com.br,dogalvadi.com,kompukter.ru,paragezegeni.com,gatevidyalay.com,corgit.xyz,freefincal.com,dsogaming.com,bordoklavyeli.net,newonce.net,gpcoder.com,androidexplained.com,borodavsem.ru,czechavfree.com,karaokes.com.ar,kulturalnemedia.pl,magazeta.com,mur.tv,o365info.com,proswift.ru,sovetolog.com,tehnobzor.ru,thelongdark.ru,thewindowsclub.thewindowsclubco.netdna-cdn.com,windowstechblog.nl,xiaomitech.net#@##adsense
-curbsideclassic.com,wpgutenberg.top,3dmodelshare.org,turkishfoodchef.com,itechua.com,blowxtube.com,orhanbhr.com,testosterontr.com,criptomonedaseico.com,appsfullversion.com,downloadsachmienphi.com,fimico.de,manhuaplus.com,canyoublockit.com,48idol.tv,freeallcourse.com,congressoemfoco.uol.com.br,dogalvadi.com,kompukter.ru,paragezegeni.com,gatevidyalay.com,corgit.xyz,freefincal.com,dsogaming.com,bordoklavyeli.net,newonce.net,gpcoder.com,androidexplained.com,borodavsem.ru,czechavfree.com,karaokes.com.ar,kulturalnemedia.pl,magazeta.com,mur.tv,o365info.com,proswift.ru,sovetolog.com,tehnobzor.ru,thelongdark.ru,thewindowsclub.thewindowsclubco.netdna-cdn.com,windowstechblog.nl,xiaomitech.net#@#.an-advert-banner
-curbsideclassic.com,wpgutenberg.top,3dmodelshare.org,turkishfoodchef.com,itechua.com,blowxtube.com,orhanbhr.com,testosterontr.com,criptomonedaseico.com,appsfullversion.com,downloadsachmienphi.com,fimico.de,manhuaplus.com,canyoublockit.com,48idol.tv,freeallcourse.com,congressoemfoco.uol.com.br,dogalvadi.com,kompukter.ru,paragezegeni.com,gatevidyalay.com,corgit.xyz,freefincal.com,dsogaming.com,bordoklavyeli.net,newonce.net,gpcoder.com,androidexplained.com,borodavsem.ru,czechavfree.com,karaokes.com.ar,kulturalnemedia.pl,magazeta.com,mur.tv,o365info.com,proswift.ru,sovetolog.com,tehnobzor.ru,thelongdark.ru,thewindowsclub.thewindowsclubco.netdna-cdn.com,windowstechblog.nl,xiaomitech.net#@#.an-sponsored
-curbsideclassic.com,wpgutenberg.top,3dmodelshare.org,turkishfoodchef.com,itechua.com,blowxtube.com,orhanbhr.com,testosterontr.com,criptomonedaseico.com,appsfullversion.com,downloadsachmienphi.com,fimico.de,manhuaplus.com,canyoublockit.com,48idol.tv,freeallcourse.com,congressoemfoco.uol.com.br,dogalvadi.com,kompukter.ru,paragezegeni.com,gatevidyalay.com,corgit.xyz,freefincal.com,dsogaming.com,bordoklavyeli.net,newonce.net,gpcoder.com,androidexplained.com,borodavsem.ru,czechavfree.com,karaokes.com.ar,kulturalnemedia.pl,magazeta.com,mur.tv,o365info.com,proswift.ru,sovetolog.com,tehnobzor.ru,thelongdark.ru,thewindowsclub.thewindowsclubco.netdna-cdn.com,windowstechblog.nl,xiaomitech.net$$script[tag-content="anOptionAdsSelectors"][max-length="4000"]
 curimovie.com#%#//scriptlet("adjust-setTimeout", "#counter", "", "0.02")
 curimovie.com#%#AG_onLoad(function(){var a=document.querySelector(".inside > a[href]#link");if(a)try{window.location=a.href}catch(b){}});
 curiouscat.me##.consentWrapper
@@ -41509,6 +41511,7 @@ zzz.com.ua##body > div[style="text-align:center;font-size:11px;font-family:arial
 ||b-m.xyz^
 ||b-ssl.grvcdn.com^
 ||b.aol.com^$third-party
+||b.bdstatic.com/searchbox/icms/searchbox/img^
 ||b.bestcontenthost.com^$third-party
 ||b.cpiera.com^
 ||b.grvcdn.com^$third-party
@@ -43093,7 +43096,6 @@ zzz.com.ua##body > div[style="text-align:center;font-size:11px;font-family:arial
 ||clientmetrics.kik.com^
 ||clients.streamwood.ru^$third-party
 ||clik.pw/bomb.png$popup
-||clik.pw/cloud_theme/build/js/script.min.php
 ||clipbongda.info^$third-party
 ||cliphunter.com/donate.php
 ||clips4sale.com^$image,domain=ticklingforum.com
@@ -47276,6 +47278,7 @@ zzz.com.ua##body > div[style="text-align:center;font-size:11px;font-family:arial
 ||hlserve.com^$third-party
 ||hltv.gainskins.com^$subdocument,third-party
 ||hltv.org/retina.php
+||hm.baidu.com/hm.gif
 ||hm.baidu.com^$third-party
 ||hm.com/global/session-tracking
 ||hmma.baidu.com/app.gif
@@ -49207,6 +49210,7 @@ zzz.com.ua##body > div[style="text-align:center;font-size:11px;font-family:arial
 ||m.alphaporno.com/adman_ai/
 ||m.alylym.top^$third-party
 ||m.autohome.com.cn/news/cdn_20180706/view/ah/nsee.html
+||m.baidu.com/tc?tcreq4log=
 ||m.banner.t-online.de/adsdk/
 ||m.bombaytimes.com/detector.cms
 ||m.corocksi.com^$third-party

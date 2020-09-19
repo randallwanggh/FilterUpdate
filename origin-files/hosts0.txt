@@ -1,4 +1,4 @@
-#version=2020009082010
+#version=2020009190001
 #url=https://github.com/VeleSila/yhosts/blob/master/hosts
 #-----Test
 127.0.0.1 at.umeng.com
@@ -3110,6 +3110,7 @@
 127.0.0.1 c.anmeilai.net
 127.0.0.1 c.bccyyc.com
 127.0.0.1 c.cdlkzb.com
+127.0.0.1 c.chaochao132.xyz
 127.0.0.1 c.cyhx98.com
 127.0.0.1 c.cyto-biotherapy.com
 127.0.0.1 c.danangmo.cn
@@ -3300,6 +3301,7 @@
 127.0.0.1 d.beigedi.com
 127.0.0.1 d.biboi.cn
 127.0.0.1 d.danangmo.cn
+127.0.0.1 d.haiyong33.cn
 127.0.0.1 d.hzblic.com
 127.0.0.1 d.jjyx.com
 127.0.0.1 d.lionettrip.xyz
@@ -3985,9 +3987,11 @@
 127.0.0.1 eo.euwyc.xyz
 127.0.0.1 eo.hdschw.cn
 127.0.0.1 eo.llqd5.cn
+127.0.0.1 eo.lulunote.cn
 127.0.0.1 eo.lxujghc.cn
 127.0.0.1 eo.nu2rx.xyz
 127.0.0.1 eo.nunxi.xyz
+127.0.0.1 eo.ohthub.com.cn
 127.0.0.1 eo.ou6d.cn
 127.0.0.1 eo.sdagxz.xyz
 127.0.0.1 eo.ssdoi.com
@@ -4070,6 +4074,7 @@
 127.0.0.1 fyal.e9emh.cn
 127.0.0.1 fyq.wlgszt.com
 127.0.0.1 fzz.cloud.1234507.com
+127.0.0.1 g.315jg.net
 127.0.0.1 g.5q63n.cn
 127.0.0.1 g.6sfg.com
 127.0.0.1 g.711983.com
@@ -4166,6 +4171,7 @@
 127.0.0.1 hiadscvd.cezici.cn
 127.0.0.1 hipersushiads.com
 127.0.0.1 hjk.sygjls.com
+127.0.0.1 hgra.ukmaaub.cn
 127.0.0.1 hl.kuzu.com
 127.0.0.1 hl.quw18.com
 127.0.0.1 hm.baidu.com.jnsiematcnc.com
@@ -4243,6 +4249,7 @@
 127.0.0.1 img.jwgro.com
 127.0.0.1 img.kukudm.com
 127.0.0.1 img.kuwanpx.com
+127.0.0.1 img.mosflower.cn
 127.0.0.1 img.nktcw.cn
 127.0.0.1 img.okd3.cn
 127.0.0.1 img.oraohui.cn
@@ -5599,10 +5606,12 @@
 127.0.0.1 mo.keilb.xyz
 127.0.0.1 mo.lbmx.com.cn
 127.0.0.1 mo.llqd5.cn
+127.0.0.1 mo.lulunote.cn
 127.0.0.1 mo.mu5b.cn
 127.0.0.1 mo.nunxi.xyz
 127.0.0.1 mo.oneshouyou.cn
 127.0.0.1 mo.osvp2.cn
+127.0.0.1 mo.ohthub.com.cn
 127.0.0.1 mo.ou6d.cn
 127.0.0.1 mo.ot1n.cn
 127.0.0.1 mo.qb138.cn
@@ -9255,3 +9264,4 @@
 127.0.0.1 template.liusha.info
 127.0.0.1 j.credit.wwz114.cn
 127.0.0.1 y.one.impact-ad.net
+127.0.0.1 adsmind.gdtimg.com
