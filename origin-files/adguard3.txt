@@ -58,6 +58,8 @@ ultrabilgi.com,buneymis.net,teknoxhaber.com,bilgilobi.com,aksaelektrik.com.tr,er
 ! 'contributor.google.com' cookie consent
 interpals.net,mediafire.com,feber.se,overclock.net,phonearena.com,skyscrapercity.com,mtb-news.de,geekwire.com,bimmerfest.com,accuweather.com#$#body div.fc-consent-root { display: none !important; }
 interpals.net,mediafire.com,feber.se,overclock.net,phonearena.com,skyscrapercity.com,mtb-news.de,geekwire.com,bimmerfest.com,accuweather.com#$#body { overflow: visible !important; }
+! ###sliding-popup
+jneurosci.org,medrxiv.org,novartis.com.tr,royal.uk,transcom.com,netcologne.de,belltower.news,bigfm.de,click.ro,demokrata.hu,emma.de,gysev.hu,humanite.fr,ikgastarten.nl,la7.it,london.gov.uk,mavcsoport.hu,mcdonalds.at,mcdonalds.it,mises.org,mnm.hu,musescore.com,nbcsports.com,pnas.org###sliding-popup
 ! Sourcepoint cookie consent
 theguardian.com#$#div[id^="sp_message_container_"] { display: none!important; }
 techadvisor.co.uk,forum.notebookreview.com,computerworld.com,skysports.com#$#div[id^="sp_message_"] { display:none!important; }
@@ -191,6 +193,7 @@ nkolayode.com##.sticky-info-band
 m.economictimes.com##.privacy_block
 ||economictimes.indiatimes.com/gdpr_consent.cms
 kutahyaporselen.com.tr###mcTopTooltip
+shein.com##.welcome-privacy
 zepter.ru###cookies-info-bar
 total-liban.com##.cookie_banner_background
 tevapharm.com##.vi-alert-CookieBlock
@@ -764,7 +767,7 @@ browmart.ru##.modal_cookie_warning
 aulafacil.com##.faldon-cookies
 mediamarkt.de##div[class^="CookieLayer__StyledCookieWrapper-"]
 therealreal.com##.gdpr-pop-over
-fakemail.net,puressh.net,akunssh.net,minuteinbox.com##.wpcc-container
+mintmanga.live,fakemail.net,puressh.net,akunssh.net,minuteinbox.com##.wpcc-container
 enroll.virginpulse.com##.cookie-banner-container
 ipekyol.com.tr,korayspor.com,monsternotebook.com.tr##.cookieBnrWrp
 md5hashing.net##.primary-container > .pp-footer
@@ -2821,7 +2824,6 @@ motor1.com###privacy_accept
 altincicadde.com###privacy_modal
 derstandard.at###privacypolicy
 longfonds.nl###ptCookieBarWrap
-medrxiv.org,novartis.com.tr,royal.uk,transcom.com,netcologne.de,belltower.news,bigfm.de,click.ro,demokrata.hu,emma.de,gysev.hu,humanite.fr,ikgastarten.nl,la7.it,london.gov.uk,mavcsoport.hu,mcdonalds.at,mcdonalds.it,mises.org,mnm.hu,musescore.com,nbcsports.com,pnas.org###sliding-popup
 sz-online.de###szoCookieBar
 4gr.it###taxcodeandprivacy-cookienotice-container
 shemalemodelstube.com###termly-code-snippet-support-banner
