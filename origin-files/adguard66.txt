@@ -932,15 +932,14 @@ fofmyanmar.com##center > a[rel="noopener noreferrer"] > img
 !---------------------------------------------------------------------
 !------------------------------ Chinese ------------------------------
 !---------------------------------------------------------------------
-!--- general url ---
-/source/plugin/drk_ledadv/*
-!-------------------
-!--- general hide --
-##a[href^="https://adm.beimg.com/"]
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/64238
+template.city#$#.ezoic-ad { position: absolute!important; left: -3000px!important; }
 ! https://github.com/AdguardTeam/AdguardFilters/issues/63770
 !+ NOT_OPTIMIZED
 sohu.com##a[href*="_Click_Flow_recommend_"]
+! https://github.com/AdguardTeam/AdguardFilters/issues/64077
+r3sub.com##div[class] > a[href^="show.php?id="][target="_blank"] > img
 ! https://github.com/AdguardTeam/AdguardFilters/issues/63860
 ttshow.tw##div[id^="ad_index_"]
 ttshow.tw##div[id^="ad_article_"]
@@ -961,6 +960,8 @@ chinese.engadget.com###module-engadget-deeplink-top-ad
 ! https://github.com/AdguardTeam/AdguardFilters/issues/63740
 edh.tw###fix-corner
 edh.tw##.close-corner
+! https://github.com/AdguardTeam/AdguardFilters/issues/64125
+ifeng.com##div[class^="layout-"] > div#subNav + div
 ! https://github.com/AdguardTeam/AdguardFilters/issues/62662
 inmywordz.com##.acca-block
 ! https://github.com/AdguardTeam/AdguardFilters/issues/62449
@@ -1273,24 +1274,6 @@ v2ex.com#?##Rightbar > .box:has(> .inner > .adsbygoogle)
 //m.manhua123.net/js/com2.js
 ! https://github.com/AdguardTeam/AdguardFilters/issues/46301
 xhtml?$domain=kanshu8.net
-! Chinese generic exclusions AdBlock detection
-tsubasa.im#@#.pub_300x250
-tsubasa.im#@#.pub_300x250m
-tsubasa.im#@#.pub_728x90
-tsubasa.im#@#.text-ad
-tsubasa.im#@#.text-ad-links
-tsubasa.im#@#.text-ads
-tsubasa.im#@#.textAd
-tsubasa.im#@#.text_ad
-tsubasa.im#@#.text_ads
-!
-! https://github.com/AdguardTeam/AdguardFilters/issues/50698
-nfmovies.com##div[id^="sponsorAdDiv"]
-nfmovies.com#@##adright
-nfmovies.com#@##adleft
-nfmovies.com#$##adright { position: absolute!important; left: -3000px!important; }
-nfmovies.com#$##adleft { position: absolute!important; left: -3000px!important; }
-nfmovies.com#$#img[src^="/pic/tu/"] { visibility: hidden!important; }
 ! @@||nfmovies.com/pic/tu/$image
 nfmovies.com#%#//scriptlet("set-constant", "inited", "true")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/46343
@@ -6439,7 +6422,8 @@ zoomit.ir#$#body > .hotMenu[style="top: auto;"] { top: 0!important; }
 zoomit.ir#$#body > nav.is-sticky[style="top: 130px;"] { top: 0!important; }
 zoomit.ir#%#document.cookie = "BnShowNum=4; path=/;";
 ! soft98.ir
-soft98.ir#%#//scriptlet("set-constant", "Object.prototype.checkElementsVisibility", "noopFunc")
+soft98.ir#$?#.a7d2x { remove: true; }
+soft98.ir#%#//scriptlet("set-constant", "Object.prototype.disableDownloadLink", "noopFunc")
 soft98.ir#$#[id^="sidebar"][id*="stick"] > section { opacity: 0!important; pointer-events: none!important; }
 soft98.ir#$#.a4d2x { display: none!important; }
 soft98.ir#$#.d-js2-none { display: none!important; }
@@ -6542,6 +6526,9 @@ innpoland.pl,mamadu.pl,dadhero.pl,natemat.pl#%#//scriptlet("prevent-eval-if", "i
 @@||video.onnetwork.tv/adblock_notify.js
 ||request.dqst.pl/v*/$xmlhttprequest
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/64289
+film.org.pl##.advertise-wide
+||film.org.pl/wp-content/uploads/*/*/*-banner-nad-tekstem-*.jpg
 ! https://github.com/AdguardTeam/AdguardFilters/issues/63583
 ! https://github.com/AdguardTeam/AdguardFilters/issues/63580
 !#safari_cb_affinity(privacy)
@@ -8750,6 +8737,8 @@ hhkungfu.tv#$##LoadError { display: none!important; }
 ||jsc.adskeeper.co.uk/*.js$script,redirect=nooptext,domain=hhkungfu.tv
 !+ PLATFORM(ios, ext_safari, ext_android_cb)
 @@||jsc.adskeeper.co.uk/*/hhkungfu.tv.*.js$domain=hhkungfu.tv
+! https://github.com/AdguardTeam/AdguardFilters/issues/63775
+fshare.vn###page-content-asv
 ! https://github.com/AdguardTeam/AdguardFilters/issues/60826
 mmo4me.com##div[class^="ads"]
 mmo4me.com##.p-body-sidebar > .block:not(:first-child) .block-body > center > a[href][target="_blank"] > img

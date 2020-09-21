@@ -5,6 +5,8 @@
 ! @@/wrapperMessagingWithoutDetection.js
 @@/wrapperMessagingWithoutDetection.js$domain=bild.de|fitforfun.de|demorgen.be|golem.de|volkskrant.nl|trouw.nl|parool.nl|ekstrabladet.dk|chip.de|welt.de|focus.de|n-tv.de
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/64179
+realm667.com#@##redim-cookiehint:not(body):not(html)
 ! bild.de - broken click on "Soziale Medien aktivieren"
 @@||sourcepoint.mgr.consensu.org/*/vendor-list^$domain=bild.de
 ! https://github.com/AdguardTeam/AdguardFilters/issues/64108
@@ -447,6 +449,7 @@ yello.de#@#.js-cookie-consent
 @@||quantcast.mgr.consensu.org/*/cmp.js$domain=joe.ie
 @@||static.quantcast.mgr.consensu.org/*/cmpui-banner.js$domain=joe.ie
 ! https://github.com/AdguardTeam/AdguardFilters/issues/46403
+!+ NOT_OPTIMIZED
 @@||telekomaufladen.de/assets/js/libs/cookieconsent.js
 ! https://github.com/AdguardTeam/AdguardFilters/issues/46126
 @@||evidon.mgr.consensu.org/iab/getcookie$domain=telegraph.co.uk|reuters.com

@@ -1,4 +1,4 @@
-#version=2020009190001
+#version=2020009202004
 #url=https://github.com/VeleSila/yhosts/blob/master/hosts
 #-----Test
 127.0.0.1 at.umeng.com
@@ -1105,7 +1105,6 @@
 ::1             ip6-localhost
 127.0.0.1 XiaoQiang
 127.0.0.1 geo2.adobe.com
-127.0.0.1 get3.adobe.com
 127.0.0.1 flash.2144.com
 127.0.0.1 www.2144.cn
 127.0.0.1 iadctest.qwapi.com
@@ -3085,6 +3084,7 @@
 127.0.0.1 bfr.chinaweian.com
 127.0.0.1 bgkh.zcpap.cn
 127.0.0.1 bhgjeg42572.dcghp.top
+127.0.0.1 bhgjeg42572.wofbw.top
 127.0.0.1 bhjac.azvub.cn
 127.0.0.1 biq.keefung-zs.com
 127.0.0.1 bjedpt.com
@@ -3119,6 +3119,7 @@
 127.0.0.1 c.dengbaozx.cn
 127.0.0.1 c.dhsfcw.cn
 127.0.0.1 c.dokrmob.com
+127.0.0.1 c.dzuky.top
 127.0.0.1 c.dzytjqcc.com
 127.0.0.1 c.easypatent.net
 127.0.0.1 c.f1zd.com
@@ -3136,6 +3137,7 @@
 127.0.0.1 c.l0yjow.cn
 127.0.0.1 c.lalaxit.cn
 127.0.0.1 c.lalaxqt.cn
+127.0.0.1 c.lbsbbw.cn
 127.0.0.1 c.lianwangtech.com
 127.0.0.1 c.lrzazjl.cn
 127.0.0.1 c.lucktui.com
@@ -3145,6 +3147,7 @@
 127.0.0.1 c.mobishu.com
 127.0.0.1 c.nanjinglongyu.com
 127.0.0.1 c.ningbojipiao.com
+127.0.0.1 c.nkzker.cn
 127.0.0.1 c.ntrdjsjl.com
 127.0.0.1 c.ns8d.com
 127.0.0.1 c.okmgy.cn
@@ -3174,6 +3177,7 @@
 127.0.0.1 c.vip97.net
 127.0.0.1 c.wantxt.cc
 127.0.0.1 c.wechat.jx.cn
+127.0.0.1 c.wofbw.top
 127.0.0.1 c.xianguonongchang.org
 127.0.0.1 c.xiaozhuyoupu.com
 127.0.0.1 c.xilongfuwu.com
@@ -3982,6 +3986,7 @@
 127.0.0.1 eo.byjr899.top
 127.0.0.1 eo.dybx992.top
 127.0.0.1 eo.eeo1h1.cn
+127.0.0.1 eo.eLevenmedia.cn
 127.0.0.1 eo.energy-tmr.cn
 127.0.0.1 eo.erkesi.cn
 127.0.0.1 eo.euwyc.xyz
@@ -5596,6 +5601,7 @@
 127.0.0.1 mo.drzd9.cn
 127.0.0.1 mo.dybx992.top
 127.0.0.1 mo.eeo1h1.cn
+127.0.0.1 mo.eLevenmedia.cn
 127.0.0.1 mo.energy-tmr.cn
 127.0.0.1 mo.erkesi.cn
 127.0.0.1 mo.euwyc.xyz
@@ -6400,6 +6406,7 @@
 127.0.0.1 v.lrzazjl.cn
 127.0.0.1 v.lystrw.cn
 127.0.0.1 v.nanjinglongyu.com
+127.0.0.1 v.nkzker.cn
 127.0.0.1 v.oq68.com
 127.0.0.1 v.originz.cn
 127.0.0.1 v.qhruixin.cn
@@ -6476,6 +6483,7 @@
 127.0.0.1 w.bobocn.cn
 127.0.0.1 w.cube3d.cn
 127.0.0.1 w.jscsd.cn
+127.0.0.1 v.lbsbbw.cn
 127.0.0.1 w.oumazg.com
 127.0.0.1 w.waacorp.com
 127.0.0.1 w.xiaopiaoyou.com
@@ -6739,6 +6747,7 @@
 127.0.0.1 www.poijugh.top
 127.0.0.1 www.poke88.com
 127.0.0.1 www.predictivadvertising.com
+127.0.0.1 www.prjslxhtx003.top
 127.0.0.1 www.qiaopiguniang.com
 127.0.0.1 www.qinchugudao.com
 127.0.0.1 www.qiubang.org
