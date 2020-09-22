@@ -1,6 +1,9 @@
 !
 ! Extended CSS rules
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/64373
+roleplayer.me#?#div[align="center"] > font[color="grey"]:contains(/^Advertisement$/)
+roleplayer.me#?#div[id^="ClearVista_Roleplayerme_300x"] + table:has(> tbody > tr > td > center > font > a[href="premium/paid_membership.php"])
 ! https://github.com/AdguardTeam/AdguardFilters/issues/63976
 !+ NOT_OPTIMIZED
 thequint.com#?#.container div:has(> div > div > .adunitContainer)
@@ -1039,6 +1042,7 @@ smailpro.com#?##home div.caption > div[class]:has(> div > a[target="_blank"] > i
 tube-bunny.com#?#.page-wrapper div[class]:has(> div.title-vis > p > span:contains(Advertisement))
 tube-bunny.com#?#span:contains(Advertisement)
 !
+letfap.com#?#.box > center:has(> span[id^="ad-top-"])
 youngpornvideos.com##.sidebar div[class]:has(> a[href^="https://a.bestcontentoperation.top/"])
 onlinemschool.com#?#div[style*="!important;"]:has(> img)
 kiktu.com###secondary > div.widget:has(> div.code-block > script[src^="https://www.highprofitnetwork.com/"])

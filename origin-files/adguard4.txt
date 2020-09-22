@@ -5,6 +5,11 @@
 ! @@/wrapperMessagingWithoutDetection.js
 @@/wrapperMessagingWithoutDetection.js$domain=bild.de|fitforfun.de|demorgen.be|golem.de|volkskrant.nl|trouw.nl|parool.nl|ekstrabladet.dk|chip.de|welt.de|focus.de|n-tv.de
 !
+!#if (adguard_app_ios || adguard_ext_android_cb)
+@@||koran.rocks/plugins/system/gdpr/assets/css/cookieconsent.min.css
+@@||koran.rocks/plugins/system/gdpr/assets/js/cookieconsent.min.js
+koran.rocks#@#.cc-window[aria-label="cookieconsent"]
+!#endif
 ! https://github.com/AdguardTeam/AdguardFilters/issues/64179
 realm667.com#@##redim-cookiehint:not(body):not(html)
 ! bild.de - broken click on "Soziale Medien aktivieren"
@@ -390,8 +395,9 @@ bitburger-braugruppe.de#@##cookie-layer
 voelkner.de#@##cookie_consent
 ! https://github.com/AdguardTeam/AdguardFilters/issues/48790
 digitalo.de#@##cookie_consent
+! https://github.com/AdguardTeam/AdguardFilters/issues/64362
 ! https://github.com/AdguardTeam/AdguardFilters/issues/48700
-@@||budgetthuis.nl/assets/label/be/js/cookieBar-*.js
+@@||budgetthuis.nl/*/label/*/js/cookieBar-*.js
 ! https://github.com/AdguardTeam/AdguardFilters/issues/47644
 @@||sdk.privacy-center.org/loader.js$domain=rtl.fr
 @@||sdk.privacy-center.org/sdk.*.js$domain=rtl.fr
