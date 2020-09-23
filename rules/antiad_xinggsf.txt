@@ -28052,7 +28052,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||sl-ct5.com^
 ||sl.video.xycdn.n0808.com^
 ||sl.xawjwl.com^
-||slashdot.org^
 ||slaveforgetfulsneak.com^
 ||slavial.pro^
 ||slb.upshengyi.com^
