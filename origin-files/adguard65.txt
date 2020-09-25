@@ -1,6 +1,9 @@
 !
 ! Extended CSS rules
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/64474
+nudeteenwhore.com#?#.title:has(> h2:contains(Recommend))
+nudeteenwhore.com#?#.title:has(> h2:contains(Recommend)) + div.thumbs
 ! https://github.com/AdguardTeam/AdguardFilters/issues/64436
 letsrun.com#?##letsrun-wp-sidekick > .code-block-1:has(> center + div[id^="div-gpt-ad"])
 letsrun.com#?##letsrun-wp-sidekick > .code-block-2 > center > i:contains(/^Article continues below player$/)
@@ -1047,6 +1050,7 @@ smailpro.com#?##home div.caption > div[class]:has(> div > a[target="_blank"] > i
 tube-bunny.com#?#.page-wrapper div[class]:has(> div.title-vis > p > span:contains(Advertisement))
 tube-bunny.com#?#span:contains(Advertisement)
 !
+smallseotools.com#?#.main-content div[class]:has(> span[class*="tuny_baaz_"])
 letfap.com#?#.box > center:has(> span[id^="ad-top-"])
 ladsnbastands.com#?##secondary > section:has(> div.textwidget ins.adsbymahimeta)
 youngpornvideos.com##.sidebar div[class]:has(> a[href^="https://a.bestcontentoperation.top/"])

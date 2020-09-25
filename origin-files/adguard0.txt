@@ -21,8 +21,9 @@ statut.by##a[title="Telegram"]
 tut.by##div[class^="l-outer impl-variant-"]
 tut.by,sb.by##.b-youtube-sbscr
 sb.by##.google-subscription
+! https://github.com/AdguardTeam/AdguardFilters/issues/64429
 ! https://github.com/AdguardTeam/AdguardFilters/issues/61638
-||cd.connatix.com^$domain=thegatewaypundit.com
+||cd.connatix.com^$domain=lifehacker.com|thegatewaypundit.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/61601
 amp.rbc.ru##.article__infographic-stub
 ! https://github.com/AdguardTeam/AdguardFilters/issues/61211
@@ -1515,8 +1516,9 @@ kcra.com,whathifi.com,futurestud.io,slate.com,businessinsider.de,fastcompany.com
 ! ##.cta-component-full-width
 bournemouthecho.co.uk,eveningtimes.co.uk,greenocktelegraph.co.uk,heraldscotland.com,swindonadvertiser.co.uk,wiltshiretimes.co.uk##.cta-component-full-width
 ! ##.subscribe
-atorus.ru,castorama.ru,guzellikbulvari.com,marieclaire.ua,mvs.gov.ua,gadgets.ndtv.com,oneplus.com,tickets.ua,woman.ru,elle.ru,marieclaire.ru,europaplus.ru,krossovki.com,belretail.by,thecollegefix.com,femmie.ru,prostofinovo.ru,mauijim.com,netpeak.net,wday.ru,buhgalteria.ru,ellegirl.ru,gameslog.ru,gizmag.com,healthhacks.ru,klerk.ru,menshealth.com,rbc.ru,snce.ru,turizm.ru,wegame.com.ua##.subscribe
+infobus.eu,atorus.ru,castorama.ru,guzellikbulvari.com,marieclaire.ua,mvs.gov.ua,gadgets.ndtv.com,oneplus.com,tickets.ua,woman.ru,elle.ru,marieclaire.ru,europaplus.ru,krossovki.com,belretail.by,thecollegefix.com,femmie.ru,prostofinovo.ru,mauijim.com,netpeak.net,wday.ru,buhgalteria.ru,ellegirl.ru,gameslog.ru,gizmag.com,healthhacks.ru,klerk.ru,menshealth.com,rbc.ru,snce.ru,turizm.ru,wegame.com.ua##.subscribe
 !
+ria.ru##.article__aggr
 meduza.io##iframe[id="embed/daily-digest"]
 m.market.yandex.ru##div[data-apiary-widget-name="@mobile/Subscription"]
 lesfrontaliers.lu##iframe[src^="https://app.mailjet.com/"]
@@ -1650,7 +1652,6 @@ politico.com##.new-york-playbook-sign-up-right-rail
 unity3diy.blogspot.com##.followbyemail
 radiokp.ru##.zen-button
 brighteon.com##.bottom-banner
-brighteon.com##.subscription
 sinpas.com.tr##.blogDetayBulten
 apartmentguide.com##.ag-newsletter-sidebar
 nv.ua##.collection_form__container
@@ -2714,7 +2715,7 @@ brain.com.ua##.subscribe_newsletters
 aif.ru##.subscribe_wid
 banglachotikahinii.com##.subscribebox
 softikbox.com##.subscribers-form
-championat.com,goodhouse.ru,ichip.ru,irk.ru,thepostmillennial.com,skidochnik.com.ua##.subscription
+busfor.ua,brighteon.com,championat.com,goodhouse.ru,ichip.ru,irk.ru,thepostmillennial.com,skidochnik.com.ua##.subscription
 liberation.fr##.subscription-bloc
 miamiherald.com##.subscription-cta-widget
 esquire.ru,popmech.ru,warhead.su##.subscription_block

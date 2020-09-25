@@ -26,7 +26,9 @@
 ! Disabled in DNS filter
 ||telemetry.mozilla.org^
 !
+||d2p3zdq8vjvnxd.cloudfront.net^
 ||logger.applovefrom.com^
+||gstat.orange.fr^
 ||deliver.oztam.com.au^
 ||d35u1vg1q28b3w.cloudfront.net^
 ||imp.go.sohu.com^

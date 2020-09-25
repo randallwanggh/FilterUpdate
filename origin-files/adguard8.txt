@@ -95,8 +95,10 @@ sodapdf.com##.be-tooltip
 !
 ! Specific sites
 !
+lifehacker.com##.smcx-modal-invitation
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=newyorker.com
 babupc.com##body > div[id][class][style*="width:"][style*="height:"][style*="padding-bottom:"][style*="padding-right:"]
+infobus.eu##.bitrix-fake
 tastesoflizzyt.com##.seva-overlay
 tastesoflizzyt.com##.newsletter
 ligazakon.net#$##main_popup_modal { display: none!important; }
