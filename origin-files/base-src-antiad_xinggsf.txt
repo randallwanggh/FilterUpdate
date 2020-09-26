@@ -792,8 +792,7 @@ skycn.com###top970,ul.ul_Address>h3,a[href^="http://down.xiazaidc.com/"]
 sports.qq.com##.ad-wrapper,#focus_jordon,.ad_r_85,div[class|=gg],div.layout.mt35,div[adconfig_charset]
 subhd.com##div[style^="text-align:center;height:270px"],.col-md-10 > div:nth-of-type(1)
 tianyabooks.com##div[class^=bread_]
-tieba.baidu.com###guide_fc,#global_notice_wrap,.content_top,.forum_header>div:first-child,.app_forum_top_nav,#encourage_entry,[id^=pagelet_encourage-appforum],.iframe_wrapper.clearfix,.d_sign_split~*,#thread_list>li:not([class*=thread_]),#j_p_postlist>div:not([data-field]):not(#j_p_postlist),#j_p_postlist>div[data-isautoreply],#game_live_list,#com_u9_head,.play_list_panel.j_play_list_panel,div.search_main_wrap~*,#aside_ad,a.j_click_stats.img_wrap,div.firework-wrap,ul.tbui_aside_float_bar+div.clearfix
-tieba.baidu.com###j_p_postlist>div.l_post_bright:has(a.j_click_stats.img_wrap)
+tiebac.baidu.com,tieba.baidu.com,jump.bdimg.com,jump2.bdimg.com##div[ad-dom-img],#thread_list>li:not(.j_thread_list)
 toutiao.com##div.adTab,div.carAd,#pagelet-detailadd,iframe[onload^="var adWrap"],li.item.J_add,div[ad_name]
 tracker.novage.com.ua
 tracker.openwebtorrent.com
@@ -848,7 +847,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 |http://www.downyi.com/tg/$script
 |http://www.huacolor.com/YD/*.gif$image
 |https://js.ykimg.com/youku/dist/js/lib/ikuAdapterNew.js
-|https://nex.163.com/q?
 |https://static.youku.com/index/js/ikuAdapterNew.js
 |https://www.36dm.com/js/
 |https://www.36dm.com/tbklb/
@@ -17192,7 +17190,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||iwpxkwojbw.com^
 ||iwqzrm.com^
 ||iwstats.com^
-||iwx.mail.qq.com^
 ||ixdqmmovnvbkl.com^
 ||ixhparehw.com^
 ||ixiaa.com^
@@ -22190,6 +22187,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||newxry.com^
 ||newyiba.top^
 ||newzheng.cn^
+||nex.163.com/q?
 ||nex.163.com^
 ||nex.corp.163.com^
 ||nex8.net^
@@ -28877,6 +28875,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||static.tzyiyuantuan.com^
 ||static.wauee.com^
 ||static.ws.126.net/*/adTracker.$script
+||static.ws.126.net/*/js/sspAd.$script
 ||static.yxdown.com/cj/$script
 ||static.yxdown.com/cjimages/$image
 ||static.yxdown.com/images/adbox$image
@@ -29746,7 +29745,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||tb.code.twyxi.com^
 ||tb1.bdstatic.com/??/tb/_/game_iframe_common_$script
 ||tb1.bdstatic.com/??/tb/_/game_rank_in_head_$script
-||tb1.bdstatic.com/tb/cms/frs/bg/$image
 ||tbaffiliate.com^
 ||tbaia.com^
 ||tbaocdn.com^

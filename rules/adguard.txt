@@ -3652,6 +3652,8 @@ app.myreadit.com###options > .ng-star-inserted
 app.myreadit.com##ri-cookie-notification
 app.outreach.io$image
 app.relateiq.com/t.png$image
+app.slack.com##.p-download_modal
+app.slack.com##.p-ia__workspace_banner
 app.spendee.com#%#document.cookie = "cbpolicy=true; path=/";
 app.termsfeed.com#@#.cookies-policy
 app.wallstreetsurvivor.com###tradeComplete > .social
@@ -14624,6 +14626,10 @@ haller-kreisblatt.de###modul-artikel-empfehlen > [class="clearfix"]
 haller-kreisblatt.de##footer > .article-detail-like
 hallmarkfreemovies.site###details > .section-header ~ div[align="center"] > a > img
 hallo-meinung.de##body > .uk-section-primary.uk-position-bottom
+haloani.ru#%#//scriptlet("set-constant", "kissassanime.control_disable_adblock", "false")
+haloani.ru#@##ad-banner
+haloani.ru#@#.ad-banner
+haloani.ru#@#.afs_ads
 hamburg.de###cookieChoiceInfo
 hamburger-wochenblatt.de##.viralBar
 hand-store.ru##.row-share
@@ -30952,7 +30958,7 @@ solverbook.com#?#.social > table:has(> tbody > tr > td:contains(Понравил
 solvettube.com#?##sidebar > .blocks > li.block:has(>.block-content > [class^="box textwidget "][class*="uson"])
 solvetube.site###ai-adb-message
 solvetube.site###ai-adb-overlay
-solvetube.site,getintopc.com#%#AG_onLoad(function(){if(location.pathname.includes("/wait-for-resource/")||location.pathname.includes("/video-guide-for-setup-installation/")){var e=function(a){for(var b="",c=0;c<a;c++)b+="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789".charAt(Math.floor(62*Math.random()));return b},f=function(a,b){a=Math.ceil(a);b=Math.floor(b);return Math.floor(Math.random()*(b-a+1))+a},d=new MutationObserver(function(){var a=document.querySelector("ins.adsbygoogle[data-ad-client]");if(a)var b=a.getAttribute("data-ad-client");a=document.querySelectorAll('iframe[id^="aswift_"]:not([src]), iframe[id^="google_ads_iframe_"]:not([src])');0<a.length&&(a.forEach(function(c){c.setAttribute("src","https://googleads.g.doubleclick.net/pagead/ads?client="+b+"&output=html&"+e(f(1E3,1500)))}),d.disconnect())});d.observe(document,{childList:!0,subtree:!0});setTimeout(function(){d.disconnect()},5E3)}});
+solvetube.site,getintopc.com#%#AG_onLoad(function(){if(location.pathname.includes("/wait-for-resource/")||location.pathname.includes("/video-guide-for-setup-installation/")){var e=function(a){for(var b="",c=0;c<a;c++)b+="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789".charAt(Math.floor(62*Math.random()));return b},f=function(a,b){a=Math.ceil(a);b=Math.floor(b);return Math.floor(Math.random()*(b-a+1))+a},d=new MutationObserver(function(){var a=document.querySelector("ins.adsbygoogle[data-ad-client]");if(a)var b=a.getAttribute("data-ad-client");a=document.querySelectorAll('iframe[id^="aswift_"]:not([src]), iframe[id^="google_ads_iframe_"]:not([src])');0<a.length&&(a.forEach(function(c){c.setAttribute("src","https://googleads.g.doubleclick.net/pagead/ads?client="+b+"&output=html&h="+e(f(1E3,1500)))}),d.disconnect())});d.observe(document,{childList:!0,subtree:!0});setTimeout(function(){d.disconnect()},5E3)}});
 sombex.com#%#AG_abortInlineScript(/adblock-blocker-overlay/, 'document.getElementById');
 somenotes247.blogspot.com#@#.vertical-ads
 sometag.com##div[class^="some-adv"]
@@ -46541,7 +46547,7 @@ zzz.com.ua##body > div[style="text-align:center;font-size:11px;font-family:arial
 ||getfreebl.com^$third-party
 ||getgreenshot.org/js/vendor/blockadblock.js
 ||getindiansex.com/f_*.js|
-||getintopc.com/wait-for-resource/$replace=/setTimeout\(function\(\){if\([\s\S]*?setTimeout\("(location.href[\s\S]*?)"[\s\S]*?}\, \d+\);/\$1/
+||getintopc.com/wait-for-resource/$replace=/javascript">[\s\S]*?\(function\(\){if\([\s\S]*?setTimeout\("(location.href[\s\S]*?)"[\s\S]*?}\, \d+\);/javascript">\$1/
 ||getmyfreetraffic.com^
 ||getmygeo.com^$third-party
 ||getnada.com/google_play_banner.
@@ -54414,7 +54420,7 @@ zzz.com.ua##body > div[style="text-align:center;font-size:11px;font-family:arial
 ||solidsoftwaretools.com/wp-content/uploads/2017/10/download2.png
 ||solocpm.com^
 ||solvay.com/js/ext.js
-||solvetube.site/video-guide-for-setup-installation/$replace=/setTimeout\(function\(\){if\([\s\S]*?setTimeout\("(location.href[\s\S]*?)"[\s\S]*?}\, \d+\);/\$1/
+||solvetube.site/video-guide-for-setup-installation/$replace=/javascript">[\s\S]*?\(function\(\){if\([\s\S]*?setTimeout\("(location.href[\s\S]*?)"[\s\S]*?}\, \d+\);/javascript">\$1/
 ||somberattack.com^$third-party
 ||somberscarecrow.com^$third-party
 ||sombersea.com^$third-party
