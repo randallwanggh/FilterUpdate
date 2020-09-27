@@ -2714,7 +2714,6 @@ aljazeera.com##.article-readToMe-share-block
 aljazeera.com##.ensNotifyBannerContainer
 aljazeera.com##body .NewsLetterForMobile
 aljazeera.com#@#.TopAdContainer
-aljazeera.com,psychologies.ru###subscribe-form
 aljazeera.net##.ensNotifyBannerContainer
 alkislarlayasiyorum.com##.socialVideodetay
 alkislarlayasiyorum.com##div[class^="socialBtn"]
@@ -32993,6 +32992,9 @@ the-challenger.ru#?#.sharesblock > div.sticky > div.blockholder:has(> h3:contain
 the-flow.ru##.social_counters
 the-village.com.ua##div[onclick="hideFallbackImage()"]
 the-village.me,the-village.com.ua,the-village.ru##.hype-panel
+the-village.ru###root div[class*="-ShareBlock-"]
+the-village.ru##main[class] a[href="/page/advertisers"]
+the-village.ru,aljazeera.com,psychologies.ru###subscribe-form
 the123movies.org##.content-kuss-ads
 the123movies.org##a[href^="https://s3.amazonaws.com/"].btn
 theage.com.au###jobs

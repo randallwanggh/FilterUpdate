@@ -747,6 +747,7 @@ gd.qq.com###r_ad
 greenxiazai.com##a[rel="nofollow"],.sinfo>div.s1,td.down-rr,.down-bd>div,div.list_lg
 gshtrl.top
 haitur.com##.container:style(max-width:90%!important;width:90%!important)
+haitur.com##.left-content:style(width:77%!important)
 haitur.com,www.haicaoys.com,www.cdfdy.com,www.labays.com,www.meiyuktv.cn##.dplayer-web-fullscreen-fix .float-box
 he2d.com
 huacolor.com##td[valign=top],div.huadown,.download-list>div
@@ -25576,7 +25577,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||qpljfpwdpk.com^
 ||qpmue.xyz^
 ||qpokok.com^
-||qq.com/*.1.mp4?*fmt=shd^$mp4,domain=v.qq.com
 ||qq.com/games/$subdocument
 ||qq.com/js/adswf_tl_object.js$script
 ||qq0au.cn^
