@@ -217,8 +217,15 @@ superfastvideos.xyz,supervideogameshd.com,cricfree.live,cricfree.stream,livestre
 cast4u.tv,euro16.live,footdirect24.com,freesoccer.in,hdcast.info,hdmyt.info,hentai-id.tv,lshstreams.com###floatLayer2
 !
 !
+dukechronicle.com##.flytead
+englishlightnovels.com##.sidebar-right p > a[href^="https://loot.cr/"]
+||englishlightnovels.files.wordpress.com/*/amazonprime-banner.jpg$domain=englishlightnovels.com
+||amazonaws.com/prod/Ad_Cinando/$domain=cinando.com
+audiogon.com###main-content div.content-marketing-panes:not(:last-child)
+audiogon.com###main-content div.content-marketing-panes > div[class]:first-child + div[class]
 thefunpost.com##.ad-spacing
 thefunpost.com##.ya-slot
+reuters.com##div[class^="StickyContainer-container-"][style^="height: 1200px;"][style*="margin-bottom: 120px;"]
 genpas.icu###dfp
 sexroom.xxx,nudeteenwhore.com,asiansex.life##.spot-holder
 ||nudeteenwhore.com/oeufrb/
@@ -1167,7 +1174,7 @@ rozfly.com##.separator > a[href]
 fossbytes.com##a[href^="https://www.linkev.com/order?a_fid="][target="_blank"] > img
 tomsguide.com##.hawk-widget[data-model-name]
 shorthitz.com,dl.ocanoke.com,afly.us##.box-main > .blog-item
-monoschinos.com,soccerstreams.net,bagas31.info,bacakomik.co,mangasee123.com,watchmovies7.com.pk,anitube.biz,elsfile.org,m4ufree.yt,9movies.yt,ask4movie.co,watchsomuch.org,kisstvshow.to,downloadhub.fans,thewatchcartoononline.tv##iframe[data-glx][style*="z-index"]
+europixhd.io,monoschinos.com,soccerstreams.net,bagas31.info,bacakomik.co,mangasee123.com,watchmovies7.com.pk,anitube.biz,elsfile.org,m4ufree.yt,9movies.yt,ask4movie.co,watchsomuch.org,kisstvshow.to,downloadhub.fans,thewatchcartoononline.tv##iframe[data-glx][style*="z-index"]
 bitconews.net###modalin
 bitconews.net###btn-cerrar
 bleepingcomputer.com##.cz-sponsorposts
@@ -2988,7 +2995,7 @@ kickassanime.ru,kickassanime.io##div[class^="ka-ax-wr"]
 ||kickassanime.io/sime*/$subdocument
 ||unblocked.to/testi.php
 slant.co##._SummaryPageSponsoredOptionView
-btdb.nl,switch-xci.com,skytorrents.to,btdb.eu###vpnvpn
+ettvcentral.com,btdb.nl,switch-xci.com,skytorrents.to,btdb.eu###vpnvpn
 ||video.laterxxx.com/vast/tag
 streamcloud.eu##a[href^="http://www.FriendlyDuck.com/"]
 ||anizablevetor.pro^$popup
@@ -3082,7 +3089,7 @@ allcelebs.club##.demo3
 allcelebs.club##table[align="center"][style="width: 700px;"]
 allcelebs.club##a[href^="http://www.searchcelebrityhd.com/"]
 ettv.to##.vp_ab
-ettv.to##.imdb > div[class^="download_liinks"]
+ettvcentral.com,ettv.to##.imdb > div[class^="download_liinks"]
 looper.com##.recommended-heading
 ||xxxdessert.com/tube/player/html.php?aid=pause_html&video_id=*&*referer=
 ||imgmercy.com/folo.js
@@ -7831,11 +7838,9 @@ bitbt.org##a[href^="/download.php"][target="_blank"][rel="nofollow"] > img
 tipucrack.com##center > a[href][rel="nofollow"][target="_blank"]
 ||tipucrack.com/wp-content/uploads/*/button-download-animated.gif
 pathofexile.gamepedia.com###mobileatfmrec
-crackflare.com##center > a > img
 mp3jam.org##div[class="textwidget"] > a[rel="nofollow"] > img
 sha2sslchecker.com##.f-right img
 putlocker8.net##div[style^="text-align: center;"] > a[rel="nofollow"]
-djcracx.com##center > a[rel="nofollow"] > img
 ||thekickass.org/o.js
 ||thekickass.org/ultra/poor.js
 filefrogg.com##a[href^="http://wap4dollar.com/ad/"]
@@ -10926,7 +10931,7 @@ foxbaltimore.com,foxchattanooga.com,foxillinois.com,foxlexington.com,foxnebraska
 ! Popads
 ://*.bid^$script,third-party,domain=streamjav.net|cndfandres64.blogspot.de|cndfandres64.blogspot.com|cndfandres64.blogspot.com.au|tellnews.club|xxxmax.net|watchfreexxx.net|speedporn.net|filmlinks4u.is|needgayporn.com|gaypornmasters.com|uploadbank.com|clicknupload.org|ouo.press|cryptosmo.com|datoporn.co|alantv.com|xclusivejams2.com|123movies.kim|123gomovies.info|watchonlinemovie.in|dir50.com|kat.how|thepiratebay.org|vshare.eu|psarips.com|123videos.tv|ouo.io|hentaiz.net|apkmirrorfull.com
 /^https?:\/\/www\.[a-z]{8,14}\.(bid|club|co|com|me|pro|info)\/[a-z]{1,12}\.js$/$script,third-party,domain=goss.watch|gosswatch.com|2ddl.vg|guard.link|vidz72.com|123movies.cafe|anidl.org|srt.am|pandaporn.net|widestream.io|300mbfilms.co|seelive.me|realtimetv.me|xxxstreams.me|animeforce.org|baixarsoftware.com|vipbox.fi|linx.cloud|emp3c.co|streamporn.me|2ddl.io|pandamoviehd.me|speedporn.net|youwatchporn.com|chaturbacumgirls.net|oke.io|vipbox.st|2ddl.unblocked.vc|gaypornwave.com|batshort.com|watchpornfree.ws|animo-pace-stream.io|hdsector.to|streameast.live|hentaimoe.me
-/^https?:\/\/([a-z0-9]{8,10}\.)?[a-z0-9]{5,14}\.(com|bid|online|top|club)\/([a-z0-9]{2}\/){3}[a-f0-9]{32}\.js$/$script,third-party
+/^https?:\/\/([a-z0-9]{8,10}\.)?[a-z0-9]{5,23}\.(com|bid|online|top|club)\/([a-z0-9]{2}\/){3}[a-f0-9]{32}\.js$/$script,third-party
 /^http?:\/\/[a-z]{8,14}\.(bid|club|co|com|me|pro|info)\/[a-z]{1,12}\.(aspx|php|html|htm)\?r=[0-9]{1}[\s\S]*v=/$script,third-party,domain=realtimetv.me|seelive.me
 ! https://github.com/AdguardTeam/AdguardFilters/issues/54684
 ! New popads script - blocking popads script casues requests to "undefined" and in some cases website doesn't load correctly

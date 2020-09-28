@@ -180,6 +180,11 @@ newsweek.com##iframe[src="http://sns.europe.newsweek.com/newsletter?popup=1"]
 !######### JS tweaks ##########
 !##############################
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/64698
+cpmlink.net#%#//scriptlet("adjust-setInterval", "stop()", "", "0.02")
+cpmlink.net#%#AG_onLoad(function() { var el = document.querySelector('#continue > a[href]#btn-main'); if(el) { window.location = el.href; } });
+! https://github.com/AdguardTeam/AdguardFilters/issues/64619
+findicons.com#%#//scriptlet("adjust-setInterval", "wait_seconds", "", "0.02")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/64459
 nulleb.com#%#//scriptlet("adjust-setInterval", "download-countdown", "", "0.02")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/64306
@@ -853,6 +858,7 @@ xn--80aaxitdbjk.xn--p1ai,toptech360.com,devicespecifications.com,apkinstaller.co
 !+ NOT_PLATFORM(windows, mac, android, ext_ff)
 quotev.com#$#body #res_area ::selection { background-color: #3297FD!important; }
 !--- JS ----
+ohmygirl.ml#%#//scriptlet("prevent-addEventListener", "load", "addEvent(")
 template.city#%#AG_onLoad(function() { document.oncontextmenu = document.ondragstart = document.onselectstart = function() { return true; }; });
 kusonime.com#%#//scriptlet("abort-on-property-read", "mousedwn")
 kusonime.com#%#//scriptlet("abort-current-inline-script", "document.keypress")
