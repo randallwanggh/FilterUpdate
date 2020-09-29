@@ -818,13 +818,12 @@ wsglb0.com
 www.3987.com##.downinfo > .fr, .show.xiazai_bj
 www.baidu.com##div.c-container:has(a[data-landurl])
 www.chnmoney.com##.tonglan
-www.dililitv.com##+js(acis, console.log, about-disclaimer-contact)
+www.dililitv.com,www.hmtv.me,imeiju.io,www.kalidm.com,www.zxfun.net##+js(acis, console.log, Object.defineProperty)
 www.dyjihe.com##.tempWrap
 www.epinv.com###container>#sidebar~*,div.huadong,div.epinv_f
 www.hao123.com##div#ecom,div.widget-topbanner,A.link.download,#shortcut-box,#shortcut-box~*,div[monkey=yixing],.siye,#leftbannerv2
 www.imomoe.in###adl,#adr
 www.imomoe.in,hehua.net,kakadm.com##+js(ra, target, a[href^="/"])
-www.kalidm.com##+js(acis, console.log, window.location.href="/new")
 www.qq.com##.adLeft,.adRight
 www.zol.com.cn##.side-news-nointel.side-news,#bgad
 www.zol.com.cn,www.91danji.com,92btbtt.com##body:style(background: center !important)
@@ -4995,7 +4994,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||api.iapps.ifeng.com^
 ||api.iimedia.cn^
 ||api.ijunhai.com^
-||api.iplay.163.com^
 ||api.jsfc8.cn^
 ||api.koudaikj.com^
 ||api.ktplay.com^

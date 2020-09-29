@@ -217,6 +217,12 @@ superfastvideos.xyz,supervideogameshd.com,cricfree.live,cricfree.stream,livestre
 cast4u.tv,euro16.live,footdirect24.com,freesoccer.in,hdcast.info,hdmyt.info,hentai-id.tv,lshstreams.com###floatLayer2
 !
 !
+||check-host.net/images/ndguard
+watchseries.ovh##.block-left-home > div[style^="height:252px;"][style*="text-align:center;"]
+check-host.net##.ad_z
+soundandvision.com###sub_pop
+9anime.to##.sda
+||streamtape.com/mainstream2.js
 dukechronicle.com##.flytead
 englishlightnovels.com##.sidebar-right p > a[href^="https://loot.cr/"]
 ||englishlightnovels.files.wordpress.com/*/amazonprime-banner.jpg$domain=englishlightnovels.com
@@ -870,8 +876,8 @@ pocketgamer.com##.item-unit
 igeekphone.com##.theiaStickySidebar > ul > .igeek-widget
 igeekphone.com##.row > .col-8.main-content > div:not([class]):not([id]) > a[href] > img.no-display
 webmd.com##.responsive-sharethrough-wrapper
-manhuas.net,mangarocky.com##.body-wrap > .c-top-sidebar
-manhuas.net,mangarocky.com##.body-wrap > .c-bottom-sidebar
+webtoon.xyz,manhuas.net,mangarocky.com##.body-wrap > .c-top-sidebar
+webtoon.xyz,manhuas.net,mangarocky.com##.body-wrap > .c-bottom-sidebar
 merriam-webster.com##.mw-right-ad-slot
 1001tracklists.com##.img20ad
 ||daftsex.com/img/pc20.png
@@ -2680,7 +2686,7 @@ thisvid.com##.video-holder span.message > a[href][target="_blank"]
 ||lnk.news/links/flash-ad?u_id=
 ||1080872514.rsc.cdn77.org/flash.js
 imgtaxi.com##iframe[src^="frame.php?"]
-manytoon.com##.c-ads
+webtoon.xyz,manytoon.com##.c-ads
 workprochair.com,manytoon.com###floating_ads_bottom_textcss_container
 manytoon.com##.text-center > a[href][target="_blank"] > img
 gogoanime.io##.anime_video_body_cate > div[style="height:250px;overflow:hidden;"]
@@ -5643,7 +5649,7 @@ bro.adca.st##.load-more
 hardsextube.com##.video-thumbnail-placeholder
 hardsextube.com##.pre-play
 gr8forte.org###in-video
-cgtips.org,themeslide.com,prajwaldesai.com,onlinefreecourse.net##div[data-adid]
+toppremiumpro.com,cgtips.org,themeslide.com,prajwaldesai.com,onlinefreecourse.net##div[data-adid]
 hotmovs.com##a[alt*="ad spot"]
 ||imgazure.com/888_super.php^
 ||imgazure.com/sro/editorship.php
