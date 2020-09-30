@@ -77,7 +77,7 @@ rp5.ru,rp5.ua,rp5.by,rp5.kz,rp5.co.uk#$?##content > div > div[id]:has(> ins.adsb
 !
 ! rambler with side-projects: autorambler.ru,wmj.ru,passion.ru,eda.ru,quto.ru,rns.online,championat.com,gazeta.ru,lenta.ru
 !#if (!adguard_app_windows && !adguard_app_mac && !adguard_app_android)
-letidor.ru,autorambler.ru,wmj.ru,motor.ru,passion.ru,quto.ru,eda.ru,rns.online,championat.com,gazeta.ru,lenta.ru,rambler.ru#%#//scriptlet("set-constant", "Object.prototype.placeNode", "undefined")
+letidor.ru,autorambler.ru,wmj.ru,motor.ru,passion.ru,quto.ru,eda.ru,rns.online,championat.com,gazeta.ru,lenta.ru,rambler.ru#%#//scriptlet("abort-on-property-write", "Object.prototype.getRawBanner")
 !#endif
 rambler.ru#$#.ad.ad-banner.adbanner.nav-ad.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links { display: block !important; }
 !#safari_cb_affinity(general)
@@ -366,6 +366,7 @@ newsru.com,livejournal.com,tecmundo.com.br,rap.ru,abcnyheter.no##body div.fc-ab-
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=web2.0calc.com
 !
 !
+tt1069.com#%#//scriptlet("abort-current-inline-script", "document.getElementById", "ad blocker")
 webqc.org###perm_ad + #toplink
 webqc.org#$?##perm_ad { remove: true; }
 goduke.com###sidearm-adblock
@@ -380,9 +381,9 @@ salon.com#%#//scriptlet("set-constant", "use_adblock", "false")
 salon.com#%#AG_defineProperty('salon_config.live_ads', {value: "0"});
 iamzlnk.me##div[class="alert alert-info"]:first-child
 ||s.uicdn.com/uimag/*/assets/blockadblock.js
-@@||ebay-kleinanzeigen.de/static/js/belen/tracking/adblock-detection/ads*.js
-@@||ebay-kleinanzeigen.de/static/js/belen/tracking/adblock-detection/prebid*.js
-@@||ebay-kleinanzeigen.de/static/js/belen/tracking/adblock-detection/advertising*.js
+@@||ebay-kleinanzeigen.de/*/js/belen/tracking/adblock-detection/ads*.js
+@@||ebay-kleinanzeigen.de/*/js/belen/tracking/adblock-detection/prebid*.js
+@@||ebay-kleinanzeigen.de/*/js/belen/tracking/adblock-detection/advertising*.js
 ||netdeal.com.br/resources/netdeal.js$domain=gazetadopovo.com.br
 alpinforum.com##.page-body > div[id][style*="position: fixed"][style*="z-index: 1;"]
 nu.nl##.toast.adblocker
@@ -2268,6 +2269,7 @@ myfxbook.com#%#//scriptlet("set-constant", "adBlockerDetect", "1")
 !
 ! Common safari_cb_affinity(general)
 !#safari_cb_affinity(general)
+@@||tt1069.com/dfp.min.js
 @@||thgim.com/static/js/adsframe.min.js$domain=thehindu.com
 nu.nl#@#.AdSense
 priceguard.ru#@#.adBanner

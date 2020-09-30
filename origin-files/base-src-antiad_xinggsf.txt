@@ -707,7 +707,7 @@ bbs.xmfish.com##div[id^=adm_show_]
 behe.com
 biddingx.com
 bilibili.com##.gg-floor-module,#slide_ad
-bing.com##li.b_ad
+bing.com##li.b_ad,#b_notificationContainer_bop
 bitauto.com##.ad-tag-box,ins,body>div.container[style^=margin-top]
 blog.163.com###lofter_single,div.f-trans
 blog.sina.cn##div.item_hide+div,#pl-blog-artad
@@ -766,6 +766,7 @@ juejin.im##.banner,.wechat-banner
 kejet.net
 le.com##.banner_ad,#rightBottomPop,div.banner_left,div.banner_right,[id^=pause_a_content_h5ad]
 mail.163.com,mail.126.com##.emailSuggest,#theme,.gWel-bottom
+mail.21cn.com##.arale-dialog-1_2_3
 mediav.com
 mydrivers.com##.duilian,a[href*="jd.com/"],div.tj_list_tu
 myhack58.com##.CMBox>.adv32
@@ -792,6 +793,7 @@ shifen.com
 skycn.com###top970,ul.ul_Address>h3,a[href^="http://down.xiazaidc.com/"]
 sports.qq.com##.ad-wrapper,#focus_jordon,.ad_r_85,div[class|=gg],div.layout.mt35,div[adconfig_charset]
 subhd.com##div[style^="text-align:center;height:270px"],.col-md-10 > div:nth-of-type(1)
+swc.weather.com.cn
 tianyabooks.com##div[class^=bread_]
 tiebac.baidu.com,tieba.baidu.com,jump.bdimg.com,jump2.bdimg.com##div[ad-dom-img],#thread_list>li:not(.j_thread_list)
 toutiao.com##div.adTab,div.carAd,#pagelet-detailadd,iframe[onload^="var adWrap"],li.item.J_add,div[ad_name]
@@ -800,7 +802,7 @@ tracker.openwebtorrent.com
 trade.mtime.com
 tv.sohu.com##.x-dl-shake.x-download-panel, #playerBar > div.area ~a
 u-x.jd.com
-u17.com##[id^=u17-advert-fix-ad],div.ad_wrap
+u17.com##[id|=u17-advert],div.ad_wrap
 u8.hujiang.com
 ulmdb.cn
 user.qzone.qq.com##div#idQbossHotbar.hotbar_wrap,div.icenter-right-ad,div#QM_100005_Body,div.fn-feed-mod-bd,div.ck-act,div#QM_Container_100005,div.gdtads_box,li.f-single-biz
@@ -842,7 +844,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 |data:text/plain$popup,domain=music.163.com
 |http://a.oyksoft.com/show/$script
 |http://res.njxzwh.com/downza/pc/v2017/images/downAD.gif
-|http://tj.u17t.com/$script
 |http://www.4399.com/loadimg/iframe_$subdocument
 |http://www.downyi.com/tg/$script
 |http://www.huacolor.com/YD/*.gif$image

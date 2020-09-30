@@ -1,6 +1,17 @@
 !
 ! Section contains rules for specific websites
 !
+jable.tv##a[href*="?banner="]
+jable.tv##.uu-ads
+sokoc2.com##.rHHc
+manhuafen.com##.ad
+pianku.me###playad
+javdove.com##.dn_fix_bottom
+javdove.com##.recommend-link
+wmsj.pw,wmav.pw##[class^="asb-"]
+||336t.com/img/boss/*.gif$domain=wmav.pw|wmsj.pw
+sportsplanetmag.com##.adshow
+||tt1069.com/bbs/page20_top.php
 ||api.live.bilibili.com/*/Banner
 csdn.net##li[data-type="ad"]
 csdn.net###footerRightAds

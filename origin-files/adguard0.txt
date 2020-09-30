@@ -8,6 +8,8 @@
 youtube.com,youtube-nocookie.com#%#//scriptlet('set-constant', 'ytInitialPlayerResponse.adPlacements', 'undefined')
 youtube.com,youtube-nocookie.com#%#//scriptlet('set-constant', 'playerResponse.adPlacements', 'undefined')
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/64776
+leagueoflegends.com#%#//scriptlet('remove-class', 'async-hide', 'html')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/63911
 fakt.pl#$#div[amp-access*="showPayWall"][amp-access-hide] { display: block !important; }
 ! https://github.com/AdguardTeam/AdguardFilters/issues/63255
@@ -1514,6 +1516,10 @@ bournemouthecho.co.uk,eveningtimes.co.uk,greenocktelegraph.co.uk,heraldscotland.
 ! ##.subscribe
 infobus.eu,atorus.ru,castorama.ru,guzellikbulvari.com,marieclaire.ua,mvs.gov.ua,gadgets.ndtv.com,oneplus.com,tickets.ua,woman.ru,elle.ru,marieclaire.ru,europaplus.ru,krossovki.com,belretail.by,thecollegefix.com,femmie.ru,prostofinovo.ru,mauijim.com,netpeak.net,wday.ru,buhgalteria.ru,ellegirl.ru,gameslog.ru,gizmag.com,healthhacks.ru,klerk.ru,menshealth.com,rbc.ru,snce.ru,turizm.ru,wegame.com.ua##.subscribe
 !
+lyonpeople.com##.widget_monarchwidget
+lyonpeople.com##.widget_monarchwidget + div[class]
+lyonpeople.com#?#.et_pb_extra_column_sidebar > div.widget_text:has(> h4.widgettitle:contains(Newsletter))
+4fresh.ru##.botSub
 hipertextual.com##.mrf-newsletter
 astro-world.ru##.theiaStickySidebar > aside.penci_popular_news_widget + aside.widget
 ria.ru##.article__aggr
@@ -2424,7 +2430,6 @@ femmie.ru,americanlookout.com,bigleaguepolitics.com,flagandcross.com##.essbasc-p
 travelask.ru##.f-banner--booking
 dnevnyk-uspeha.com##.feed_flat
 deepdotweb.com##.feedburner-email-subscription
-4fresh.ru##.fixedNavigationBlock
 liberation.fr##.flow-bloc-subscription
 macrumors.com##.follow-banner
 theoutline.com##.follow-embed__newsletter

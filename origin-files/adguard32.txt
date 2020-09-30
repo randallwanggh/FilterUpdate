@@ -52,6 +52,8 @@ independent.co.uk,komputerswiat.pl,dobreprogramy.pl,amp.pcwelt.de,tomshardware.c
 ! ##.inline-ad-container
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##.inline-ad-container
 !
+m.crank-in.net##.__uz__third_party_ad
+||c.mipcdn.com/*/*.js$domain=m.manhuafen.com
 lemonde.fr##.friend.ops--inline
 supleks.jp##div[class*="_"][data-height]
 supleks.jp###shop-body > #btn-post + div[style]
@@ -101,8 +103,8 @@ rankedboost.com##.top-mob-div-stick
 russkoe-porno.me##.player-bn
 news18.com##.closestickybtn
 honeysanime.com###footerFloatingMenu
-merkur.de,amp-focus-de.cdn.ampproject.org##amp-fx-flying-carpet
-merkur.de,amp-focus-de.cdn.ampproject.org##.amp-flying-carpet-text-border
+www-merkur-de.cdn.ampproject.org,merkur.de,amp-focus-de.cdn.ampproject.org##amp-fx-flying-carpet
+www-merkur-de.cdn.ampproject.org,merkur.de,amp-focus-de.cdn.ampproject.org##.amp-flying-carpet-text-border
 amp-focus-de.cdn.ampproject.org##div[class="textBlock orange-button-artobj ps-tracking-position ps-trackingposition_OrangerButton"]
 znak.com##.SVKNative-Widget li[data-unit-type="promo"]
 pixnet.net##.in-read-ad
