@@ -8,6 +8,10 @@
 youtube.com,youtube-nocookie.com#%#//scriptlet('set-constant', 'ytInitialPlayerResponse.adPlacements', 'undefined')
 youtube.com,youtube-nocookie.com#%#//scriptlet('set-constant', 'playerResponse.adPlacements', 'undefined')
 !
+! Test for twitch
+! https://github.com/AdguardTeam/AdguardFilters/issues/64754
+twitch.tv#%#(function(){if("function"==typeof fetch){var e=window.fetch;window.fetch=function(d,g){if(2<=arguments.length&&"string"===typeof d&&d.includes("/access_token")){var c=new URL(arguments[0]),a=[];c.searchParams.forEach(function(h,f){a.push(f)});for(var b=0;b<a.length;b++)"oauth_token"!=a[b]&&"need_https"!=a[b]&&c.searchParams["delete"](a[b]);arguments[0]=c.href}return e.apply(this,arguments)}}})();
+!
 ! https://github.com/AdguardTeam/AdguardFilters/issues/64776
 leagueoflegends.com#%#//scriptlet('remove-class', 'async-hide', 'html')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/63911
@@ -1832,7 +1836,7 @@ wowroms.com#$##footer-content div[id="newsletter"] > div.group > div.mail_action
 fontanka.ru#?##app div[class] > aside[class] + div[class] > section[class] article[data-io-article-url] + div > div[class] > div[class]:has(> h4[class] + p > a[href="/subscription/"])
 sostav.ru##.tgzen
 online-tech-tips.com##.sidebar > div.social-signup
-politnavigator.net,sonyalpharumors.com,paraborsa.net,newreporter.org,racingdealma.com.ar,hrodna.life##.widget_mailpoet_form
+turk-internet.com,politnavigator.net,sonyalpharumors.com,paraborsa.net,newreporter.org,racingdealma.com.ar,hrodna.life##.widget_mailpoet_form
 creativebloq.com,tomsguide.com,livescience.com##body .newsletter-signup
 batenka.ru##.block-subscribe
 boomlive.in##.subscribe-to-us-list

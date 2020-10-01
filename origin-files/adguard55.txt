@@ -22,6 +22,7 @@
 ||nd.demdex.net/event?d_mid=$redirect=nooptext,important,domain=9now.com.au
 ||adc.nine.com.au/?token=$redirect=nooptext,important,domain=9now.com.au
 !
+||smutty.com/ajax/trcking/
 ||atconnect.npo.nl/h?s=$image
 ||supleks.jp/action/log/
 ||pendo.io/data/ptm.gif
@@ -64,7 +65,6 @@
 ||chronicle.com/_track
 ||construction21.org/ga.js
 ||marsflag.com/mf2file/site/ext/tr.js
-||api.twitter.com/*/jot/client_event.json
 ||retailrocket.ru/content/javascript/tracking.js
 ||api.idg.zone/intextlinks-tracking/
 ||prometeo-media-service.com/assets/pixel.gif

@@ -220,6 +220,17 @@ cast4u.tv,euro16.live,footdirect24.com,freesoccer.in,hdcast.info,hdmyt.info,hent
 !
 !
 !
+melongfilm.org##.ipprtcnt
+darko.audio##[id^="ubm-banners-"]
+observer.com###top-banner-container
+||smutty.com/n.js
+||smutty.com/ab/
+||s.smutty.com//javascript/yo/yolor.js
+||dyncdn.me/static/20/js/rightb2.js
+hdporn.org##a[href^="https://www.hdporn.org/link/"]
+loveha.net##.float-ck
+boxrec.com##.midAdvert
+||upsieutoc.com/images/2020/08/19/bl.jpg
 shurt.pw##body > iframe
 imgbaron.com,picbaron.com##iframe[src^="//tsyndicate.com/"]
 ign.com##.adunit-wrapper
@@ -418,7 +429,7 @@ dailymail.co.uk##.ad-wrapper
 news18.com##.article-mad
 smallseotools.com##.top_b_home
 smallseotools.com##div[id^="stop_it_"]
-wordcounter.icu##.interstitial-page > nav#mainNav ~ iframe
+linkdrop.net,wordcounter.icu##.interstitial-page > nav#mainNav ~ iframe
 milesplit.com##.leaderboard
 livelaw.in##.modal_wrapper_frame
 livelaw.in##div[data-category="banner_ad"]
@@ -434,7 +445,7 @@ tubeqd.tv##div[style^="height: 250px;overflow: hidden;"]
 indiatoday.in##.inline-story-add
 ||webnovelonline.com/static/media/banner_
 collectionofbestporn.com###lower-ads
-porn00.org##.block-video > div.table
+hdporn.org,porn00.org,keekass.com,fuckit.cc,camwhoresbay.com,vqtube.com,private-shows.net,camwhoreshd.com,fapster.xxx##.block-video > div.table
 porn00.org##.headline > a[rel="nofollow"]
 clipwatching.com###coverAds
 ||clipwatching.com/pu/*.js
@@ -607,7 +618,6 @@ kisscartoon.info##.offads
 ethereumprice.org##.partner-highlight
 tunebat.com##div[id^="nm-sticky-container"]
 tunebat.com##.ad-container-box
-||akwam.net/c.js
 dailymail.co.uk##.connatix-placeholder
 washingtontimes.com##.connatixcontainer
 thingiverse.com##div[class^="AdBlockDetect"]
@@ -1295,7 +1305,6 @@ torlock.com##article > table.table-condensed + div[class] > div.row a.extneed
 abc11.com###vembaModule
 printedelectronicsnow.com##.globalOverlay
 printedelectronicsnow.com###exposeMask
-keekass.com,fuckit.cc##.block-video > div.table
 ||shemalez.com/assets/jwplayer-*/vast.js
 91porn.com##.vjs-preroll
 powvldeo.me##iframe[src^="//tontent.powvideo.net/"]
@@ -1433,7 +1442,6 @@ teenporno.xxx##.main-menu > ul > li > a[target="_blank"]
 ||js.wpnsrv.com/pn.php
 ||teenporno.xxx/ab/
 vikiporn.com##.header-area > ul.nav > li > a[rel="nofollow"][target="_blank"]
-camwhoresbay.com##.block-video > div.table
 camwhoresbay.com##.exclusive-link
 camwhoresbay.com##.navbar-right > li > a[rel="noopener"][onclick]
 bitetheass.com##center > noindex
@@ -1450,7 +1458,6 @@ anyporn.com##.primary > .nopop > a[target="_blank"]
 stileproject.com,pornrabbit.com,pornwatchers.com##.fluid_nonLinear_bottom
 ||pornwatchers.com/boom/*.html
 vqtube.com##.video-holder > center > h2
-vqtube.com##.block-video > div.table
 pornfay.org##a[href="http://pornfay.org/xxx/free-porn-videos.php"]
 pornfay.org##.kt-api-btn-start
 tube8.com##a[href^="https://sexsimulator.game/"]
@@ -3219,7 +3226,6 @@ xfantasy.tv##a[class^="join_banner"][target="_blank"] > img
 seedpeer.me##.content > iframe[width="800"][height="200"]
 instadp.com##.promoted-modal
 .com/pu/$script,domain=smutr.com
-private-shows.net,camwhoreshd.com,fapster.xxx##.block-video > div.table
 ||backgrounds.wetransfer.net/brand/
 youx.xxx##.banner
 youx.xxx##.player-banner
@@ -8802,7 +8808,7 @@ lingolia.com##.adv-header
 poe.trade###contentstart > .large-12 > #topone
 poe.trade##.search-results-block > .centered
 zoomtv.me##[style="position:absolute;width:300px;height:250px;right:0;left:250px;top:50px;z-index:999999;background-color:#FFF;display:block;"]
-shrinkme.in,streamsport.pro,fir3.net,todaynewspk.win,dz4link.com,vinaurl.in,megaurl.xyz,megalink.pro,newsbaxs.com,megaurl.in,aii.sh,ckk.ai,vipleague.me##a[href][target="_blank"] > img
+linkdrop.net,shrinkme.in,streamsport.pro,fir3.net,todaynewspk.win,dz4link.com,vinaurl.in,megaurl.xyz,megalink.pro,newsbaxs.com,megaurl.in,aii.sh,ckk.ai,vipleague.me##a[href][target="_blank"] > img
 grunge.com##.google-ad-placeholder
 narcity.com##.awrapper
 androidcentral.com###mbn_common_footer
@@ -9051,7 +9057,7 @@ pron.tv##.lextra
 altenen.is,fraudstercrew.su,pugski.com,beermoneyforum.com,germancarforum.com,cracking.org##.samBannerUnit
 watch2free.review,moviestube.live,onlinewatchfree.cc,watchonlinemovie.rocks,watch24free.net,putlockerz.ws,putlocker.bet,watchputlocker.site,putlockeronlinefree.site##.movgre
 watch2free.review,onlinewatchfree.cc,watchonlinemovie.rocks,watch24free.net,putlockerz.ws,putlocker7.live,putlocker.bet,watch2free.net,visit4movies.com,putlockeronlinefree.site###downhd
-||i.imgur.com^$domain=putlockerz.ws|putlocker7.live|oko.sh|startcrack.com|stfly.me|netflav.com
+||i.imgur.com^$domain=putlockerz.ws|putlocker7.live|oko.sh|startcrack.com|stfly.me|netflav.com|hdporn.org
 dvdsreleasedates.com##.fieldtable-light > .disccell
 dvdsreleasedates.com###field > div[style*="width:728px;height:90px;"]
 ||udvl.com/api/spots/*?host=$third-party
