@@ -71,6 +71,14 @@ shieldsgazette.com,spieletipps.de,ekstrabladet.dk,focus.de,demorgen.be,volkskran
 /wrapperMessagingWithoutDetection.js$script,domain=the-sun.com|thescottishsun.co.uk|thesun.co.uk|thesun.ie
 !
 !
+rappler.com##div[class^="GDPRBanner_"]
+cossta.com.tr###cerekKullanimUyari
+butikeva.com.tr###cerez-politikasi
+avva.com.tr##.cookieavva
+bikopek.com##.fixed-cookie
+jacotei.com.br##.termos-politica
+zoom.com.br,buscape.com.br##div[class^="PrivacyPolicy"]
+molotov.tv##.eRnhI
 halle-entdecken.de###myModal
 thomann.de##.thomann-cookie-consent-overlay
 nebenan.de###main > .c-layout > .c-layout-wrap + article[class^="index-module_root__"]
@@ -600,7 +608,7 @@ skidka.ru###ckc
 leagueoflegends.com,playvalorant.com###riotbar-alerts-container
 playvalorant.com##.riotbar-cookie-policy-v2
 engineering.fb.com###GDPRConsentBar
-smallstep.com###clym-widget-privacy-frame
+cpomagazine.com,smallstep.com###clym-widget-privacy-frame
 donostiakultura.eus###NLC_textLayer
 juedische-allgemeine.de##section.cc
 cbc-ag.de###tqconsent-popup-essential_or_all
@@ -1922,8 +1930,6 @@ calvinklein.de#$#.ReactModal__Body--open { overflow:visible!important; }
 calvinklein.de#$#.ReactModal__Overlay { display:none!important; }
 cashconverters.be#$#.modal-backdrop { display: none !important; }
 cashconverters.be#$#body { overflow: visible!important; }
-cfos.de#$#.fade { display: none!important; }
-cfos.de#$#body { overflow: visible!important; }
 faceit.com,mtv.fi##cookie-consent
 bmw-connecteddrive.de##cookie-drawer-container
 impresa.italia.it##cookie-law-banner
@@ -2502,7 +2508,7 @@ fastcompany.com##.page-header > .notification
 this.kiji.is##.page__gdpr
 pantaflix.com##.panta-js-cookieNotificationBar
 priberam.org##.pb-cookies
-genmedya.com,tvnet.com.tr,nethaber.com.tr,hatayzafer.com.tr,antalyahakkinda.com,ulakci.com,mavikocaeli.com.tr,alfabank.ru,dirilispostasi.com,teknolojioku.com##.policy
+gaste.org,genmedya.com,tvnet.com.tr,nethaber.com.tr,hatayzafer.com.tr,antalyahakkinda.com,ulakci.com,mavikocaeli.com.tr,alfabank.ru,dirilispostasi.com,teknolojioku.com##.policy
 roosterteeth.com##.policy-banner
 hotellook.com,kongregate.com##.policy-bar
 nazwa.pl##.policy-box
@@ -4450,7 +4456,7 @@ consent.talpanetwork.com#%#AG_onLoad(function() { setTimeout(function() { var el
 baudoo.de#%#document.cookie="no_thanks=true; path=/;";
 finn.no#%#(function() { try { if ("undefined" != typeof sessionStorage) { sessionStorage.setItem("gdpr-popup-displayed", "true") } } catch (ex) {} })();
 bdcraft.net#%#AG_onLoad(function() { setTimeout(function() { var el = document.querySelector('input[id="bdc_gdpr_accept"]'); if(el) el.click(); }, 300); });
-moovitapp.com#%#document.cookie = "cookieconsent_status=dismiss; path=/;";
+nordcheckout.com,moovitapp.com#%#document.cookie = "cookieconsent_status=dismiss; path=/;";
 tecchannel.de#%#//scriptlet("abort-on-property-read", "Object.prototype.waitForConsentData")
 nacongaming.com#%#//scriptlet("set-constant", "tarteaucitron.cookie", "undefined")
 youmath.it#%#AG_onLoad(function(){setTimeout(function(){-1==document.cookie.indexOf("check-cmp")&&"function"===typeof __cmpui&&(window.__cmpui("setAndSaveAllConsent",!1),document.cookie="check-cmp=V10; path=/;",location.reload())},1000)});

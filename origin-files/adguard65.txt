@@ -1,6 +1,10 @@
 !
 ! Extended CSS rules
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/64841
+cryptodaily.co.uk#?#.related-row > div.related-item:has(> div > p.post-ad-title)
+! https://github.com/AdguardTeam/AdguardFilters/issues/64910
+solarmovie.cr#$?#iframe[data-glx][style] { remove: true; }
 ! https://github.com/AdguardTeam/AdguardFilters/issues/64759
 loveha.net#?#.chapter-content > center:has(> h3 > font[color="white"])
 loveha.net#?#.chapter-content > h3 > font[color="white"]:contains(ADVERTISEMENT)
@@ -1059,7 +1063,9 @@ smailpro.com#?##home div.caption > div[class]:has(> div > a[target="_blank"] > i
 tube-bunny.com#?#.page-wrapper div[class]:has(> div.title-vis > p > span:contains(Advertisement))
 tube-bunny.com#?#span:contains(Advertisement)
 !
+cpomagazine.com#?#body div[class]:has(> div[class^="cpoma-articles-inline-"])
 smallseotools.com#?#.main-content div[class]:has(> span[class*="tuny_baaz_"])
+xdarom.com#?#.sidebar-main > aside:has(> div.textwidget > p > ins.adsbygoogle)
 wisn.com#?#.article-content--body-text > div.article-content--body-wrapper-side-floater:has(> div.ad-rectangle)
 letfap.com#?#.box > center:has(> span[id^="ad-top-"])
 ladsnbastands.com#?##secondary > section:has(> div.textwidget ins.adsbymahimeta)

@@ -671,6 +671,7 @@
 /^(\S+\.)?d[\d]+\.sina(img)?(\.com)?\.cn/
 /^(\S+\.)?e7[0-9]{2,4}\.(net|com)?$/
 /^(\S+\.)?g[1-4][0-9]{8,9}\.com?$/
+/^(\S+\.)?hg[0-9]{4,5}\.com?$/
 /^(\S+\.)?pixels?\./
 /^(\S+\.)?sax[\dns]?\.sina\.com\.cn/
 /^(\S+\.)?tongji\./
@@ -1108,6 +1109,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||1133.cc^
 ||11370090.net^
 ||114com.cc^
+||114la.com^
 ||114lm.com^
 ||114park.com^
 ||114so.cn^
@@ -1122,6 +1124,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||118ex.cn^
 ||119cgpt.com^
 ||11a581bbb5038e.com^
+||11h5.com^
 ||11hrcnll.com^
 ||11l11.net^
 ||11nux.com^
@@ -1148,6 +1151,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||123date.me^
 ||123hala.com^
 ||123juhd.com^
+||123juzi.net^
 ||123ppk.com^
 ||123vidz.com^
 ||125220.com^
@@ -1241,6 +1245,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||1818bobo.com^
 ||181lm.net^
 ||186078.com^
+||188api.com^
 ||188server.com^
 ||188xiaoba.net^
 ||189.cn/$popunder
@@ -1287,6 +1292,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||1jsskipuf8sd.com^
 ||1k4vd.cn^
 ||1kmb.cn^
+||1kxun.mobi^
 ||1kzh.com^
 ||1l-hit.mail.ru^
 ||1l1.cc^
@@ -1425,6 +1431,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||265958.com^
 ||268mob.cn^
 ||268mob.com^
+||26zsd.cn^
 ||272829.cc^
 ||272xb.com^
 ||273920d845b.com^
@@ -1835,6 +1842,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||51posj.cn^
 ||51posuiji.org.cn^
 ||51sxzz.com^
+||51taifu.com^
 ||51vipedu.com^
 ||51weidashi.com^
 ||51wxyx.cn^
@@ -2317,6 +2325,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||85tgw.com^
 ||85un.com^
 ||85wa.cn^
+||86.cc^
 ||860010.com^
 ||861ht.com^
 ||863my.com^
@@ -2425,6 +2434,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||913h6.cn^
 ||913nd.dieti-natura.es^
 ||913vt.com^
+||915.com^
 ||9158918.com^
 ||91860.com^
 ||9188car.com^
@@ -2520,6 +2530,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||99stats.com^
 ||99tianxin.com^
 ||99tuan.com.cn^
+||99youmeng.com^
 ||9a24a1b3dcd5f4.com^
 ||9a6wb.cn^
 ||9ads.mobi^
@@ -2632,7 +2643,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||a.lz13.cn^
 ||a.m.shuhuangge.org^
 ||a.market.xiaomi.com^
-||a.medialytics.com^
 ||a.mfcad.net^
 ||a.mjlnbx.cn^
 ||a.mobify.com^
@@ -3017,7 +3027,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||activities.niagara.comedycentral.com^
 ||activity.*.miui.com^
 ||activity.app.autohome.com.cn^
-||activity.bayimob.com^
 ||activity.clotfun.xyz^
 ||activity.frequency.com^
 ||activity.tuiapple.com^
@@ -3073,6 +3082,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||adacgov.cn^
 ||adaction.se^
 ||adacts.com^
+||adadapted.com^
 ||adadmin.house365.com^
 ||adadvisor.net^
 ||adagora.com^
@@ -3168,6 +3178,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||adchemy-content.com^
 ||adchemy.com^
 ||adchina.cc^
+||adchina.com^
 ||adcl.pchome.com.tw^
 ||adclear.net^
 ||adclerks.com^
@@ -3236,6 +3247,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||adengage.com^
 ||adentifi.com^
 ||adeq.hiidc.com.cn^
+||ader.mobi^
 ||adespresso.com^
 ||adeventtracker.spotify.com^
 ||adex.media^
@@ -3255,6 +3267,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||adezrvjcbyu.com^
 ||adf.dahe.cn^
 ||adf01.net^
+||adfancy.com.cn^
 ||adfclick1.com^
 ||adfeedstrk.com^
 ||adfeifan.com^
@@ -3276,6 +3289,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||adfront.auction.co.kr^
 ||adfrontiers.com^
 ||adfunkyserver.com^
+||adfurikun.jp^
 ||adfusion.com^
 ||adfuture.cn^
 ||adfux.com^
@@ -3390,6 +3404,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||adjungle.com^
 ||adjunky.com^
 ||adjust.com^
+||adjust.io^
 ||adjwl.com^
 ||adk2.co^
 ||adk2.com^
@@ -3398,6 +3413,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||adkengage.com^
 ||adkernel.com^
 ||adklip.com^
+||adkmob.com^
 ||adknock.com^
 ||adknowledge.com^
 ||adkonekt.com^
@@ -3419,6 +3435,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||adlive.cn^
 ||adlive.io^
 ||adloaded.com^
+||adlocus.com^
 ||adlog.com.com^
 ||adlog.vivo.com.cn^
 ||adlogists.com^
@@ -3444,13 +3461,10 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||admarket.mobi^
 ||admarketplace.net^
 ||admartzone.com^
-||admarvel.com^
-||admarvel.s3.amazonaws.com^
-||admarvel.top^
+||admarvel*.*^
+||admaster*.*^
 ||admaster.com
 ||admaster.com.cn
-||admaster.com.cn^
-||admaster.net^
 ||admatrix.jp^
 ||admaxim.com^
 ||admaya.in^
@@ -3487,6 +3501,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||admngronline.com^
 ||admo.tv^
 ||admob.*^
+||admon.cn^
 ||admother.com^
 ||admsapi.businessweekly.com.tw^
 ||admtpmp127.com^
@@ -3532,6 +3547,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||adnxs.com^
 ||adnxs.net^
 ||adnxs1.com^
+||adnyg.com^
 ||adnz.co^
 ||adobe-campaign.com^
 ||adobe-dns-2.adobe.com^
@@ -3616,6 +3632,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||adq.chinaso.com^
 ||adqic.com^
 ||adquality.ch^
+||adquan.com^
 ||adquantix.com^
 ||adquest3d.com^
 ||adqy6rzwcs.com^
@@ -3645,6 +3662,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||adrevolver.com^
 ||adright.co^
 ||adrise.de^
+||adriver.ru^
 ||adrizer.com^
 ||adro.co^
 ||adrocket.com^
@@ -3679,8 +3697,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||ads80.com^
 ||adsafeprotected.com^
 ||adsafety.net^
-||adsage.cn^
-||adsage.com^
+||adsage*.*^
 ||adsagony.com^
 ||adsalvo.com^
 ||adsame.
@@ -3722,6 +3739,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||adsense.html5.qq.com^
 ||adsensecamp.com^
 ||adsensedetective.com^
+||adsensor*.*^
 ||adser.io^
 ||adserve.com^
 ||adserve.ph^
@@ -3732,9 +3750,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||adserverplus.com^
 ||adserverpub.com^
 ||adservi.com^
-||adservice.sigmob.cn^
-||adservicemedia.dk^
-||adserviceretry.kugou.com^
+||adservice*.*^
 ||adserving.unibet.com^
 ||adservingfactory.com^
 ||adservinginternational.com^
@@ -3758,22 +3774,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||adsfuse.com^
 ||adsgangsta.com^
 ||adsgroup.qq.com^
-||adshack.com^
-||adshare.toutiao.com^
-||adshark.site^
-||adshell.net^
-||adshexa.com^
-||adshmct.qq.com^
-||adshmmsg.qq.com^
-||adshopping.com^
-||adshost2.com^
-||adshostnet.com^
-||adshot.de^
-||adshow.58.com^
-||adshow.it168.com^
-||adshownew.it168.com^
-||adshows.21cn.com^
-||adshuffle.com^
+||adsh*.*^
 ||adsiduous.com^
 ||adsignals.com^
 ||adsimilis.com^
@@ -3798,8 +3799,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||adsmarket.com^
 ||adsmind.apdcdn.tc.qq.com^
 ||adsmis.duxiaoman.com^
-||adsmogo.com^
-||adsmogo.net^
+||adsmogo*.*^
 ||adsmoon.com^
 ||adsnative.com^
 ||adsnetworkserver.com^
@@ -3829,8 +3829,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||adsrv.me^
 ||adsrv.us^
 ||adsrv4k.com^
-||adsrvmedia.com^
-||adsrvmedia.net^
+||adsrvmedia*.*^
 ||adsrvr.org^
 ||adsrvx.com^
 ||adss.dotdo.net^
@@ -3838,6 +3837,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||adss.video.qq.com^
 ||adss.yahoo.com^
 ||adssend.net^
+||adsserving*.*^
 ||adsstatic.vivo.com.cn^
 ||adstarget.net^
 ||adstargeting.com^
@@ -3853,6 +3853,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||adsummos.net^
 ||adsunflower.cn^
 ||adsunflower.com^
+||adsunion.com^
 ||adsupermarket.com^
 ||adsupply.com^
 ||adsupplyads.com^
@@ -3872,7 +3873,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||adsyndication.msn.com^
 ||adsys.sinovision.net^
 ||adsyst.biz^
-||adsystem.wasu.tv^
+||adsystem*.*^
 ||adszs.com^
 ||adszui.com^
 ||adt100.com^
@@ -3926,6 +3927,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||adtriba.com^
 ||adtrieval.com^
 ||adtrix.com^
+||adtrk.me^
 ||adtrovert.com^
 ||adtrue.com^
 ||adtruism.com^
@@ -4083,9 +4085,11 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||adwasu.wasu.tv^
 ||adways.com^
 ||adwebster.com^
+||adwetec.com^
 ||adwhirl.com^
 ||adwires.com^
 ||adwo.com^
+||adwords*.*^
 ||adworkmedia.com^
 ||adworkmedia.net^
 ||adworldmedia.com^
@@ -4119,6 +4123,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||adxite.com^
 ||adxlog.vivo.com.cn^
 ||adxmarket.com^
+||adxmi.com^
 ||adxnexus.com^
 ||adxoo.com^
 ||adxpand.com^
@@ -4274,7 +4279,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||afjlb.com^
 ||aflrm.com^
 ||afoux.com^
-||afp.adchina.com^
 ||afp.alicdn.com^
 ||afp.chinanews.com
 ||afp.chinanews.com^
@@ -4487,6 +4491,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||aizhigu.com.cn^
 ||ajagrofy.com^
 ||ajansreklam.net^
+||ajapk.com^
 ||ajaxcdn.org^
 ||ajcryptominer.com^
 ||ajhdf.com^
@@ -4550,7 +4555,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||alertme.news^
 ||alerts.ndtv.com^
 ||alerts.thedailystar.net^
-||alertserver.ushaqi.com^
 ||alespeonor.com^
 ||alexacdn.com^
 ||alexametrics.com^
@@ -4774,11 +4778,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||analy.qq.com^
 ||analy.tuniu.cn^
 ||analyse.weather.com.cn^
-||analysis.120ask.com^
-||analysis.chinaiiss.com^
-||analysis.fi^
-||analysis.shinobi.jp^
-||analysistools.net^
+||analysis*.*^
 ||analysys.cn^
 ||analyti.io^
 ||analytic.imlive.com^
@@ -4866,6 +4866,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||anovbqzmit.com^
 ||anquan.baidu.cn^
 ||anquan.baidu.com^
+||anquan.org^
 ||anquanzhuomian.cn^
 ||anquanzhuomian.com^
 ||anrdoezrs.net^
@@ -4905,6 +4906,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||anymedia.lv^
 ||anyonemyth.com^
 ||anyporn.com^
+||anysdk.com^
 ||anyxp.com^
 ||anyysz.com^
 ||anzhuocpm.com^
@@ -4975,7 +4977,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||api.22lianmeng.com^
 ||api.24kidea.com^
 ||api.557400.com^
-||api.adfurikun.jp^
 ||api.adv.ott.cibntv.net^
 ||api.aixifan.com^
 ||api.anti.wauee.com^
@@ -4987,7 +4988,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||api.brs.intl.miui.com^
 ||api.callget.cn^
 ||api.cdnbye.com^
-||api.cloudmobi.net^
 ||api.cupid.ptqy.gitv.tv^
 ||api.cupid.qiyi.com^
 ||api.danmu.tv.sohu.com^
@@ -5079,9 +5079,9 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||appadhoc.com^
 ||appadhoc.net^
 ||appads.com^
-||appapisdk.tanv.com^
 ||apparentsav.club^
 ||apparest.com^
+||appboy.com^
 ||appboy.eu^
 ||appboycdn.com^
 ||appbrain.com^
@@ -5110,11 +5110,13 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||applebarq.com^
 ||applequan.com^
 ||applicatemh.club^
+||applifier.com^
+||applift.com^
 ||applk.cn^
 ||applog.musical.ly^
 ||applog.uc.cn^
 ||applogapi.autohome.com.cn^
-||applovin.com^
+||applovin*.*^
 ||appn.center^
 ||appnext-a.akamaihd.net^
 ||appnext.com^
@@ -5128,12 +5130,10 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||approped.club^
 ||appropolyfunt.site^
 ||apprupt.com^
-||appsdk.tanv.com^
-||appsflyer.com^
+||appsflyer*.*^
 ||appsmall.mobi^
 ||appsupdate.sinaapp.com^
 ||appsupport.qq.com^
-||appsupport.stargame.com^
 ||apptap.com^
 ||apptornado.com^
 ||appuu.cn^
@@ -5142,6 +5142,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||apromoweb.com^
 ||aprtn.com^
 ||aprtx.com^
+||apsalar.com^
 ||apsis1.com^
 ||apsislead.com^
 ||apsmediaagency.com^
@@ -5438,7 +5439,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||ats.alot.com^
 ||atsfi.de^
 ||atsptp.com^
-||att.stargame.com^
 ||attach.s8bbs.com^
 ||attacketslovern.info^
 ||attacketsun.space^
@@ -5655,6 +5655,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||axizb.cn^
 ||axlwizxolfby.com^
 ||axoncoho.tk^
+||axonix.com^
 ||axuns.com^
 ||axzwzpxcnwrp.com^
 ||ayads.co^
@@ -5965,6 +5966,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||baolutongwuye.cn^
 ||baomeidiaosu.cn^
 ||baoxian.163.com/$subdocument
+||baoyatu.cc^
 ||bapkt.com^
 ||bapres.cn^
 ||baptisttop1000.com^
@@ -6011,7 +6013,9 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||baxt.mobi^
 ||bay.xiawu.com^
 ||bayception.pw^
+||baycode.cn^
 ||bayhypertpb.be^
+||bayimob.com^
 ||baynote.net^
 ||baypirateproxy.org^
 ||baypirateproxy.pw^
@@ -6428,6 +6432,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||bfjwdxeakfifak.com^
 ||bfmio.com^
 ||bfoleyinteractive.com^
+||bfshan.cn^
 ||bfvkxdhrnx.com^
 ||bg6s0.com^
 ||bg9ugav5tik0mbh7n9ca.pro^
@@ -6474,6 +6479,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||bidadx.com^
 ||bidder.mediams.mb.softbank.jp^
 ||bidderrtb.com^
+||biddingos.com^
 ||biddingx.com^
 ||bidfilter.com^
 ||bidgear.com^
@@ -6637,6 +6643,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||bjtengda.cn^
 ||bjtrld.com^
 ||bjuodbdjluix.com^
+||bjvvqu.cn^
 ||bjwvegvcgbyypx.com^
 ||bjwwfx001.org.cn^
 ||bjxiaohua.com^
@@ -7040,6 +7047,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||bs.yandex.ru^
 ||bs777.net^
 ||bscy05.cn^
+||bsdev.cn^
 ||bsfnvvxjcisif.com^
 ||bsgimhqko.com^
 ||bshare.cn^
@@ -7117,6 +7125,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||bugherd.com^
 ||bugly.qq.com^
 ||bugreportv2.qq.com^
+||bugtags.com^
 ||buhlhkkvljt.com^
 ||buildhoodpip.club^
 ||buildtrafficx.com^
@@ -7305,7 +7314,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||c.lattebank.com^
 ||c.lelangegg.cn^
 ||c.live.com^
-||c.medialytics.com^
 ||c.mininini.cn^
 ||c.mobishu.com^
 ||c.msn.com.cn^
@@ -7339,6 +7347,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||c0011.boursorama.com^
 ||c029aa09b9f.com^
 ||c02o3mpych.com^
+||c0563.com^
 ||c0594.com^
 ||c0afd4609c303.com^
 ||c0z.xyz^
@@ -7384,11 +7393,10 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||cab-too-low.com^
 ||cabineteen.club^
 ||cabresenalitie.club^
+||cacafly.com^
 ||cacafly.net^
-||cache-ssl.celtra.com^
 ||cache.am^
 ||cache.api-zdj.com^
-||cache.celtra.com^
 ||cache.fm^
 ||cache.sellwild.com^
 ||cache.soloth.com^
@@ -7668,7 +7676,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||cct2.o2online.de^
 ||cctg.cc^
 ||cctole.com^
-||cctv.adsunion.com^
 ||cctvgb.com.cn^
 ||cctyly.com^
 ||ccunf.com^
@@ -7710,8 +7717,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||cdn.ark.qq.com^
 ||cdn.assets.gorillanation.com^
 ||cdn.c-i.as^
-||cdn.celtra.com^
-||cdn.creative.medialytics.com^
 ||cdn.danmu.56.com^
 ||cdn.dragonstatic.com^
 ||cdn.hiido.cn^
@@ -7809,6 +7814,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||celebrus.com^
 ||celeritascdn.com^
 ||cellstats.mako.co.il^
+||celtra.com^
 ||cem.hotelsapi.io^
 ||cenceevent.club^
 ||cenessdise.info^
@@ -7923,6 +7929,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||chameleon.ad^
 ||championmachinery-cn.com^
 ||chanalytics.merchantadvantage.com^
+||chance-ad.com^
 ||chance.adsensor.org^
 ||chandlertreatment.com^
 ||chanelets-aurning.com^
@@ -7958,6 +7965,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||chartaca.com^
 ||chartbeat.com^
 ||chartbeat.net^
+||chartboost.com^
 ||chasteminihaunting.com^
 ||chatinator.com^
 ||chaufoox.net^
@@ -8470,6 +8478,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||cloudiiv.com^
 ||cloudioo.net^
 ||cloudmade.com^
+||cloudmobi.net^
 ||cloudpush.iqiyi.com^
 ||cloudservice*.kingsoft-office-service.com^
 ||cloudsrvtrk.com^
@@ -8485,17 +8494,14 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||clzfurcqmlgw.com^
 ||cm-analysis.com^
 ||cm-trk3.com^
-||cm.adkmob.com^
 ||cm.baidu.com^
 ||cm.bilibili.com^
 ||cm.dmp.360.cn^
 ||cm.dmp.sina.cn^
-||cm.fancyapi.com^
 ||cm.jd.com^
 ||cm.l.qq.com^
 ||cm.p4p.cn.yahoo.com^
 ||cm.passport.iqiyi.com^
-||cm.zhiziyun.com^
 ||cm8.lycos.com^
 ||cmap.alibaba.com^
 ||cmaxisolation.com^
@@ -8988,7 +8994,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||content-recommendation.net^
 ||content-square.net^
 ||content.ad^
-||content.adriver.ru^
 ||content.livesportmedia.eu^
 ||content.liveuniverse.com^
 ||content.s8bbs.com^
@@ -9038,6 +9043,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||convertsocial.com^
 ||convrse.media^
 ||conyak.com^
+||coocaatv.com^
 ||cooch.tv^
 ||cooguo.com^
 ||cookie-accept.com^
@@ -9441,6 +9447,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||crokacpwjtf.com^
 ||croomskosmos.site^
 ||cross-system.com^
+||crosschannel.com^
 ||crossoverchina.com^
 ||crosspixel.net^
 ||crosspromo.voodoo.io^
@@ -9570,6 +9577,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||ctrhub.com^
 ||ctripcorp.com^
 ||ctrmanager.com^
+||ctrmi.com^
 ||cts.businesswire.com^
 ||cts.vresp.com^
 ||ctsjackupspete.info^
@@ -9609,6 +9617,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||curtisfrierson.com^
 ||curvycry.com^
 ||customad.cnn.com^
+||customer-security.online^
 ||customer.heartinternet.co.uk^
 ||customer.io^
 ||customerconversio.com^
@@ -9736,7 +9745,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||d.adrolays.de^
 ||d.cntv.cn^
 ||d.dgzj.com^
-||d.dsp.imageter.com^
 ||d.elong.cn^
 ||d.feih.com.cn^
 ||d.finative.eu^
@@ -10196,7 +10204,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||data.mgtv.com^
 ||data.mic.com^
 ||data.minute.ly^
-||data.mobclix.com^
 ||data.neuroxmedia.com^
 ||data.pplive.com^
 ||data.qq.com^
@@ -10346,6 +10353,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||dd6zx4ibq538k.cloudfront.net^
 ||dd713.bj.bcebos.com^
 ||ddanq.com^
+||ddapp.cn^
 ||ddd.haodizhi666.com^
 ||dddddd.net^
 ||dddomainccc.com^
@@ -11018,8 +11026,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||dominoad.com^
 ||dominocounter.net^
 ||domisesvivin.info^
-||domob.cn^
-||domob.com.cn^
+||domob*.*^
 ||domodomain.com^
 ||domparce.pro^
 ||domslc.com^
@@ -11059,6 +11066,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||dotcounter.douyutv.com^
 ||dotmailer-surveys.com^
 ||dotmetrics.net^
+||dotmore.com.tw^
 ||dotnetkicks.com^
 ||dotnetshoutout.com^
 ||dotnxdomain.net^
@@ -11300,6 +11308,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||dualstack.adsame-1421766300.ap-southeast-1.elb.amazonaws.com^
 ||duamgurza.com^
 ||duamuprs.com^
+||duanat.com^
 ||duapps.com^
 ||dubester.pw^
 ||dubester.site^
@@ -11316,6 +11325,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||dugbvb.com^
 ||dugu123.com^
 ||duhochid.net^
+||duiba.com.cn^
 ||dujbubzvrdw.com^
 ||dulewang.com^
 ||dull.bankofamerica.com^
@@ -11332,8 +11342,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||duoduo.net^
 ||duomai.com/$third-party
 ||duomai.com^
-||duomeng.cn^
-||duomeng.net^
+||duomeng*.*^
 ||duomilm.com^
 ||duoqumanhua.com^
 ||duoroumao.cn^
@@ -11397,8 +11406,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||dwin2.com^
 ||dwkfnswdnheqfz.com^
 ||dwmegismbq.com^
-||dwtrack.qidian.com^
-||dwtracking.sdo.com^
+||dwtrack*.*^
 ||dx-cards-css.iqiyi.com^
 ||dx1200.com^
 ||dxcssc.cn^
@@ -11733,7 +11741,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||eco.myt7th.xyz^
 ||eco.qasdw3.xyz^
 ||eco.taobao.com^
-||eco.vcbn65.xyz^
 ||eco.vng25.xyz^
 ||ecomgxh.kuwo.cn^
 ||ecominalber.club^
@@ -11799,7 +11806,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||edomz.net^
 ||edotherest.club^
 ||edoutoam.net^
-||edp2.adriver.ru^
 ||edrgvzhpqrdnj.com^
 ||edrone.me^
 ||edsnnfqazn.com^
@@ -11877,6 +11883,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||effectionerew.site^
 ||effectionothere.site^
 ||effectivelyreport.com^
+||effectivemeasure.com^
 ||effectivemeasure.net^
 ||effiliates.cn^
 ||effirst.cn^
@@ -12206,6 +12213,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||eproof.com^
 ||eproof.drudgereport.com^
 ||eps-analyzer.de^
+||epsilon.com^
 ||epsqdbhrhqmbs.com^
 ||eptztrhirt.com^
 ||epu.1024txt.xyz^
@@ -12769,6 +12777,12 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||fan.liuxiaoer.com^
 ||fancialeldak.site^
 ||fancialsilveun.club^
+||fancyapi.com^
+||fancydigital.com.cn^
+||fancydmp.com^
+||fancydsp.com^
+||fancysmp.com^
+||fancysocialtalk.com^
 ||fandelcot.com^
 ||fandmo.com^
 ||fandommetrics.com^
@@ -13262,7 +13276,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||flux.faloo.com^
 ||flux16.com^
 ||fluxads.com^
-||flv.dotmore.com.tw^
 ||flv.ytshuirun.com^
 ||flvs7ql3l6.com^
 ||flx1.com^
@@ -14272,7 +14285,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||gg.meitu.com^
 ||gg.ptfish.com^
 ||gg.sonhoo.com^
-||gg.stargame.com^
 ||gg.uuu9.com^
 ||gg.vidown.cn^
 ||gg.xywy.com^
@@ -14423,6 +14435,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||glgelevator.com^
 ||gliese-682c.com^
 ||glishais.net^
+||glispa.com^
 ||glisteningguide.com^
 ||glmaamwyjkx.com^
 ||glnvdc.cn^
@@ -14500,6 +14513,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||go-mpulse.net^
 ||go-rillatrack.com^
 ||go.$domain=kickass.cd|thepiratebay.red|thepiratebay.ee
+||go.10086.cn^
 ||go.fapsite.com^
 ||go.hangzhou.com.cn^
 ||go.kukudm.com^
@@ -14761,10 +14775,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||gringrin.cn^
 ||gripdownload.co^
 ||grirault.net^
-||grjs01.com^
-||grjs02.com^
-||grjs06.com^
-||grjs08.com^
+||grjs0*.com^
 ||grmtas.com^
 ||grmtech.net^
 ||groackam.com^
@@ -14865,7 +14876,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||guang.lesports.com^
 ||guang.sdsgwy.com^
 ||guang8.cc^
-||guanggao369.cn^
+||guanggao*.*^
 ||guangsss1999.com^
 ||guangtui1999.com^
 ||guangzhuiyuan.com^
@@ -14900,6 +14911,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||guntinehughedf.info^
 ||gunzblazingpromo.com^
 ||guoad.com^
+||guohead.com^
 ||guominziben.com^
 ||guomob.com^
 ||guoshennet.com^
@@ -15128,6 +15140,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||haodongkeji.cn^
 ||haoduoyi1688.cn^
 ||haoeat.info^
+||haoghost.com^
 ||haohaowan8.com^
 ||haolew.com^
 ||haomaojin.com^
@@ -15255,7 +15268,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||hdcqfqnn.com^
 ||hdeslibzcv.com^
 ||hdfdm.com^
-||hdggcdn.bayimob.com^
 ||hdhkwl.com^
 ||hdj.baidu.com^
 ||hdjhsudhe.kuaizhan.com^
@@ -15416,11 +15428,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||hg-labs.com^
 ||hg417.bet^
 ||hg5858.net^
-||hg89038.com^
-||hg89068.com^
-||hg89078.com^
 ||hg8dc7bm.com^
-||hg98089.com^
 ||hgacevkuxzifv.com^
 ||hgbn.rocks^
 ||hgdanbas.cn^
@@ -15692,7 +15700,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||hocgeese.com^
 ||hoemasfat.site^
 ||hofraxopw.com^
-||hoisin.coocaatv.com^
 ||hoistchart.com^
 ||holder.com.ua^
 ||holdierpriv.club^
@@ -15996,6 +16003,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||hunt-leads.com^
 ||huodong.ios.shouji.360.cn^
 ||huodong.mobilem.360.cn^
+||huodonghezi.cn^
 ||huomob.com^
 ||huovernment.club^
 ||huoyiad1.cn^
@@ -16077,6 +16085,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||hyperboardupil.info^
 ||hyperlinksecure.com^
 ||hyperpromote.com^
+||hypers.com^
 ||hypersnap.net^
 ||hypertrackeraff.com^
 ||hypervre.com^
@@ -16127,7 +16136,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||i-components.net^
 ||i-mobile.co.jp^
 ||i-stats.com^
-||i.adfurikun.jp^
 ||i.bestcontentfare.top^
 ||i.compendium.com^
 ||i.flow.browser.oppomobile.com^
@@ -16499,6 +16507,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||images8.gaotie.cn^
 ||images9999.com^
 ||imageshimage.com^
+||imageter.com^
 ||imagetwist.com^
 ||imagzine.oppomobile.com^
 ||imall.cctv.com/$subdocument
@@ -16522,7 +16531,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||img.1whour.com^
 ||img.3sjt.com^
 ||img.adnyg.com.w.kunlungr.com^
-||img.adnyg.com^
 ||img.apnanalytics.com^
 ||img.cmm.xmfish.com/pages/uploads/20$image
 ||img.cxxyft.com^
@@ -16586,7 +16594,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||img2.km.com^
 ||img2.pengfu.net^
 ||img2.qekun.com^
-||img2.tanv.com^
 ||img2.titan007.com^
 ||img2.user.kanimg.com^
 ||img3.126.net/
@@ -16613,10 +16620,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||imgf.gade.suimeng.la^
 ||imgfeedget.com^
 ||imgkcxjlrlqf.com^
-||imglnka.com^
-||imglnkb.com^
-||imglnkc.com^
-||imglnkd.com^
+||imglnk*.com^
 ||imglt.com^
 ||imgp.cymzc.com^
 ||imgpak.xyz^
@@ -16702,6 +16706,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||in1.secure.uu.cc^
 ||in6ej4pbpnih.com^
 ||inabsolor.com^
+||inad.com^
 ||inapp.1sapp.com^
 ||inaudium.com^
 ||inboxanigas.com^
@@ -16815,6 +16820,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||inlrdxbuco.com^
 ||inmobi.cn^
 ||inmobi.com^
+||inmobi.net^
 ||inmobicdn.cn^
 ||inmobicdn.com^
 ||inmobicdn.net^
@@ -16868,6 +16874,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||inspikon.com^
 ||inst.360safe.com^
 ||insta-cash.net^
+||instabug.com^
 ||instadia.net^
 ||instaemail.net^
 ||instagramfollowbutton.com^
@@ -16924,10 +16931,10 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||intent.cbsi.com^
 ||intentarget.com^
 ||intenthq.com^
+||intentiq.com^
 ||intentmedia.net^
 ||inter1ads.com^
 ||interact-analytics.com^
-||interaction.bayimob.com^
 ||interactive-circle.jp^
 ||interactive.huanqiu.com^
 ||interadv.net^
@@ -17081,7 +17088,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||iptautup.com^
 ||iptonaib.net^
 ||iptvdeals.com^
-||ipua.adfurikun.jp^
 ||ipuckjvccooync.com^
 ||ipv6monitoring.eu^
 ||ipxejxiq.com^
@@ -17120,6 +17126,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||irmctbwmhnyznx.com^
 ||iroby.com^
 ||ironbeast.io^
+||ironsrc.com^
 ||irpmt.mail.163.com^
 ||irpush.com^
 ||irqs.ioam.de^
@@ -17128,6 +17135,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||irrrymucwxjl.ru^
 ||irs01.
 ||irs01.com^
+||irs01.net^
 ||irs03.com^
 ||irs09.com^
 ||irtya.com^
@@ -17153,6 +17161,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||isinaa.cn^
 ||isitone.com^
 ||iskkrmwivxfmdjwxme.bid^
+||iskyworker.com^
 ||islofthmci.com^
 ||ismatlab.com^
 ||ismtampsshad.icu^
@@ -17695,6 +17704,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||jlxzt.com^
 ||jm1.xiao89.com^
 ||jmait.cn^
+||jmgehn.cn^
 ||jmklkttenjpfzn.com^
 ||jmlinks.cn^
 ||jmlk.co^
@@ -18027,6 +18037,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||juyzr.com^
 ||juzdqtmyo.com^
 ||juzi.cn^
+||juzilm.com^
 ||jvcswgskvw.com^
 ||jvcwtqqkackdn.com^
 ||jvmrvkhle.com^
@@ -18469,6 +18480,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||kmadou.com^
 ||kmafwyzccd.com^
 ||kmbbqmrnso.com^
+||kmd365.com^
 ||kmdqyjebswoa.com^
 ||kmhodhhdvulnn.com^
 ||kmindex.ru^
@@ -18592,6 +18604,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||krs1v2sl.com^
 ||krsccftmf.com^
 ||krsutcnex.com^
+||krux.net^
 ||krwasgyensttng.com^
 ||krxd.net^
 ||ks67.com^
@@ -18731,7 +18744,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||kzsha.com^
 ||kzzeupckj.com^
 ||l.fairblocker.com^
-||l.fancyapi.com^
 ||l.m.naver.com^
 ||l.ooyala.com^
 ||l.player.ooyala.com^
@@ -18932,6 +18944,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||leadacity.net^
 ||leadad.mobi^
 ||leadadvert.info^
+||leadbolt.com^
 ||leadbolt.net^
 ||leadboltads.net^
 ||leadboltapps.net^
@@ -19088,7 +19101,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||lfriqmklpsbtq.com^
 ||lfstmedia.com^
 ||lftqch650apz.com^
-||lftxali.fancyapi.com^
 ||lfztmoamieum.com^
 ||lfzxcp.com^
 ||lg.tr.pandora.tv^
@@ -19125,8 +19137,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||lianjie.phpwind.com^
 ||lianka.cn^
 ||lianle.com^
-||lianmeng.360.cn^
-||lianmeng.com^
+||lianmeng*.*^
 ||lianwangtech.com^
 ||lianyicq.cn^
 ||liaoren85.com^
@@ -19622,7 +19633,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||logs.hotstar.com^
 ||logs.newapi.com^
 ||logs.spilgames.com^
-||logs.supersonic.com^
 ||logs.thebloggernetwork.com^
 ||logs.vmixcore.com^
 ||logsbin.dantri.com.vn^
@@ -19687,6 +19697,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||lostun.com^
 ||lottery.kuaiya.cn^
 ||lotteryaffiliates.com^
+||lotuseed.com^
 ||louchees.net^
 ||loudhoveracute.com^
 ||loudlunch.com^
@@ -19808,6 +19819,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||ludithyshi.pro^
 ||ludlowadvertiser-gb.ludlowadvertiser.co.uk^
 ||ludovwmhazsx.com^
+||lufax.com^
 ||lugansk-info.ru^
 ||luhtb.top^
 ||lulpolopolo.com^
@@ -20174,7 +20186,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||m.yes.youku.com^
 ||m.yingchengtou.com^
 ||m.yitime.top^
-||m.yooli.com^
 ||m.yubomiaomu.cn^
 ||m.yunshengyy.com^
 ||m.yuyouge.com^
@@ -20252,6 +20263,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||madhouse.cn^
 ||madisonlogic.com^
 ||madmen.alastonsuomi.com^
+||madmini.com^
 ||madnet.ru^
 ||madplypie.club^
 ||madserving.com^
@@ -20264,6 +20276,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||magararepublic.com^
 ||magicads.nl^
 ||magictreehouse.cn^
+||magicwindow.cn^
 ||magiphone.cn^
 ||magiq.com^
 ||magnetairport.com^
@@ -20479,6 +20492,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||maycanrami.tk^
 ||mayi360.cn^
 ||mayiad.com^
+||maysunmedia.com^
 ||mazu.3g.qq.com^
 ||mazu.m.qq.com^
 ||mb-srv.com^
@@ -20643,6 +20657,8 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||mediagridwork.com^
 ||mediakeywords.com^
 ||medialand.ru^
+||medialytics.com^
+||medialytics.io^
 ||mediametrics.mpsa.com^
 ||mediametrics.ru^
 ||mediaoaktree.com^
@@ -20681,6 +20697,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||meendocash.com^
 ||meepwrite.com^
 ||meetic-partners.com^
+||meetrics.com^
 ||meetrics.net^
 ||meetsexygirls.org^
 ||meezauch.net^
@@ -20688,6 +20705,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||mega-stats.com^
 ||megaad.nz^
 ||megacpm.com^
+||megajoy.com^
 ||megapopads.com^
 ||megast.at^
 ||megavisites.com^
@@ -20844,7 +20862,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||mg.32r.com^
 ||mg.games.sina.com.cn^
 ||mg.glwxw.net^
-||mg.yadro.ru^
 ||mg09.zhaopin.com^
 ||mg2connext.com^
 ||mgcash.com^
@@ -21079,6 +21096,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||mjita.cn^
 ||mjkvwpabdce.com^
 ||mjmbfjbgtqpu.com^
+||mjmobi.com^
 ||mjpjjbbvct.com^
 ||mjtjtcofce.com^
 ||mjx123.com^
@@ -21262,6 +21280,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||mobappconfig.securities.eastmoney.com^
 ||mobatori.com^
 ||mobbahjug.com^
+||mobclix.com^
 ||mobday.com^
 ||mobee.xyz^
 ||mobfox.com^
@@ -21283,6 +21302,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||mobileads.google.com^
 ||mobileads.msn.com^
 ||mobileadspopup.com^
+||mobileadtrading.com^
 ||mobileapptracking.com^
 ||mobiledissector.com^
 ||mobilehdmi.com^
@@ -21307,6 +21327,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||mobtop.ru^
 ||mobtrks.com^
 ||mobtyb.com^
+||mobvista.com^
 ||mobylog.jp^
 ||mobytrks.com^
 ||mocean.mobi^
@@ -21370,10 +21391,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||monijorb.com^
 ||monimoni.top^
 ||monitis.com^
-||monitor-uu.play.aiseet.atianqi.com^
-||monitor.ebay.com^
-||monitor.qq.com^
-||monitoringservice.co^
+||monitor*.*^
 ||monitus.net^
 ||monkeybroker.net^
 ||monkeyminer.net^
@@ -21712,7 +21730,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||mvo.nwffx.xyz^
 ||mvo.qasdw3.xyz^
 ||mvo.sqa54e.xyz^
-||mvo.vcbn65.xyz^
 ||mvo.ythbr.xyz^
 ||mvtracker.com^
 ||mvunstblutptj.com^
@@ -21791,6 +21808,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||mygeek.cn^
 ||mygoodlives.com^
 ||myhard.com^
+||myhug.cn^
 ||myiee.com^
 ||myinfotopia.com^
 ||myip.myzaker.com^
@@ -22771,6 +22789,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||nyhpyq.com^
 ||nyibqkuhqdz.com^
 ||nykps.com^
+||nylalobghyhirgh.com^
 ||nyltx.com^
 ||nymphdate.com^
 ||nyshoptara.pro^
@@ -22807,6 +22826,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||o12zs3u2n.com^
 ||o2live.com^
 ||o2o.api.xiaomi.com^
+||o2omobi.com^
 ||o333o.com^
 ||o4uxrk33.com^
 ||o626b32etkg6.com^
@@ -23061,11 +23081,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||omfortsex.club^
 ||omg2.com^
 ||omgid.qq.com^
-||omgmta.play.aiseet.atianqi.com^
-||omgmta.play.cp81.ott.cibntv.net^
-||omgmta.play.ott.video.qq.com^
-||omgmta.qq.com^
-||omgmta1.qq.com^
+||omgmta*.*^
 ||omgpm.com^
 ||omguk.com^
 ||omiki.com^
@@ -23079,9 +23095,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||omniconvert.com^
 ||omnikool.discovery.com^
 ||omnitagjs.com^
-||omniture.eaeurope.eu^
-||omniture.stuff.co.nz^
-||omniture.theglobeandmail.com^
+||omniture*.*^
 ||omoaxaus.net^
 ||omparentcarage.info^
 ||oms.expedia.com^
@@ -23118,6 +23132,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||onclkds.com^
 ||ondayswr.club^
 ||ondu.ru^
+||oneapm.com^
 ||oneblackjocker.online^
 ||onedmp.com^
 ||onefeed.co.uk^
@@ -23254,12 +23269,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||opentracking.ru^
 ||openvenue.com^
 ||openvpn.f2pool.com^
-||openx.net^
-||openxadexchange.com^
-||openxcdn.net^
-||openxenterprise.com^
-||openxmarket.asia^
-||openxt.cn^
+||openx*.*^
 ||operaserver.com^
 ||operatedelivery.com^
 ||opgirl-tmp.adbxb.cn^
@@ -23301,6 +23311,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||optimize-stats.voxmedia.com^
 ||optimizely.appspot.com^
 ||optimizely.com^
+||optimizelyapis.com^
 ||optimizelydata.com^
 ||optimizesocial.com^
 ||optimizesrv.com^
@@ -23471,7 +23482,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||outbid.io^
 ||outboundlink.me^
 ||outbrainimg.com^
-||outer.anquan.org^
 ||outhulem.net^
 ||outhumporc.work^
 ||outlookabsorb.com^
@@ -23522,6 +23532,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||owlsyumducal.com^
 ||owncutone.com^
 ||owndata.network^
+||owneriq.net^
 ||ownlocal.com^
 ||ownpage.fr^
 ||owodtmyd.com^
@@ -23590,7 +23601,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||p.kugou.com^
 ||p.l.qq.com^
 ||p.m5bn.com^
-||p.medialytics.com^
 ||p.milliyet.com.tr^
 ||p.niudashu.com^
 ||p.pagesjaunes.fr^
@@ -23776,8 +23786,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||partner.premiumdomains.com^
 ||partner.toutiao.com^
 ||partner.video.syndication.msn.com^
-||partnerad.l.google.com^
-||partnerads.ysm.yahoo.com^
+||partnerad*.*^
 ||partnercash.com^
 ||partnercash.de^
 ||partnerearning.com^
@@ -24160,7 +24169,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||pic.0597kk.com^
 ||pic.14bobo.com^
 ||pic.cnmo-img.com.cn^
-||pic.dotmore.com.tw^
 ||pic.ea3w.com^
 ||pic.haowj.com.cn^
 ||pic.jd-bbs.com^
@@ -24238,7 +24246,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||pingdishonest.com^
 ||pingdom.net^
 ||pingeds.cn^
-||pingfore.qq.com^
+||pingfore*.*^
 ||pinghot.qq.com^
 ||pingil.com^
 ||pingma.qq.com^
@@ -25081,6 +25089,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||public.porn.fr^
 ||publicgood.com^
 ||publicidad.net^
+||publicidad.tv^
 ||publicidees.com^
 ||publicityclerks.com^
 ||publift.com^
@@ -25097,6 +25106,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||pubmatic.com^
 ||pubmine.com^
 ||pubnation.com^
+||pubnub.com^
 ||pubplus.com^
 ||pubrain.com^
 ||pubs.hiddennetwork.com^
@@ -25221,7 +25231,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||pusheify.com^
 ||pushengage.com^
 ||pushengage.im^
-||pusher.com^
 ||pusherapp.com^
 ||pusherism.com^
 ||pushex.io^
@@ -25334,7 +25343,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||px.excitedigitalmedia.com^
 ||px.marchex.io^
 ||px.mvfglobal.com^
-||px.owneriq.net^
 ||px.spiceworks.com^
 ||px.staticfiles.at^
 ||px.wayfair.com^
@@ -25433,6 +25441,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||qcgkd322.vip^
 ||qchannel*.cn^
 ||qcjslm.com^
+||qcl777.com^
 ||qcnrblgdonypg.com^
 ||qcsfxv.cn^
 ||qcupup.com^
@@ -26374,6 +26383,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||responsetap.com^
 ||responsibilityimplied.com^
 ||responsidejo.club^
+||responsys.net^
 ||restions-planted.com^
 ||restroyhyt.club^
 ||resulticks.com^
@@ -26980,7 +26990,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||s.infogram.com^
 ||s.jandan.com^
 ||s.l8l9.com^
-||s.mobclix.com^
 ||s.mt145.com^
 ||s.p.youku.com^
 ||s.phpwind.com^
@@ -27025,7 +27034,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||s1t2uuenhsfs.com^
 ||s2.hiapk.com^
 ||s2.leshi123.cc^
-||s2.yandui.com^
 ||s2.zdface.com^
 ||s2.zdmimg.com^
 ||s20dh7e9dh.com^
@@ -27142,6 +27150,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||santicalsse.club^
 ||santrateduk.site^
 ||sanxueshufa.cn^
+||sanya1.com^
 ||saoboo.com^
 ||sape.ru^
 ||sapelmyep.com^
@@ -27364,7 +27373,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||sdlzmm.cn^
 ||sdn.kugou.com^
 ||sdn.scset.com.cn^
-||sdownload.stargame.com^
 ||sdqoi2d.com^
 ||sdrive.skoda-auto.com^
 ||sdsqyyc.com^
@@ -27578,7 +27586,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||serveraddr.service.kugou.com^
 ||serverbid.com^
 ||serverflox.online^
-||servers1.adriver.ru^
 ||servestats.com^
 ||service*.ap-*.apigateway.myqcloud.com^
 ||service-stat.tbn.ru^
@@ -27887,6 +27894,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||shuake.ink^
 ||shucaihangjia.com^
 ||shuccn.com^
+||shuiguo.com^
 ||shuihulu.com^
 ||shujuwu.com^
 ||shunlige.com^
@@ -27962,6 +27970,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||simba.m.taobao.com^
 ||simengadx.com^
 ||simicaseros.pro^
+||similarweb.com^
 ||simility.com^
 ||simon184.cn^
 ||simonsignal.com^
@@ -28165,6 +28174,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||sm1.todgo.com^
 ||sm2.todgo.com^
 ||sm3na.com^
+||smaato.com^
 ||smaato.net^
 ||smac-ssp.com^
 ||smaclick.com^
@@ -28333,7 +28343,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||sobin.wang^
 ||sobolong.com^
 ||socalledsteadilyeducated.com^
-||socdm.com^
+||socdm*.*^
 ||sochr.com^
 ||social-bookmarking-tools.de^
 ||social-sb.com^
@@ -28414,6 +28424,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||somberscarecrow.com^
 ||sombersurprise.com^
 ||sombes.com^
+||somecoding.com^
 ||somennew.com^
 ||somersetcountygazette-gb.somersetcountygazette.co.uk^
 ||sometream.club^
@@ -28793,7 +28804,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||sscjchina.com.cn^
 ||ssdaili.com^
 ||ssdiwjkarblih.com^
-||ssdk.adkmob.com^
 ||ssdoi.com^
 ||ssgg.chazidian.com^
 ||ssjpx.com^
@@ -28817,7 +28827,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||ssp.1rtb.com^
 ||ssp.4hw.com.cn^
 ||ssp.86str.com^
-||ssp.adriver.ru^
 ||ssp.cibn.starschina.com^
 ||ssp.hinet.net^
 ||ssp.kdnet.net^
@@ -28890,6 +28899,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||star8.net^
 ||stardedbio.club^
 ||starfish.pandora.xiaomi.com^
+||stargame.com^
 ||stargamesaffiliate.com^
 ||stargoug.com^
 ||starlayer.com^
@@ -28937,7 +28947,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||static.52zzyx.com^
 ||static.5411.com^
 ||static.akacdn.ru^
-||static.anquan.org^
 ||static.app.m.letv.com^
 ||static.apptrack.cn^
 ||static.baixingcdn.com^
@@ -29293,7 +29302,8 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||superloofy.com^
 ||superonclick.com^
 ||supersitetime.com^
-||supersonicads.com^
+||supersonic.com^
+||supersonicads*.*^
 ||superstat.info^
 ||superstats.com^
 ||supert.ag^
@@ -29464,7 +29474,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||synacast.com
 ||synacast.com^
 ||synapsys.us^
-||sync.intentiq.com^
 ||sync.outbrain.com^
 ||sync.shinobi.jp^
 ||sync.teamrtb.net^
@@ -29492,6 +29501,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||sysad.cn^
 ||sysadult.cn^
 ||sysal.cn^
+||sysdig.com^
 ||sysomos.com^
 ||systeme.io^
 ||systerwithing.info^
@@ -29597,7 +29607,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||t.locasun.it^
 ||t.locasun.nl^
 ||t.lzrkj.top^
-||t.medialytics.com^
 ||t.nativendo.de^
 ||t.ofsys.com^
 ||t.paypal.com^
@@ -29754,6 +29763,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||tantella.com^
 ||tantoporno.com^
 ||tantsprovisitsc.club^
+||tanv.com^
 ||tanwanyx.com^
 ||tanzhen.info^
 ||taobaly.cn^
@@ -29854,7 +29864,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||tc.hometogo.net^
 ||tc600.com^
 ||tcactivity.net^
-||tcad.wedolook.com^
 ||tcadops.ca^
 ||tcatkrccxgc.com^
 ||tcblwdybgbtzl.com^
@@ -30098,6 +30107,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||tgtmedia.com^
 ||tgtvbngp.ru^
 ||th21333.com^
+||th7.cn^
 ||thaickoo.net^
 ||thaixaux.net^
 ||thamsais.com^
@@ -30325,6 +30335,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||tiontablyvern.site^
 ||tip.biquge.info^
 ||tippola.com^
+||tiqcdn.com^
 ||tirrevealsdi.fun^
 ||tiser.com.au^
 ||tiser.com^
@@ -30684,7 +30695,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||tracer.jp^
 ||traceworks.com^
 ||traceybell.co.uk^
-||track-east.mobileadtrading.com^
 ||track-re01.com^
 ||track-server-100.com^
 ||track-victoriadates.com^
@@ -30764,17 +30774,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||trackfeed.com^
 ||tracki112.com^
 ||trackicollect.ibase.fr^
-||tracking-opi.fonpit.de^
-||tracking-server-prod-1.zenmxapps.com^
-||tracking1.brandmentions.com^
-||tracking100.com^
-||tracking101.com^
-||tracking11.com^
-||tracking202.com^
-||trackingapi.cloudapp.net^
-||trackinglabs.com^
-||trackingpro.pro^
-||trackingzen.com^
+||tracking*.*^
 ||trackjay.cool3c.com^
 ||trackkas.com^
 ||trackla.stackla.com^
@@ -31381,6 +31381,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||ubalh.com^
 ||ubazpxeafwjr.com^
 ||ubcpm.com^
+||uberads.com^
 ||ubercpm.com^
 ||ubertags.com^
 ||ubertracking.info^
@@ -31465,6 +31466,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||uel-uel-fie.com^
 ||uelllwrite.com^
 ||ueopjincquazoo.com^
+||uerzyr.cn^
 ||uesdpbrej.com^
 ||uestat.video.qiyi.com^
 ||ueuerea.com^
@@ -31497,6 +31499,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||ugoupams.com^
 ||ugqdykbxe.com^
 ||ugrastes.uk^
+||ugvip.com^
 ||ugxshqnodoha.com^
 ||ugyuyuccjgrtht.com^
 ||uh64b.cn^
@@ -31613,10 +31616,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||ummerciseha.info^
 ||umrrcta.cn^
 ||umsns.com^
-||umtrack.com^
-||umtrack0.com^
-||umtrack1.com^
-||umtrack2.com^
+||umtrack*.com^
 ||umusjdiehxbn.com^
 ||umv0.com^
 ||umv5.com^
@@ -31716,6 +31716,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||unknowncrate.com^
 ||unknowntray.com^
 ||unlimitate.club^
+||unlitui.com^
 ||unlockr.com^
 ||unlomblam.pro^
 ||unmortalloose.com^
@@ -31762,7 +31763,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||uparpu.com^
 ||upcum.com^
 ||update-your-pc.info^
-||update.123juzi.net^
 ||update.360safe.com^
 ||update.avlyun.sec.miui.com^
 ||update.bainv.net^
@@ -31795,7 +31795,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||upscore.com^
 ||upscri.be^
 ||upstats.ru^
-||upstats.yadro.ru^
 ||upt.graphiq.com^
 ||uptain.de^
 ||uptimecdn.com^
@@ -31872,7 +31871,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||usabilitytools.com^
 ||usabilla.com^
 ||usablenet.com^
-||usage.seibert-media.io^
+||usage*.*^
 ||usahacmyhl.com^
 ||usairguw.com^
 ||usalastnews.pro^
@@ -31917,6 +31916,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||users-api.com^
 ||usersegment.wpdigital.net^
 ||userzoom.com^
+||ushaqi.com^
 ||ushoofop.com^
 ||ushooque.net^
 ||usingde.com^
@@ -31988,6 +31988,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||uuwhg.com^
 ||uux79.com^
 ||uuxnwoevyb.com^
+||uuzu.com^
 ||uvawalhexufy.com^
 ||uvclick.com^
 ||uvcourse.net^
@@ -32173,6 +32174,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||vbtrax.com^
 ||vcaif.com^
 ||vcardsdkservice.vivo.com.cn^
+||vcbn65.xyz^
 ||vcfnspbgztl.com^
 ||vcfs6ip5h6.bid^
 ||vchim.com^
@@ -32214,6 +32216,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||veejooty.com^
 ||veethour.com^
 ||veewakim.net^
+||vegaoo*.*^
 ||vegaschina.cn^
 ||vegent.cn^
 ||vegoid.cn^
@@ -32232,6 +32235,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||vendigamus.com^
 ||vendri.io^
 ||venonita.com^
+||vente-unique.*^
 ||ventivmedia.com^
 ||venturead.com^
 ||veodxsimctsgs.com^
@@ -32370,6 +32374,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||videotracker.washingtonpost.com^
 ||vidfile.net^
 ||vidigital.ru^
+||vidoomy.com^
 ||vidoplay.com^
 ||vidpay.com^
 ||vidsdelivery.com^
@@ -32523,8 +32528,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||vmindhls.tc.qq.com^
 ||vmiua.com^
 ||vmjjzk.cn^
-||vmm-satellite1.com^
-||vmm-satellite2.com^
+||vmm-satellite*.com^
 ||vmmpxl.com^
 ||vmqgouvq.com^
 ||vmraahnmspzy.com^
@@ -32562,6 +32566,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||vogotita.com^
 ||vogozae.ru^
 ||voiceads.cn^
+||voiceads.com^
 ||voicefive.com^
 ||voioaartgw.com^
 ||voipnewswire.net^
@@ -32573,8 +32578,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||voltskegscurate.com^
 ||volutionorigi.site^
 ||voluumtracker.com^
-||voluumtrk.com^
-||voluumtrk3.com^
+||voluumtrk*.com^
 ||volvelle.tech^
 ||volyze.com^
 ||vonvthodzhxz.com^
@@ -32684,6 +32688,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||vujhqcemrpqj.com^
 ||vukhhjzd.com^
 ||vulging.pro^
+||vungle.cn^
 ||vungle.com^
 ||vupload.duowan.com^
 ||vupulse.com^
@@ -32741,7 +32746,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||vzvpswkjpxvzs.com^
 ||vzzylo.com^
 ||w.cube3d.cn^
-||w.fancyapi.com^
 ||w.gdown.baidu.com^
 ||w.l.qq.com^
 ||w.m.taobao.com^
@@ -32790,12 +32794,8 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||wacc888.com^
 ||wacucmiy.net^
 ||wadsotch.com^
-||wafmedia3.com^
-||wafmedia6.com^
-||waframedia20.com^
-||waframedia5.com^
-||waframedia8.com^
-||waframedia9.com^
+||wafmedia*.*^
+||waframedia*.*^
 ||wagenlux.cn^
 ||wagerjoint.com^
 ||wagershare.com^
@@ -32833,6 +32833,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||wandsworthguardian-gb.wandsworthguardian.co.uk^
 ||wanfcc.com^
 ||wanfem.com^
+||wanfeng1.com^
 ||wanfukang.cc^
 ||wangdaizao.com^
 ||wangdddy.com^
@@ -32994,8 +32995,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||weatherent.club^
 ||web-boosting.net^
 ||web-counter.net^
-||web-stat.com^
-||web-stat.net^
+||web-stat.*^
 ||web-t.9gag.com^
 ||web-track.go2yd.com^
 ||web-track.telekom-dienste.de^
@@ -33011,9 +33011,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||web605.cn^
 ||web8.net^
 ||webabcd.com^
-||webads.co.nz^
-||webads.eu^
-||webads.nl^
+||webads.*^
 ||webassembly.st^
 ||webassembly.stream^
 ||webbc.fivecdm.com^
@@ -33139,6 +33137,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||wecrtfr.com^
 ||weddingeeos.com^
 ||wedneckekij.club^
+||wedolook.com^
 ||weduoke.com^
 ||weedazou.net^
 ||weegebul.net^
@@ -33198,6 +33197,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||wenzhougy.cn^
 ||weoukcpr.com^
 ||weownthetraffic.com^
+||wep016.top^
 ||wepmmzpypfwq.com^
 ||weq.me^
 ||werbe-sponsor.de^
@@ -33357,6 +33357,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||wimaxnetworks.cn^
 ||wimbledonguardian-gb.wimbledonguardian.co.uk^
 ||wimsocou.com^
+||win-stock.com.cn^
 ||win.staticstuff.net^
 ||win999.com.cn^
 ||winads.cn^
@@ -33404,6 +33405,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||witstandfridge.com^
 ||wityamdog.com^
 ||wiwapaxo.xyz^
+||wiyun.com^
 ||wizhumpgyros.com^
 ||wizliebeg.com^
 ||wizwarsum.site^
@@ -33440,6 +33442,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||wlknb.com^
 ||wlkpa.cn^
 ||wlmarketing.com^
+||wlmonitor*.*^
 ||wlneteller.adsrv.eacdn.com^
 ||wlnxskclqr.com^
 ||wlpinnaclesports.eacdn.com^
@@ -33580,6 +33583,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||wqkqrmzldk.com^
 ||wqlkp.com^
 ||wqmjybqqhz.com^
+||wqmobile.com^
 ||wqmpomuwywy.com^
 ||wqpeltrb.com^
 ||wqsph.net^
@@ -33717,7 +33721,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||www-protection.com^
 ||www-sina-cn-com.com^
 ||www-static.xunzai.com/static/wwwimg/$image
-||www.10086.cn.baidu.cdn.yiwk.com^
 ||www.1ting.com/$subdocument
 ||www.2345.com/cnxh/$script
 ||www.36dm.com/images/$image
@@ -34068,10 +34071,12 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||xiaoyida.com^
 ||xiaoyuanzuqiu.cn^
 ||xiaoyutiao.com^
+||xiaozhen.com^
 ||xiaozhishi852.com^
 ||xiarikui08.com^
 ||xiaxuanfu.com^
 ||xiazai.cdren.com^
+||xibao100.com^
 ||xibei70.com^
 ||xicigroup.cn^
 ||xidexableact.cn^
@@ -34481,6 +34486,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||xxxwebtraffic.com^
 ||xxyxmdq.cn^
 ||xxyzwtsylw.com^
+||xy.com^
 ||xy33.smallable.com^
 ||xy98.com.cn^
 ||xyadaa.com^
@@ -34545,6 +34551,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||yabuka.com^
 ||yacafrr.bailingcloud.cn^
 ||yachtpreceding.com^
+||yadro.ru^
 ||yads.c.yimg.jp^
 ||yads.yahoo.co.jp^
 ||yadyiymarz.com^
@@ -34560,6 +34567,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||yamanoha.com^
 ||yanbenji.cn^
 ||yanderthundr.fun^
+||yandui.com^
 ||yangdasen.cn^
 ||yanglaopt.net^
 ||yangniupiju.com^
@@ -34835,6 +34843,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||yivzznzrujt.com^
 ||yiwad.com^
 ||yiwanuu.com^
+||yiwk.com^
 ||yiwuds.com^
 ||yixige.com^
 ||yixui.com^
@@ -34952,10 +34961,12 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||yong.chazidian.com^
 ||yongkang6.com^
 ||yongv.com^
+||yongyuelm.com^
 ||yonmzzszhf.com^
 ||yoobest.cn^
 ||yoochoose.net^
 ||yooclick.com^
+||yooli.com^
 ||yoqpnkhl.com^
 ||yoredi.com^
 ||yoshatia.com^
@@ -35057,6 +35068,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||yrrsckr.cn^
 ||yrrvmnimwztv.com^
 ||yrsjqzfku.com^
+||yrxmr.com^
 ||yrzyks.cn^
 ||ys.da.mgtv.com^
 ||ys.muhoujiemi.com^
@@ -35134,6 +35146,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||yun.yuyiya.com^
 ||yundingjiayuan.com^
 ||yunfanlm.com^
+||yunjiasu.com^
 ||yunl1.com^
 ||yunluge.com^
 ||yunmowu.com^
@@ -35484,6 +35497,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||zhiyaowan.cn^
 ||zhiyaspa.com^
 ||zhizi.qq.com^
+||zhiziyun.com^
 ||zhizones.com^
 ||zhjfad.com^
 ||zhkbjqtstd.com^
@@ -35589,6 +35603,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||zjrtuhds.top^
 ||zjsru-iweb.net^
 ||zjsyawqj.cn^
+||zjtoolbar*.*^
 ||zjuwjdc.com^
 ||zjxrg.top^
 ||zk.91post.com^
@@ -35868,6 +35883,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||zzsdtzb.com^
 ||zzsno1.com^
 ||zzsssy.com^
+||zzsx8.com^
 ||zztlgm.com^
 ||zzvvzfiwyfq.com^
 ||zzwflxs.com^

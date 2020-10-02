@@ -845,6 +845,9 @@ olke.az#$#.wrapper { top: 0!important; }
 !---------------------------------------------------------------------
 !------------------------------ Bulgarian ----------------------------
 !---------------------------------------------------------------------
+! https://github.com/AdguardTeam/AdguardFilters/issues/64914
+@@||play.nova.bg/prebid-ads.js
+play.nova.bg#%#//scriptlet("set-constant", "_spabia", "true")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/62751
 ||trud.bg/public/images/autodoc.bg_300x50.gif
 ! https://github.com/AdguardTeam/AdguardFilters/issues/64717
@@ -955,8 +958,6 @@ getitfree.cn#%#//scriptlet("abort-current-inline-script", "document.getElementBy
 itislooker.com##.ui_adblock
 ! https://github.com/AdguardTeam/AdguardFilters/issues/63575
 ohmanhua.com###ics
-! https://github.com/AdguardTeam/AdguardFilters/issues/63192
-hboav.com##.cc5278_banner_ad
 ! https://github.com/AdguardTeam/AdguardFilters/issues/62978
 chinese.engadget.com##div[class*="Mih(90px)"][class*="Bdbc(engadgetGray)"]
 chinese.engadget.com###module-engadget-deeplink-top-ad
@@ -1226,8 +1227,6 @@ jav777.xyz##iframe[src^="//ads.exoclick.com/"]
 jav777.xyz#%#//scriptlet("prevent-eval-if", "ADS_BLOCKED")
 !+ PLATFORM(ios, ext_android_cb, ext_safari)
 @@||jav777.xyz^$generichide
-! https://github.com/AdguardTeam/AdguardFilters/issues/47818
-||hboav.com/guga/*.php$domain=5278.cc
 ! https://github.com/AdguardTeam/AdguardFilters/issues/47816
 ||sex8.cc/plugin-e6-rebate.html
 sex8.cc##a[onclick^="window.open('/dasp.php?"]
@@ -3747,6 +3746,9 @@ bhaskar.com#%#var canABP = true;
 !------------------------------ Indonesian ---------------------------
 !---------------------------------------------------------------------
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/64851
+206.189.151.55##.tvtubeads
+206.189.151.55###ffbp-bg
 ! https://github.com/AdguardTeam/AdguardFilters/issues/64623
 149.56.24.226###overlay
 149.56.24.226###player-lux
@@ -6433,7 +6435,7 @@ zoomit.ir#$#body > .hotMenu[style="top: auto;"] { top: 0!important; }
 zoomit.ir#$#body > nav.is-sticky[style="top: 130px;"] { top: 0!important; }
 zoomit.ir#%#document.cookie = "BnShowNum=4; path=/;";
 ! soft98.ir
-soft98.ir#$?#.a7d2x { remove: true; }
+soft98.ir#$?#.a7d3x { remove: true; }
 soft98.ir#%#//scriptlet("set-constant", "Object.prototype.disableDownloadLink", "noopFunc")
 soft98.ir#$#[id^="sidebar"][id*="stick"] > section { opacity: 0!important; pointer-events: none!important; }
 soft98.ir#$#.a4d2x { display: none!important; }
@@ -6537,6 +6539,9 @@ innpoland.pl,mamadu.pl,dadhero.pl,natemat.pl#%#//scriptlet("prevent-eval-if", "i
 @@||video.onnetwork.tv/adblock_notify.js
 ||request.dqst.pl/v*/$xmlhttprequest
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/64893
+perelki.net#@#.ad-banner
+perelki.net#%#//scriptlet("prevent-setTimeout", "aderror_new")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/64569
 !+ PLATFORM(ios, ext_safari, ext_android_cb)
 @@||a.allegroimg.com^$domain=allegro.pl
@@ -6759,7 +6764,7 @@ dobryruch.co.uk#$#.adsbygoogle { position: absolute!important; left: -3000px!imp
 ! https://github.com/AdguardTeam/AdguardFilters/issues/53284
 ! https://github.com/AdguardTeam/AdguardFilters/issues/50437
 @@||js.iplsc.com/inpl.abd/*/proxy.html?host=$generichide
-@@||js.iplsc.com/inpl.abd/latest/ads.js?$domain=pomponik.pl|interia.pl
+@@||js.iplsc.com/inpl.abd/latest/ads.js?$domain=pomponik.pl|interia.pl|js.iplsc.com
 interia.pl,pomponik.pl#%#//scriptlet("set-constant", "Inpl.Abd.onDetected", "noopFunc")
 interia.pl,pomponik.pl#%#//scriptlet("set-constant", "isAdblockDetected", "0")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/50061
@@ -8169,8 +8174,6 @@ league-funny.com##.right > .fansCard
 ck101.com#?##threadlisttableid > tbody:not([class]):not([id]):has(> tr > td[id^="popin_"])
 ! https://github.com/AdguardTeam/AdguardFilters/issues/35310
 twpkinfo.com###div_close_cf
-! https://github.com/AdguardTeam/AdguardFilters/issues/34922
-hboav.com###inplayer
 ! https://github.com/AdguardTeam/AdguardFilters/issues/33850
 tvshowbox.tw##a[href=" http://www.shumeimotel.com/"] > img
 ! https://github.com/AdguardTeam/AdguardFilters/issues/33954

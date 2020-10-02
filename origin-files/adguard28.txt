@@ -82,6 +82,9 @@ sasisa.ru#%#AG_onLoad(function() { window.Umobi = function() {}; });
 !-------CSS---------
 !-------------------
 !
+! xhamster.com popup ads
+xhamster.com#$#.video-view-ads { display: none!important; }
+xhamster.com#$#body { overflow: visible!important; position: relative!important; }
 ! https://github.com/AdguardTeam/AdguardFilters/issues/61897
 cnews.ru#$#.mobile-banner { display: none !important; }
 cnews.ru#$#.modal-backdrop { display: none !important; }
@@ -175,6 +178,7 @@ deviantart.com#$#div[class*="dp-ad-"] {height: 0!important; width: 0!important; 
 !
 ! AMP ads in ShadowRoot
 $$amp-ad
+24tv.ua##div[class="within-ads"]
 vokrug.tv$$amp-embed[type="engageya"]
 finance.rambler.ru$$div[class="read-also__lentainform"]
 gordonua.com$$amp-iframe[src="https://recreativ.ru/"]
@@ -191,8 +195,12 @@ championat.com$$amp-embed[height="354"][width="600"]
 nashobmen.org$$script[tag-content="script_0.src ="][max-length="900"]
 ! https://github.com/AdguardTeam/AdguardFilters/issues/17500
 motherless.com$$script[tag-content="awentw.com"][min-length="2000"][max-length="2500"]
-! Yandex search
+! Yandex.Search
 yandex.by,yandex.com,yandex.com.tr,yandex.fr,yandex.kz,yandex.ru,yandex.ua$$div[class="serp-item serp-adv-item"]
+! Yandex.Weather
+yandex.ru#$#div[class*="_with-url-actualizer_yes"] > div.adv_type_top { display: none !important; }
+yandex.ru#$#div[class*="_with-url-actualizer_yes"] > div.adv_type_top ~ div[class$="__map_compressed"] { top: 0 !important; }
+!
 ! https://github.com/AdguardTeam/AdguardFilters/issues/7438
 pure-t.ru$$a[class="mobile-banner"]
 ! https://github.com/AdguardTeam/AdguardFilters/issues/4285
