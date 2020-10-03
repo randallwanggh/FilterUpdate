@@ -610,7 +610,7 @@
 */widget.jsp?bId$subdocument
 */wizard.js^
 */www/deliver/
-*/www/delivery/$domain=~elecfans.com
+*/www/delivery/
 */wwwcpm
 */wzduilian/$image,object,object-subrequest
 */wzygg/$image,object,object-subrequest
@@ -790,7 +790,6 @@ qq.com##.mod_ad
 qq.com##div[bosszone=tymyd],div[id^=AdZone],#coo_qqBrowser,div.ad-banner,div.side_ad
 quandangdang.net
 sdqoi2d.com
-shifen.com
 skycn.com###top970,ul.ul_Address>h3,a[href^="http://down.xiazaidc.com/"]
 sports.qq.com##.ad-wrapper,#focus_jordon,.ad_r_85,div[class|=gg],div.layout.mt35,div[adconfig_charset]
 subhd.com##div[style^="text-align:center;height:270px"],.col-md-10 > div:nth-of-type(1)
