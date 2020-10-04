@@ -12468,6 +12468,7 @@ foxtube.com##body > .pds.pb_footer
 foxtube.com##footer > #pie
 foxtube.com##footer > #pie_top
 fp.com.ua#?#.side-bar > div.widget:has(> div.pst-block-main > div.textwidget > div.socwidget)
+fplgameweek.com##mobile-sticky-ads
 fpo.xxx##.fp-player > .fp-ui > div[style^="position: absolute; overflow: hidden; display: block; left:"]
 fpo.xxx#?#.block-video > .table:has(> .opt > [id^="mp_spot_"])
 fpo.xxx,private-shows.net##.top > a[rel="nofollow"]
@@ -18719,7 +18720,6 @@ kupujemprodajem.com###cookieConsentHolder
 kupujemprodajem.com#@#.ad-title
 kurazone.net##.anuads
 kurier.at##.siteCookie
-kurier.de##.social-ext
 kurierwysmaz.pl,ddwloclawek.pl##.hey-outer.hejhej
 kurnik.pl#$#body .adsbygoogle { display: block!important; height: 2px!important; width: 1px!important; }
 kurnik.pl#%#//scriptlet("abort-on-property-read", "abask")
@@ -23017,6 +23017,7 @@ mt4forexplatform.review##.adsbygoogle
 mtb-news.de##.mtbn-newsletter-bar
 mtb-news.de##.mtbnews-sharing-buttons
 mtbcut.net#%#AG_onLoad(function() { var el = document.querySelector('a[href].wp-block-button__link'); if(window.location.href.indexOf("/?p=") != -1 && el) { el.click(); } });
+mtgarena.pro#%#//scriptlet("abort-on-property-write", "__vm_add")
 mthai.com###masthead
 mthai.com##.banner-wrap
 mthai.com##.fb-widgets
@@ -24407,7 +24408,7 @@ nontonplus.com###float-bottom-banner
 nontonplus.com##.content-kuss
 nookthem.com##body > [style*="z-index: 999999"][style*="margin-"][style*="bottom:"]:not([class]):not([id])
 noonsite.com##.portlet-static-global-sponsors
-nordbayerischer-kurier.de##.social-ext
+nordbayerischer-kurier.de,schwarzwaelder-bote.de,idowa.de,kurier.de##.social-ext
 nordbayern.de###privacyBanner
 nordbayern.de###socialshareprivacy
 nordbayern.de##div[id*="-mobile-ad-"]
@@ -29598,7 +29599,6 @@ schwaebische.de###button_bar > div[data-original-title*="teilen"]
 schwaebische.de##div[class*="tc-privacy-"]
 schwaebische.de#$##button_bar > div[data-original-title*="teilen"] { position: absolute!important; left: -3000px!important; }
 schwaebische.de#?#aside > .grey[-ext-has='>div.fb-page']
-schwarzwaelder-bote.de##.social-ext
 schweizer-illustrierte.ch##.floating_social
 science-et-vie.com###detection-block
 science-et-vie.com###detection-block-overlay
@@ -31096,8 +31096,8 @@ solverbook.com#?#.social > table:has(> tbody > tr > td:contains(Понравил
 solvettube.com#?##sidebar > .blocks > li.block:has(>.block-content > [class^="box textwidget "][class*="uson"])
 solvetube.site###ai-adb-message
 solvetube.site###ai-adb-overlay
-solvetube.site,getintopc.com#%#AG_onLoad(function(){if(location.pathname.includes("/wait-for-resource/")||location.pathname.includes("/video-guide-for-setup-installation/")||location.pathname.includes("/file-will-start-automatically")){var a=new MutationObserver(function(){try{var b=document.querySelector("#uniquetutorials");b&&b.innerText.includes("Adblocker")&&(b.style.display="none",[].slice.call(document.getElementsByTagName("script")).some(function(c){c.text.match(/='([\s\S]*?(=)?)';/)&&(c=c.text.matchAll(/='([\s\S]*?(=)?)';/g), (match=Array.from(c))&&match[1]&&match[1][1]&&(link=atob(match[1][1]),a.disconnect(),setTimeout("location.href = 'http://"+link+"';",10)))}))}catch(c){}});a.observe(document,{childList:!0,subtree:!0});setTimeout(function(){a.disconnect()},1E4)}});
-solvetube.site,getintopc.com#%#AG_onLoad(function(){if(location.pathname.includes("/wait-for-resource/")||location.pathname.includes("/video-guide-for-setup-installation/")||location.pathname.includes("/file-will-start-automatically")){var e=function(a){for(var b="",c=0;c<a;c++)b+="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789".charAt(Math.floor(62*Math.random()));return b};f=function(a,b){a=Math.ceil(a);b=Math.floor(b);return Math.floor(Math.random()*(b-a+1))+a};d=new MutationObserver(function(){var a=document.querySelector("ins.adsbygoogle[data-ad-client]"); if(a)var b=a.getAttribute("data-ad-client");if(a=document.querySelector("ins.adsbygoogle[data-ad-slot]"))var c=a.getAttribute("data-ad-slot");a=document.querySelectorAll('iframe[id^="aswift_"]:not([src]), iframe[id^="google_ads_iframe_"]:not([src])');0<a.length&&(a.forEach(function(g){g.setAttribute("src","https://googleads.g.doubleclick.net/pagead/ads?client="+b+"&output=html&h=90&slotname="+c+"&adk="+e(f(9,10))+"&adf="+e(f(10,11))+"&w=&lmt="+e(f(10,11))+e(f(1E3,1500)))}),d.disconnect())});d.observe(document, {childList:!0,subtree:!0});setTimeout(function(){d.disconnect()},5E3)}});
+solvetube.site,getintopc.com#%#AG_onLoad(function(){if(location.pathname.includes("/wait-for-resource/")||location.pathname.includes("/video-guide-for-setup-installation/")||location.pathname.includes("/file-will-start-automatically")){var c=function(a){for(var b="",e=0;e<a;e++)b+="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789".charAt(Math.floor(62*Math.random()));return b};f=function(a,b){a=Math.ceil(a);b=Math.floor(b);return Math.floor(Math.random()*(b-a+1))+a};d=new MutationObserver(function(){var a=document.querySelector("ins.adsbygoogle[data-ad-client]"); if(a)var b=a.getAttribute("data-ad-client");if(a=document.querySelector("ins.adsbygoogle[data-ad-slot]"))var e=a.getAttribute("data-ad-slot");a=document.querySelectorAll('iframe[id^="aswift_"]:not([src]), iframe[id^="google_ads_iframe_"]:not([src])');0<a.length&&(a.forEach(function(g){g.setAttribute("src","https://googleads.g.doubleclick.net/pagead/ads?client="+b+"&output=html&h=90&slotname="+e+"&adk="+c(f(9,10))+"&adf="+c(f(10,11))+"&w="+c(f(10,11))+" &lmt="+c(f(10,11))+"&format="+c(f(1E3,1500)))}), d.disconnect())});d.observe(document,{childList:!0,subtree:!0});setTimeout(function(){d.disconnect()},5E3)}});
+solvetube.site,getintopc.com#%#AG_onLoad(function(){if(location.pathname.includes("/wait-for-resource/")||location.pathname.includes("/video-guide-for-setup-installation/")||location.pathname.includes("/file-will-start-automatically")){var d={format:{stringify:function(a){var b={ct:a.ciphertext.toString(CryptoJS.enc.Base64)};a.iv&&(b.iv=a.iv.toString());a.salt&&(b.s=a.salt.toString());return JSON.stringify(b)},parse:function(a){a=JSON.parse(a);var b=CryptoJS.lib.CipherParams.create({ciphertext:CryptoJS.enc.Base64.parse(a.ct)});a.iv&&(b.iv=CryptoJS.enc.Hex.parse(a.iv));a.s&&(b.salt=CryptoJS.enc.Hex.parse(a.s));return b}}},c=new MutationObserver(function(){try{var a=document.querySelector(".clear-block > div[id][style] > h1 > b");a&&a.innerText.includes("Adblocker")&&(a.style.display="none",[].slice.call(document.getElementsByTagName("script")).some(function(b){b.text.match(/'({"ct":"[\s\S]*?"\})'/)&&"CryptoJS"in window&&(b=b.text.matchAll(/'({"ct":"[\s\S]*?"\})'/g),(match=Array.from(b))&&match[0]&&match[0][1]&&(link=match[0][1], c.disconnect(),setTimeout("location.href = 'http://"+JSON.parse(CryptoJS.AES.decrypt(link,"lvzzcibxicb",d).toString(CryptoJS.enc.Utf8))+"';",10)))}))}catch(b){}});c.observe(document,{childList:!0,subtree:!0});setTimeout(function(){c.disconnect()},1E4)}});
 sombex.com#%#AG_abortInlineScript(/adblock-blocker-overlay/, 'document.getElementById');
 somenotes247.blogspot.com#@#.vertical-ads
 sometag.com##div[class^="some-adv"]
