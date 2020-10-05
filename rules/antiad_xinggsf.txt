@@ -6762,7 +6762,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||bluecore.com^
 ||bluecounter.de^
 ||bluedawning.com^
-||bluehost.com^
 ||blueioabj.com^
 ||bluekai.com^
 ||blueparrot.media^
@@ -16591,6 +16590,7 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||img.3sjt.com^
 ||img.adnyg.com.w.kunlungr.com^
 ||img.apnanalytics.com^
+||img.bluehost.com^
 ||img.cmm.xmfish.com/pages/uploads/20$image
 ||img.cxxyft.com^
 ||img.dawenxue.org^

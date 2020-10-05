@@ -95,6 +95,8 @@ sodapdf.com##.be-tooltip
 !
 ! Specific sites
 !
+medium.com###credential_picker_container
+careerkarma.com#%#//scriptlet('set-cookie', '_Wmpci_Popup', 'true')
 freecourseweb.com##.brave_popup
 it-actual.ru##.x--overlay
 thelocal.se#$#.tp-backdrop { display: none!important; }
@@ -2852,6 +2854,8 @@ easy-deutsch.de#%#AG_onLoad(function() { setTimeout(function() { var el = docume
 !
 !
 !--- Whitelist
+! https://github.com/AdguardTeam/AdguardFilters/issues/64941
+@@||a.mailmunch.co/app/$domain=getfitwithjen.net
 ! https://github.com/ryanbr/fanboy-adblock/issues/1403
 @@||widget.pico.tools/static/js/bundle.js$domain=escapistmagazine.com
 @@||widget.pico.tools/widget_frame.html$domain=escapistmagazine.com

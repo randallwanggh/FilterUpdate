@@ -71,6 +71,11 @@ shieldsgazette.com,spieletipps.de,ekstrabladet.dk,focus.de,demorgen.be,volkskran
 /wrapperMessagingWithoutDetection.js$script,domain=the-sun.com|thescottishsun.co.uk|thesun.co.uk|thesun.ie
 !
 !
+github.com##.js-cookie-consent-banner
+letras.mus.br##.modalLGPD
+redbull.com#$#html { overflow: auto !important; }
+redbull.com#$#body { overflow: auto !important; }
+southparkstudios.com##.module-container-bala
 bang-olufsen.com##.cookie-row
 rappler.com##div[class^="GDPRBanner_"]
 cossta.com.tr###cerekKullanimUyari
@@ -1184,7 +1189,7 @@ futurelearn.com##div[aria_label="Cookie banner"]
 tunnelbear.com##.banner-wrap
 razer.com##.component-sticky-dialog
 wetnwildbeauty.com##.enhanced-privacy-cookie-policy
-win2day.at#$#.cookie-not-accepted-overlay .main:after { opacity: 0 !important; }
+win2day.at#$#.cookie-not-accepted-overlay .main::after { opacity: 0 !important; }
 win2day.at#$#.disable-scroll { overflow: visible !important; }
 win2day.at#$#.disable-scroll body { overflow: visible !important; }
 win2day.at#$#.cookie-notification:not(body) { display: none !important; }
