@@ -626,7 +626,7 @@ mangovideo.pw##.fp-brand
 ||shopping.rediff.com/trending-now/widget
 ! quora.com - login window on question https://forum.adguard.com/index.php?threads/quora-login-popup-not-removed.36399
 ! https://github.com/AdguardTeam/AdguardFilters/issues/62372
-quora.com#%#AG_onLoad(function(){var e=new MutationObserver(function(){function f(){a.style.display="none";d.classList.remove("signup_wall_prevent_scroll")}function l(){a.style.display="block"}var d=document.querySelector("body.signup_wall_prevent_scroll"),b=document.querySelector('div[id$="_signup_wall_wrapper"] #small_close'),c=document.querySelector('div[id$="_signup_wall_wrapper"] .dismiss_button');if(d&&!b&&!c){d.classList.remove("signup_wall_prevent_scroll");var a=document.querySelector('div[id$="_signup_wall_wrapper"]'); b=document.querySelector('div[id$="_signup_wall_wrapper"] div[class*="modal"][class$="_signup_dialog"]');c=document.querySelector('div[class*="--header"] span[class*="ButtonPill___StyledCssInlineComponent"] > button.q-click-wrapper:not([class*="qu-mr--"])');var g=document.querySelector('div[id$="_signup_wall_wrapper"] div[class^="modal"][class*="_signup_"]'),h=document.querySelector('div[class^="modal"][class*="_signup_"]'),k=document.querySelector(".modal_signup_dialog > .dialog_wrapper");a&&b&& c&&(e.disconnect(),a.style.display="none",b.addEventListener("click",f,!1),c.addEventListener("click",l,!1));a&&g&&h&&k&&(a.style.display="none",h.style.zIndex="unset",k.style.zIndex=9999,g.addEventListener("click",f,!1))}});e.observe(document,{childList:!0,subtree:!0});setTimeout(function(){e.disconnect()},5E3)});
+quora.com#%#AG_onLoad(function(){var e=new MutationObserver(function(){function f(){a.style.display="none";d.classList.remove("signup_wall_prevent_scroll")}function m(){a.style.display="block"}var d=document.querySelector("body.signup_wall_prevent_scroll"),b=document.querySelector('div[id$="_signup_wall_wrapper"] #small_close'),c=document.querySelector('div[id$="_signup_wall_wrapper"] .dismiss_button');if(d&&!b&&!c){d.classList.remove("signup_wall_prevent_scroll");var a=document.querySelector('div[id$="_signup_wall_wrapper"]'); b=document.querySelector('div[id$="_signup_wall_wrapper"] div[class*="modal"][class$="_signup_dialog"]');c=document.querySelectorAll('div[class*="-header"] button[class*="base___StyledClickWrapper"] div[class*="-color--"]');c.forEach(function(g){"Sign In"==g.innerText&&(logb=g)});var h=document.querySelector('div[id$="_signup_wall_wrapper"] div[class^="modal"][class*="_signup_"]'),k=document.querySelector('div[class^="modal"][class*="_signup_"]'),l=document.querySelector(".modal_signup_dialog > .dialog_wrapper"); a&&b&&c&&logb&&(e.disconnect(),a.style.display="none",b.addEventListener("click",f,!1),logb.addEventListener("click",m,!1));a&&h&&k&&l&&(a.style.display="none",k.style.zIndex="unset",l.style.zIndex=9999,h.addEventListener("click",f,!1))}});e.observe(document,{childList:!0,subtree:!0});setTimeout(function(){e.disconnect()},5E3)});
 quora.com#$#div[id$="_signup_wall_wrapper"]:empty { display: none!important; }
 quora.com#$#.signup_wall_prevent_scroll div[class] { filter: none!important; }
 quora.com#$#.signup_wall_prevent_scroll { overflow: auto!important; position: inherit!important; }
@@ -1511,12 +1511,18 @@ andoveradvertiser.co.uk,asianimage.co.uk,banburycake.co.uk,barryanddistrictnews.
 ! ##.newsletter
 peoplesworld.org,express.co.uk,enerjiportali.com,vodafone.ua,ciapc.com.br,dontpayfull.com,salutbonjour.ca,coffeecup.com,overkillshop.com,caffeborbone.it,addictivetips.com,anwalt.de,arukereso.hu,bilan.ch,boehms-dax-strategie.de,catwalkyourself.com,elle.de,freundin.de,hgtv.ca,instyle.de,investopedia.com,itstep.dp.ua,kimintelefonu.com,macrumors.com,onygo.com,ria.com,thewirecutter.com,vulture.com,wikitribune.com##.newsletter
 ! ##.newsletter-signup
-wisn.com,kcra.com,whathifi.com,futurestud.io,slate.com,businessinsider.de,fastcompany.com,heise.de,history.com,itprotoday.com,jewishjournal.com,king5.com,mic.com,motherjones.com,nydailynews.com,people.com,skyscanner.com.tw##.newsletter-signup
+tn.com.ar,wisn.com,kcra.com,whathifi.com,futurestud.io,slate.com,businessinsider.de,fastcompany.com,heise.de,history.com,itprotoday.com,jewishjournal.com,king5.com,mic.com,motherjones.com,nydailynews.com,people.com,skyscanner.com.tw##.newsletter-signup
 ! ##.cta-component-full-width
 bournemouthecho.co.uk,eveningtimes.co.uk,greenocktelegraph.co.uk,heraldscotland.com,swindonadvertiser.co.uk,wiltshiretimes.co.uk##.cta-component-full-width
 ! ##.subscribe
-infobus.eu,atorus.ru,castorama.ru,guzellikbulvari.com,marieclaire.ua,mvs.gov.ua,gadgets.ndtv.com,oneplus.com,tickets.ua,woman.ru,elle.ru,marieclaire.ru,europaplus.ru,krossovki.com,belretail.by,thecollegefix.com,femmie.ru,prostofinovo.ru,mauijim.com,netpeak.net,wday.ru,buhgalteria.ru,ellegirl.ru,gameslog.ru,gizmag.com,healthhacks.ru,klerk.ru,menshealth.com,rbc.ru,snce.ru,turizm.ru,wegame.com.ua##.subscribe
+kp.ru,infobus.eu,atorus.ru,castorama.ru,guzellikbulvari.com,marieclaire.ua,mvs.gov.ua,gadgets.ndtv.com,oneplus.com,tickets.ua,woman.ru,elle.ru,marieclaire.ru,europaplus.ru,krossovki.com,belretail.by,thecollegefix.com,femmie.ru,prostofinovo.ru,mauijim.com,netpeak.net,wday.ru,buhgalteria.ru,ellegirl.ru,gameslog.ru,gizmag.com,healthhacks.ru,klerk.ru,menshealth.com,rbc.ru,snce.ru,turizm.ru,wegame.com.ua##.subscribe
 !
+ad.nl##.fjs-newsletter
+herder.de##div[id$="upanNewsletter"]
+monstersandcritics.com##.newsletter-surround
+monstersandcritics.com##.inside-right-sidebar > #custom_html-4
+lifehacker.com##.js_newsletter-form-inline
+inquirer.com##.newsletter-card
 intermedia.ru###subscribeForm
 intermedia.ru##.personaldata_notice
 qmaths.in#?#.sidebar > div.widget:has(> div.widget-content > form input[name="email"])
@@ -2499,7 +2505,7 @@ klerk.ru##.inside-subscription
 gamedev.net##.ipsDialog_narrow[aria-label="Sign Up with GameDev.net!"]
 atlasobscura.com##.item-newsletter-form
 hulldailymail.co.uk##.iya-test-wrapper
-androidsage.com,apkmb.com,appbrowser.ru,gizchina.com,maxedtech.com,onhax.net,photoshoptutorials.ws,ultimate-catch.eu##.jetpack_subscription_widget
+linuxgizmos.com,androidsage.com,apkmb.com,appbrowser.ru,gizchina.com,maxedtech.com,onhax.net,photoshoptutorials.ws,ultimate-catch.eu##.jetpack_subscription_widget
 facenews.ua##.joinus
 tonkosti.ru##.journal-subscribe
 tsf.pt##.js-contentcollapse-root[data-type="box-newsletter-detail"]

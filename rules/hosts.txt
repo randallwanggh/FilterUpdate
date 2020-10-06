@@ -2587,6 +2587,7 @@
 127.0.0.1 2spyware.us.intellitxt.com
 127.0.0.1 2step-garage.co.uk
 127.0.0.1 2v6624.myrebo.com
+127.0.0.1 2vo2b2.cn
 127.0.0.1 2wink.com.au
 127.0.0.1 2ydian.com
 127.0.0.1 2zdwtosi.pchelpbuddy.fun
@@ -21611,6 +21612,7 @@
 127.0.0.1 d.mob.com
 127.0.0.1 d.mobilebanner.ru
 127.0.0.1 d.moras.jp
+127.0.0.1 d.mxjzsh.top
 127.0.0.1 d.nativendo.de
 127.0.0.1 d.nnightkil.com
 127.0.0.1 d.oix.com
@@ -61285,6 +61287,7 @@
 127.0.0.1 vegaschina.cn
 127.0.0.1 vegatestsklep.pl
 127.0.0.1 vegeella.pl
+127.0.0.1 vegoid.cn
 127.0.0.1 veidlqdwstqpgrmbs.eu
 127.0.0.1 veille-referencement.com
 127.0.0.1 veim.lrswl.com
@@ -69561,6 +69564,7 @@
 127.0.0.1 www.jf-aesthetic.pl
 127.0.0.1 www.jf365.boc.cn
 127.0.0.1 www.jfjw4cxr.com
+127.0.0.1 www.jfsdiwmnbsk002.top
 127.0.0.1 www.jgsoloqaqp.com
 127.0.0.1 www.jhomiorganiccotton.com
 127.0.0.1 www.jiawu8.com
@@ -72490,7 +72494,16 @@
 127.0.0.1 www.prizefestival.mobi
 127.0.0.1 www.prizelava.com
 127.0.0.1 www.prizes.co.uk
+127.0.0.1 www.prjslxhtx001.top
+127.0.0.1 www.prjslxhtx002.top
 127.0.0.1 www.prjslxhtx003.top
+127.0.0.1 www.prjslxhtx004.top
+127.0.0.1 www.prjslxhtx005.top
+127.0.0.1 www.prjslxhtx006.top
+127.0.0.1 www.prjslxhtx007.top
+127.0.0.1 www.prjslxhtx008.top
+127.0.0.1 www.prjslxhtx009.top
+127.0.0.1 www.prjslxhtx010.top
 127.0.0.1 www.pro-partners.nl
 127.0.0.1 www.pro.clanweb.cz
 127.0.0.1 www.pro.cn

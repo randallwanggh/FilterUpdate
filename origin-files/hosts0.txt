@@ -1,4 +1,4 @@
-#version=2020009202004
+#version=2020010052000
 #url=https://github.com/VeleSila/yhosts/blob/master/hosts
 #-----Test
 127.0.0.1 at.umeng.com
@@ -2808,6 +2808,7 @@
 127.0.0.1 2mg.jim86d.cn
 127.0.0.1 2mg898.jim86d.cn
 127.0.0.1 2v6624.myrebo.com
+127.0.0.1 2vo2b2.cn
 127.0.0.1 3.iscrv.com
 127.0.0.1 35baba.cn
 127.0.0.1 360vip.front99.com
@@ -3310,6 +3311,7 @@
 127.0.0.1 d.jjyx.com
 127.0.0.1 d.lionettrip.xyz
 127.0.0.1 d.lqrzc.com
+127.0.0.1 d.mxjzsh.top
 127.0.0.1 d.nnightkil.com
 127.0.0.1 d.rexuebi.com
 127.0.0.1 d.s11.cn
@@ -6427,6 +6429,7 @@
 127.0.0.1 vbje.linyankm.cn
 127.0.0.1 ve.tsdlp.com
 127.0.0.1 vebadu.com
+127.0.0.1 vegoid.cn
 127.0.0.1 vgbp.mzran.com.cn
 127.0.0.1 vgf.zuihuixuan.com
 127.0.0.1 vhec.jhjhyn.cn
@@ -6680,6 +6683,7 @@
 127.0.0.1 www.jagcn.com
 127.0.0.1 www.jav23.com
 127.0.0.1 www.jcdfdhx.top
+127.0.0.1 www.jfsdiwmnbsk002.top
 127.0.0.1 www.jihehuaban.com
 127.0.0.1 www.jisucn.com
 127.0.0.1 www.jmxlaser.com
@@ -6747,7 +6751,16 @@
 127.0.0.1 www.poijugh.top
 127.0.0.1 www.poke88.com
 127.0.0.1 www.predictivadvertising.com
+127.0.0.1 www.prjslxhtx001.top
+127.0.0.1 www.prjslxhtx002.top
 127.0.0.1 www.prjslxhtx003.top
+127.0.0.1 www.prjslxhtx004.top
+127.0.0.1 www.prjslxhtx005.top
+127.0.0.1 www.prjslxhtx006.top
+127.0.0.1 www.prjslxhtx007.top
+127.0.0.1 www.prjslxhtx008.top
+127.0.0.1 www.prjslxhtx009.top
+127.0.0.1 www.prjslxhtx010.top
 127.0.0.1 www.qiaopiguniang.com
 127.0.0.1 www.qinchugudao.com
 127.0.0.1 www.qiubang.org

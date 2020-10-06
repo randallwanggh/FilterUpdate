@@ -85,6 +85,10 @@ cdn.braun634.com^$third-party
 @@||zoover.adtrackers.net/shared/bannerpages/darttagsbanner.aspx
 @@||zoover.bannertrack.net/shared/bannerpages/darttagsbanner.aspx
 !
+@@||hala-tube.net^$generichide
+@@||significatocanzoni.it^$generichide
+@@||midiextreme.com^$generichide
+@@||kpopstan.com^$generichide
 @@||zuketcreation.com^$generichide
 @@||akwam.co^$generichide
 @@||ohmygirl.ml^$generichide
@@ -687,6 +691,7 @@ cdn.braun634.com^$third-party
 ! URL baits
 @@/\.com\/miads\/|\/ad\/iframe\/ad|\/adinjector_|\/adminibanner2\.|\/adsatt\.|\/footerads\.|\/framead\/ad|\/housead\/ad|\/socialads\.|_afs_ads\./$domain=kamikiyuki.com
 !
+@@||acapellas.eu^$generichide
 @@||soccerlive.casa^$generichide
 @@||gomaainfo.com^$generichide
 @@||indirlinks.xyz^$generichide
@@ -1122,6 +1127,8 @@ infranken.de,nachrichten.at,np-coburg.de,frankenpost.de,insuedthueringen.de,augs
 ! https://github.com/AdguardTeam/AdguardFilters/issues/47876
 topbusiness24.ru,mydomsam.ru,hubuhu.ru,moysadinfo.ru,mybusinessplus.ru,dukand.ru,mydizayn.ru,polzadom.ru,umnodachnik.ru,delnyesovety.ru,soverhenie.ru,mirinteresa.ru,uskorit.ru,dskyar.ru,biscand.ru,smartid24.ru,stroysaminfo.ru,topsovety.ru,sotsvetiya.ru,imdaily.ru,turizmnaok.ru,zdorovyobrazzhizni.ru,kinomann.ru,techinfolife.ru,dommoysad.ru,rteinfo.ru,psisovety.ru,kvilit.ru,speshit.ru,ollss.ru#@#.ad-placement
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/65081
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=malaysianwireless.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/65006
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=downloadrepack.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/64742
@@ -1565,8 +1572,8 @@ qiwihelp.net#@##adsense
 qiwihelp.net#@#.adsbygoogle
 ! https://github.com/AdguardTeam/AdguardFilters/issues/48211
 @@||dloady.com^$generichide
-! https://github.com/AdguardTeam/AdguardFilters/issues/46925
-@@||usgamer.net^$generichide
+! https://github.com/AdguardTeam/AdguardFilters/issues/64900
+||usgamer.net/static/scripts/musgamer-fsm.js
 ! https://github.com/AdguardTeam/AdguardFilters/issues/47361
 @@||static.criteo.net/images/pixel.gif$domain=diariodenavarra.es
 ! https://github.com/AdguardTeam/AdguardFilters/issues/47472
@@ -2370,6 +2377,13 @@ google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,google.ba,
 /\/[a-z0-9][a-z0-9]\/[a-z0-9][a-z0-9]\/[a-z0-9][a-z0-9]\/.*\.js/$domain=watch32.is,third-party
 ! https://github.com/AdguardTeam/AdguardFilters/issues/47069
 rennagiuseppe.it##.adsbygoogle
+
+! ai_front anti-adblock
+! https://github.com/AdguardTeam/AdguardFilters/issues/64978
+@@||wristreview.com^$generichide
+@@||contextual.media.net/dmedianet.js$domain=wristreview.com
+@@/ad-inserter/*/*.js$domain=wristreview.com
+@@/ad-inserter/images/ads.png$domain=wristreview.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/62914
 @@||freewebcart.com^$generichide
 @@||contextual.media.net/dmedianet.js$domain=freewebcart.com

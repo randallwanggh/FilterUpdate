@@ -5,6 +5,10 @@
 ||rover.ebay.$image,object,script,badfilter
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/64930
+@@||viu.com/ott/misc/tracking/tracking.js
+! https://github.com/AdguardTeam/AdguardFilters/issues/65036
+@@||ipcheck.tmgrup.com.tr/ipcheck/getcountry?json=$xmlhttprequest,domain=aspor.com.tr
 ! https://github.com/AdguardTeam/AdguardFilters/issues/65018
 ||google-analytics.com/analytics.js$script,redirect=google-analytics,domain=straitstimes.com
 ||googletagmanager.com/gtm.js$script,redirect=googletagmanager-gtm,domain=straitstimes.com
@@ -38,6 +42,9 @@ ciokorea.com,adpiamall.com,live.joins.com,naver.com,jbe.go.kr#%#//scriptlet('set
 !+ PLATFORM(ios, ext_android_cb)
 @@||wcs.naver.net/wcslog.js$domain=ciokorea.com|adpiamall.com|live.joins.com|naver.com|jbe.go.kr
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/64945
+@@||cdn.cxense.com/cx*.js$domain=tn.com.ar
+@@||api.cxense.com/public/widget/data?json$domain=tn.com.ar
 ! https://onlineshop.smt.docomo.ne.jp/itunes-gift/index.html
 ! broken iTunes card button
 @@||www.googletagmanager.com^$domain=onlineshop.smt.docomo.ne.jp
