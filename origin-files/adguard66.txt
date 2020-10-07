@@ -2398,6 +2398,8 @@ mob.hr##.side_banner
 !------------------------------ Czech and Slovakian ------------------
 !---------------------------------------------------------------------
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/65003
+reflex.cz#@%#//scriptlet('ubo-acis.js', 'atob')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/64704
 zive.cz#@%#//scriptlet('ubo-acis.js', 'String.fromCharCode')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/64522#issuecomment-700587040
@@ -4476,17 +4478,17 @@ sdarot.tv##div[class="row nomar"] > div.col-md-12 > a[target="_blank"] > img
 ||sheee.co.il/js/walla.js
 ||cdn.behindyou.cf/cdn/walla.js
 /walla.js$third-party,domain=walla.co.il
-walla.co.il$$script[wildcard="*srcdoc*XMLHttpRequest*"][min-length="20000"][max-length="90000"]
-walla.co.il#%#//scriptlet('abort-current-inline-script', 'Promise', '/"srcdoc"[\s\S]*?XMLHttpRequest/')
+walla.co.il$$script[wildcard="*srcdoc*Object.prototype.hasOwnProperty*"][min-length="20000"][max-length="90000"]
+walla.co.il#%#//scriptlet('abort-current-inline-script', 'Promise', '/"srcdoc"[\s\S]*?Object\.prototype\.hasOwnProperty/')
 walla.co.il#%#//scriptlet("json-prune", "data", "loaderVer")
 walla.co.il#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links { display: block !important; }
 ||cm.g.doubleclick.net/pixel?$image,redirect=1x1-transparent.gif,domain=walla.co.il
 ||stats.g.doubleclick.net/r/collect?$image,redirect=1x1-transparent.gif,domain=walla.co.il
-||stats.g.doubleclick.net/r/collect?$xmlhttprequest,redirect=nooptext,domain=walla.co.il
+||stats.g.doubleclick.net/*/collect?$xmlhttprequest,redirect=nooptext,domain=walla.co.il
 !#if (adguard_ext_safari || adguard_app_ios || adguard_ext_android_cb)
 @@||walla.co.il^$generichide
 @@||cm.g.doubleclick.net/pixel?$image,domain=walla.co.il
-@@||stats.g.doubleclick.net/r/collect?$image,xmlhttprequest,domain=walla.co.il
+@@||stats.g.doubleclick.net/*/collect?$image,xmlhttprequest,domain=walla.co.il
 !#endif
 !+ NOT_PLATFORM(ext_ublock)
 walla.co.il#@%#//scriptlet('ubo-aopw.js', 'upManager')
@@ -6452,10 +6454,8 @@ zoomit.ir#$#body > .hotMenu[style="top: auto;"] { top: 0!important; }
 zoomit.ir#$#body > nav.is-sticky[style="top: 130px;"] { top: 0!important; }
 zoomit.ir#%#document.cookie = "BnShowNum=4; path=/;";
 ! soft98.ir
-soft98.ir#$?#.a7d4x { remove: true; }
 soft98.ir#%#//scriptlet("set-constant", "Object.prototype.disableDownloadLink", "noopFunc")
 soft98.ir#$#[id^="sidebar"][id*="stick"] > section { opacity: 0!important; pointer-events: none!important; }
-soft98.ir#$#.a4d2x { display: none!important; }
 soft98.ir#$#.d-js2-none { display: none!important; }
 soft98.ir#$#.d-js2-block { display: block!important; }
 soft98.ir##img[src="https://cloudirs.cf/Afrak.az"]
@@ -6468,6 +6468,7 @@ soft98.ir###content-bottom__inner > aside#sidebar > section.bg-light
 !||*.cf^$domain=soft98.ir,image
 ||cloudirs.cf^$image,redirect=32x32-transparent.png,domain=soft98.ir
 ||*.ml^$domain=soft98.ir,image
+soft98.ir#$?#a[href][target="_blank"] > img[src]:not([src^="https://cdn.soft98.ir/"]):upward(2) { remove: true; }
 soft98.ir#$#img[src^="https://cloudirs.cf/"] { height: 10px!important; }
 soft98.ir##iframe[src*="//beta.kaprila.com/a/show.php?ref="]
 soft98.ir##a[href*="&utm_campaign"]
@@ -6882,8 +6883,11 @@ zakazany-humor.pl##.sidebar > .widget-wrap > aside#text-7
 ! https://github.com/AdguardTeam/AdguardFilters/issues/42358
 ||r.trojmiasto.pl/*/json.php?zoneid=
 trojmiasto.pl#%#AG_abortInlineScript(/banner_/, '$');
-! filman.cc - skip timer
+! filman.cc - skip timer, ads
 filman.cc#%#(function(){var c=window.setTimeout;window.setTimeout=function(f,g){return g===1e3&&/#kam-ban-player/.test(f.toString())&&(g*=0.01),c.apply(this,arguments)}.bind(window)})();
+filman.cc$$iframe[src="javascript:window.location.replace"]
+filman.cc#%#//scriptlet("abort-current-inline-script", "decodeURIComponent", "removeCookie")
+filman.cc#$?#iframe[src^="javascript:window.location.replace"] { remove: true; }
 ! https://github.com/AdguardTeam/AdguardFilters/issues/47917
 m.olx.pl#@#.adbox
 ! https://github.com/AdguardTeam/AdguardFilters/issues/42166
@@ -7508,6 +7512,7 @@ money.pl,wp.pl#%#//scriptlet("set-constant", "apstag", "undefined")
 www.wp.pl#?#div[class^="sc-"]:has(> img[src^="https://v.wpimg.pl/"][role="presentation"][class^="sc-"]:matches-css(position: absolute))
 wp.pl#?#[class^="_"]:has(>img[src*=".wp.pl"])
 ! turystyka.wp.pl,opinie.wp.pl,gry.wp.pl,moto.wp.pl,gwiazdy.wp.pl,tech.wp.pl,kobieta.wp.pl#?#div[class^="_"][class*=" _"]:has(>div[class]:first-child:empty+img[src*="://v.wpimg.pl/"][alt="WP"]:empty)
+turystyka.wp.pl#?#div:not([class]):not([id]) > div:not([class]):not([id]) > div[class*=" "] > div[class] > div:not([class]):not([id]):only-child > div:not([class]):not([id]):first-child > div[class]:only-child:upward(4)
 dom.wp.pl,facet.wp.pl,film.wp.pl,finanse.wp.pl,gry.wp.pl,gwiazdy.wp.pl,kobieta.wp.pl,ksiazki.wp.pl,kuchnia.wp.pl,moto.wp.pl,opinie.wp.pl,tech.wp.pl,teleshow.wp.pl,turystyka.wp.pl,wawalove.wp.pl,wiadomosci.wp.pl,wroclaw.wp.pl#?#div[class*=" "]:has(>div[class]:first-child:empty+img[src*="://v.wpimg.pl/"][alt]:empty)
 pilot.wp.pl#?#div[class*="sc-"]:has(> img[src="https://i.wpimg.pl/56x45/i.wp.pl/a/i/stg/pkf/bg.png"])
 pilot.wp.pl##.wp-player > .adpause > .plchldr

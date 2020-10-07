@@ -747,7 +747,6 @@ vice.com#@#.ad-placement
 @@||appsgames.ru/wp-content/plugins/angwp/assets/dev/js/advertising.js
 @@||appsgames.ru/wp-content/cache/min/1/wp-content/plugins/angwp/assets/dev/js/advertising-
 ||invitel.hu/lakossagi/assets/js/adblockerdetect.min.js
-123moviestoday.net,invitel.hu,1movies.is,online-umwandeln.de,sonuma.be,devexchanges.info,spielspiele.de,mspoweruser.com#@#.afs_ads
 ||vsthouse.ru/adregain-anti.js
 imgmaze.pw##.adbwarning
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs,important,domain=9xbuddy.com
@@ -1980,6 +1979,7 @@ filmix.tech,filmix.online,filmix.ink,filmix.today,filmix.cc,filmix.co#?##oframep
 filmix.tech,filmix.online,filmix.ink,filmix.today,filmix.cc,filmix.co##.social-counters
 !
 ! aternos.org
+aternos.org#%#//scriptlet("set-constant", "googletag.display", "falseFunc")
 aternos.org#%#AG_onLoad(function() { setTimeout(function() { AG_removeElementBySelector('.ad-label'); }, 300); });
 aternos.org##.ad.responsive-skyscraper
 @@||aternos.org^$generichide
@@ -1996,6 +1996,8 @@ aternos.org#@##adUnit
 @@||static.h-bid.com/snhb/snhbGlobalSettings.js$domain=aternos.org
 @@||static.h-bid.com/sncmp/sncmp.min.js$domain=aternos.org
 @@||google-analytics.com/analytics.js$domain=aternos.org
+||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices-gpt,domain=aternos.org
+||cdn.snigelweb.com/adconsent/adconsent_*starter.js$redirect=nooptext,domain=aternos.org
 !#if (adguard_app_windows || adguard_app_mac || adguard_app_android)
 ||c.amazon-adsystem.com/bao-csm/aps-comm/aps_csm.js$script,redirect=noopjs,important,domain=aternos.org
 ||snigel-d.openx.net/*/arj|$redirect=nooptext,important,domain=aternos.org
@@ -2280,6 +2282,7 @@ myfxbook.com#%#//scriptlet("set-constant", "adBlockerDetect", "1")
 !
 ! Common safari_cb_affinity(general)
 !#safari_cb_affinity(general)
+file-converter-online.com,konvertera-online.se,conversor-pdf.com,konwerter-online.pl,online-omzetten.nl,online-konverter.com,convertire-documenti.it,pdf-convertisseur.fr,convertir-pdf.com,prevod-souboru.cz,123moviestoday.net,invitel.hu,1movies.is,online-umwandeln.de,sonuma.be,devexchanges.info,spielspiele.de,mspoweruser.com#@#.afs_ads
 @@||tt1069.com/dfp.min.js
 @@||thgim.com/static/js/adsframe.min.js$domain=thehindu.com
 nu.nl#@#.AdSense
